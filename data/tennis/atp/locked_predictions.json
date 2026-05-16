@@ -1,0 +1,4314 @@
+{
+  "2026-05-04|Daniel Merida|Mackenzie McDonald": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Jacopo Vasami|Tomas Barrios Vera": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Pedro Martinez|Jesper de Jong": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Francisco Comesana|Billy Harris": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Cristian Garin|Moez Echargui": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Pablo Carreno Busta|Martin Damm": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Stefano Travaglia|Stan Wawrinka": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Luca Van Assche|Hugo Dellien": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Leandro Riedi|Vilius Gaubas": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Dusan Lajovic|Jan Choinski": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Patrick Kypson|Jack Pinnington Jones": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Juan Cruz Martin Manzano|Titouan Droguet": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Andrea Pellegrino|Hugo Gaston": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Nicolai Budkov Kjaer|Otto Virtanen": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Martin Landaluce|Christopher O'Connell": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Federico Bondioli|Emilio Nava": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Shintaro Mochizuki|Jacob Fearnley": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Dino Prizmic|Chris Rodesch": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Aleksandar Kovacevic|Lorenzo Carboni": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Benjamin Bonzi|Dalibor Svrcina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Pablo Llamas Ruiz|Henrique Rocha": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Adolfo Daniel Vallejo|Jaime Faria": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Elmer Moller|Nikoloz Basilashvili": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Rinky Hijikata|Pierluigi Basile": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Pablo Carreno Busta|Stan Wawrinka": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Cristian Garin|Jan Choinski": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Daniel Merida|Tomas Barrios Vera": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Francisco Comesana|Leandro Riedi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Patrick Kypson|Titouan Droguet": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Dalibor Svrcina|Nicolai Budkov Kjaer": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Hugo Dellien|Jesper de Jong": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Aleksandar Kovacevic|Jacob Fearnley": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Dino Prizmic|Federico Bondioli": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Jaime Faria|Pablo Llamas Ruiz": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Martin Landaluce|Andrea Pellegrino": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Rinky Hijikata|Nikoloz Basilashvili": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Fabian Marozsan|Vit Kopriva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Jenson Brooksby|Sebastian Baez": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Damir Dzumhur|Adrian Mannarino": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Zhang Zhizhen|Daniel Altmaier": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Marco Trungelliti|Zachary Svajda": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Camilo Ugo Carabelli|Alexandr Shevchenko": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Hubert Hurkacz|Yannick Hanfmann": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Alexandre Muller|Botic Van De Zandschulp": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Jan-Lennard Struff|Francisco Comesana": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Matteo Arnaldi|Jaume Munar": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Aleksandar Vukic|Patrick Kypson": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Jesper de Jong|Nuno Borges": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Pablo Carreno Busta|Alejandro Tabilo": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Dalibor Svrcina|Miomir Kecmanovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Zizou Bergs|Terence Atmane": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Nikoloz Basilashvili|Daniel Merida": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Alexei Popyrin|Matteo Berrettini": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Marton Fucsovics|Dino Prizmic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Jacob Fearnley|Giovanni Mpetshi Perricard": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Marcos Giron|Marin Cilic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Federico Cina|Alexander Blockx": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Roman Andres Burruchaga|Mattia Bellucci": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Roberto Bautista Agut|Francesco Maestrelli": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Ethan Quinn|Pablo Llamas Ruiz": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Cristian Garin|Juan Manuel Cerundolo": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Stefanos Tsitsipas|Tomas Machac": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Thiago Agustin Tirante|Gianluca Cadenasso": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Hamad Medjedovic|Valentin Royer": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Lorenzo Sonego|Ignacio Buse": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Sebastian Ofner|Alex Michelsen": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Andrea Pellegrino|Luca Nardi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Denis Shapovalov|Mariano Navone": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Nuno Borges|Rafael Jodar": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Alex de Minaur|Matteo Arnaldi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Karen Khachanov|Alexandr Shevchenko": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Jan-Lennard Struff|Jiri Lehecka": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Botic Van De Zandschulp|Aleksandar Kovacevic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Casper Ruud|Zachary Svajda": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Daniel Altmaier|Alexander Zverev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Alejandro Tabilo|Francisco Cerundolo": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Learner Tien|Damir Dzumhur": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Tallon Griekspoor|Alexander Blockx": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Dino Prizmic|Novak Djokovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Sebastian Baez|Alexander Bublik": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Tommy Paul|Aleksandar Vukic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Ugo Humbert|Vit Kopriva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Lorenzo Musetti|Giovanni Mpetshi Perricard": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Yannick Hanfmann|Luciano Darderi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Tomas Machac|Daniil Medvedev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Thiago Agustin Tirante|Cameron Norrie": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Corentin Moutet|Pablo Llamas Ruiz": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Andrey Rublev|Miomir Kecmanovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Marin Cilic|Martin Landaluce": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Felix Auger-Aliassime|Mariano Navone": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Cristian Garin|Alejandro Davidovich Fokina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Tomas Martin Etcheverry|Mattia Bellucci": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Brandon Nakashima|Roberto Bautista Agut": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Flavio Cobolli|Terence Atmane": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Nikoloz Basilashvili|Ben Shelton": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Frances Tiafoe|Ignacio Buse": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Jannik Sinner|Sebastian Ofner": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Hamad Medjedovic|Joao Fonseca": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Andrea Pellegrino|Arthur Fils": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Alexei Popyrin|Jakub Mensik": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Casper Ruud|Jiri Lehecka": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Alexander Blockx|Alexander Zverev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-10|Ugo Humbert|Dino Prizmic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-10|Lorenzo Musetti|Francisco Cerundolo": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Karen Khachanov|Botic Van De Zandschulp": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Learner Tien|Alexander Bublik": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Tommy Paul|Luciano Darderi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-10|Matteo Arnaldi|Rafael Jodar": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-11|Andrey Rublev|Alejandro Davidovich Fokina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-11|Mattia Bellucci|Martin Landaluce": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-11|Brandon Nakashima|Nikoloz Basilashvili": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-11|Frances Tiafoe|Andrea Pellegrino": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-11|Mariano Navone|Hamad Medjedovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-11|Jannik Sinner|Alexei Popyrin": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-11|Pablo Llamas Ruiz|Daniil Medvedev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-11|Flavio Cobolli|Thiago Agustin Tirante": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-12|Lorenzo Musetti|Casper Ruud": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-12|Karen Khachanov|Dino Prizmic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-12|Rafael Jodar|Learner Tien": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-12|Luciano Darderi|Alexander Zverev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-12|Jannik Sinner|Andrea Pellegrino": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-12|Andrey Rublev|Nikoloz Basilashvili": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-12|Hamad Medjedovic|Martin Landaluce": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-12|Thiago Agustin Tirante|Daniil Medvedev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-13|Casper Ruud|Karen Khachanov": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-13|Rafael Jodar|Luciano Darderi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-14|Jannik Sinner|Andrey Rublev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-14|Martin Landaluce|Daniil Medvedev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-15|Casper Ruud|Luciano Darderi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Jannik Sinner|Daniil Medvedev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Leolia Jeanjean|Diane Parry": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Ajla Tomljanovic|Marta Lombardini": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Anastasia Potapova|Irina-Camelia Begu": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Ashlyn Krueger|Nikola Bartunkova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Dominika Salkova|Sinja Kraus": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Aliaksandra Sasnovich|Julia Grabher": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Elena-Gabriela Ruse|Oceane Dodin": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Samira De Stefano|Daria Snigur": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Giorgia Pedone|Simona Waltert": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Alina Korneeva|Ella Seidel": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Lilli Tagger|Suzan Lamens": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Kimberly Birrell|Yuan Yue": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Alycia Parks|Dalma Galfi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Camila Osorio|Anhelina Kalinina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Emiliana Arango|Noemi Basiletti": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Victoria Jimenez Kasintseva|Lulu Sun": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Anna Blinkova|Mayar Sherif": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Renata Zarazua|Federica Urgesi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Anastasia Pavlyuchenkova|Veronika Erjavec": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Darja Semenistaja|Katie Volynets": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Beatrice Ricci|Tamara Korpatsch": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Hanne Vandewinkel|Jil Teichmann": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-04|Rebeka Masarova|Moyuka Uchijima": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-04|Taylor Townsend|Rebecca Sramkova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Dalma Galfi|Julia Grabher": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Ajla Tomljanovic|Leolia Jeanjean": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Anastasia Potapova|Nikola Bartunkova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Elena-Gabriela Ruse|Sinja Kraus": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Yuan Yue|Simona Waltert": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Barbora Krejcikova|Elsa Jacquemot": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Lilli Tagger|Alina Korneeva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Anna Bondar|Zheng Qinwen": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Petra Marcinko|Oleksandra Oliynykova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Noemi Basiletti|Daria Snigur": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Sofia Kenin|Bianca Andreescu": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Antonia Ruzic|Kamilla Rakhimova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Federica Urgesi|Veronika Erjavec": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Anastasia Zakharova|Dayana Yastremska": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|McCartney Kessler|Lucia Bronzetti": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Jil Teichmann|Rebeka Masarova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Mayar Sherif|Tamara Korpatsch": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Taylor Townsend|Victoria Jimenez Kasintseva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Anhelina Kalinina|Katie Volynets": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Zeynep Sonmez|Jennifer Ruggeri": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-05|Martina Trevisan|Talia Gibson": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-05|Ann Li|Zhang Shuai": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Alexandra Eala|Magdalena Frech": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Magda Linette|Tatjana Maria": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Lucrezia Stefanini|Jelena Ostapenko": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Panna Udvardy|Alina Korneeva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Leolia Jeanjean|Beatriz Haddad Maia": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Katerina Siniakova|Lois Boisson": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Lisa Pigato|Tyra Caterina Grant": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Viktorija Golubic|Federica Urgesi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Laura Siegemund|Sara Bejlek": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Taylor Townsend|Nuria Brancaccio": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Peyton Stearns|Janice Tjen": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Solana Sierra|Tamara Korpatsch": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Lilli Tagger|Maria Sakkari": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Yulia Putintseva|Tereza Valentova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Oksana Selekhmeteva|Rebeka Masarova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Dalma Galfi|Anastasia Potapova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Katie Boulter|Eva Lys": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-06|Karolina Pliskova|Jessica Bouzas Maneiro": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Elisabetta Cocciaretto|Sinja Kraus": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-06|Catherine McNally|Daria Kasatkina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Antonia Ruzic|Mirra Andreeva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Cristina Bucsa|Zheng Qinwen": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Panna Udvardy|Elise Mertens": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Noemi Basiletti|Ajla Tomljanovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Jasmine Paolini|Leolia Jeanjean": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Yuliia Starodubtseva|Simona Waltert": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Anastasia Zakharova|Linda Noskova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Tatjana Maria|Sorana Cirstea": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Clara Tauson|Oleksandra Oliynykova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Maya Joint|Viktorija Golubic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Katerina Siniakova|Anna Kalinskaya": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Coco Gauff|Tereza Valentova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Jelena Ostapenko|Elena-Gabriela Ruse": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Belinda Bencic|Bianca Andreescu": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Marie Bouzkova|Taylor Townsend": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-07|Solana Sierra|Anhelina Kalinina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|Aryna Sabalenka|Barbora Krejcikova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-07|McCartney Kessler|Iva Jovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Catherine McNally|Iga Swiatek": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Talia Gibson|Diana Shnaider": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Wang Xinyu|Alexandra Eala": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Liudmila Samsonova|Ann Li": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Anastasia Potapova|Karolina Muchova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Madison Keys|Peyton Stearns": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Naomi Osaka|Eva Lys": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Jessica Pegula|Zeynep Sonmez": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Ekaterina Alexandrova|Laura Siegemund": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Simona Waltert|Hailey Baptiste": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Tyra Caterina Grant|Nikola Bartunkova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Elina Svitolina|Noemi Basiletti": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Karolina Pliskova|Jaqueline Cristian": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Rebeka Masarova|Leylah Fernandez": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-08|Emma Navarro|Elisabetta Cocciaretto": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Maria Sakkari|Elena Rybakina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Coco Gauff|Solana Sierra": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Oleksandra Oliynykova|Linda Noskova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Jasmine Paolini|Elise Mertens": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Zheng Qinwen|Jelena Ostapenko": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Aryna Sabalenka|Sorana Cirstea": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Viktorija Golubic|Mirra Andreeva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Taylor Townsend|Iva Jovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Belinda Bencic|Anna Kalinskaya": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-10|Madison Keys|Nikola Bartunkova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-10|Elina Svitolina|Hailey Baptiste": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Jessica Pegula|Rebeka Masarova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Liudmila Samsonova|Anastasia Potapova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-10|Naomi Osaka|Diana Shnaider": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Alexandra Eala|Elena Rybakina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-10|Elisabetta Cocciaretto|Iga Swiatek": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-10|Laura Siegemund|Karolina Pliskova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-11|Sorana Cirstea|Linda Noskova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-11|Coco Gauff|Iva Jovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-11|Anna Kalinskaya|Jelena Ostapenko": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-11|Elise Mertens|Mirra Andreeva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-11|Elina Svitolina|Nikola Bartunkova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-11|Jessica Pegula|Anastasia Potapova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-11|Naomi Osaka|Iga Swiatek": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-11|Karolina Pliskova|Elena Rybakina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-12|Sorana Cirstea|Jelena Ostapenko": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-12|Coco Gauff|Mirra Andreeva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-13|Jessica Pegula|Iga Swiatek": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-13|Elina Svitolina|Elena Rybakina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-14|Sorana Cirstea|Coco Gauff": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-14|Iga Swiatek|Elina Svitolina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-16|Coco Gauff|Elina Svitolina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-16|Sebastian Ofner|Kilian Feldbausch": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-16|Edas Butvilas|Alexandre Muller": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|James Duckworth|Miguel Damas": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Daniel Elahi Galan|Nishesh Basavareddy": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-16|Raul Brancaccio|Tyler Zink": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Henry Bernet|Francisco Comesana": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-16|Zachary Svajda|Max Hans Rehberg": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-16|Marc-Andrea Huesler|Clement Tabur": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-16|Henri Squire|Cristian Garin": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Max Schoenhaus|Luca Van Assche": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Rinky Hijikata|Taro Daniel": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Ignacio Buse|Niels McDonald": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Marcos Giron|Sumit Nagal": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Aleksandar Kovacevic|Zhang Zhizhen": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Marko Topo|Hugo Gaston": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-16|Mika Petkovic|Arthur Gea": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Andrea Pellegrino|Martin Damm": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Zachary Svajda|Rei Sakamoto": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Arthur Gea|Vilius Gaubas": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Cristian Garin|Ugo Blanchet": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Otto Virtanen|Titouan Droguet": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Elmer Moller|Hugo Gaston": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Wu Yibing|Manas Dhamne": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Aleksandar Vukic|Pablo Llamas Ruiz": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Lloyd Harris|Mackenzie McDonald": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Marco Trungelliti|Borna Gojo": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Quentin Halys|Jaime Faria": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Billy Harris|Daniel Merida": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Luca Van Assche|Diego Dedura": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Darwin Blanch|Benjamin Bonzi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Adolfo Daniel Vallejo|Pedro Martinez": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Aleksandar Kovacevic|Moez Echargui": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Henrique Rocha|Jan Choinski": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Rinky Hijikata|Chris Rodesch": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Dusan Lajovic|Matteo Arnaldi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Dino Prizmic|Christopher O'Connell": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Stefano Travaglia|Nikoloz Basilashvili": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Nicolai Budkov Kjaer|Francesco Maestrelli": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Patrick Kypson|Moise Kouame": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Zsombor Piros|Tomas Barrios Vera": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Cristian Garin|Martin Damm": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Rei Sakamoto|Vilius Gaubas": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Pablo Llamas Ruiz|Elmer Moller": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Marco Trungelliti|Daniel Merida": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Wu Yibing|Titouan Droguet": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Jaime Faria|Lloyd Harris": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Diego Dedura|Benjamin Bonzi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Chris Rodesch|Dusan Lajovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Patrick Kypson|Nikoloz Basilashvili": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Adolfo Daniel Vallejo|Henrique Rocha": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Moez Echargui|Nicolai Budkov Kjaer": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Dino Prizmic|Zsombor Piros": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Zhang Zhizhen|Vit Kopriva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Jenson Brooksby|Emilio Nava": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Zizou Bergs|Marin Cilic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Ignacio Buse|Adrian Mannarino": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Damir Dzumhur|Mattia Bellucci": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Dino Prizmic|Matteo Berrettini": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Alexandre Muller|Jan-Lennard Struff": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Lorenzo Sonego|Dusan Lajovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Nikoloz Basilashvili|Sebastian Ofner": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Roberto Bautista Agut|Thiago Agustin Tirante": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Elmer Moller|Federico Cina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Jaime Faria|Hubert Hurkacz": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Benjamin Bonzi|Titouan Droguet": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Tomas Machac|Francisco Comesana": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Rafael Jodar|Jesper de Jong": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Alejandro Tabilo|Valentin Royer": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Terence Atmane|Miomir Kecmanovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Yannick Hanfmann|Marcos Giron": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Pablo Carreno Busta|Marton Fucsovics": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Cristian Garin|Alexander Blockx": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Fabian Marozsan|Ethan Quinn": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Jaume Munar|Alexandr Shevchenko": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Nuno Borges|Mariano Navone": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Alexei Popyrin|Martin Damm": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Adolfo Daniel Vallejo|Grigor Dimitrov": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Patrick Kypson|Stefanos Tsitsipas": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Vilius Gaubas|Sebastian Baez": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Daniel Altmaier|Juan Manuel Cerundolo": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Camilo Ugo Carabelli|Gael Monfils": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Marco Trungelliti|Daniel Merida": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Martin Landaluce|Adam Walton": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Nicolai Budkov Kjaer|Reilly Opelka": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Jan-Lennard Struff|Alex Michelsen": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Hubert Hurkacz|Lorenzo Musetti": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Emilio Nava|Valentin Vacherot": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Tallon Griekspoor|Damir Dzumhur": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Dusan Lajovic|Arthur Rinderknech": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Elmer Moller|Gabriel Diallo": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Ben Shelton|Dino Prizmic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Jiri Lehecka|Alejandro Tabilo": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Arthur Fils|Ignacio Buse": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Jannik Sinner|Benjamin Bonzi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Sebastian Ofner|Tomas Martin Etcheverry": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Andrey Rublev|Vit Kopriva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Cameron Norrie|Tomas Machac": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Joao Fonseca|Marin Cilic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Rafael Jodar|Alex de Minaur": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Thiago Agustin Tirante|Tommy Paul": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Alejandro Davidovich Fokina|Pablo Carreno Busta": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Francisco Cerundolo|Yannick Hanfmann": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Karen Khachanov|Adam Walton": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Martin Damm|Jakub Mensik": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Juan Manuel Cerundolo|Luciano Darderi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Jaume Munar|Casper Ruud": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Brandon Nakashima|Alexander Blockx": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Ugo Humbert|Terence Atmane": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Vilius Gaubas|Felix Auger-Aliassime": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Mariano Navone|Alexander Zverev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Camilo Ugo Carabelli|Flavio Cobolli": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Learner Tien|Adolfo Daniel Vallejo": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Daniil Medvedev|Fabian Marozsan": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Daniel Merida|Corentin Moutet": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Nicolai Budkov Kjaer|Denis Shapovalov": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Alexander Bublik|Stefanos Tsitsipas": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Jiri Lehecka|Alex Michelsen": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-26|Tallon Griekspoor|Lorenzo Musetti": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Dino Prizmic|Tomas Martin Etcheverry": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Jannik Sinner|Elmer Moller": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-26|Arthur Fils|Emilio Nava": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-26|Cameron Norrie|Thiago Agustin Tirante": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-26|Vit Kopriva|Arthur Rinderknech": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-26|Joao Fonseca|Rafael Jodar": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-27|Alejandro Davidovich Fokina|Casper Ruud": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-27|Stefanos Tsitsipas|Daniel Merida": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-27|Francisco Cerundolo|Luciano Darderi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-27|Daniil Medvedev|Nicolai Budkov Kjaer": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-27|Alexander Blockx|Felix Auger-Aliassime": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-27|Terence Atmane|Alexander Zverev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-27|Adolfo Daniel Vallejo|Flavio Cobolli": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-27|Karen Khachanov|Jakub Mensik": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-28|Jannik Sinner|Cameron Norrie": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-28|Tomas Martin Etcheverry|Arthur Fils": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-28|Jiri Lehecka|Lorenzo Musetti": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-28|Stefanos Tsitsipas|Casper Ruud": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-28|Vit Kopriva|Rafael Jodar": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-28|Francisco Cerundolo|Alexander Blockx": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-28|Daniil Medvedev|Flavio Cobolli": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-28|Jakub Mensik|Alexander Zverev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-29|Jannik Sinner|Rafael Jodar": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-29|Arthur Fils|Jiri Lehecka": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-30|Casper Ruud|Alexander Blockx": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-30|Flavio Cobolli|Alexander Zverev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-01|Jannik Sinner|Arthur Fils": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-01|Alexander Blockx|Alexander Zverev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-03|Jannik Sinner|Alexander Zverev": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Ruth Roura Llaverias|Dominika Salkova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Nikola Bartunkova|Katarzyna Kawa": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Alina Charaeva|Aliaksandra Sasnovich": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Simona Waltert|Despina Papamichail": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Anna Blinkova|Nuria Brancaccio": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Elvina Kalieva|Suzan Lamens": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Donna Vekic|Leolia Jeanjean": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Rebeka Masarova|Rebecca Sramkova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Tyra Caterina Grant|Veronika Erjavec": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Katie Volynets|Oceane Dodin": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Sara Sorribes Tormo|Tamara Korpatsch": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Panna Udvardy|Julieta Pareja": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Lola Radivojevic|Darja Vidmanova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Viktoriya Tomova|Anastasia Pavlyuchenkova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Yuliia Starodubtseva|Lucrezia Stefanini": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Dalma Galfi|Leyre Romero Gormaz": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Nauhany Vitoria Leme Da Silva|Daria Snigur": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Diane Parry|Sloane Stephens": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Hanne Vandewinkel|Linda Fruhvirtova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Marina Bassols Ribera|Anhelina Kalinina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Alycia Parks|Elina Avanesyan": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Anastasia Potapova|Teodora Kostovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-20|Martina Trevisan|Sinja Kraus": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-20|Ksenia Efremova|Lulu Sun": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Tatjana Maria|Laura Samson": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Petra Marcinko|Victoria Jimenez Kasintseva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Leolia Jeanjean|Rebeka Masarova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Simona Waltert|Dominika Salkova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Nikola Bartunkova|Alina Charaeva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Anna Blinkova|Elvina Kalieva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Laura Siegemund|Irina-Camelia Begu": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Beatriz Haddad Maia|Jessica Bouzas Maneiro": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Panna Udvardy|Tyra Caterina Grant": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Katie Volynets|Tamara Korpatsch": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Paula Badosa|Julia Grabher": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Anna Bondar|Viktorija Golubic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Yuliia Starodubtseva|Anastasia Pavlyuchenkova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Hanne Vandewinkel|Daria Snigur": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Robin Montgomery|Magda Linette": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Kaitlin Quevedo|Venus Williams": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Dalma Galfi|Darja Vidmanova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Sloane Stephens|Anhelina Kalinina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Anastasia Zakharova|Camila Osorio": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Anastasia Potapova|Sinja Kraus": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-21|Alycia Parks|Ksenia Efremova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-21|Peyton Stearns|Lois Boisson": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Panna Udvardy|Kimberly Birrell": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Zeynep Sonmez|Carlota Martinez Cirez": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Elena-Gabriela Ruse|Antonia Ruzic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Zhang Shuai|Eva Lys": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Daria Snigur|Daria Kasatkina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Dalma Galfi|Ajla Tomljanovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Moyuka Uchijima|Yuliia Starodubtseva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Alycia Parks|Elisabetta Cocciaretto": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Anastasia Pavlyuchenkova|Alexandra Eala": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Anhelina Kalinina|Kamilla Rakhimova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Talia Gibson|Emiliana Arango": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Yulia Putintseva|Tereza Valentova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Janice Tjen|Alina Charaeva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Dayana Yastremska|Solana Sierra": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Oleksandra Oliynykova|Simona Waltert": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Karolina Pliskova|Sinja Kraus": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Oksana Selekhmeteva|Leolia Jeanjean": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Ashlyn Krueger|Sofia Kenin": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Taylor Townsend|Katie Boulter": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Elvina Kalieva|Katerina Siniakova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-22|Catherine McNally|Katie Volynets": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-22|Elsa Jacquemot|Tyra Caterina Grant": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Belinda Bencic|Petra Marcinko": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Yuliia Starodubtseva|Jaqueline Cristian": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Anna Bondar|Elina Svitolina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Wang Xinyu|Laura Samson": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Jessica Bouzas Maneiro|Diana Shnaider": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Iga Swiatek|Daria Snigur": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Marie Bouzkova|Anhelina Kalinina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Dalma Galfi|Anna Kalinskaya": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Laura Siegemund|Jasmine Paolini": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Aryna Sabalenka|Peyton Stearns": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Alycia Parks|Ann Li": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Camila Osorio|Naomi Osaka": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Magda Linette|Iva Jovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-23|Leylah Fernandez|Julia Grabher": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Mirra Andreeva|Panna Udvardy": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-23|Hailey Baptiste|Kaitlin Quevedo": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Magdalena Frech|Solana Sierra": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Anastasia Potapova|Zhang Shuai": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Karolina Pliskova|Maria Sakkari": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Zheng Qinwen|Sofia Kenin": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Zeynep Sonmez|Cristina Bucsa": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Janice Tjen|Liudmila Samsonova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Elise Mertens|Alexandra Eala": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Elena-Gabriela Ruse|Elena Rybakina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Simona Waltert|Jelena Ostapenko": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Sorana Cirstea|Tyra Caterina Grant": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Linda Noskova|Emiliana Arango": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Yulia Putintseva|Marta Kostyuk": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Anna Blinkova|Katerina Siniakova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Leolia Jeanjean|Coco Gauff": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-24|Catherine McNally|Victoria Mboko": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-24|Jessica Pegula|Katie Boulter": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Belinda Bencic|Diana Shnaider": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Laura Samson|Anna Bondar": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Leylah Fernandez|Iva Jovic": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Mirra Andreeva|Dalma Galfi": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Iga Swiatek|Ann Li": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Hailey Baptiste|Jasmine Paolini": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Aryna Sabalenka|Jaqueline Cristian": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Anhelina Kalinina|Naomi Osaka": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Solana Sierra|Zeynep Sonmez": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-26|Sorana Cirstea|Coco Gauff": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Katerina Siniakova|Catherine McNally": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Linda Noskova|Liudmila Samsonova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-26|Elise Mertens|Karolina Pliskova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Jessica Pegula|Marta Kostyuk": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Zheng Qinwen|Elena Rybakina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Anastasia Potapova|Jelena Ostapenko": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-27|Ann Li|Leylah Fernandez": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-27|Belinda Bencic|Hailey Baptiste": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-27|Aryna Sabalenka|Naomi Osaka": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-27|Solana Sierra|Karolina Pliskova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-27|Mirra Andreeva|Anna Bondar": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-27|Linda Noskova|Coco Gauff": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-27|Marta Kostyuk|Catherine McNally": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-27|Anastasia Potapova|Elena Rybakina": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-28|Leylah Fernandez|Mirra Andreeva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-28|Aryna Sabalenka|Hailey Baptiste": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-29|Karolina Pliskova|Anastasia Potapova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-29|Marta Kostyuk|Linda Noskova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-30|Hailey Baptiste|Mirra Andreeva": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-30|Marta Kostyuk|Anastasia Potapova": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-02|Mirra Andreeva|Marta Kostyuk": {
+    "prediction": "P1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  }
+}

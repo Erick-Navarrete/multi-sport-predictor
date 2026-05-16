@@ -1,0 +1,170 @@
+{
+  "2026-05-16|Heidenheim|Mainz": {
+    "prediction": "Home Win",
+    "confidence": 43.6,
+    "a_win_prob": 43.6,
+    "draw_prob": 23.2,
+    "b_win_prob": 33.2,
+    "is_correct": false
+  },
+  "2026-05-16|Union Berlin|Augsburg": {
+    "prediction": "Home Win",
+    "confidence": 50.7,
+    "a_win_prob": 50.7,
+    "draw_prob": 20.2,
+    "b_win_prob": 29.1,
+    "is_correct": true
+  },
+  "2026-05-16|Leverkusen|Hamburg": {
+    "prediction": "Home Win",
+    "confidence": 41.6,
+    "a_win_prob": 41.6,
+    "draw_prob": 24.0,
+    "b_win_prob": 34.4,
+    "is_correct": false
+  },
+  "2026-05-16|Bayern|Cologne": {
+    "prediction": "Home Win",
+    "confidence": 55.4,
+    "a_win_prob": 55.4,
+    "draw_prob": 18.3,
+    "b_win_prob": 26.3,
+    "is_correct": true
+  },
+  "2026-05-16|Gladbach|Hoffenheim": {
+    "prediction": "Home Win",
+    "confidence": 48.0,
+    "a_win_prob": 48.0,
+    "draw_prob": 21.3,
+    "b_win_prob": 30.7,
+    "is_correct": true
+  },
+  "2026-05-16|Frankfurt|Stuttgart": {
+    "prediction": "Home Win",
+    "confidence": 41.7,
+    "a_win_prob": 41.7,
+    "draw_prob": 24.0,
+    "b_win_prob": 34.3,
+    "is_correct": false
+  },
+  "2026-05-16|Freiburg|RB Leipzig": {
+    "prediction": "Home Win",
+    "confidence": 45.7,
+    "a_win_prob": 45.7,
+    "draw_prob": 22.3,
+    "b_win_prob": 32.0,
+    "is_correct": true
+  },
+  "2026-05-16|St. Pauli|Wolfsburg": {
+    "prediction": "Home Win",
+    "confidence": 38.6,
+    "a_win_prob": 38.6,
+    "draw_prob": 25.3,
+    "b_win_prob": 36.1,
+    "is_correct": false
+  },
+  "2026-05-16|Bremen|Dortmund": {
+    "prediction": "Home Win",
+    "confidence": 39.2,
+    "a_win_prob": 39.2,
+    "draw_prob": 25.0,
+    "b_win_prob": 35.8,
+    "is_correct": false
+  },
+  "2026-05-10|Hamburg|Freiburg": {
+    "prediction": "Home Win",
+    "confidence": 48.9,
+    "a_win_prob": 48.9,
+    "draw_prob": 21.0,
+    "b_win_prob": 30.1,
+    "is_correct": true
+  },
+  "2026-05-10|Cologne|Heidenheim": {
+    "prediction": "Home Win",
+    "confidence": 41.6,
+    "a_win_prob": 41.6,
+    "draw_prob": 24.0,
+    "b_win_prob": 34.4,
+    "is_correct": false
+  },
+  "2026-05-10|Mainz|Union Berlin": {
+    "prediction": "Home Win",
+    "confidence": 44.2,
+    "a_win_prob": 44.2,
+    "draw_prob": 22.9,
+    "b_win_prob": 32.9,
+    "is_correct": false
+  },
+  "2026-05-09|Augsburg|Gladbach": {
+    "prediction": "Home Win",
+    "confidence": 44.4,
+    "a_win_prob": 44.4,
+    "draw_prob": 22.8,
+    "b_win_prob": 32.8,
+    "is_correct": true
+  },
+  "2026-05-09|RB Leipzig|St. Pauli": {
+    "prediction": "Home Win",
+    "confidence": 53.4,
+    "a_win_prob": 53.4,
+    "draw_prob": 19.1,
+    "b_win_prob": 27.5,
+    "is_correct": true
+  },
+  "2026-05-09|Hoffenheim|Bremen": {
+    "prediction": "Home Win",
+    "confidence": 50.8,
+    "a_win_prob": 50.8,
+    "draw_prob": 20.2,
+    "b_win_prob": 29.0,
+    "is_correct": true
+  },
+  "2026-05-09|Stuttgart|Leverkusen": {
+    "prediction": "Home Win",
+    "confidence": 50.8,
+    "a_win_prob": 50.8,
+    "draw_prob": 20.2,
+    "b_win_prob": 29.0,
+    "is_correct": true
+  },
+  "2026-05-09|Wolfsburg|Bayern": {
+    "prediction": "Home Win",
+    "confidence": 42.0,
+    "a_win_prob": 42.0,
+    "draw_prob": 23.8,
+    "b_win_prob": 34.2,
+    "is_correct": false
+  },
+  "2026-05-08|Dortmund|Frankfurt": {
+    "prediction": "Home Win",
+    "confidence": 50.8,
+    "a_win_prob": 50.8,
+    "draw_prob": 20.2,
+    "b_win_prob": 29.0,
+    "is_correct": true
+  },
+  "2026-05-03|St. Pauli|Mainz": {
+    "prediction": "Away Win",
+    "confidence": 37.4,
+    "a_win_prob": 36.8,
+    "draw_prob": 25.8,
+    "b_win_prob": 37.4,
+    "is_correct": true
+  },
+  "2026-05-03|Gladbach|Dortmund": {
+    "prediction": "Home Win",
+    "confidence": 45.6,
+    "a_win_prob": 45.6,
+    "draw_prob": 22.3,
+    "b_win_prob": 32.1,
+    "is_correct": true
+  },
+  "2026-05-03|Freiburg|Wolfsburg": {
+    "prediction": "Home Win",
+    "confidence": 45.3,
+    "a_win_prob": 45.3,
+    "draw_prob": 22.5,
+    "b_win_prob": 32.2,
+    "is_correct": false
+  }
+}

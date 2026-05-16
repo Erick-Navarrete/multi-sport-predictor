@@ -1,0 +1,1298 @@
+{
+  "2026-05-16|Tigers|Blue Jays": {
+    "prediction": "Home Win",
+    "confidence": 51.2,
+    "a_win_prob": 51.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.8,
+    "is_correct": false
+  },
+  "2026-05-15|Pirates|Phillies": {
+    "prediction": "Away Win",
+    "confidence": 51.3,
+    "a_win_prob": 48.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.3,
+    "is_correct": true
+  },
+  "2026-05-15|Tigers|Blue Jays": {
+    "prediction": "Home Win",
+    "confidence": 51.2,
+    "a_win_prob": 51.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.8,
+    "is_correct": true
+  },
+  "2026-05-15|Nationals|Orioles": {
+    "prediction": "Home Win",
+    "confidence": 59.0,
+    "a_win_prob": 59.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 41.0,
+    "is_correct": true
+  },
+  "2026-05-15|Guardians|Reds": {
+    "prediction": "Home Win",
+    "confidence": 57.4,
+    "a_win_prob": 57.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 42.6,
+    "is_correct": false
+  },
+  "2026-05-15|Rays|Marlins": {
+    "prediction": "Home Win",
+    "confidence": 64.7,
+    "a_win_prob": 64.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 35.3,
+    "is_correct": true
+  },
+  "2026-05-15|Twins|Brewers": {
+    "prediction": "Home Win",
+    "confidence": 50.6,
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "is_correct": false
+  },
+  "2026-05-15|Braves|Red Sox": {
+    "prediction": "Home Win",
+    "confidence": 57.7,
+    "a_win_prob": 57.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 42.3,
+    "is_correct": true
+  },
+  "2026-05-15|Mets|Yankees": {
+    "prediction": "Home Win",
+    "confidence": 56.2,
+    "a_win_prob": 56.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 43.8,
+    "is_correct": false
+  },
+  "2026-05-15|White Sox|Cubs": {
+    "prediction": "Away Win",
+    "confidence": 51.0,
+    "a_win_prob": 49.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.0,
+    "is_correct": true
+  },
+  "2026-05-16|Astros|Rangers": {
+    "prediction": "Home Win",
+    "confidence": 52.9,
+    "a_win_prob": 52.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.1,
+    "is_correct": true
+  },
+  "2026-05-16|Cardinals|Royals": {
+    "prediction": "Home Win",
+    "confidence": 56.4,
+    "a_win_prob": 56.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 43.6,
+    "is_correct": true
+  },
+  "2026-05-16|Rockies|Diamondbacks": {
+    "prediction": "Away Win",
+    "confidence": 50.3,
+    "a_win_prob": 49.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.3,
+    "is_correct": true
+  },
+  "2026-05-16|Angels|Dodgers": {
+    "prediction": "Away Win",
+    "confidence": 53.3,
+    "a_win_prob": 46.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 53.3,
+    "is_correct": true
+  },
+  "2026-05-16|Mariners|Padres": {
+    "prediction": "Home Win",
+    "confidence": 51.6,
+    "a_win_prob": 51.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.4,
+    "is_correct": false
+  },
+  "2026-05-16|Athletics|Giants": {
+    "prediction": "Home Win",
+    "confidence": 56.3,
+    "a_win_prob": 56.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 43.7,
+    "is_correct": true
+  },
+  "2026-05-14|Pirates|Rockies": {
+    "prediction": "Home Win",
+    "confidence": 59.4,
+    "a_win_prob": 59.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.6,
+    "is_correct": true
+  },
+  "2026-05-14|Reds|Nationals": {
+    "prediction": "Away Win",
+    "confidence": 54.7,
+    "a_win_prob": 45.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.7,
+    "is_correct": false
+  },
+  "2026-05-14|Mets|Tigers": {
+    "prediction": "Home Win",
+    "confidence": 63.1,
+    "a_win_prob": 63.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 36.9,
+    "is_correct": true
+  },
+  "2026-05-14|Twins|Marlins": {
+    "prediction": "Home Win",
+    "confidence": 59.1,
+    "a_win_prob": 59.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.9,
+    "is_correct": true
+  },
+  "2026-05-14|Brewers|Padres": {
+    "prediction": "Home Win",
+    "confidence": 55.2,
+    "a_win_prob": 55.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.8,
+    "is_correct": true
+  },
+  "2026-05-14|Astros|Mariners": {
+    "prediction": "Home Win",
+    "confidence": 50.7,
+    "a_win_prob": 50.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.3,
+    "is_correct": true
+  },
+  "2026-05-14|Athletics|Cardinals": {
+    "prediction": "Home Win",
+    "confidence": 53.2,
+    "a_win_prob": 53.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.8,
+    "is_correct": true
+  },
+  "2026-05-14|Red Sox|Phillies": {
+    "prediction": "Away Win",
+    "confidence": 53.4,
+    "a_win_prob": 46.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 53.4,
+    "is_correct": true
+  },
+  "2026-05-14|Braves|Cubs": {
+    "prediction": "Home Win",
+    "confidence": 52.2,
+    "a_win_prob": 52.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.8,
+    "is_correct": false
+  },
+  "2026-05-14|White Sox|Royals": {
+    "prediction": "Home Win",
+    "confidence": 55.0,
+    "a_win_prob": 55.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 45.0,
+    "is_correct": true
+  },
+  "2026-05-15|Dodgers|Giants": {
+    "prediction": "Home Win",
+    "confidence": 56.9,
+    "a_win_prob": 56.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 43.1,
+    "is_correct": true
+  },
+  "2026-05-13|Orioles|Yankees": {
+    "prediction": "Home Win",
+    "confidence": 50.7,
+    "a_win_prob": 50.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.3,
+    "is_correct": true
+  },
+  "2026-05-13|Guardians|Angels": {
+    "prediction": "Home Win",
+    "confidence": 57.6,
+    "a_win_prob": 57.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 42.4,
+    "is_correct": true
+  },
+  "2026-05-13|Pirates|Rockies": {
+    "prediction": "Home Win",
+    "confidence": 59.4,
+    "a_win_prob": 59.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.6,
+    "is_correct": false
+  },
+  "2026-05-13|Reds|Nationals": {
+    "prediction": "Away Win",
+    "confidence": 54.7,
+    "a_win_prob": 45.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.7,
+    "is_correct": true
+  },
+  "2026-05-13|Red Sox|Phillies": {
+    "prediction": "Away Win",
+    "confidence": 53.4,
+    "a_win_prob": 46.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 53.4,
+    "is_correct": false
+  },
+  "2026-05-13|Blue Jays|Rays": {
+    "prediction": "Away Win",
+    "confidence": 57.8,
+    "a_win_prob": 42.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 57.8,
+    "is_correct": false
+  },
+  "2026-05-13|Mets|Tigers": {
+    "prediction": "Home Win",
+    "confidence": 63.1,
+    "a_win_prob": 63.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 36.9,
+    "is_correct": true
+  },
+  "2026-05-13|Braves|Cubs": {
+    "prediction": "Home Win",
+    "confidence": 52.2,
+    "a_win_prob": 52.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.8,
+    "is_correct": true
+  },
+  "2026-05-13|White Sox|Royals": {
+    "prediction": "Home Win",
+    "confidence": 55.0,
+    "a_win_prob": 55.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 45.0,
+    "is_correct": true
+  },
+  "2026-05-13|Twins|Marlins": {
+    "prediction": "Home Win",
+    "confidence": 59.1,
+    "a_win_prob": 59.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.9,
+    "is_correct": false
+  },
+  "2026-05-13|Brewers|Padres": {
+    "prediction": "Home Win",
+    "confidence": 55.2,
+    "a_win_prob": 55.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.8,
+    "is_correct": false
+  },
+  "2026-05-14|Rangers|Diamondbacks": {
+    "prediction": "Home Win",
+    "confidence": 52.9,
+    "a_win_prob": 52.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.1,
+    "is_correct": true
+  },
+  "2026-05-14|Dodgers|Giants": {
+    "prediction": "Home Win",
+    "confidence": 56.9,
+    "a_win_prob": 56.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 43.1,
+    "is_correct": true
+  },
+  "2026-05-12|Guardians|Angels": {
+    "prediction": "Home Win",
+    "confidence": 57.6,
+    "a_win_prob": 57.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 42.4,
+    "is_correct": true
+  },
+  "2026-05-12|Orioles|Yankees": {
+    "prediction": "Home Win",
+    "confidence": 50.7,
+    "a_win_prob": 50.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.3,
+    "is_correct": false
+  },
+  "2026-05-12|Pirates|Rockies": {
+    "prediction": "Home Win",
+    "confidence": 59.4,
+    "a_win_prob": 59.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.6,
+    "is_correct": true
+  },
+  "2026-05-12|Reds|Nationals": {
+    "prediction": "Away Win",
+    "confidence": 54.7,
+    "a_win_prob": 45.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.7,
+    "is_correct": true
+  },
+  "2026-05-12|Red Sox|Phillies": {
+    "prediction": "Away Win",
+    "confidence": 53.4,
+    "a_win_prob": 46.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 53.4,
+    "is_correct": true
+  },
+  "2026-05-12|Blue Jays|Rays": {
+    "prediction": "Away Win",
+    "confidence": 57.8,
+    "a_win_prob": 42.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 57.8,
+    "is_correct": true
+  },
+  "2026-05-12|Mets|Tigers": {
+    "prediction": "Home Win",
+    "confidence": 63.1,
+    "a_win_prob": 63.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 36.9,
+    "is_correct": true
+  },
+  "2026-05-12|Braves|Cubs": {
+    "prediction": "Home Win",
+    "confidence": 52.2,
+    "a_win_prob": 52.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.8,
+    "is_correct": true
+  },
+  "2026-05-12|White Sox|Royals": {
+    "prediction": "Home Win",
+    "confidence": 55.0,
+    "a_win_prob": 55.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 45.0,
+    "is_correct": true
+  },
+  "2026-05-12|Twins|Marlins": {
+    "prediction": "Home Win",
+    "confidence": 59.1,
+    "a_win_prob": 59.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.9,
+    "is_correct": true
+  },
+  "2026-05-12|Brewers|Padres": {
+    "prediction": "Home Win",
+    "confidence": 55.2,
+    "a_win_prob": 55.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.8,
+    "is_correct": true
+  },
+  "2026-05-13|Rangers|Diamondbacks": {
+    "prediction": "Home Win",
+    "confidence": 52.9,
+    "a_win_prob": 52.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.1,
+    "is_correct": true
+  },
+  "2026-05-13|Astros|Mariners": {
+    "prediction": "Home Win",
+    "confidence": 50.7,
+    "a_win_prob": 50.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.3,
+    "is_correct": false
+  },
+  "2026-05-13|Athletics|Cardinals": {
+    "prediction": "Home Win",
+    "confidence": 53.2,
+    "a_win_prob": 53.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.8,
+    "is_correct": false
+  },
+  "2026-05-13|Dodgers|Giants": {
+    "prediction": "Home Win",
+    "confidence": 56.9,
+    "a_win_prob": 56.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 43.1,
+    "is_correct": false
+  },
+  "2026-05-11|Guardians|Angels": {
+    "prediction": "Home Win",
+    "confidence": 57.6,
+    "a_win_prob": 57.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 42.4,
+    "is_correct": true
+  },
+  "2026-05-11|Orioles|Yankees": {
+    "prediction": "Home Win",
+    "confidence": 50.7,
+    "a_win_prob": 50.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.3,
+    "is_correct": true
+  },
+  "2026-05-11|Blue Jays|Rays": {
+    "prediction": "Away Win",
+    "confidence": 57.8,
+    "a_win_prob": 42.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 57.8,
+    "is_correct": true
+  },
+  "2026-05-12|Rangers|Diamondbacks": {
+    "prediction": "Home Win",
+    "confidence": 52.9,
+    "a_win_prob": 52.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.1,
+    "is_correct": false
+  },
+  "2026-05-12|Astros|Mariners": {
+    "prediction": "Home Win",
+    "confidence": 50.7,
+    "a_win_prob": 50.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.3,
+    "is_correct": false
+  },
+  "2026-05-12|Dodgers|Giants": {
+    "prediction": "Home Win",
+    "confidence": 56.9,
+    "a_win_prob": 56.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 43.1,
+    "is_correct": false
+  },
+  "2026-05-10|Marlins|Nationals": {
+    "prediction": "Away Win",
+    "confidence": 54.6,
+    "a_win_prob": 45.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.6,
+    "is_correct": false
+  },
+  "2026-05-10|Orioles|Athletics": {
+    "prediction": "Home Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Phillies|Rockies": {
+    "prediction": "Home Win",
+    "confidence": 63.9,
+    "a_win_prob": 63.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 36.1,
+    "is_correct": true
+  },
+  "2026-05-10|Red Sox|Rays": {
+    "prediction": "Away Win",
+    "confidence": 54.6,
+    "a_win_prob": 45.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.6,
+    "is_correct": true
+  },
+  "2026-05-10|Blue Jays|Angels": {
+    "prediction": "Home Win",
+    "confidence": 54.0,
+    "a_win_prob": 54.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.0,
+    "is_correct": false
+  },
+  "2026-05-10|Reds|Astros": {
+    "prediction": "Home Win",
+    "confidence": 51.0,
+    "a_win_prob": 51.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.0,
+    "is_correct": true
+  },
+  "2026-05-10|Guardians|Twins": {
+    "prediction": "Home Win",
+    "confidence": 51.6,
+    "a_win_prob": 51.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.4,
+    "is_correct": false
+  },
+  "2026-05-10|Brewers|Yankees": {
+    "prediction": "Home Win",
+    "confidence": 56.9,
+    "a_win_prob": 56.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 43.1,
+    "is_correct": true
+  },
+  "2026-05-10|White Sox|Mariners": {
+    "prediction": "Home Win",
+    "confidence": 53.2,
+    "a_win_prob": 53.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.8,
+    "is_correct": true
+  },
+  "2026-05-10|Rangers|Cubs": {
+    "prediction": "Away Win",
+    "confidence": 52.9,
+    "a_win_prob": 47.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.9,
+    "is_correct": false
+  },
+  "2026-05-10|Giants|Pirates": {
+    "prediction": "Home Win",
+    "confidence": 50.7,
+    "a_win_prob": 50.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.3,
+    "is_correct": false
+  },
+  "2026-05-10|Dodgers|Braves": {
+    "prediction": "Home Win",
+    "confidence": 52.0,
+    "a_win_prob": 52.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.0,
+    "is_correct": false
+  },
+  "2026-05-10|Diamondbacks|Mets": {
+    "prediction": "Away Win",
+    "confidence": 51.0,
+    "a_win_prob": 49.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.0,
+    "is_correct": false
+  },
+  "2026-05-10|Padres|Cardinals": {
+    "prediction": "Home Win",
+    "confidence": 54.2,
+    "a_win_prob": 54.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 45.8,
+    "is_correct": true
+  },
+  "2026-05-10|Royals|Tigers": {
+    "prediction": "Home Win",
+    "confidence": 58.5,
+    "a_win_prob": 58.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 41.5,
+    "is_correct": false
+  },
+  "2026-05-09|Blue Jays|Angels": {
+    "prediction": "Home Win",
+    "confidence": 54.0,
+    "a_win_prob": 54.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.0,
+    "is_correct": true
+  },
+  "2026-05-09|Orioles|Athletics": {
+    "prediction": "Home Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Reds|Astros": {
+    "prediction": "Home Win",
+    "confidence": 51.0,
+    "a_win_prob": 51.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.0,
+    "is_correct": true
+  },
+  "2026-05-09|Red Sox|Rays": {
+    "prediction": "Away Win",
+    "confidence": 54.6,
+    "a_win_prob": 45.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.6,
+    "is_correct": false
+  },
+  "2026-05-09|Marlins|Nationals": {
+    "prediction": "Away Win",
+    "confidence": 54.6,
+    "a_win_prob": 45.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.6,
+    "is_correct": false
+  },
+  "2026-05-09|Phillies|Rockies": {
+    "prediction": "Home Win",
+    "confidence": 63.9,
+    "a_win_prob": 63.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 36.1,
+    "is_correct": true
+  },
+  "2026-05-09|Guardians|Twins": {
+    "prediction": "Home Win",
+    "confidence": 51.6,
+    "a_win_prob": 51.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.4,
+    "is_correct": false
+  },
+  "2026-05-09|Rangers|Cubs": {
+    "prediction": "Away Win",
+    "confidence": 52.9,
+    "a_win_prob": 47.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.9,
+    "is_correct": true
+  },
+  "2026-05-09|Royals|Tigers": {
+    "prediction": "Home Win",
+    "confidence": 58.5,
+    "a_win_prob": 58.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 41.5,
+    "is_correct": true
+  },
+  "2026-05-09|Brewers|Yankees": {
+    "prediction": "Home Win",
+    "confidence": 56.9,
+    "a_win_prob": 56.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 43.1,
+    "is_correct": true
+  },
+  "2026-05-09|White Sox|Mariners": {
+    "prediction": "Home Win",
+    "confidence": 53.2,
+    "a_win_prob": 53.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.8,
+    "is_correct": true
+  },
+  "2026-05-09|Diamondbacks|Mets": {
+    "prediction": "Away Win",
+    "confidence": 51.0,
+    "a_win_prob": 49.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.0,
+    "is_correct": true
+  },
+  "2026-05-09|Padres|Cardinals": {
+    "prediction": "Home Win",
+    "confidence": 54.2,
+    "a_win_prob": 54.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 45.8,
+    "is_correct": false
+  },
+  "2026-05-08|Reds|Astros": {
+    "prediction": "Home Win",
+    "confidence": 51.0,
+    "a_win_prob": 51.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.0,
+    "is_correct": false
+  },
+  "2026-05-08|Phillies|Rockies": {
+    "prediction": "Home Win",
+    "confidence": 63.9,
+    "a_win_prob": 63.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 36.1,
+    "is_correct": false
+  },
+  "2026-05-08|Orioles|Athletics": {
+    "prediction": "Home Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-08|Blue Jays|Angels": {
+    "prediction": "Home Win",
+    "confidence": 54.0,
+    "a_win_prob": 54.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.0,
+    "is_correct": true
+  },
+  "2026-05-08|Red Sox|Rays": {
+    "prediction": "Away Win",
+    "confidence": 54.6,
+    "a_win_prob": 45.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.6,
+    "is_correct": false
+  },
+  "2026-05-08|Marlins|Nationals": {
+    "prediction": "Away Win",
+    "confidence": 54.6,
+    "a_win_prob": 45.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.6,
+    "is_correct": true
+  },
+  "2026-05-08|Guardians|Twins": {
+    "prediction": "Home Win",
+    "confidence": 51.6,
+    "a_win_prob": 51.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.4,
+    "is_correct": true
+  },
+  "2026-05-08|Royals|Tigers": {
+    "prediction": "Home Win",
+    "confidence": 58.5,
+    "a_win_prob": 58.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 41.5,
+    "is_correct": true
+  },
+  "2026-05-08|Brewers|Yankees": {
+    "prediction": "Home Win",
+    "confidence": 56.9,
+    "a_win_prob": 56.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 43.1,
+    "is_correct": true
+  },
+  "2026-05-08|White Sox|Mariners": {
+    "prediction": "Home Win",
+    "confidence": 53.2,
+    "a_win_prob": 53.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.8,
+    "is_correct": false
+  },
+  "2026-05-09|Dodgers|Braves": {
+    "prediction": "Home Win",
+    "confidence": 52.0,
+    "a_win_prob": 52.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.0,
+    "is_correct": true
+  },
+  "2026-05-09|Giants|Pirates": {
+    "prediction": "Home Win",
+    "confidence": 50.7,
+    "a_win_prob": 50.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.3,
+    "is_correct": true
+  },
+  "2026-05-07|Yankees|Rangers": {
+    "prediction": "Home Win",
+    "confidence": 55.7,
+    "a_win_prob": 55.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.3,
+    "is_correct": true
+  },
+  "2026-05-07|Nationals|Twins": {
+    "prediction": "Home Win",
+    "confidence": 55.7,
+    "a_win_prob": 55.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.3,
+    "is_correct": true
+  },
+  "2026-05-07|Royals|Guardians": {
+    "prediction": "Home Win",
+    "confidence": 52.7,
+    "a_win_prob": 52.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.3,
+    "is_correct": false
+  },
+  "2026-05-07|Cubs|Reds": {
+    "prediction": "Home Win",
+    "confidence": 62.5,
+    "a_win_prob": 62.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 37.5,
+    "is_correct": true
+  },
+  "2026-05-07|Rockies|Mets": {
+    "prediction": "Away Win",
+    "confidence": 54.7,
+    "a_win_prob": 45.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.7,
+    "is_correct": true
+  },
+  "2026-05-07|Diamondbacks|Pirates": {
+    "prediction": "Home Win",
+    "confidence": 51.2,
+    "a_win_prob": 51.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.8,
+    "is_correct": false
+  },
+  "2026-05-07|Phillies|Athletics": {
+    "prediction": "Home Win",
+    "confidence": 58.0,
+    "a_win_prob": 58.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 42.0,
+    "is_correct": false
+  },
+  "2026-05-07|Marlins|Orioles": {
+    "prediction": "Home Win",
+    "confidence": 51.0,
+    "a_win_prob": 51.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.0,
+    "is_correct": true
+  },
+  "2026-05-07|Red Sox|Rays": {
+    "prediction": "Away Win",
+    "confidence": 54.6,
+    "a_win_prob": 45.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.6,
+    "is_correct": true
+  },
+  "2026-05-08|Padres|Cardinals": {
+    "prediction": "Home Win",
+    "confidence": 54.2,
+    "a_win_prob": 54.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 45.8,
+    "is_correct": false
+  },
+  "2026-05-06|Rays|Blue Jays": {
+    "prediction": "Home Win",
+    "confidence": 64.4,
+    "a_win_prob": 64.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 35.6,
+    "is_correct": true
+  },
+  "2026-05-06|Cardinals|Brewers": {
+    "prediction": "Home Win",
+    "confidence": 51.0,
+    "a_win_prob": 51.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.0,
+    "is_correct": false
+  },
+  "2026-05-06|Astros|Dodgers": {
+    "prediction": "Away Win",
+    "confidence": 50.7,
+    "a_win_prob": 49.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.7,
+    "is_correct": false
+  },
+  "2026-05-06|Giants|Padres": {
+    "prediction": "Away Win",
+    "confidence": 50.4,
+    "a_win_prob": 49.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.4,
+    "is_correct": true
+  },
+  "2026-05-06|Angels|White Sox": {
+    "prediction": "Away Win",
+    "confidence": 51.6,
+    "a_win_prob": 48.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.6,
+    "is_correct": false
+  },
+  "2026-05-06|Mariners|Braves": {
+    "prediction": "Home Win",
+    "confidence": 50.6,
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "is_correct": false
+  },
+  "2026-05-06|Phillies|Athletics": {
+    "prediction": "Home Win",
+    "confidence": 58.0,
+    "a_win_prob": 58.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 42.0,
+    "is_correct": true
+  },
+  "2026-05-06|Marlins|Orioles": {
+    "prediction": "Home Win",
+    "confidence": 51.0,
+    "a_win_prob": 51.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.0,
+    "is_correct": false
+  },
+  "2026-05-06|Tigers|Red Sox": {
+    "prediction": "Away Win",
+    "confidence": 52.2,
+    "a_win_prob": 47.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.2,
+    "is_correct": true
+  },
+  "2026-05-06|Nationals|Twins": {
+    "prediction": "Home Win",
+    "confidence": 55.7,
+    "a_win_prob": 55.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.3,
+    "is_correct": true
+  },
+  "2026-05-06|Yankees|Rangers": {
+    "prediction": "Home Win",
+    "confidence": 55.7,
+    "a_win_prob": 55.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.3,
+    "is_correct": false
+  },
+  "2026-05-06|Cubs|Reds": {
+    "prediction": "Home Win",
+    "confidence": 62.5,
+    "a_win_prob": 62.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 37.5,
+    "is_correct": true
+  },
+  "2026-05-06|Royals|Guardians": {
+    "prediction": "Home Win",
+    "confidence": 52.7,
+    "a_win_prob": 52.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.3,
+    "is_correct": false
+  },
+  "2026-05-05|Phillies|Athletics": {
+    "prediction": "Home Win",
+    "confidence": 58.0,
+    "a_win_prob": 58.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 42.0,
+    "is_correct": true
+  },
+  "2026-05-05|Marlins|Orioles": {
+    "prediction": "Home Win",
+    "confidence": 51.0,
+    "a_win_prob": 51.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.0,
+    "is_correct": false
+  },
+  "2026-05-05|Tigers|Red Sox": {
+    "prediction": "Away Win",
+    "confidence": 52.2,
+    "a_win_prob": 47.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.2,
+    "is_correct": true
+  },
+  "2026-05-05|Rays|Blue Jays": {
+    "prediction": "Home Win",
+    "confidence": 64.4,
+    "a_win_prob": 64.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 35.6,
+    "is_correct": true
+  },
+  "2026-05-05|Nationals|Twins": {
+    "prediction": "Home Win",
+    "confidence": 55.7,
+    "a_win_prob": 55.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.3,
+    "is_correct": false
+  },
+  "2026-05-05|Yankees|Rangers": {
+    "prediction": "Home Win",
+    "confidence": 55.7,
+    "a_win_prob": 55.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.3,
+    "is_correct": true
+  },
+  "2026-05-05|Cubs|Reds": {
+    "prediction": "Home Win",
+    "confidence": 62.5,
+    "a_win_prob": 62.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 37.5,
+    "is_correct": true
+  },
+  "2026-05-05|Royals|Guardians": {
+    "prediction": "Home Win",
+    "confidence": 52.7,
+    "a_win_prob": 52.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.3,
+    "is_correct": true
+  },
+  "2026-05-05|Cardinals|Brewers": {
+    "prediction": "Home Win",
+    "confidence": 51.0,
+    "a_win_prob": 51.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.0,
+    "is_correct": false
+  },
+  "2026-05-06|Rockies|Mets": {
+    "prediction": "Away Win",
+    "confidence": 54.7,
+    "a_win_prob": 45.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.7,
+    "is_correct": false
+  },
+  "2026-05-06|Diamondbacks|Pirates": {
+    "prediction": "Home Win",
+    "confidence": 51.2,
+    "a_win_prob": 51.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.8,
+    "is_correct": true
+  },
+  "2026-05-04|Rockies|Mets": {
+    "prediction": "Away Win",
+    "confidence": 54.7,
+    "a_win_prob": 45.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.7,
+    "is_correct": true
+  },
+  "2026-05-04|Tigers|Red Sox": {
+    "prediction": "Away Win",
+    "confidence": 52.2,
+    "a_win_prob": 47.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.2,
+    "is_correct": true
+  },
+  "2026-05-04|Marlins|Phillies": {
+    "prediction": "Away Win",
+    "confidence": 57.0,
+    "a_win_prob": 43.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 57.0,
+    "is_correct": true
+  },
+  "2026-05-04|Rays|Blue Jays": {
+    "prediction": "Home Win",
+    "confidence": 64.4,
+    "a_win_prob": 64.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 35.6,
+    "is_correct": true
+  },
+  "2026-05-04|Yankees|Orioles": {
+    "prediction": "Home Win",
+    "confidence": 56.2,
+    "a_win_prob": 56.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 43.8,
+    "is_correct": true
+  },
+  "2026-05-04|Cubs|Reds": {
+    "prediction": "Home Win",
+    "confidence": 62.5,
+    "a_win_prob": 62.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 37.5,
+    "is_correct": true
+  },
+  "2026-05-04|Royals|Guardians": {
+    "prediction": "Home Win",
+    "confidence": 52.7,
+    "a_win_prob": 52.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.3,
+    "is_correct": true
+  },
+  "2026-05-04|Cardinals|Brewers": {
+    "prediction": "Home Win",
+    "confidence": 51.0,
+    "a_win_prob": 51.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.0,
+    "is_correct": true
+  },
+  "2026-05-05|Astros|Dodgers": {
+    "prediction": "Away Win",
+    "confidence": 50.7,
+    "a_win_prob": 49.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.7,
+    "is_correct": true
+  },
+  "2026-05-05|Angels|White Sox": {
+    "prediction": "Away Win",
+    "confidence": 51.6,
+    "a_win_prob": 48.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.6,
+    "is_correct": true
+  },
+  "2026-05-05|Mariners|Braves": {
+    "prediction": "Home Win",
+    "confidence": 50.6,
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "is_correct": true
+  },
+  "2026-05-05|Giants|Padres": {
+    "prediction": "Away Win",
+    "confidence": 50.4,
+    "a_win_prob": 49.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.4,
+    "is_correct": false
+  },
+  "2026-05-03|Twins|Blue Jays": {
+    "prediction": "Home Win",
+    "confidence": 58.8,
+    "a_win_prob": 58.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 41.2,
+    "is_correct": true
+  },
+  "2026-05-03|Yankees|Orioles": {
+    "prediction": "Home Win",
+    "confidence": 56.2,
+    "a_win_prob": 56.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 43.8,
+    "is_correct": true
+  },
+  "2026-05-03|Pirates|Reds": {
+    "prediction": "Home Win",
+    "confidence": 59.2,
+    "a_win_prob": 59.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.8,
+    "is_correct": true
+  },
+  "2026-05-03|Red Sox|Astros": {
+    "prediction": "Home Win",
+    "confidence": 54.7,
+    "a_win_prob": 54.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 45.3,
+    "is_correct": false
+  },
+  "2026-05-03|Nationals|Brewers": {
+    "prediction": "Home Win",
+    "confidence": 52.9,
+    "a_win_prob": 52.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.1,
+    "is_correct": true
+  },
+  "2026-05-03|Marlins|Phillies": {
+    "prediction": "Away Win",
+    "confidence": 57.0,
+    "a_win_prob": 43.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 57.0,
+    "is_correct": true
+  },
+  "2026-05-03|Rays|Giants": {
+    "prediction": "Home Win",
+    "confidence": 61.9,
+    "a_win_prob": 61.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 38.1,
+    "is_correct": true
+  },
+  "2026-05-03|Cardinals|Dodgers": {
+    "prediction": "Home Win",
+    "confidence": 53.2,
+    "a_win_prob": 53.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.8,
+    "is_correct": false
+  },
+  "2026-05-03|Cubs|Diamondbacks": {
+    "prediction": "Home Win",
+    "confidence": 59.1,
+    "a_win_prob": 59.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.9,
+    "is_correct": true
+  },
+  "2026-05-03|Rockies|Braves": {
+    "prediction": "Away Win",
+    "confidence": 54.7,
+    "a_win_prob": 45.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.7,
+    "is_correct": true
+  },
+  "2026-05-03|Athletics|Guardians": {
+    "prediction": "Home Win",
+    "confidence": 55.4,
+    "a_win_prob": 55.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.6,
+    "is_correct": true
+  },
+  "2026-05-03|Angels|Mets": {
+    "prediction": "Away Win",
+    "confidence": 54.7,
+    "a_win_prob": 45.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.7,
+    "is_correct": true
+  },
+  "2026-05-03|Padres|White Sox": {
+    "prediction": "Home Win",
+    "confidence": 55.6,
+    "a_win_prob": 55.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.4,
+    "is_correct": true
+  },
+  "2026-05-03|Mariners|Royals": {
+    "prediction": "Home Win",
+    "confidence": 55.3,
+    "a_win_prob": 55.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.7,
+    "is_correct": false
+  },
+  "2026-05-03|Tigers|Rangers": {
+    "prediction": "Away Win",
+    "confidence": 51.4,
+    "a_win_prob": 48.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.4,
+    "is_correct": false
+  }
+}

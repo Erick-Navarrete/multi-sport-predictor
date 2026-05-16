@@ -1,0 +1,178 @@
+{
+  "2026-05-15|Cavaliers|Pistons": {
+    "prediction": "Home Win",
+    "confidence": 59.4,
+    "a_win_prob": 59.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.6,
+    "is_correct": false
+  },
+  "2026-05-16|Timberwolves|Spurs": {
+    "prediction": "Home Win",
+    "confidence": 55.4,
+    "a_win_prob": 55.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.6,
+    "is_correct": false
+  },
+  "2026-05-14|Pistons|Cavaliers": {
+    "prediction": "Home Win",
+    "confidence": 59.9,
+    "a_win_prob": 59.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.1,
+    "is_correct": false
+  },
+  "2026-05-13|Spurs|Timberwolves": {
+    "prediction": "Home Win",
+    "confidence": 63.7,
+    "a_win_prob": 63.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 36.3,
+    "is_correct": true
+  },
+  "2026-05-12|Cavaliers|Pistons": {
+    "prediction": "Home Win",
+    "confidence": 59.4,
+    "a_win_prob": 59.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.6,
+    "is_correct": true
+  },
+  "2026-05-12|Lakers|Thunder": {
+    "prediction": "Away Win",
+    "confidence": 50.6,
+    "a_win_prob": 49.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.6,
+    "is_correct": true
+  },
+  "2026-05-10|76ers|Knicks": {
+    "prediction": "Away Win",
+    "confidence": 50.6,
+    "a_win_prob": 49.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.6,
+    "is_correct": true
+  },
+  "2026-05-10|Timberwolves|Spurs": {
+    "prediction": "Home Win",
+    "confidence": 55.4,
+    "a_win_prob": 55.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.6,
+    "is_correct": true
+  },
+  "2026-05-09|Cavaliers|Pistons": {
+    "prediction": "Home Win",
+    "confidence": 59.4,
+    "a_win_prob": 59.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.6,
+    "is_correct": true
+  },
+  "2026-05-10|Lakers|Thunder": {
+    "prediction": "Away Win",
+    "confidence": 50.6,
+    "a_win_prob": 49.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.6,
+    "is_correct": true
+  },
+  "2026-05-08|76ers|Knicks": {
+    "prediction": "Away Win",
+    "confidence": 50.6,
+    "a_win_prob": 49.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.6,
+    "is_correct": true
+  },
+  "2026-05-09|Timberwolves|Spurs": {
+    "prediction": "Home Win",
+    "confidence": 55.4,
+    "a_win_prob": 55.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 44.6,
+    "is_correct": false
+  },
+  "2026-05-07|Pistons|Cavaliers": {
+    "prediction": "Home Win",
+    "confidence": 59.9,
+    "a_win_prob": 59.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.1,
+    "is_correct": true
+  },
+  "2026-05-08|Thunder|Lakers": {
+    "prediction": "Home Win",
+    "confidence": 69.1,
+    "a_win_prob": 69.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 30.9,
+    "is_correct": true
+  },
+  "2026-05-06|Knicks|76ers": {
+    "prediction": "Home Win",
+    "confidence": 69.1,
+    "a_win_prob": 69.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 30.9,
+    "is_correct": true
+  },
+  "2026-05-07|Spurs|Timberwolves": {
+    "prediction": "Home Win",
+    "confidence": 63.7,
+    "a_win_prob": 63.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 36.3,
+    "is_correct": true
+  },
+  "2026-05-05|Pistons|Cavaliers": {
+    "prediction": "Home Win",
+    "confidence": 59.9,
+    "a_win_prob": 59.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 40.1,
+    "is_correct": true
+  },
+  "2026-05-06|Thunder|Lakers": {
+    "prediction": "Home Win",
+    "confidence": 69.1,
+    "a_win_prob": 69.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 30.9,
+    "is_correct": true
+  },
+  "2026-05-05|Knicks|76ers": {
+    "prediction": "Home Win",
+    "confidence": 69.1,
+    "a_win_prob": 69.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 30.9,
+    "is_correct": true
+  },
+  "2026-05-05|Spurs|Timberwolves": {
+    "prediction": "Home Win",
+    "confidence": 63.7,
+    "a_win_prob": 63.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 36.3,
+    "is_correct": false
+  },
+  "2026-05-03|Pistons|Magic": {
+    "prediction": "Home Win",
+    "confidence": 62.0,
+    "a_win_prob": 62.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 38.0,
+    "is_correct": true
+  },
+  "2026-05-03|Cavaliers|Raptors": {
+    "prediction": "Home Win",
+    "confidence": 61.7,
+    "a_win_prob": 61.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 38.3,
+    "is_correct": true
+  }
+}

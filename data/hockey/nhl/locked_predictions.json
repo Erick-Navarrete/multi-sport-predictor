@@ -1,0 +1,162 @@
+{
+  "2026-05-14|Sabres|Canadiens": {
+    "prediction": "Home Win",
+    "confidence": 53.7,
+    "a_win_prob": 53.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.3,
+    "is_correct": false
+  },
+  "2026-05-15|Ducks|Golden Knights": {
+    "prediction": "Home Win",
+    "confidence": 53.3,
+    "a_win_prob": 53.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.7,
+    "is_correct": false
+  },
+  "2026-05-14|Avalanche|Wild": {
+    "prediction": "Home Win",
+    "confidence": 64.4,
+    "a_win_prob": 64.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 35.6,
+    "is_correct": true
+  },
+  "2026-05-12|Canadiens|Sabres": {
+    "prediction": "Home Win",
+    "confidence": 61.9,
+    "a_win_prob": 61.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 38.1,
+    "is_correct": false
+  },
+  "2026-05-13|Golden Knights|Ducks": {
+    "prediction": "Home Win",
+    "confidence": 62.3,
+    "a_win_prob": 62.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 37.7,
+    "is_correct": true
+  },
+  "2026-05-12|Wild|Avalanche": {
+    "prediction": "Home Win",
+    "confidence": 51.0,
+    "a_win_prob": 51.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.0,
+    "is_correct": false
+  },
+  "2026-05-10|Canadiens|Sabres": {
+    "prediction": "Home Win",
+    "confidence": 61.9,
+    "a_win_prob": 61.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 38.1,
+    "is_correct": true
+  },
+  "2026-05-11|Ducks|Golden Knights": {
+    "prediction": "Home Win",
+    "confidence": 53.3,
+    "a_win_prob": 53.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.7,
+    "is_correct": true
+  },
+  "2026-05-09|Flyers|Hurricanes": {
+    "prediction": "Away Win",
+    "confidence": 50.7,
+    "a_win_prob": 49.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.7,
+    "is_correct": true
+  },
+  "2026-05-10|Wild|Avalanche": {
+    "prediction": "Home Win",
+    "confidence": 51.0,
+    "a_win_prob": 51.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.0,
+    "is_correct": true
+  },
+  "2026-05-08|Sabres|Canadiens": {
+    "prediction": "Home Win",
+    "confidence": 53.7,
+    "a_win_prob": 53.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.3,
+    "is_correct": false
+  },
+  "2026-05-09|Ducks|Golden Knights": {
+    "prediction": "Home Win",
+    "confidence": 53.3,
+    "a_win_prob": 53.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.7,
+    "is_correct": false
+  },
+  "2026-05-08|Flyers|Hurricanes": {
+    "prediction": "Away Win",
+    "confidence": 50.7,
+    "a_win_prob": 49.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.7,
+    "is_correct": true
+  },
+  "2026-05-06|Sabres|Canadiens": {
+    "prediction": "Home Win",
+    "confidence": 53.7,
+    "a_win_prob": 53.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.3,
+    "is_correct": true
+  },
+  "2026-05-07|Golden Knights|Ducks": {
+    "prediction": "Home Win",
+    "confidence": 62.3,
+    "a_win_prob": 62.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 37.7,
+    "is_correct": false
+  },
+  "2026-05-06|Avalanche|Wild": {
+    "prediction": "Home Win",
+    "confidence": 64.4,
+    "a_win_prob": 64.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 35.6,
+    "is_correct": true
+  },
+  "2026-05-04|Hurricanes|Flyers": {
+    "prediction": "Home Win",
+    "confidence": 66.0,
+    "a_win_prob": 66.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 34.0,
+    "is_correct": true
+  },
+  "2026-05-05|Golden Knights|Ducks": {
+    "prediction": "Home Win",
+    "confidence": 62.3,
+    "a_win_prob": 62.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 37.7,
+    "is_correct": true
+  },
+  "2026-05-03|Lightning|Canadiens": {
+    "prediction": "Home Win",
+    "confidence": 53.4,
+    "a_win_prob": 53.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.6,
+    "is_correct": false
+  },
+  "2026-05-04|Avalanche|Wild": {
+    "prediction": "Home Win",
+    "confidence": 64.4,
+    "a_win_prob": 64.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 35.6,
+    "is_correct": true
+  }
+}

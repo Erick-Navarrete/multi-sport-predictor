@@ -1,0 +1,11 @@
+{
+  "total_historical": 20,
+  "accuracy": 60.0,
+  "correct": 12,
+  "current_predictions": 7,
+  "high_confidence": 0,
+  "medium_confidence": 7,
+  "low_confidence": 0,
+  "entities": 9,
+  "last_updated": "2026-05-16 20:51:33"
+}

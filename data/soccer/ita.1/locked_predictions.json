@@ -1,0 +1,130 @@
+{
+  "2026-05-11|Napoli|Bologna": {
+    "prediction": "Home Win",
+    "confidence": 41.4,
+    "a_win_prob": 41.4,
+    "draw_prob": 24.1,
+    "b_win_prob": 34.5,
+    "is_correct": false
+  },
+  "2026-05-10|Verona|Como": {
+    "prediction": "Home Win",
+    "confidence": 41.4,
+    "a_win_prob": 41.4,
+    "draw_prob": 24.1,
+    "b_win_prob": 34.5,
+    "is_correct": false
+  },
+  "2026-05-10|Cremonese|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 47.0,
+    "a_win_prob": 47.0,
+    "draw_prob": 21.7,
+    "b_win_prob": 31.3,
+    "is_correct": true
+  },
+  "2026-05-10|Fiorentina|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 43.6,
+    "a_win_prob": 43.6,
+    "draw_prob": 23.2,
+    "b_win_prob": 33.2,
+    "is_correct": false
+  },
+  "2026-05-10|Parma|AS Roma": {
+    "prediction": "Home Win",
+    "confidence": 37.5,
+    "a_win_prob": 37.5,
+    "draw_prob": 25.8,
+    "b_win_prob": 36.7,
+    "is_correct": false
+  },
+  "2026-05-10|Milan|Atalanta": {
+    "prediction": "Home Win",
+    "confidence": 38.9,
+    "a_win_prob": 38.9,
+    "draw_prob": 25.2,
+    "b_win_prob": 35.9,
+    "is_correct": false
+  },
+  "2026-05-09|Cagliari|Udinese": {
+    "prediction": "Home Win",
+    "confidence": 41.4,
+    "a_win_prob": 41.4,
+    "draw_prob": 24.1,
+    "b_win_prob": 34.5,
+    "is_correct": false
+  },
+  "2026-05-09|Lazio|Inter Milan": {
+    "prediction": "Home Win",
+    "confidence": 42.0,
+    "a_win_prob": 42.0,
+    "draw_prob": 23.8,
+    "b_win_prob": 34.2,
+    "is_correct": false
+  },
+  "2026-05-09|Lecce|Juventus": {
+    "prediction": "Home Win",
+    "confidence": 41.4,
+    "a_win_prob": 41.4,
+    "draw_prob": 24.1,
+    "b_win_prob": 34.5,
+    "is_correct": false
+  },
+  "2026-05-08|Torino|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 48.0,
+    "a_win_prob": 48.0,
+    "draw_prob": 21.3,
+    "b_win_prob": 30.7,
+    "is_correct": true
+  },
+  "2026-05-04|Cremonese|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 45.0,
+    "a_win_prob": 45.0,
+    "draw_prob": 22.6,
+    "b_win_prob": 32.4,
+    "is_correct": false
+  },
+  "2026-05-04|AS Roma|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 52.8,
+    "a_win_prob": 52.8,
+    "draw_prob": 19.3,
+    "b_win_prob": 27.9,
+    "is_correct": true
+  },
+  "2026-05-03|Bologna|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 50.2,
+    "a_win_prob": 50.2,
+    "draw_prob": 20.4,
+    "b_win_prob": 29.4,
+    "is_correct": false
+  },
+  "2026-05-03|Sassuolo|Milan": {
+    "prediction": "Home Win",
+    "confidence": 50.8,
+    "a_win_prob": 50.8,
+    "draw_prob": 20.2,
+    "b_win_prob": 29.0,
+    "is_correct": true
+  },
+  "2026-05-03|Juventus|Verona": {
+    "prediction": "Home Win",
+    "confidence": 50.2,
+    "a_win_prob": 50.2,
+    "draw_prob": 20.4,
+    "b_win_prob": 29.4,
+    "is_correct": false
+  },
+  "2026-05-03|Inter Milan|Parma": {
+    "prediction": "Home Win",
+    "confidence": 54.8,
+    "a_win_prob": 54.8,
+    "draw_prob": 18.5,
+    "b_win_prob": 26.7,
+    "is_correct": true
+  }
+}

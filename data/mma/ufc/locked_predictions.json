@@ -1,0 +1,106 @@
+{
+  "2026-05-09|Clayton Carpenter|Jose Ochoa": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Baisangur Susurkaev|Djorden Santos": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Pat Sabatini|William Gomis": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Roman Kopylov|Marco Tulio": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Jim Miller|Jared Gordon": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Grant Dawson|Mateusz Rębecki": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-09|Joel Álvarez|Yaroslav Amosov": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-09|Ateba Gautier|Ozzy Diaz": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|King Green|Jeremy Stephens": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Sean Brady|Joaquin Buckley": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Alexander Volkov|Waldo Cortes Acosta": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Joshua Van|Tatsuro Taira": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-10|Khamzat Chimaev|Sean Strickland": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  }
+}
