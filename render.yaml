@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: prediction-app
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn --chdir web app:app
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: FLASK_ENV
+        value: production
+    healthCheckPath: /
+  # Cron job for scheduled data refresh — uncomment and customize
+  # crons:
+  #   - name: update-predictions
+  #     schedule: "0 6,14,22 * * *"
+  #     command: python refresh_data.py
