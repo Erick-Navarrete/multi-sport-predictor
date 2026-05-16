@@ -3,49 +3,67 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Prediction App</title>
+<title>SportPredictor</title>
 <style>
 :root {
---bg: #f5f5f5; --surface: #fff; --surface2: #f9fafb; --border: #e5e7eb; --border2: #f3f4f6;
---text: #333; --text2: #374151; --text3: #6b7280; --text4: #9ca3af;
---primary: #4338ca; --primary-light: #f0f0ff; --primary-bg: #e0e7ff;
---tag-win-bg: #d1fae5; --tag-win-fg: #065f46;
---tag-draw-bg: #fef3c7; --tag-draw-fg: #92400e;
---tag-loss-bg: #fee2e2; --tag-loss-fg: #991b1b;
---chart-fill: rgba(67,56,202,0.08); --avg-line: #f59e0b;
+  --bg: #f5f5f5; --surface: #fff; --surface2: #f9fafb; --border: #e5e7eb; --border2: #f3f4f6;
+  --text: #333; --text2: #374151; --text3: #6b7280; --text4: #9ca3af;
+  --primary: #4338ca; --primary-light: #f0f0ff; --primary-bg: #e0e7ff;
+  --tag-win-bg: #d1fae5; --tag-win-fg: #065f46;
+  --tag-draw-bg: #fef3c7; --tag-draw-fg: #92400e;
+  --tag-loss-bg: #fee2e2; --tag-loss-fg: #991b1b;
+  --chart-fill: rgba(67,56,202,0.08); --avg-line: #f59e0b;
 }
 [data-theme="dark"] {
---bg: #111827; --surface: #1f2937; --surface2: #374151; --border: #374151; --border2: #4b5563;
---text: #e5e7eb; --text2: #d1d5db; --text3: #9ca3af; --text4: #6b7280;
---primary: #818cf8; --primary-light: #1e1b4b; --primary-bg: #312e81;
---tag-win-bg: #064e3b; --tag-win-fg: #6ee7b7;
---tag-draw-bg: #78350f; --tag-draw-fg: #fcd34d;
---tag-loss-bg: #7f1d1d; --tag-loss-fg: #fca5a5;
---chart-fill: rgba(129,140,248,0.12); --avg-line: #fbbf24;
+  --bg: #111827; --surface: #1f2937; --surface2: #374151; --border: #374151; --border2: #4b5563;
+  --text: #e5e7eb; --text2: #d1d5db; --text3: #9ca3af; --text4: #6b7280;
+  --primary: #818cf8; --primary-light: #1e1b4b; --primary-bg: #312e81;
+  --tag-win-bg: #064e3b; --tag-win-fg: #6ee7b7;
+  --tag-draw-bg: #78350f; --tag-draw-fg: #fcd34d;
+  --tag-loss-bg: #7f1d1d; --tag-loss-fg: #fca5a5;
+  --chart-fill: rgba(129,140,248,0.12); --avg-line: #fbbf24;
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; background: var(--bg); color: var(--text); font-size: 14px; transition: background 0.2s, color 0.2s; }
+
 /* Header */
-.header { display: flex; justify-content: space-between; align-items: center; padding: 12px 16px; background: var(--surface); border-bottom: 2px solid var(--primary); }
+.header { display: flex; justify-content: space-between; align-items: center; padding: 12px 16px; background: var(--surface); border-bottom: 2px solid var(--primary); flex-wrap: wrap; gap: 8px; }
+.header-left { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
 .header h1 { font-size: 20px; font-weight: 700; color: var(--primary); }
 .header h1 .badge { font-size: 10px; font-weight: 600; background: var(--primary-bg); color: var(--primary); padding: 2px 6px; border-radius: 4px; margin-left: 6px; vertical-align: middle; }
 .header-actions { display: flex; gap: 8px; align-items: center; }
+
+/* Sport Switcher */
+.sport-switcher { display: flex; gap: 4px; flex-wrap: wrap; }
+.sport-btn { padding: 4px 10px; border: 1px solid var(--border); border-radius: 6px; background: var(--surface2); color: var(--text3); font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.15s; white-space: nowrap; }
+.sport-btn:hover { border-color: var(--primary); color: var(--primary); }
+.sport-btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+
+/* League Switcher */
+.league-switcher { display: flex; gap: 4px; flex-wrap: wrap; padding: 8px 16px; background: var(--surface); border-bottom: 1px solid var(--border); }
+.league-btn { padding: 3px 8px; border: 1px solid var(--border); border-radius: 4px; background: var(--surface2); color: var(--text3); font-size: 11px; font-weight: 600; cursor: pointer; transition: all 0.15s; }
+.league-btn:hover { border-color: var(--primary); color: var(--primary); }
+.league-btn.active { background: var(--primary-bg); color: var(--primary); border-color: var(--primary); }
+
 .btn-icon { width: 32px; height: 32px; border: 1px solid var(--border); border-radius: 6px; background: var(--surface); color: var(--text); font-size: 16px; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.2s; }
 .btn-icon:hover { background: var(--primary-bg); border-color: var(--primary); color: var(--primary); }
 .btn-refresh { padding: 6px 14px; border: 1px solid var(--primary); border-radius: 6px; background: var(--surface); color: var(--primary); font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.2s; }
 .btn-refresh:hover { background: var(--primary); color: #fff; }
 .btn-refresh:disabled { opacity: 0.5; cursor: not-allowed; }
 .btn-refresh.loading { background: var(--primary-bg); color: var(--primary); }
+
 /* Tabs */
 .tabs { display: flex; background: var(--surface2); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 10; }
 .tabs button { flex: 1; padding: 10px 8px; border: none; background: none; font-size: 13px; font-weight: 600; color: var(--text3); cursor: pointer; border-bottom: 3px solid transparent; transition: all 0.15s; }
 .tabs button.active { color: var(--primary); border-bottom-color: var(--primary); background: var(--surface); }
 .tabs button:hover { color: var(--primary); }
+
 /* Summary cards */
 .summary { display: flex; gap: 8px; padding: 12px 16px; overflow-x: auto; background: var(--surface); border-bottom: 1px solid var(--border); }
 .summary .card { min-width: 100px; padding: 10px 14px; background: var(--primary-light); border-radius: 6px; text-align: center; }
 .summary .card .num { font-size: 22px; font-weight: 700; color: var(--primary); }
 .summary .card .lbl { font-size: 11px; color: var(--text3); margin-top: 2px; }
+
 /* Tables */
 .table-wrap { overflow-x: auto; padding: 0; }
 table { width: 100%; border-collapse: collapse; background: var(--surface); font-size: 13px; }
@@ -55,7 +73,8 @@ th.sort-asc::after { content: ' \25B2'; font-size: 9px; }
 th.sort-desc::after { content: ' \25BC'; font-size: 9px; }
 td { padding: 6px 10px; border-bottom: 1px solid var(--border2); white-space: nowrap; }
 tr:hover td { background: var(--surface2); }
-/* Badges - customize tag classes for your domain */
+
+/* Badges */
 .tag { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 11px; font-weight: 600; }
 .tag-win { background: var(--tag-win-bg); color: var(--tag-win-fg); }
 .tag-draw { background: var(--tag-draw-bg); color: var(--tag-draw-fg); }
@@ -65,14 +84,16 @@ tr:hover td { background: var(--surface2); }
 .tag-conf-high { background: var(--tag-win-bg); color: var(--tag-win-fg); }
 .tag-conf-med { background: var(--tag-draw-bg); color: var(--tag-draw-fg); }
 .tag-conf-low { background: var(--tag-loss-bg); color: var(--tag-loss-fg); }
+
 /* Section */
 .section { display: none; }
 .section.active { display: block; }
+
 /* Chart */
 .chart-wrap { padding: 12px; background: var(--surface); }
 .chart-wrap canvas { width: 100%; height: 200px; }
-/* Section headings */
 .section h2 { font-size: 16px; margin-bottom: 10px; color: var(--primary); }
+
 /* Modeling cards */
 .model-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 12px; }
 .model-card { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 14px; }
@@ -81,447 +102,532 @@ tr:hover td { background: var(--surface2); }
 .model-card .detail b { color: var(--text); }
 .feature-list { max-height: 240px; overflow-y: auto; }
 .feature-list span { display: inline-block; padding: 2px 8px; margin: 2px; border-radius: 4px; font-size: 11px; background: var(--primary-light); color: var(--primary); border: 1px solid var(--border); }
+
 /* Footer */
 footer { text-align: center; padding: 12px; font-size: 11px; color: var(--text4); border-top: 1px solid var(--border); background: var(--surface); margin-top: 16px; }
+
 /* Toast */
 .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); padding: 10px 20px; background: #1f2937; color: #fff; border-radius: 8px; font-size: 13px; z-index: 100; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
 [data-theme="dark"] .toast { background: #e5e7eb; color: #111; }
 .toast.show { opacity: 1; }
+
 /* Responsive */
-@media (max-width: 600px) {
-.header h1 { font-size: 17px; }
-.btn-refresh { font-size: 11px; padding: 5px 10px; }
-.tabs button { font-size: 12px; padding: 8px 4px; }
-.summary .card { min-width: 80px; padding: 8px 10px; }
-.summary .card .num { font-size: 18px; }
-table { font-size: 12px; }
-th, td { padding: 5px 6px; }
-.model-grid { grid-template-columns: 1fr; }
+@media (max-width: 768px) {
+  .header h1 { font-size: 17px; }
+  .btn-refresh { font-size: 11px; padding: 5px 10px; }
+  .tabs button { font-size: 12px; padding: 8px 4px; }
+  .summary .card { min-width: 80px; padding: 8px 10px; }
+  .summary .card .num { font-size: 18px; }
+  table { font-size: 12px; }
+  th, td { padding: 5px 6px; }
+  .model-grid { grid-template-columns: 1fr; }
+  .sport-btn { font-size: 11px; padding: 3px 8px; }
 }
 </style>
 </head>
 <body>
 
 <div class="header">
-<h1>PredictionApp <span class="badge">MODEL</span></h1>
-<div class="header-actions">
-<button class="btn-icon" id="theme-btn" onclick="toggleTheme()" title="Toggle dark mode">&#9790;</button>
-<button class="btn-refresh" id="refresh-btn" onclick="refreshData()">Update Now</button>
+  <div class="header-left">
+    <h1>SportPredictor <span class="badge" id="sport-badge">ELO</span></h1>
+    <div class="sport-switcher" id="sport-switcher"></div>
+  </div>
+  <div class="header-actions">
+    <button class="btn-icon" id="theme-btn" onclick="toggleTheme()" title="Toggle dark mode">&#9790;</button>
+    <button class="btn-refresh" id="refresh-btn" onclick="refreshData()">Update Now</button>
+  </div>
 </div>
-</div>
+
+<div class="league-switcher" id="league-switcher" style="display:none"></div>
 
 <div class="summary" id="summary"></div>
 
-<div class="tabs">
-<button class="active" onclick="showTab('predictions')">Predictions</button>
-<button onclick="showTab('historical')">Historical</button>
-<button onclick="showTab('standings')">Standings</button>
-<button onclick="showTab('modeling')">Modeling</button>
-<button onclick="showTab('analytics')">Analytics</button>
+<div class="tabs" id="main-tabs">
+  <button class="active" onclick="showTab('predictions')">Predictions</button>
+  <button onclick="showTab('historical')">Historical</button>
+  <button onclick="showTab('standings')">Standings</button>
+  <button onclick="showTab('modeling')">Modeling</button>
+  <button onclick="showTab('analytics')">Analytics</button>
 </div>
 
-<!-- PREDICTIONS TAB — customize column headers for your domain -->
+<!-- PREDICTIONS TAB -->
 <div class="section active" id="predictions">
-<div class="table-wrap"><table id="pred-table"><thead><tr>
-<th data-key="date">Date</th><th data-key="entity_a">Entity A</th><th data-key="entity_b">Entity B</th><th data-key="prediction">Prediction</th><th data-key="confidence" data-type="num">Confidence</th><th data-key="a_win_prob" data-type="num">A Win %</th><th data-key="draw_prob" data-type="num">Draw %</th><th data-key="b_win_prob" data-type="num">B Win %</th><th data-key="rating_diff" data-type="num">Rating Diff</th><th>Result</th><th>Score</th>
-</tr></thead><tbody></tbody></table></div>
+  <div class="table-wrap"><table id="pred-table"><thead><tr>
+    <th data-key="date">Date</th><th data-key="entity_a" id="col-entity-a">Home</th><th data-key="entity_b" id="col-entity-b">Away</th><th data-key="prediction">Prediction</th><th data-key="confidence" data-type="num">Confidence</th><th id="col-a-prob" data-key="a_win_prob" data-type="num">Home %</th><th id="col-draw-prob" data-key="draw_prob" data-type="num">Draw %</th><th id="col-b-prob" data-key="b_win_prob" data-type="num">Away %</th><th data-key="elo_diff" data-type="num">ELO Diff</th><th>Result</th><th>Score</th>
+  </tr></thead><tbody></tbody></table></div>
 </div>
 
 <!-- HISTORICAL TAB -->
 <div class="section" id="historical">
-<div class="table-wrap"><table id="hist-table"><thead><tr>
-<th data-key="date">Date</th><th data-key="entity_a">Entity A</th><th data-key="entity_b">Entity B</th><th data-key="prediction">Predicted</th><th data-key="actual">Actual</th><th>Score</th><th data-key="is_correct" data-type="num">Correct?</th><th data-key="confidence" data-type="num">Confidence</th>
-</tr></thead><tbody></tbody></table></div>
+  <div class="table-wrap"><table id="hist-table"><thead><tr>
+    <th data-key="date">Date</th><th data-key="entity_a" id="hcol-entity-a">Home</th><th data-key="entity_b" id="hcol-entity-b">Away</th><th data-key="prediction">Predicted</th><th data-key="actual">Actual</th><th>Score</th><th data-key="is_correct" data-type="num">Correct?</th><th data-key="confidence" data-type="num">Confidence</th>
+  </tr></thead><tbody></tbody></table></div>
 </div>
 
-<!-- STANDINGS TAB — customize columns for your domain -->
+<!-- STANDINGS TAB -->
 <div class="section" id="standings">
-<div class="table-wrap"><table id="stand-table"><thead><tr>
-<th data-key="position" data-type="num">Position</th><th data-key="name">Name</th><th data-key="matches" data-type="num">Played</th><th data-key="wins" data-type="num">Wins</th><th data-key="draws" data-type="num">Draws</th><th data-key="losses" data-type="num">Losses</th><th data-key="score_for" data-type="num">Score For</th><th data-key="score_against" data-type="num">Score Against</th><th data-key="score_diff" data-type="num">Score Diff</th><th data-key="points" data-type="num">Points</th><th data-key="rating" data-type="num">Rating</th><th data-key="form">Form</th>
-</tr></thead><tbody></tbody></table></div>
+  <div class="table-wrap"><table id="stand-table"><thead><tr>
+    <th data-key="position" data-type="num">#</th><th data-key="name">Name</th><th data-key="matches" data-type="num">Played</th><th data-key="wins" data-type="num">Wins</th><th data-key="draws" data-type="num">Draws</th><th data-key="losses" data-type="num">Losses</th><th data-key="score_for" data-type="num">For</th><th data-key="score_against" data-type="num">Against</th><th data-key="score_diff" data-type="num">Diff</th><th data-key="points" data-type="num">Points</th><th data-key="rating" data-type="num">ELO</th><th data-key="form">Form</th>
+  </tr></thead><tbody></tbody></table></div>
 </div>
 
 <!-- MODELING TAB -->
 <div class="section" id="modeling">
-<div class="model-grid">
-<div class="model-card">
-<h3>Model Architecture</h3>
-<div class="detail" id="model-ensemble">Loading...</div>
-</div>
-<div class="model-card">
-<h3>Rating System</h3>
-<div class="detail" id="model-elo">Loading...</div>
-</div>
-<div class="model-card">
-<h3>Prediction Blend</h3>
-<div class="detail" id="model-blend">Loading...</div>
-</div>
-<div class="model-card">
-<h3>Model Performance</h3>
-<div class="detail" id="model-performance">Loading...</div>
-</div>
-<div class="model-card" style="grid-column: 1 / -1;">
-<h3>Feature Set</h3>
-<div class="detail feature-list" id="model-features">Loading...</div>
-</div>
-</div>
+  <div class="model-grid">
+    <div class="model-card"><h3>Model Architecture</h3><div class="detail" id="model-ensemble">Loading...</div></div>
+    <div class="model-card"><h3>Rating System</h3><div class="detail" id="model-elo">Loading...</div></div>
+    <div class="model-card"><h3>Prediction Blend</h3><div class="detail" id="model-blend">Loading...</div></div>
+    <div class="model-card"><h3>Model Performance</h3><div class="detail" id="model-performance">Loading...</div></div>
+    <div class="model-card" style="grid-column: 1 / -1;"><h3>Feature Set</h3><div class="detail feature-list" id="model-features">Loading...</div></div>
+  </div>
 </div>
 
 <!-- ANALYTICS TAB -->
 <div class="section" id="analytics">
-<div class="chart-wrap">
-<h2>Accuracy Trend by Month</h2>
-<canvas id="trend-chart"></canvas>
-</div>
-<div class="table-wrap" style="padding:12px">
-<h2>Accuracy Breakdown</h2>
-<table id="analytics-table"><thead><tr>
-<th>Metric</th><th>Value</th>
-</tr></thead><tbody></tbody></table>
-</div>
-<div class="table-wrap" style="padding:0 12px 12px">
-<h2>Accuracy by Entity</h2>
-<table id="team-acc-table"><thead><tr>
-<th data-key="name">Name</th><th data-key="predicted" data-type="num">Predicted</th><th data-key="correct" data-type="num">Correct</th><th data-key="acc" data-type="num">Accuracy</th>
-</tr></thead><tbody></tbody></table>
-</div>
+  <div class="chart-wrap"><h2>Accuracy Trend by Month</h2><canvas id="trend-chart"></canvas></div>
+  <div class="table-wrap" style="padding:12px"><h2>Accuracy Breakdown</h2><table id="analytics-table"><thead><tr><th>Metric</th><th>Value</th></tr></thead><tbody></tbody></table></div>
+  <div class="table-wrap" style="padding:0 12px 12px"><h2>Accuracy by Entity</h2><table id="team-acc-table"><thead><tr>
+    <th data-key="name">Name</th><th data-key="predicted" data-type="num">Predicted</th><th data-key="correct" data-type="num">Correct</th><th data-key="acc" data-type="num">Accuracy</th>
+  </tr></thead><tbody></tbody></table></div>
 </div>
 
 <div class="toast" id="toast"></div>
 
-<footer>PredictionApp &middot; ML Model &middot; Data updated <span id="last-updated">-</span></footer>
+<footer>SportPredictor &middot; Multi-Sport ELO &middot; Data updated <span id="last-updated">-</span></footer>
 
 <script>
+/* ── State ─────────────────────────────────────────────────────── */
+var currentSport = '';
+var currentLeague = '';
+var sportsData = [];
 var predictions = [];
 var historical = [];
 var standings = [];
 var summary = {};
 var modelInfo = {};
 
-/* Dark mode */
+/* ── Dark Mode ─────────────────────────────────────────────────── */
 function toggleTheme() {
-var html = document.documentElement;
-var isDark = html.getAttribute('data-theme') === 'dark';
-html.setAttribute('data-theme', isDark ? 'light' : 'dark');
-localStorage.setItem('theme', isDark ? 'light' : 'dark');
-document.getElementById('theme-btn').innerHTML = isDark ? '☾' : '☉';
+  var html = document.documentElement;
+  var isDark = html.getAttribute('data-theme') === 'dark';
+  html.setAttribute('data-theme', isDark ? 'light' : 'dark');
+  localStorage.setItem('theme', isDark ? 'light' : 'dark');
+  document.getElementById('theme-btn').innerHTML = isDark ? '☾' : '☉';
 }
 (function() {
-var saved = localStorage.getItem('theme');
-if (saved === 'dark' || (!saved && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-document.documentElement.setAttribute('data-theme', 'dark');
-}
+  var saved = localStorage.getItem('theme');
+  if (saved === 'dark' || (!saved && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
 })();
 
-/* Tabs */
-function showTab(name) {
-document.querySelectorAll('.section').forEach(function(s) { s.classList.remove('active'); });
-document.querySelectorAll('.tabs button').forEach(function(b) { b.classList.remove('active'); });
-document.getElementById(name).classList.add('active');
-event.target.classList.add('active');
-if (name === 'analytics' && historical.length) renderTrendChart();
+/* ── Sport/League Switcher ─────────────────────────────────────── */
+function renderSportSwitcher(sports) {
+  var el = document.getElementById('sport-switcher');
+  el.innerHTML = sports.map(function(s) {
+    return '<button class="sport-btn' + (s.slug === currentSport ? ' active' : '') + '" onclick="switchSport(\'' + s.slug + '\')">' + s.label + '</button>';
+  }).join('');
 }
 
-/* Tags — customize text/labels for your domain */
+function renderLeagueSwitcher(sport) {
+  var el = document.getElementById('league-switcher');
+  var leagues = sport.leagues;
+  if (leagues.length <= 1) { el.style.display = 'none'; return; }
+  el.style.display = 'flex';
+  el.innerHTML = leagues.map(function(l) {
+    return '<button class="league-btn' + (l.slug === currentLeague ? ' active' : '') + '" onclick="switchLeague(\'' + l.slug + '\')">' + l.label + '</button>';
+  }).join('');
+}
+
+function switchSport(sportSlug) {
+  currentSport = sportSlug;
+  var sport = sportsData.find(function(s) { return s.slug === sportSlug; });
+  if (sport && sport.leagues.length > 0) {
+    currentLeague = sport.leagues[0].slug;
+  }
+  updateSwitcherUI();
+  loadLeagueData();
+}
+
+function switchLeague(leagueSlug) {
+  currentLeague = leagueSlug;
+  updateSwitcherUI();
+  loadLeagueData();
+}
+
+function updateSwitcherUI() {
+  renderSportSwitcher(sportsData);
+  var sport = sportsData.find(function(s) { return s.slug === currentSport; });
+  if (sport) {
+    renderLeagueSwitcher(sport);
+    document.getElementById('sport-badge').textContent = sport.label;
+  }
+  updateColumnHeaders();
+}
+
+function updateColumnHeaders() {
+  var sport = sportsData.find(function(s) { return s.slug === currentSport; });
+  if (!sport) return;
+  // Get result labels from model info (loaded after API call)
+  var isPVP = currentSport === 'tennis' || currentSport === 'mma';
+  var aLabel = isPVP ? 'Player 1' : 'Home';
+  var bLabel = isPVP ? 'Player 2' : 'Away';
+  var hasDraw = currentSport === 'soccer' || currentSport === 'mma';
+
+  document.getElementById('col-entity-a').textContent = aLabel;
+  document.getElementById('col-entity-b').textContent = bLabel;
+  document.getElementById('hcol-entity-a').textContent = aLabel;
+  document.getElementById('hcol-entity-b').textContent = bLabel;
+  document.getElementById('col-a-prob').textContent = aLabel + ' %';
+  document.getElementById('col-b-prob').textContent = bLabel + ' %';
+  document.getElementById('col-draw-prob').style.display = hasDraw ? '' : 'none';
+}
+
+/* ── Tabs ──────────────────────────────────────────────────────── */
+function showTab(name) {
+  document.querySelectorAll('.section').forEach(function(s) { s.classList.remove('active'); });
+  document.querySelectorAll('.tabs button').forEach(function(b) { b.classList.remove('active'); });
+  document.getElementById(name).classList.add('active');
+  event.target.classList.add('active');
+  if (name === 'analytics' && historical.length) renderTrendChart();
+}
+
+/* ── Tags ──────────────────────────────────────────────────────── */
 function tag(text, cls) { return '<span class="tag ' + cls + '">' + text + '</span>'; }
 function resultTag(result) {
-if (result === 'A Win') return tag('A Win', 'tag-win');
-if (result === 'Draw') return tag('Draw', 'tag-draw');
-if (result === 'B Win') return tag('B Win', 'tag-loss');
-return result || '-';
+  if (!result) return '-';
+  var lower = result.toLowerCase();
+  if (lower.indexOf('home') >= 0 || lower.indexOf('p1') >= 0 || lower.indexOf('fighter 1') >= 0) return tag(result, 'tag-win');
+  if (lower === 'draw') return tag(result, 'tag-draw');
+  return tag(result, 'tag-loss');
 }
 function confTag(conf) {
-var cls = conf >= 70 ? 'tag-conf-high' : conf >= 50 ? 'tag-conf-med' : 'tag-conf-low';
-return tag(conf + '%', cls);
+  var cls = conf >= 70 ? 'tag-conf-high' : conf >= 50 ? 'tag-conf-med' : 'tag-conf-low';
+  return tag(conf + '%', cls);
 }
 function correctTag(ok) {
-return ok ? tag('Yes', 'tag-correct') : ok === false ? tag('No', 'tag-wrong') : '-';
+  return ok ? tag('Yes', 'tag-correct') : ok === false ? tag('No', 'tag-wrong') : '-';
 }
 
-/* Toast */
+/* ── Toast ─────────────────────────────────────────────────────── */
 function showToast(msg) {
-var el = document.getElementById('toast');
-el.textContent = msg;
-el.classList.add('show');
-setTimeout(function() { el.classList.remove('show'); }, 3000);
+  var el = document.getElementById('toast');
+  el.textContent = msg; el.classList.add('show');
+  setTimeout(function() { el.classList.remove('show'); }, 3000);
 }
 
-/* Sortable tables */
+/* ── Sortable tables ────────────────────────────────────────────── */
 function makeSortable(tableId, dataFn) {
-var table = document.getElementById(tableId);
-if (!table) return;
-table.querySelectorAll('th[data-key]').forEach(function(th) {
-th.addEventListener('click', function() {
-var key = th.getAttribute('data-key');
-var type = th.getAttribute('data-type') || 'str';
-var currentDir = th.classList.contains('sort-asc') ? 'asc' : th.classList.contains('sort-desc') ? 'desc' : '';
-var dir = currentDir === 'asc' ? 'desc' : 'asc';
-table.querySelectorAll('th').forEach(function(h) { h.classList.remove('sort-asc', 'sort-desc'); });
-th.classList.add('sort-' + dir);
-dataFn(key, dir, type);
-});
-});
+  var table = document.getElementById(tableId);
+  if (!table) return;
+  table.querySelectorAll('th[data-key]').forEach(function(th) {
+    th.addEventListener('click', function() {
+      var key = th.getAttribute('data-key');
+      var type = th.getAttribute('data-type') || 'str';
+      var currentDir = th.classList.contains('sort-asc') ? 'asc' : th.classList.contains('sort-desc') ? 'desc' : '';
+      var dir = currentDir === 'asc' ? 'desc' : 'asc';
+      table.querySelectorAll('th').forEach(function(h) { h.classList.remove('sort-asc', 'sort-desc'); });
+      th.classList.add('sort-' + dir);
+      dataFn(key, dir, type);
+    });
+  });
 }
 
-var predSortKey = '', predSortDir = '';
-var histSortKey = 'date', histSortDir = 'desc';
-var standSortKey = 'points', standSortDir = 'desc';
+var sortPredictions, sortHistorical, sortStandings;
 
 function makeSortFn(dataSource, renderFn) {
-return function(key, dir, type) {
-var sorted = dataSource.slice().sort(function(a, b) {
-var va = a[key], vb = b[key];
-if (type === 'num') { va = parseFloat(va) || 0; vb = parseFloat(vb) || 0; }
-else { va = (va || '').toString().toLowerCase(); vb = (vb || '').toString().toLowerCase(); }
-return dir === 'asc' ? (va > vb ? 1 : va < vb ? -1 : 0) : (va < vb ? 1 : va > vb ? -1 : 0);
-});
-renderFn(sorted);
-};
+  return function(key, dir, type) {
+    var sorted = dataSource.slice().sort(function(a, b) {
+      var va = a[key], vb = b[key];
+      if (type === 'num') { va = parseFloat(va) || 0; vb = parseFloat(vb) || 0; }
+      else { va = (va || '').toString().toLowerCase(); vb = (vb || '').toString().toLowerCase(); }
+      return dir === 'asc' ? (va > vb ? 1 : va < vb ? -1 : 0) : (va < vb ? 1 : va > vb ? -1 : 0);
+    });
+    renderFn(sorted);
+  };
 }
 
-var sortPredictions = makeSortFn(predictions, function() {});
-var sortHistorical = makeSortFn(historical, function() {});
-var sortStandings = makeSortFn(standings, function() {});
-
-/* Render functions — customize row rendering for your domain */
+/* ── Render: Predictions ───────────────────────────────────────── */
 function predictionRow(p) {
-var result = p.actual_result && p.actual_result !== 'Not Played' ? resultTag(p.actual_result) : '-';
-var score = (p.score_a != null && p.score_b != null) ? p.score_a + '-' + p.score_b : '-';
-return '<tr>'
-+ '<td>' + (p.date || '').split(' ')[0] + '</td>'
-+ '<td>' + (p.entity_a || '') + '</td>'
-+ '<td>' + (p.entity_b || '') + '</td>'
-+ '<td>' + resultTag(p.prediction) + '</td>'
-+ '<td>' + confTag(p.confidence) + '</td>'
-+ '<td>' + (p.a_win_prob || 0) + '</td>'
-+ '<td>' + (p.draw_prob || 0) + '</td>'
-+ '<td>' + (p.b_win_prob || 0) + '</td>'
-+ '<td>' + ((p.rating_diff || 0) > 0 ? '+' : '') + (p.rating_diff || 0) + '</td>'
-+ '<td>' + result + '</td>'
-+ '<td>' + score + '</td>'
-+ '</tr>';
+  var result = p.actual_result && p.actual_result !== 'Not Played' ? resultTag(p.actual_result) : '-';
+  var score = (p.score_a != null && p.score_b != null) ? p.score_a + '-' + p.score_b : '-';
+  var drawCol = (currentSport === 'soccer' || currentSport === 'mma') ?
+    '<td>' + (p.draw_prob || 0) + '</td>' : '';
+  return '<tr>'
+    + '<td>' + (p.date || '').split(' ')[0] + '</td>'
+    + '<td>' + (p.entity_a || '') + '</td>'
+    + '<td>' + (p.entity_b || '') + '</td>'
+    + '<td>' + resultTag(p.prediction) + '</td>'
+    + '<td>' + confTag(p.confidence) + '</td>'
+    + '<td>' + (p.a_win_prob || 0) + '</td>'
+    + drawCol
+    + '<td>' + (p.b_win_prob || 0) + '</td>'
+    + '<td>' + ((p.elo_diff || 0) > 0 ? '+' : '') + (p.elo_diff || 0) + '</td>'
+    + '<td>' + result + '</td>'
+    + '<td>' + score + '</td></tr>';
 }
 
 function renderPredictions() {
-document.querySelector('#pred-table tbody').innerHTML = predictions.map(predictionRow).join('');
-sortPredictions = makeSortFn(predictions, function(d) {
-document.querySelector('#pred-table tbody').innerHTML = d.map(predictionRow).join('');
-});
+  document.querySelector('#pred-table tbody').innerHTML = predictions.map(predictionRow).join('');
+  sortPredictions = makeSortFn(predictions, function(d) {
+    document.querySelector('#pred-table tbody').innerHTML = d.map(predictionRow).join('');
+  });
 }
 
+/* ── Render: Historical ────────────────────────────────────────── */
 function historicalRow(p) {
-var score = (p.score_a != null && p.score_b != null) ? p.score_a + '-' + p.score_b : '-';
-return '<tr>'
-+ '<td>' + (p.date || '').split(' ')[0] + '</td>'
-+ '<td>' + (p.entity_a || '') + '</td>'
-+ '<td>' + (p.entity_b || '') + '</td>'
-+ '<td>' + resultTag(p.prediction) + '</td>'
-+ '<td>' + resultTag(p.actual) + '</td>'
-+ '<td>' + score + '</td>'
-+ '<td>' + correctTag(p.is_correct) + '</td>'
-+ '<td>' + confTag(p.confidence) + '</td>'
-+ '</tr>';
+  var score = (p.score_a != null && p.score_b != null) ? p.score_a + '-' + p.score_b : '-';
+  return '<tr>'
+    + '<td>' + (p.date || '').split(' ')[0] + '</td>'
+    + '<td>' + (p.entity_a || '') + '</td>'
+    + '<td>' + (p.entity_b || '') + '</td>'
+    + '<td>' + resultTag(p.prediction) + '</td>'
+    + '<td>' + resultTag(p.actual) + '</td>'
+    + '<td>' + score + '</td>'
+    + '<td>' + correctTag(p.is_correct) + '</td>'
+    + '<td>' + confTag(p.confidence) + '</td></tr>';
 }
 
 function renderHistorical() {
-var sorted = historical.slice().sort(function(a, b) { return (b.date || '').localeCompare(a.date || ''); });
-document.querySelector('#hist-table tbody').innerHTML = sorted.map(historicalRow).join('');
-sortHistorical = makeSortFn(historical, function(d) {
-document.querySelector('#hist-table tbody').innerHTML = d.map(historicalRow).join('');
-});
+  var sorted = historical.slice().sort(function(a, b) { return (b.date || '').localeCompare(a.date || ''); });
+  document.querySelector('#hist-table tbody').innerHTML = sorted.map(historicalRow).join('');
+  sortHistorical = makeSortFn(historical, function(d) {
+    document.querySelector('#hist-table tbody').innerHTML = d.map(historicalRow).join('');
+  });
 }
 
+/* ── Render: Standings ─────────────────────────────────────────── */
 function standingsRow(t, i) {
-return '<tr>'
-+ '<td>' + (t.position || i + 1) + '</td>'
-+ '<td><b>' + (t.name || '') + '</b></td>'
-+ '<td>' + (t.matches || 0) + '</td>'
-+ '<td>' + (t.wins || 0) + '</td>'
-+ '<td>' + (t.draws || 0) + '</td>'
-+ '<td>' + (t.losses || 0) + '</td>'
-+ '<td>' + (t.score_for || 0) + '</td>'
-+ '<td>' + (t.score_against || 0) + '</td>'
-+ '<td>' + ((t.score_diff || 0) > 0 ? '+' : '') + (t.score_diff || 0) + '</td>'
-+ '<td><b>' + (t.points || 0) + '</b></td>'
-+ '<td>' + (t.rating || 0) + '</td>'
-+ '<td>' + (t.form || '-') + '</td>'
-+ '</tr>';
+  return '<tr>'
+    + '<td>' + (t.position || i + 1) + '</td>'
+    + '<td><b>' + (t.name || '') + '</b></td>'
+    + '<td>' + (t.matches || 0) + '</td>'
+    + '<td>' + (t.wins || 0) + '</td>'
+    + '<td>' + (t.draws || 0) + '</td>'
+    + '<td>' + (t.losses || 0) + '</td>'
+    + '<td>' + (t.score_for || 0) + '</td>'
+    + '<td>' + (t.score_against || 0) + '</td>'
+    + '<td>' + ((t.score_diff || 0) > 0 ? '+' : '') + (t.score_diff || 0) + '</td>'
+    + '<td><b>' + (t.points || 0) + '</b></td>'
+    + '<td>' + (t.rating || 0) + '</td>'
+    + '<td>' + (t.form || '-') + '</td></tr>';
 }
 
 function renderStandings() {
-var sorted = standings.slice().sort(function(a, b) { return (b.points || 0) - (a.points || 0); });
-document.querySelector('#stand-table tbody').innerHTML = sorted.map(standingsRow).join('');
-sortStandings = makeSortFn(standings, function(d) {
-document.querySelector('#stand-table tbody').innerHTML = d.map(standingsRow).join('');
-});
+  var sorted = standings.slice().sort(function(a, b) { return (b.points || 0) - (a.points || 0); });
+  document.querySelector('#stand-table tbody').innerHTML = sorted.map(standingsRow).join('');
+  sortStandings = makeSortFn(standings, function(d) {
+    document.querySelector('#stand-table tbody').innerHTML = d.map(standingsRow).join('');
+  });
 }
 
-/* Modeling tab — customize for your model */
+/* ── Render: Modeling ──────────────────────────────────────────── */
 function renderModeling() {
-var m = modelInfo;
-if (!m || !m.ensemble) return;
-document.getElementById('model-ensemble').innerHTML = '<b>Type:</b> ' + (m.ensemble.type || 'TBD');
-document.getElementById('model-elo').innerHTML = '<b>Rating params:</b> Customize for your domain';
-document.getElementById('model-blend').innerHTML = '<b>Blend:</b> Customize for your domain';
-document.getElementById('model-performance').innerHTML = '<b>Accuracy:</b> ' + (m.performance && m.performance.accuracy || '-') + '%';
-if (m.features && m.features.length) {
-document.getElementById('model-features').innerHTML = m.features.map(function(f) { return '<span>' + f + '</span>'; }).join('');
-}
+  var m = modelInfo;
+  if (!m || !m.ensemble) return;
+  document.getElementById('model-ensemble').innerHTML = '<b>Type:</b> ' + (m.ensemble.type || 'ELO');
+  if (m.elo) {
+    document.getElementById('model-elo').innerHTML =
+      '<b>K-factor:</b> ' + (m.elo.k || '-') + ' &nbsp; <b>Home advantage:</b> ' + (m.elo.home_advantage || 0) + ' &nbsp; <b>Draw margin:</b> ' + (m.elo.draw_margin || 0);
+  }
+  document.getElementById('model-blend').innerHTML = '<b>Blend:</b> ' + (m.blend && m.blend.type || 'ELO-only') + (m.blend && m.blend.note ? ' (' + m.blend.note + ')' : '');
+  var perf = m.performance || {};
+  document.getElementById('model-performance').innerHTML = '<b>Accuracy:</b> ' + (perf.accuracy || '-') + '% &nbsp; <b>Matches:</b> ' + (perf.total_historical || '-');
+  if (m.features && m.features.length) {
+    document.getElementById('model-features').innerHTML = m.features.map(function(f) { return '<span>' + f + '</span>'; }).join('');
+  }
 }
 
-/* Trend chart */
+/* ── Render: Trend Chart ───────────────────────────────────────── */
 function renderTrendChart() {
-var monthData = {};
-historical.forEach(function(p) {
-var m = p.date ? p.date.substring(0, 7) : '';
-if (!m) return;
-if (!monthData[m]) monthData[m] = { total: 0, correct: 0 };
-monthData[m].total++;
-if (p.is_correct) monthData[m].correct++;
-});
-var months = Object.keys(monthData).sort();
-var accs = months.map(function(m) { return monthData[m].total > 0 ? (monthData[m].correct / monthData[m].total * 100) : 0; });
-if (months.length === 0) return;
+  var monthData = {};
+  historical.forEach(function(p) {
+    var m = p.date ? p.date.substring(0, 7) : '';
+    if (!m) return;
+    if (!monthData[m]) monthData[m] = { total: 0, correct: 0 };
+    monthData[m].total++;
+    if (p.is_correct) monthData[m].correct++;
+  });
+  var months = Object.keys(monthData).sort();
+  var accs = months.map(function(m) { return monthData[m].total > 0 ? (monthData[m].correct / monthData[m].total * 100) : 0; });
+  if (months.length === 0) return;
 
-var canvas = document.getElementById('trend-chart');
-var ctx = canvas.getContext('2d');
-var dpr = window.devicePixelRatio || 1;
-var w = canvas.parentElement.clientWidth - 24;
-var h = 200;
-canvas.width = w * dpr; canvas.height = h * dpr;
-canvas.style.width = w + 'px'; canvas.style.height = h + 'px';
-ctx.scale(dpr, dpr);
+  var canvas = document.getElementById('trend-chart');
+  var ctx = canvas.getContext('2d');
+  var dpr = window.devicePixelRatio || 1;
+  var w = canvas.parentElement.clientWidth - 24;
+  var h = 200;
+  canvas.width = w * dpr; canvas.height = h * dpr;
+  canvas.style.width = w + 'px'; canvas.style.height = h + 'px';
+  ctx.scale(dpr, dpr);
 
-var pad = { top: 20, right: 20, bottom: 40, left: 40 };
-var cw = w - pad.left - pad.right, ch = h - pad.top - pad.bottom;
+  var pad = { top: 20, right: 20, bottom: 40, left: 40 };
+  var cw = w - pad.left - pad.right, ch = h - pad.top - pad.bottom;
+  var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+  var gridColor = isDark ? '#374151' : '#e5e7eb';
+  var textColor = isDark ? '#9ca3af' : '#6b7280';
+  var primaryColor = isDark ? '#818cf8' : '#4338ca';
+  var surfaceColor = isDark ? '#1f2937' : '#fff';
+  var chartFill = isDark ? 'rgba(129,140,248,0.12)' : 'rgba(67,56,202,0.08)';
 
-var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-var gridColor = isDark ? '#374151' : '#e5e7eb';
-var textColor = isDark ? '#9ca3af' : '#6b7280';
-var primaryColor = isDark ? '#818cf8' : '#4338ca';
-var surfaceColor = isDark ? '#1f2937' : '#fff';
-var chartFill = isDark ? 'rgba(129,140,248,0.12)' : 'rgba(67,56,202,0.08)';
+  ctx.fillStyle = surfaceColor; ctx.fillRect(0, 0, w, h);
+  ctx.strokeStyle = gridColor; ctx.lineWidth = 1;
+  for (var pct = 0; pct <= 100; pct += 25) {
+    var y = pad.top + ch - (pct / 100 * ch);
+    ctx.beginPath(); ctx.moveTo(pad.left, y); ctx.lineTo(pad.left + cw, y); ctx.stroke();
+    ctx.fillStyle = textColor; ctx.font = '11px sans-serif'; ctx.textAlign = 'right';
+    ctx.fillText(pct + '%', pad.left - 6, y + 4);
+  }
 
-ctx.fillStyle = surfaceColor; ctx.fillRect(0, 0, w, h);
-ctx.strokeStyle = gridColor; ctx.lineWidth = 1;
-for (var pct = 0; pct <= 100; pct += 25) {
-var y = pad.top + ch - (pct / 100 * ch);
-ctx.beginPath(); ctx.moveTo(pad.left, y); ctx.lineTo(pad.left + cw, y); ctx.stroke();
-ctx.fillStyle = textColor; ctx.font = '11px sans-serif'; ctx.textAlign = 'right';
-ctx.fillText(pct + '%', pad.left - 6, y + 4);
+  var avg = accs.reduce(function(a, b) { return a + b; }, 0) / accs.length;
+  var avgY = pad.top + ch - (avg / 100 * ch);
+  ctx.strokeStyle = isDark ? '#fbbf24' : '#f59e0b';
+  ctx.setLineDash([4, 4]); ctx.beginPath(); ctx.moveTo(pad.left, avgY); ctx.lineTo(pad.left + cw, avgY); ctx.stroke(); ctx.setLineDash([]);
+
+  var n = months.length;
+  if (n >= 2) {
+    ctx.beginPath();
+    for (var i = 0; i < n; i++) {
+      var x = pad.left + (i / (n - 1)) * cw;
+      var y = pad.top + ch - (accs[i] / 100 * ch);
+      if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
+    }
+    ctx.strokeStyle = primaryColor; ctx.lineWidth = 2; ctx.stroke();
+    ctx.lineTo(pad.left + cw, pad.top + ch); ctx.lineTo(pad.left, pad.top + ch); ctx.closePath();
+    ctx.fillStyle = chartFill; ctx.fill();
+    for (var i = 0; i < n; i++) {
+      var x = pad.left + (i / (n - 1)) * cw;
+      var y = pad.top + ch - (accs[i] / 100 * ch);
+      ctx.fillStyle = primaryColor; ctx.beginPath(); ctx.arc(x, y, 3, 0, Math.PI * 2); ctx.fill();
+    }
+  } else if (n === 1) {
+    var x = pad.left + cw / 2, y = pad.top + ch - (accs[0] / 100 * ch);
+    ctx.fillStyle = primaryColor; ctx.beginPath(); ctx.arc(x, y, 4, 0, Math.PI * 2); ctx.fill();
+  }
+
+  ctx.fillStyle = textColor; ctx.font = '10px sans-serif'; ctx.textAlign = 'center';
+  var step = Math.max(1, Math.floor(months.length / 8));
+  for (var i = 0; i < n; i += step) {
+    var x = pad.left + (n === 1 ? cw / 2 : (i / (n - 1)) * cw);
+    ctx.fillText(months[i].substring(5), x, h - pad.bottom + 16);
+  }
 }
 
-var avg = accs.reduce(function(a, b) { return a + b; }, 0) / accs.length;
-var avgY = pad.top + ch - (avg / 100 * ch);
-ctx.strokeStyle = isDark ? '#fbbf24' : '#f59e0b';
-ctx.setLineDash([4, 4]); ctx.beginPath(); ctx.moveTo(pad.left, avgY); ctx.lineTo(pad.left + cw, avgY); ctx.stroke(); ctx.setLineDash([]);
-
-var n = months.length;
-if (n >= 2) {
-ctx.beginPath();
-for (var i = 0; i < n; i++) {
-var x = pad.left + (i / (n - 1)) * cw;
-var y = pad.top + ch - (accs[i] / 100 * ch);
-if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
-}
-ctx.strokeStyle = primaryColor; ctx.lineWidth = 2; ctx.stroke();
-ctx.lineTo(pad.left + cw, pad.top + ch); ctx.lineTo(pad.left, pad.top + ch); ctx.closePath();
-ctx.fillStyle = chartFill; ctx.fill();
-for (var i = 0; i < n; i++) {
-var x = pad.left + (i / (n - 1)) * cw;
-var y = pad.top + ch - (accs[i] / 100 * ch);
-ctx.fillStyle = primaryColor; ctx.beginPath(); ctx.arc(x, y, 3, 0, Math.PI * 2); ctx.fill();
-}
-} else if (n === 1) {
-var x = pad.left + cw / 2, y = pad.top + ch - (accs[0] / 100 * ch);
-ctx.fillStyle = primaryColor; ctx.beginPath(); ctx.arc(x, y, 4, 0, Math.PI * 2); ctx.fill();
-}
-
-ctx.fillStyle = textColor; ctx.font = '10px sans-serif'; ctx.textAlign = 'center';
-var step = Math.max(1, Math.floor(months.length / 8));
-for (var i = 0; i < n; i += step) {
-var x = pad.left + (n === 1 ? cw / 2 : (i / (n - 1)) * cw);
-ctx.fillText(months[i].substring(5), x, h - pad.bottom + 16);
-}
-}
-
-/* Analytics */
+/* ── Render: Analytics ─────────────────────────────────────────── */
 function renderAnalytics() {
-var total = historical.length;
-var correct = historical.filter(function(p) { return p.is_correct; }).length;
-var acc = total > 0 ? (correct / total * 100).toFixed(1) : 0;
+  var total = historical.length;
+  var correct = historical.filter(function(p) { return p.is_correct; }).length;
+  var acc = total > 0 ? (correct / total * 100).toFixed(1) : 0;
+  var rows = [
+    ['Overall Accuracy', acc + '% (' + correct + '/' + total + ')'],
+    ['Total Historical', historical.length],
+    ['Current Predictions', predictions.length],
+  ];
+  var tb = document.querySelector('#analytics-table tbody');
+  tb.innerHTML = rows.map(function(r) { return '<tr><td>' + r[0] + '</td><td>' + r[1] + '</td></tr>'; }).join('');
 
-var rows = [
-['Overall Accuracy', acc + '% (' + correct + '/' + total + ')'],
-['', ''],
-['Predictions Made', historical.length],
-];
+  // Per-entity accuracy
+  var entityAcc = {};
+  historical.forEach(function(p) {
+    [p.entity_a, p.entity_b].forEach(function(e) {
+      if (!e) return;
+      if (!entityAcc[e]) entityAcc[e] = { predicted: 0, correct: 0 };
+    });
+    if (p.is_correct !== null) {
+      if (p.entity_a) { entityAcc[p.entity_a].predicted++; if (p.is_correct) entityAcc[p.entity_a].correct++; }
+      if (p.entity_b) { entityAcc[p.entity_b].predicted++; if (p.is_correct) entityAcc[p.entity_b].correct++; }
+    }
+  });
+  var entityRows = Object.keys(entityAcc).map(function(name) {
+    var e = entityAcc[name];
+    return { name: name, predicted: e.predicted, correct: e.correct, acc: e.predicted > 0 ? (e.correct / e.predicted * 100).toFixed(1) : 0 };
+  }).sort(function(a, b) { return b.acc - a.acc; });
 
-var tb = document.querySelector('#analytics-table tbody');
-tb.innerHTML = rows.map(function(r) { return '<tr><td>' + r[0] + '</td><td>' + r[1] + '</td></tr>'; }).join('');
+  document.querySelector('#team-acc-table tbody').innerHTML = entityRows.slice(0, 30).map(function(e) {
+    return '<tr><td>' + e.name + '</td><td>' + e.predicted + '</td><td>' + e.correct + '</td><td>' + e.acc + '%</td></tr>';
+  }).join('');
 
-renderTrendChart();
+  renderTrendChart();
 }
 
-/* Data loading */
-function loadData() {
-Promise.all([
-fetch('/api/summary').then(function(r) { return r.json(); }),
-fetch('/api/predictions').then(function(r) { return r.json(); }),
-fetch('/api/historical').then(function(r) { return r.json(); }),
-fetch('/api/model-info').then(function(r) { return r.json(); }).catch(function() { return { data: {} }; })
-]).then(function(results) {
-summary = results[0].data || {};
-predictions = results[1].data || [];
-historical = results[2].data || [];
-modelInfo = results[3].data || {};
+/* ── Render: Summary ───────────────────────────────────────────── */
+function renderSummary() {
+  var s = summary;
+  var html = '';
+  html += '<div class="card"><div class="num">' + (s.accuracy || 0) + '%</div><div class="lbl">Accuracy</div></div>';
+  html += '<div class="card"><div class="num">' + (s.total_historical || 0) + '</div><div class="lbl">Matches</div></div>';
+  html += '<div class="card"><div class="num">' + (s.current_predictions || 0) + '</div><div class="lbl">Upcoming</div></div>';
+  html += '<div class="card"><div class="num">' + (s.entities || 0) + '</div><div class="lbl">Entities</div></div>';
+  document.getElementById('summary').innerHTML = html;
+  document.getElementById('last-updated').textContent = s.last_updated || '-';
+}
 
-renderSummary();
-renderPredictions();
-renderHistorical();
-renderStandings();
-renderModeling();
-renderAnalytics();
-}).catch(function(err) {
-console.error('Failed to load data:', err);
-});
+/* ── Data Loading ───────────────────────────────────────────────── */
+function loadLeagueData() {
+  if (!currentSport || !currentLeague) return;
+  updateColumnHeaders();
+
+  Promise.all([
+    fetch('/api/' + currentSport + '/' + currentLeague + '/summary').then(function(r) { return r.json(); }),
+    fetch('/api/' + currentSport + '/' + currentLeague + '/predictions').then(function(r) { return r.json(); }),
+    fetch('/api/' + currentSport + '/' + currentLeague + '/historical').then(function(r) { return r.json(); }),
+    fetch('/api/' + currentSport + '/' + currentLeague + '/standings').then(function(r) { return r.json(); }),
+    fetch('/api/' + currentSport + '/' + currentLeague + '/model-info').then(function(r) { return r.json(); }).catch(function() { return { data: {} }; })
+  ]).then(function(results) {
+    summary = results[0].data || {};
+    predictions = results[1].data || [];
+    historical = results[2].data || [];
+    standings = results[3].data || [];
+    modelInfo = results[4].data || {};
+
+    // Update draw column visibility based on model info
+    var hasDraw = currentSport === 'soccer' || currentSport === 'mma';
+    document.getElementById('col-draw-prob').style.display = hasDraw ? '' : 'none';
+
+    renderSummary();
+    renderPredictions();
+    renderHistorical();
+    renderStandings();
+    renderModeling();
+    renderAnalytics();
+  }).catch(function(err) {
+    console.error('Failed to load data:', err);
+  });
 }
 
 function refreshData() {
-var btn = document.getElementById('refresh-btn');
-btn.disabled = true; btn.textContent = 'Updating...'; btn.classList.add('loading');
-fetch('/api/refresh', { method: 'POST' })
-.then(function(r) { return r.json(); })
-.then(function(res) {
-btn.disabled = false; btn.textContent = 'Update Now'; btn.classList.remove('loading');
-if (res.success) { showToast('Data refreshed successfully'); loadData(); }
-else { showToast('Refresh failed: ' + (res.message || 'Unknown error')); }
-})
-.catch(function() {
-btn.disabled = false; btn.textContent = 'Update Now'; btn.classList.remove('loading');
-showToast('Refresh failed: network error');
-});
+  var btn = document.getElementById('refresh-btn');
+  btn.disabled = true; btn.textContent = 'Updating...'; btn.classList.add('loading');
+  fetch('/api/refresh/' + currentSport + '/' + currentLeague, { method: 'POST' })
+    .then(function(r) { return r.json(); })
+    .then(function(res) {
+      btn.disabled = false; btn.textContent = 'Update Now'; btn.classList.remove('loading');
+      if (res.success) { showToast('Data refreshed'); loadLeagueData(); }
+      else { showToast('Refresh failed: ' + (res.message || 'Unknown error')); }
+    })
+    .catch(function() {
+      btn.disabled = false; btn.textContent = 'Update Now'; btn.classList.remove('loading');
+      showToast('Refresh failed: network error');
+    });
 }
 
-function renderSummary() {
-var s = summary;
-var html = '';
-html += '<div class="card"><div class="num">' + (s.accuracy || 0) + '%</div><div class="lbl">Accuracy</div></div>';
-html += '<div class="card"><div class="num">' + (s.total_historical || 0) + '</div><div class="lbl">Matches</div></div>';
-document.getElementById('summary').innerHTML = html;
-document.getElementById('last-updated').textContent = s.last_updated || '-';
-}
-
-/* Init */
-makeSortable('pred-table', sortPredictions);
-makeSortable('hist-table', sortHistorical);
-makeSortable('stand-table', sortStandings);
+/* ── Init ──────────────────────────────────────────────────────── */
+makeSortable('pred-table', function(k, d, t) { sortPredictions(k, d, t); });
+makeSortable('hist-table', function(k, d, t) { sortHistorical(k, d, t); });
+makeSortable('stand-table', function(k, d, t) { sortStandings(k, d, t); });
 
 if (document.documentElement.getAttribute('data-theme') === 'dark') {
-document.getElementById('theme-btn').innerHTML = '☉';
+  document.getElementById('theme-btn').innerHTML = '☉';
 }
 
-loadData();
+// Load sports list, then default league data
+fetch('/api/sports').then(function(r) { return r.json(); }).then(function(res) {
+  sportsData = res.data || [];
+  currentSport = res.default_sport || 'soccer';
+  currentLeague = res.default_league || 'eng.1';
+  updateSwitcherUI();
+  loadLeagueData();
+});
 </script>
 </body>
 </html>
