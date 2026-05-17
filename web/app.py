@@ -10,6 +10,7 @@ import subprocess
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent.parent))
 from sports_config import SPORTS, DEFAULT_SPORT, DEFAULT_LEAGUE, get_league_config
 
 app = Flask(__name__)
