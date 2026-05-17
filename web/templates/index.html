@@ -6,22 +6,22 @@
 <title>SportPredictor</title>
 <style>
 :root {
-  --bg: #f5f5f5; --surface: #fff; --surface2: #f9fafb; --border: #e5e7eb; --border2: #f3f4f6;
-  --text: #333; --text2: #374151; --text3: #6b7280; --text4: #9ca3af;
-  --primary: #4338ca; --primary-light: #f0f0ff; --primary-bg: #e0e7ff;
+  --bg: #f5f5f5; --surface: #fff; --surface2: #eef3f2; --border: #c8d8d6; --border2: #dde9e7;
+  --text: #27363b; --text2: #2f4a4f; --text3: #637b81; --text4: #8da0a5;
+  --primary: #75b2ad; --primary-light: #e8f2f1; --primary-bg: #d0e6e4;
   --tag-win-bg: #d1fae5; --tag-win-fg: #065f46;
   --tag-draw-bg: #fef3c7; --tag-draw-fg: #92400e;
   --tag-loss-bg: #fee2e2; --tag-loss-fg: #991b1b;
-  --chart-fill: rgba(67,56,202,0.08); --avg-line: #f59e0b;
+  --chart-fill: rgba(117,178,173,0.10); --avg-line: #e8a838;
 }
 [data-theme="dark"] {
-  --bg: #111827; --surface: #1f2937; --surface2: #374151; --border: #374151; --border2: #4b5563;
-  --text: #e5e7eb; --text2: #d1d5db; --text3: #9ca3af; --text4: #6b7280;
-  --primary: #818cf8; --primary-light: #1e1b4b; --primary-bg: #312e81;
+  --bg: #1a2a2e; --surface: #27363b; --surface2: #2f4a4f; --border: #3d5c5f; --border2: #425e5e;
+  --text: #f5f5f5; --text2: #dde9e7; --text3: #8da0a5; --text4: #637b81;
+  --primary: #75b2ad; --primary-light: #1e3a3d; --primary-bg: #2a4e50;
   --tag-win-bg: #064e3b; --tag-win-fg: #6ee7b7;
   --tag-draw-bg: #78350f; --tag-draw-fg: #fcd34d;
   --tag-loss-bg: #7f1d1d; --tag-loss-fg: #fca5a5;
-  --chart-fill: rgba(129,140,248,0.12); --avg-line: #fbbf24;
+  --chart-fill: rgba(117,178,173,0.12); --avg-line: #e8a838;
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; background: var(--bg); color: var(--text); font-size: 14px; transition: background 0.2s, color 0.2s; }
@@ -113,8 +113,8 @@ tr:hover td { background: var(--surface2); }
 /* Weight bar */
 .weight-bar { display: flex; height: 22px; border-radius: 6px; overflow: hidden; margin: 6px 0; font-size: 10px; font-weight: 600; }
 .weight-bar div { display: flex; align-items: center; justify-content: center; padding: 0 6px; color: #fff; min-width: 30px; }
-.wb-elo { background: #4338ca; }
-.wb-colley { background: #0891b2; }
+.wb-elo { background: #75b2ad; }
+.wb-colley { background: #3d8b87; }
 .wb-form { background: #d97706; }
 .wb-odds { background: #059669; }
 .weight-legend { display: flex; gap: 12px; flex-wrap: wrap; margin: 6px 0; font-size: 11px; }
@@ -129,8 +129,8 @@ tr:hover td { background: var(--surface2); }
 footer { text-align: center; padding: 12px; font-size: 11px; color: var(--text4); border-top: 1px solid var(--border); background: var(--surface); margin-top: 16px; }
 
 /* Toast */
-.toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); padding: 10px 20px; background: #1f2937; color: #fff; border-radius: 8px; font-size: 13px; z-index: 100; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
-[data-theme="dark"] .toast { background: #e5e7eb; color: #111; }
+.toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); padding: 10px 20px; background: #27363b; color: #f5f5f5; border-radius: 8px; font-size: 13px; z-index: 100; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
+[data-theme="dark"] .toast { background: #dde9e7; color: #27363b; }
 .toast.show { opacity: 1; }
 
 /* Off season message */
@@ -556,8 +556,8 @@ function renderModeling() {
       '<div class="wb-odds" style="width:' + pOdds + '%">O ' + Math.round(w.odds*100) + '%</div>' +
       '</div>' +
       '<div class="weight-legend">' +
-      '<span><span class="dot" style="background:#4338ca"></span> ELO</span>' +
-      '<span><span class="dot" style="background:#0891b2"></span> Colley</span>' +
+      '<span><span class="dot" style="background:#75b2ad"></span> ELO</span>' +
+      '<span><span class="dot" style="background:#3d8b87"></span> Colley</span>' +
       '<span><span class="dot" style="background:#d97706"></span> Form</span>' +
       '<span><span class="dot" style="background:#059669"></span> Odds</span>' +
       '</div>';
@@ -655,9 +655,9 @@ function renderTrendChart() {
   var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
   var gridColor = isDark ? '#374151' : '#e5e7eb';
   var textColor = isDark ? '#9ca3af' : '#6b7280';
-  var primaryColor = isDark ? '#818cf8' : '#4338ca';
-  var surfaceColor = isDark ? '#1f2937' : '#fff';
-  var chartFill = isDark ? 'rgba(129,140,248,0.12)' : 'rgba(67,56,202,0.08)';
+  var primaryColor = isDark ? '#75b2ad' : '#75b2ad';
+  var surfaceColor = isDark ? '#27363b' : '#fff';
+  var chartFill = isDark ? 'rgba(117,178,173,0.12)' : 'rgba(117,178,173,0.10)';
 
   ctx.fillStyle = surfaceColor; ctx.fillRect(0, 0, w, h);
   ctx.strokeStyle = gridColor; ctx.lineWidth = 1;

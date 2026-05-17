@@ -517,36 +517,58 @@ def fetch_odds_for_league(sport, league):
 
 
 def odds_implied_prob(odds_data, entity_a, entity_b):
-    """Convert decimal odds to implied probabilities, removing vig."""
-    # Try exact match first, then fuzzy match (Odds API names may differ from ESPN)
-    home_odds = None
-    away_odds = None
+    """Convert decimal odds to implied probabilities, removing vig.
+
+    Handles both 2-way (NBA/MLB etc) and 3-way (soccer with draw) markets.
+    Uses fuzzy name matching since Odds API names may differ from ESPN short names.
+    """
+    best_match = None
+    best_score = 0
 
     for key, outcomes in odds_data.items():
         home_name = key.split("|")[0]
         away_name = key.split("|")[1]
-        if entity_a in home_name or home_name in entity_a:
-            if entity_b in away_name or away_name in entity_b:
-                home_odds = outcomes.get(entity_a) or outcomes.get(home_name)
-                away_odds = outcomes.get(entity_b) or outcomes.get(away_name)
-                break
+        # Fuzzy match: check if either name contains or is contained in the other
+        a_match = (entity_a.lower() in home_name.lower() or home_name.lower() in entity_a.lower())
+        b_match = (entity_b.lower() in away_name.lower() or away_name.lower() in entity_b.lower())
+        # Also try swapped (Odds API home/away might differ from ESPN)
+        a_swap = (entity_a.lower() in away_name.lower() or away_name.lower() in entity_a.lower())
+        b_swap = (entity_b.lower() in home_name.lower() or home_name.lower() in entity_b.lower())
+        score = 0
+        if a_match and b_match: score = 2
+        elif a_swap and b_swap: score = 1
+        if score > best_score:
+            best_score = score
+            best_match = (home_name, away_name, outcomes)
+
+    if not best_match:
+        return None
+
+    home_name, away_name, outcomes = best_match
+    home_odds = outcomes.get(home_name) or outcomes.get(entity_a)
+    away_odds = outcomes.get(away_name) or outcomes.get(entity_b)
+    draw_odds = outcomes.get("Draw")
 
     if not home_odds or not away_odds:
         return None
-
     if home_odds <= 0 or away_odds <= 0:
         return None
 
     imp_a = 1.0 / home_odds
     imp_b = 1.0 / away_odds
-    total = imp_a + imp_b
+    imp_d = (1.0 / draw_odds) if draw_odds and draw_odds > 0 else 0.0
+
+    total = imp_a + imp_b + imp_d
+    if total <= 0:
+        return None
     vig_free_a = imp_a / total
     vig_free_b = imp_b / total
+    vig_free_d = imp_d / total
 
     return {
         "a_win_prob": round(vig_free_a * 100, 1),
         "b_win_prob": round(vig_free_b * 100, 1),
-        "draw_prob": 0.0,
+        "draw_prob": round(vig_free_d * 100, 1),
         "prediction": "a_win" if vig_free_a > vig_free_b else "b_win",
     }
 
@@ -579,6 +601,8 @@ def blend_predictions(elo_pred, colley_pred, form_pred, odds_pred, weights):
     draw_prob = w_elo * elo_pred.get("draw_prob", 0)
     draw_prob += w_colley * colley_pred.get("draw_prob", 0)
     draw_prob += w_form * form_pred.get("draw_prob", 0)
+    if has_odds:
+        draw_prob += w_odds * odds_pred.get("draw_prob", 0)
 
     a_prob = round(a_prob, 1)
     draw_prob = round(draw_prob, 1)
@@ -607,7 +631,7 @@ def blend_predictions(elo_pred, colley_pred, form_pred, odds_pred, weights):
             "elo": {"a": elo_pred["a_win_prob"], "d": elo_pred.get("draw_prob", 0), "b": elo_pred["b_win_prob"]},
             "colley": {"a": colley_pred["a_win_prob"], "d": colley_pred.get("draw_prob", 0), "b": colley_pred["b_win_prob"]},
             "form": {"a": form_pred["a_win_prob"], "d": form_pred.get("draw_prob", 0), "b": form_pred["b_win_prob"]},
-            "odds": {"a": odds_pred["a_win_prob"], "d": 0, "b": odds_pred["b_win_prob"]} if has_odds else None,
+            "odds": {"a": odds_pred["a_win_prob"], "d": odds_pred.get("draw_prob", 0), "b": odds_pred["b_win_prob"]} if has_odds else None,
         },
         "weights_used": {"elo": w_elo, "colley": w_colley, "form": w_form, "odds": w_odds},
     }
