@@ -1,11 +1,13 @@
 {
-  "total_historical": 16,
-  "accuracy": 31.2,
-  "correct": 5,
+  "total_historical": 12,
+  "accuracy": 25.0,
+  "correct": 3,
   "current_predictions": 20,
   "high_confidence": 0,
-  "medium_confidence": 5,
-  "low_confidence": 15,
+  "medium_confidence": 13,
+  "low_confidence": 7,
   "entities": 20,
-  "last_updated": "2026-05-16 20:50:33"
+  "odds_coverage": 0,
+  "season_status": "in_season",
+  "last_updated": "2026-05-17 02:33:18"
 }

@@ -142,21 +142,5 @@
     "draw_prob": 0.0,
     "b_win_prob": 37.7,
     "is_correct": true
-  },
-  "2026-05-03|Lightning|Canadiens": {
-    "prediction": "Home Win",
-    "confidence": 53.4,
-    "a_win_prob": 53.4,
-    "draw_prob": 0.0,
-    "b_win_prob": 46.6,
-    "is_correct": false
-  },
-  "2026-05-04|Avalanche|Wild": {
-    "prediction": "Home Win",
-    "confidence": 64.4,
-    "a_win_prob": 64.4,
-    "draw_prob": 0.0,
-    "b_win_prob": 35.6,
-    "is_correct": true
   }
 }

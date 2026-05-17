@@ -6,19 +6,48 @@
     "entity_a": "Jannik Sinner",
     "entity_b": "Casper Ruud",
     "venue": "Rome, Italy",
-    "a_win_prob": 50.0,
+    "a_win_prob": 48.0,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 52.0,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 52.0,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1454,
+    "colley_b": 1569,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 34.0,
+        "d": 0.0,
+        "b": 66.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -31,19 +60,48 @@
     "entity_a": "Madison Keys",
     "entity_b": "Diane Parry",
     "venue": "Paris, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 52.7,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 47.3,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 52.7,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1662,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 71.8,
+        "d": 0.0,
+        "b": 28.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -56,19 +114,48 @@
     "entity_a": "Fiona Ferro",
     "entity_b": "Elina Avanesyan",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 51.6,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 48.4,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 51.6,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1662,
+    "colley_b": 1569,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 63.1,
+        "d": 0.0,
+        "b": 36.9
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -81,19 +168,48 @@
     "entity_a": "Dalila Spiteri",
     "entity_b": "Caijsa Hennemann",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 49.6,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 50.4,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 50.4,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1546,
+    "colley_b": 1569,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 46.7,
+        "d": 0.0,
+        "b": 53.3
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -106,19 +222,48 @@
     "entity_a": "Anastasia Zolotareva",
     "entity_b": "Vera Zvonareva",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 50.8,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 49.2,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 50.8,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1615,
+    "colley_b": 1569,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 56.6,
+        "d": 0.0,
+        "b": 43.4
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -131,19 +276,48 @@
     "entity_a": "Lisa Zaar",
     "entity_b": "Alana Smith",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 50.8,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 49.2,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 50.8,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1569,
+    "colley_b": 1523,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 56.6,
+        "d": 0.0,
+        "b": 43.4
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -156,19 +330,48 @@
     "entity_a": "Emiliana Arango",
     "entity_b": "Ella Seidel",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 47.6,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 52.4,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 52.4,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1408,
+    "colley_b": 1546,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 31.1,
+        "d": 0.0,
+        "b": 68.9
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -181,19 +384,48 @@
     "entity_a": "Polona Hercog",
     "entity_b": "Anna Bondar",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 47.3,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 52.7,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 52.7,
     "confidence_level": "Medium",
     "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1662,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 28.2,
+        "d": 0.0,
+        "b": 71.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -206,19 +438,48 @@
     "entity_a": "Simona Waltert",
     "entity_b": "Anhelina Kalinina",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 54.6,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 45.4,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 54.6,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1754,
+    "colley_b": 1431,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 86.5,
+        "d": 0.0,
+        "b": 13.5
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -231,19 +492,48 @@
     "entity_a": "Diae El Jardi",
     "entity_b": "Tatjana Maria",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 50.8,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 49.2,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 50.8,
     "confidence_level": "Medium",
     "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1454,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 56.6,
+        "d": 0.0,
+        "b": 43.4
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -256,19 +546,48 @@
     "entity_a": "Sada Nahimana",
     "entity_b": "Ajla Tomljanovic",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 51.6,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 48.4,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 51.6,
     "confidence_level": "Medium",
     "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1408,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 62.9,
+        "d": 0.0,
+        "b": 37.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -281,19 +600,48 @@
     "entity_a": "Hanne Vandewinkel",
     "entity_b": "Panna Udvardy",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 51.6,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 48.4,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 51.6,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1546,
+    "colley_b": 1454,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 62.9,
+        "d": 0.0,
+        "b": 37.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -306,19 +654,48 @@
     "entity_a": "Janice Tjen",
     "entity_b": "TBD",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 52.7,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 47.3,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 52.7,
     "confidence_level": "Medium",
-    "elo_a": 1500,
+    "elo_a": 1500.0,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1662,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 71.8,
+        "d": 0.0,
+        "b": 28.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -331,19 +708,48 @@
     "entity_a": "TBD",
     "entity_b": "Danka Kovinic",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 48.0,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 52.0,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 52.0,
     "confidence_level": "Medium",
     "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1615,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 34.0,
+        "d": 0.0,
+        "b": 66.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -356,19 +762,48 @@
     "entity_a": "TBD",
     "entity_b": "Jessica Bouzas Maneiro",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 50.8,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 49.2,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 50.8,
     "confidence_level": "Medium",
     "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1454,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 56.6,
+        "d": 0.0,
+        "b": 43.4
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -381,19 +816,48 @@
     "entity_a": "Tereza Martincova",
     "entity_b": "Camila Osorio",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 51.2,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 48.8,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 51.2,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1546,
+    "colley_b": 1477,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 59.8,
+        "d": 0.0,
+        "b": 40.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -406,19 +870,48 @@
     "entity_a": "Petra Marcinko",
     "entity_b": "TBD",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 53.9,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 46.1,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 53.9,
     "confidence_level": "Medium",
-    "elo_a": 1500,
+    "elo_a": 1500.0,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1754,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 81.2,
+        "d": 0.0,
+        "b": 18.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -431,19 +924,48 @@
     "entity_a": "Francesca Jones",
     "entity_b": "Yelyzaveta Kotliar",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 52.0,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 48.0,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 52.0,
     "confidence_level": "Medium",
-    "elo_a": 1500,
+    "elo_a": 1500.0,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1615,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 66.0,
+        "d": 0.0,
+        "b": 34.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -456,19 +978,48 @@
     "entity_a": "Alycia Parks",
     "entity_b": "Moyuka Uchijima",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 51.2,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 48.8,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 51.2,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1569,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 59.8,
+        "d": 0.0,
+        "b": 40.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -481,19 +1032,48 @@
     "entity_a": "Jil Teichmann",
     "entity_b": "Julia Grabher",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 51.6,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 48.4,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 51.6,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1546,
+    "colley_b": 1454,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 62.9,
+        "d": 0.0,
+        "b": 37.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -506,19 +1086,48 @@
     "entity_a": "Yasmine Kabbaj",
     "entity_b": "Berfu Cengiz",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 48.8,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 51.2,
     "confidence_level": "Medium",
     "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1569,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.2,
+        "d": 0.0,
+        "b": 59.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -531,19 +1140,48 @@
     "entity_a": "Yuliia Starodubtseva",
     "entity_b": "Angela Fita Boluda",
     "venue": "Rabat, Morocco",
-    "a_win_prob": 50.0,
+    "a_win_prob": 52.7,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 47.3,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 52.7,
     "confidence_level": "Medium",
-    "elo_a": 1500,
+    "elo_a": 1500.0,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1662,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 71.8,
+        "d": 0.0,
+        "b": 28.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -569,6 +1207,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Wednesday",
     "week_number": 21,
     "year": 2026,
@@ -594,6 +1261,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Thursday",
     "week_number": 21,
     "year": 2026,
@@ -619,6 +1315,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Friday",
     "week_number": 21,
     "year": 2026,
@@ -644,6 +1369,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Saturday",
     "week_number": 21,
     "year": 2026,
@@ -656,19 +1410,48 @@
     "entity_a": "McCartney Kessler",
     "entity_b": "Oksana Selekhmeteva",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 46.4,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 53.6,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 53.6,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1292,
+    "colley_b": 1523,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 20.9,
+        "d": 0.0,
+        "b": 79.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -681,19 +1464,48 @@
     "entity_a": "Yulia Putintseva",
     "entity_b": "Oleksandra Oliynykova",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 44.8,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 55.2,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 55.2,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1246,
+    "colley_b": 1662,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 8.4,
+        "d": 0.0,
+        "b": 91.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -706,19 +1518,48 @@
     "entity_a": "Talia Gibson",
     "entity_b": "Zhang Shuai",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 50.4,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 49.6,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 50.4,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1408,
+    "colley_b": 1385,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 53.3,
+        "d": 0.0,
+        "b": 46.7
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -731,19 +1572,48 @@
     "entity_a": "Anastasia Zakharova",
     "entity_b": "Daria Kasatkina",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 53.0,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 47.0,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 53.0,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1615,
+    "colley_b": 1431,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 74.3,
+        "d": 0.0,
+        "b": 25.7
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -756,19 +1626,48 @@
     "entity_a": "Maria Sakkari",
     "entity_b": "Peyton Stearns",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 46.4,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 53.6,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 53.6,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1431,
+    "colley_b": 1662,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 20.9,
+        "d": 0.0,
+        "b": 79.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -781,19 +1680,48 @@
     "entity_a": "Maya Joint",
     "entity_b": "Ann Li",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 52.0,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 48.0,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 52.0,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1569,
+    "colley_b": 1454,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 66.0,
+        "d": 0.0,
+        "b": 34.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -806,19 +1734,48 @@
     "entity_a": "Sara Bejlek",
     "entity_b": "Emma Navarro",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 49.2,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 50.8,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 50.8,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1431,
+    "colley_b": 1477,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 43.4,
+        "d": 0.0,
+        "b": 56.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -831,19 +1788,48 @@
     "entity_a": "Wang Xinyu",
     "entity_b": "Lois Boisson",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 49.2,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 50.8,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 50.8,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1431,
+    "colley_b": 1477,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 43.4,
+        "d": 0.0,
+        "b": 56.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -856,19 +1842,48 @@
     "entity_a": "Leolia Jeanjean",
     "entity_b": "Leylah Fernandez",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 48.8,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 51.2,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1385,
+    "colley_b": 1454,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.2,
+        "d": 0.0,
+        "b": 59.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 20,
     "year": 2026,
@@ -881,19 +1896,48 @@
     "entity_a": "Magdalena Frech",
     "entity_b": "TBD",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 50.8,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 49.2,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 50.8,
     "confidence_level": "Medium",
-    "elo_a": 1500,
+    "elo_a": 1500.0,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1546,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 56.6,
+        "d": 0.0,
+        "b": 43.4
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -917,8 +1961,37 @@
     "confidence": 50.0,
     "confidence_level": "Medium",
     "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -931,19 +2004,48 @@
     "entity_a": "TBD",
     "entity_b": "Jaqueline Cristian",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 49.6,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 50.4,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 50.4,
     "confidence_level": "Medium",
     "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1523,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 46.7,
+        "d": 0.0,
+        "b": 53.3
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -966,9 +2068,38 @@
     "is_correct": null,
     "confidence": 50.0,
     "confidence_level": "Medium",
-    "elo_a": 1500,
+    "elo_a": 1500.0,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -991,9 +2122,38 @@
     "is_correct": null,
     "confidence": 50.0,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1662,
+    "colley_b": 1662,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -1016,9 +2176,38 @@
     "is_correct": null,
     "confidence": 50.0,
     "confidence_level": "Medium",
-    "elo_a": 1500,
+    "elo_a": 1500.0,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -1031,19 +2220,48 @@
     "entity_a": "Marie Bouzkova",
     "entity_b": "Katerina Siniakova",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 49.2,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 50.8,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 50.8,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1454,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 43.4,
+        "d": 0.0,
+        "b": 56.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 21,
     "year": 2026,
@@ -1069,6 +2287,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Tuesday",
     "week_number": 21,
     "year": 2026,
@@ -1081,19 +2328,48 @@
     "entity_a": "Clara Tauson",
     "entity_b": "TBD",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 52.7,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 47.3,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 52.7,
     "confidence_level": "Medium",
-    "elo_a": 1500,
+    "elo_a": 1500.0,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1662,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 71.8,
+        "d": 0.0,
+        "b": 28.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Tuesday",
     "week_number": 21,
     "year": 2026,
@@ -1106,19 +2382,48 @@
     "entity_a": "TBD",
     "entity_b": "Ekaterina Alexandrova",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 48.8,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 51.2,
     "confidence_level": "Medium",
     "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1569,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.2,
+        "d": 0.0,
+        "b": 59.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Tuesday",
     "week_number": 21,
     "year": 2026,
@@ -1144,6 +2449,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Tuesday",
     "week_number": 21,
     "year": 2026,
@@ -1156,19 +2490,48 @@
     "entity_a": "TBD",
     "entity_b": "Iva Jovic",
     "venue": "Strasbourg, France",
-    "a_win_prob": 50.0,
+    "a_win_prob": 52.4,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 47.6,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 52.4,
     "confidence_level": "Medium",
     "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1362,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 68.9,
+        "d": 0.0,
+        "b": 31.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Tuesday",
     "week_number": 21,
     "year": 2026,
@@ -1194,6 +2557,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 21,
     "year": 2026,
@@ -1219,6 +2611,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Wednesday",
     "week_number": 22,
     "year": 2026,
@@ -1244,6 +2665,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Friday",
     "week_number": 22,
     "year": 2026,
@@ -1269,6 +2719,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 22,
     "year": 2026,
@@ -1294,6 +2773,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Tuesday",
     "week_number": 23,
     "year": 2026,
@@ -1319,6 +2827,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Thursday",
     "week_number": 23,
     "year": 2026,
@@ -1344,6 +2881,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Saturday",
     "week_number": 23,
     "year": 2026,
@@ -1369,6 +2935,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Friday",
     "week_number": 23,
     "year": 2026,
@@ -1394,6 +2989,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Sunday",
     "week_number": 23,
     "year": 2026,
@@ -1419,6 +3043,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Tuesday",
     "week_number": 22,
     "year": 2026,
@@ -1444,6 +3097,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Saturday",
     "week_number": 22,
     "year": 2026,
@@ -1469,6 +3151,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Monday",
     "week_number": 23,
     "year": 2026,
@@ -1494,6 +3205,35 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
     "day_of_week": "Wednesday",
     "week_number": 23,
     "year": 2026,

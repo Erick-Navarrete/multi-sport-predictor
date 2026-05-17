@@ -142,29 +142,5 @@
     "draw_prob": 20.2,
     "b_win_prob": 29.0,
     "is_correct": true
-  },
-  "2026-05-03|St. Pauli|Mainz": {
-    "prediction": "Away Win",
-    "confidence": 37.4,
-    "a_win_prob": 36.8,
-    "draw_prob": 25.8,
-    "b_win_prob": 37.4,
-    "is_correct": true
-  },
-  "2026-05-03|Gladbach|Dortmund": {
-    "prediction": "Home Win",
-    "confidence": 45.6,
-    "a_win_prob": 45.6,
-    "draw_prob": 22.3,
-    "b_win_prob": 32.1,
-    "is_correct": true
-  },
-  "2026-05-03|Freiburg|Wolfsburg": {
-    "prediction": "Home Win",
-    "confidence": 45.3,
-    "a_win_prob": 45.3,
-    "draw_prob": 22.5,
-    "b_win_prob": 32.2,
-    "is_correct": false
   }
 }

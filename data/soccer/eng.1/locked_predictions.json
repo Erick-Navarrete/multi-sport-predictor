@@ -110,29 +110,5 @@
     "draw_prob": 23.7,
     "b_win_prob": 34.0,
     "is_correct": false
-  },
-  "2026-05-03|Bournemouth|C Palace": {
-    "prediction": "Home Win",
-    "confidence": 54.5,
-    "a_win_prob": 54.5,
-    "draw_prob": 18.6,
-    "b_win_prob": 26.9,
-    "is_correct": true
-  },
-  "2026-05-03|Man United|Liverpool": {
-    "prediction": "Home Win",
-    "confidence": 52.2,
-    "a_win_prob": 52.2,
-    "draw_prob": 19.6,
-    "b_win_prob": 28.2,
-    "is_correct": true
-  },
-  "2026-05-03|Aston Villa|Spurs": {
-    "prediction": "Home Win",
-    "confidence": 43.0,
-    "a_win_prob": 43.0,
-    "draw_prob": 23.4,
-    "b_win_prob": 33.6,
-    "is_correct": false
   }
 }

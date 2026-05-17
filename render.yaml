@@ -8,4 +8,6 @@ services:
     envVars:
       - key: FLASK_ENV
         value: production
+      - key: ODDS_API_KEY
+        sync: false
     healthCheckPath: /

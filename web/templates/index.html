@@ -52,6 +52,11 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-s
 .btn-refresh:disabled { opacity: 0.5; cursor: not-allowed; }
 .btn-refresh.loading { background: var(--primary-bg); color: var(--primary); }
 
+/* Season status banner */
+.season-banner { padding: 10px 16px; background: var(--primary-light); border-bottom: 1px solid var(--border); color: var(--text3); font-size: 13px; text-align: center; }
+.season-banner.off-season { background: #fef3c7; color: #92400e; }
+[data-theme="dark"] .season-banner.off-season { background: #78350f; color: #fcd34d; }
+
 /* Tabs */
 .tabs { display: flex; background: var(--surface2); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 10; }
 .tabs button { flex: 1; padding: 10px 8px; border: none; background: none; font-size: 13px; font-weight: 600; color: var(--text3); cursor: pointer; border-bottom: 3px solid transparent; transition: all 0.15s; }
@@ -84,6 +89,7 @@ tr:hover td { background: var(--surface2); }
 .tag-conf-high { background: var(--tag-win-bg); color: var(--tag-win-fg); }
 .tag-conf-med { background: var(--tag-draw-bg); color: var(--tag-draw-fg); }
 .tag-conf-low { background: var(--tag-loss-bg); color: var(--tag-loss-fg); }
+.tag-source { background: var(--primary-bg); color: var(--primary); font-size: 10px; padding: 1px 5px; border-radius: 4px; }
 
 /* Section */
 .section { display: none; }
@@ -100,8 +106,24 @@ tr:hover td { background: var(--surface2); }
 .model-card h3 { font-size: 14px; color: var(--primary); margin-bottom: 8px; }
 .model-card .detail { font-size: 13px; color: var(--text2); line-height: 1.6; }
 .model-card .detail b { color: var(--text); }
+.model-card .tag-source { margin-right: 4px; }
 .feature-list { max-height: 240px; overflow-y: auto; }
 .feature-list span { display: inline-block; padding: 2px 8px; margin: 2px; border-radius: 4px; font-size: 11px; background: var(--primary-light); color: var(--primary); border: 1px solid var(--border); }
+
+/* Weight bar */
+.weight-bar { display: flex; height: 22px; border-radius: 6px; overflow: hidden; margin: 6px 0; font-size: 10px; font-weight: 600; }
+.weight-bar div { display: flex; align-items: center; justify-content: center; padding: 0 6px; color: #fff; min-width: 30px; }
+.wb-elo { background: #4338ca; }
+.wb-colley { background: #0891b2; }
+.wb-form { background: #d97706; }
+.wb-odds { background: #059669; }
+.weight-legend { display: flex; gap: 12px; flex-wrap: wrap; margin: 6px 0; font-size: 11px; }
+.weight-legend span { display: flex; align-items: center; gap: 4px; }
+.weight-legend .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+
+/* Source breakdown in prediction rows */
+.source-row { display: flex; gap: 4px; align-items: center; }
+.source-chip { font-size: 9px; padding: 1px 4px; border-radius: 3px; background: var(--surface2); border: 1px solid var(--border); color: var(--text3); }
 
 /* Footer */
 footer { text-align: center; padding: 12px; font-size: 11px; color: var(--text4); border-top: 1px solid var(--border); background: var(--surface); margin-top: 16px; }
@@ -110,6 +132,34 @@ footer { text-align: center; padding: 12px; font-size: 11px; color: var(--text4)
 .toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); padding: 10px 20px; background: #1f2937; color: #fff; border-radius: 8px; font-size: 13px; z-index: 100; opacity: 0; transition: opacity 0.3s; pointer-events: none; }
 [data-theme="dark"] .toast { background: #e5e7eb; color: #111; }
 .toast.show { opacity: 1; }
+
+/* Off season message */
+.empty-msg { text-align: center; padding: 40px 16px; color: var(--text3); }
+.empty-msg h3 { font-size: 18px; margin-bottom: 8px; color: var(--primary); }
+.empty-msg p { font-size: 14px; }
+
+/* Home page */
+.home-hero { padding: 16px; background: var(--surface); border-bottom: 1px solid var(--border); }
+.home-hero h2 { font-size: 20px; color: var(--primary); margin-bottom: 4px; }
+.home-hero .sub { font-size: 13px; color: var(--text3); margin-bottom: 12px; }
+.home-stats { display: flex; gap: 8px; flex-wrap: wrap; }
+.home-stats .card { min-width: 90px; padding: 10px 14px; background: var(--primary-light); border-radius: 6px; text-align: center; }
+.home-stats .card .num { font-size: 20px; font-weight: 700; color: var(--primary); }
+.home-stats .card .lbl { font-size: 10px; color: var(--text3); margin-top: 2px; }
+.bankroll-bar { display: flex; align-items: center; gap: 8px; padding: 10px 16px; background: var(--surface); border-bottom: 1px solid var(--border); font-size: 13px; color: var(--text2); }
+.bankroll-bar .fund { font-size: 22px; font-weight: 700; color: var(--primary); }
+.pick-card { display: flex; align-items: center; gap: 12px; padding: 10px 16px; border-bottom: 1px solid var(--border2); background: var(--surface); transition: background 0.15s; }
+.pick-card:hover { background: var(--surface2); }
+.pick-rank { width: 28px; height: 28px; border-radius: 50%; background: var(--primary-bg); color: var(--primary); font-size: 13px; font-weight: 700; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+.pick-rank.top3 { background: var(--primary); color: #fff; }
+.pick-info { flex: 1; min-width: 0; }
+.pick-info .match { font-size: 13px; font-weight: 600; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.pick-info .meta { font-size: 11px; color: var(--text3); margin-top: 2px; }
+.pick-amount { text-align: right; flex-shrink: 0; }
+.pick-amount .bet { font-size: 15px; font-weight: 700; color: var(--primary); }
+.pick-amount .payout { font-size: 11px; color: var(--text3); margin-top: 1px; }
+.league-acc-row { display: flex; justify-content: space-between; padding: 4px 0; font-size: 13px; border-bottom: 1px solid var(--border2); }
+.league-acc-row .acc-val { font-weight: 600; color: var(--primary); }
 
 /* Responsive */
 @media (max-width: 768px) {
@@ -129,7 +179,7 @@ footer { text-align: center; padding: 12px; font-size: 11px; color: var(--text4)
 
 <div class="header">
   <div class="header-left">
-    <h1>SportPredictor <span class="badge" id="sport-badge">ELO</span></h1>
+    <h1>SportPredictor <span class="badge" id="sport-badge">ELO+</span></h1>
     <div class="sport-switcher" id="sport-switcher"></div>
   </div>
   <div class="header-actions">
@@ -139,21 +189,43 @@ footer { text-align: center; padding: 12px; font-size: 11px; color: var(--text4)
 </div>
 
 <div class="league-switcher" id="league-switcher" style="display:none"></div>
+<div class="season-banner" id="season-banner" style="display:none"></div>
 
 <div class="summary" id="summary"></div>
 
 <div class="tabs" id="main-tabs">
-  <button class="active" onclick="showTab('predictions')">Predictions</button>
+  <button class="active" onclick="showTab('home')">Home</button>
+  <button onclick="showTab('predictions')">Predictions</button>
   <button onclick="showTab('historical')">Historical</button>
   <button onclick="showTab('standings')">Standings</button>
   <button onclick="showTab('modeling')">Modeling</button>
   <button onclick="showTab('analytics')">Analytics</button>
 </div>
 
+<!-- HOME TAB -->
+<div class="section active" id="home">
+  <div class="home-hero">
+    <h2>Weekly Best Bets</h2>
+    <div class="sub" id="home-sub">Loading picks across all leagues...</div>
+    <div class="home-stats" id="home-stats"></div>
+  </div>
+  <div class="bankroll-bar">
+    <span>Weekly Bankroll:</span>
+    <span class="fund">$100</span>
+    <span style="margin-left:auto;font-size:11px;color:var(--text3)">Bet sizing: proportional to confidence</span>
+  </div>
+  <div id="home-picks"></div>
+  <div style="padding:16px">
+    <h2 style="margin-bottom:8px">Model Accuracy by League</h2>
+    <div id="home-league-acc"></div>
+  </div>
+</div>
+
 <!-- PREDICTIONS TAB -->
-<div class="section active" id="predictions">
+<div class="section" id="predictions">
+  <div id="pred-empty" class="empty-msg" style="display:none"><h3>No upcoming matches</h3><p>This league is currently off-season. Predictions will appear when the season starts.</p></div>
   <div class="table-wrap"><table id="pred-table"><thead><tr>
-    <th data-key="date">Date</th><th data-key="entity_a" id="col-entity-a">Home</th><th data-key="entity_b" id="col-entity-b">Away</th><th data-key="prediction">Prediction</th><th data-key="confidence" data-type="num">Confidence</th><th id="col-a-prob" data-key="a_win_prob" data-type="num">Home %</th><th id="col-draw-prob" data-key="draw_prob" data-type="num">Draw %</th><th id="col-b-prob" data-key="b_win_prob" data-type="num">Away %</th><th data-key="elo_diff" data-type="num">ELO Diff</th><th>Result</th><th>Score</th>
+    <th data-key="date">Date</th><th data-key="entity_a" id="col-entity-a">Home</th><th data-key="entity_b" id="col-entity-b">Away</th><th data-key="prediction">Prediction</th><th data-key="confidence" data-type="num">Confidence</th><th id="col-a-prob" data-key="a_win_prob" data-type="num">Home %</th><th id="col-draw-prob" data-key="draw_prob" data-type="num">Draw %</th><th id="col-b-prob" data-key="b_win_prob" data-type="num">Away %</th><th data-key="elo_diff" data-type="num">ELO Diff</th><th>Sources</th><th>Result</th><th>Score</th>
   </tr></thead><tbody></tbody></table></div>
 </div>
 
@@ -167,7 +239,7 @@ footer { text-align: center; padding: 12px; font-size: 11px; color: var(--text4)
 <!-- STANDINGS TAB -->
 <div class="section" id="standings">
   <div class="table-wrap"><table id="stand-table"><thead><tr>
-    <th data-key="position" data-type="num">#</th><th data-key="name">Name</th><th data-key="matches" data-type="num">Played</th><th data-key="wins" data-type="num">Wins</th><th data-key="draws" data-type="num">Draws</th><th data-key="losses" data-type="num">Losses</th><th data-key="score_for" data-type="num">For</th><th data-key="score_against" data-type="num">Against</th><th data-key="score_diff" data-type="num">Diff</th><th data-key="points" data-type="num">Points</th><th data-key="rating" data-type="num">ELO</th><th data-key="form">Form</th>
+    <th data-key="position" data-type="num">#</th><th data-key="name">Name</th><th data-key="matches" data-type="num">Played</th><th data-key="wins" data-type="num">Wins</th><th data-key="draws" data-type="num">Draws</th><th data-key="losses" data-type="num">Losses</th><th data-key="score_for" data-type="num">For</th><th data-key="score_against" data-type="num">Against</th><th data-key="score_diff" data-type="num">Diff</th><th data-key="points" data-type="num">Points</th><th data-key="rating" data-type="num">ELO</th><th data-key="colley_rating" data-type="num">Colley</th><th data-key="form">Form</th>
   </tr></thead><tbody></tbody></table></div>
 </div>
 
@@ -175,9 +247,13 @@ footer { text-align: center; padding: 12px; font-size: 11px; color: var(--text4)
 <div class="section" id="modeling">
   <div class="model-grid">
     <div class="model-card"><h3>Model Architecture</h3><div class="detail" id="model-ensemble">Loading...</div></div>
-    <div class="model-card"><h3>Rating System</h3><div class="detail" id="model-elo">Loading...</div></div>
-    <div class="model-card"><h3>Prediction Blend</h3><div class="detail" id="model-blend">Loading...</div></div>
+    <div class="model-card"><h3>Prediction Blend Weights</h3><div class="detail" id="model-blend">Loading...</div></div>
+    <div class="model-card"><h3>ELO Rating System</h3><div class="detail" id="model-elo">Loading...</div></div>
+    <div class="model-card"><h3>Colley Matrix</h3><div class="detail" id="model-colley">Loading...</div></div>
+    <div class="model-card"><h3>Form Signal</h3><div class="detail" id="model-form">Loading...</div></div>
+    <div class="model-card"><h3>Betting Odds</h3><div class="detail" id="model-odds">Loading...</div></div>
     <div class="model-card"><h3>Model Performance</h3><div class="detail" id="model-performance">Loading...</div></div>
+    <div class="model-card"><h3>Season Status</h3><div class="detail" id="model-season">Loading...</div></div>
     <div class="model-card" style="grid-column: 1 / -1;"><h3>Feature Set</h3><div class="detail feature-list" id="model-features">Loading...</div></div>
   </div>
 </div>
@@ -193,7 +269,7 @@ footer { text-align: center; padding: 12px; font-size: 11px; color: var(--text4)
 
 <div class="toast" id="toast"></div>
 
-<footer>SportPredictor &middot; Multi-Sport ELO &middot; Data updated <span id="last-updated">-</span></footer>
+<footer>SportPredictor &middot; Multi-Signal Blend (ELO+Colley+Form+Odds) &middot; Data updated <span id="last-updated">-</span></footer>
 
 <script>
 /* ── State ─────────────────────────────────────────────────────── */
@@ -212,7 +288,7 @@ function toggleTheme() {
   var isDark = html.getAttribute('data-theme') === 'dark';
   html.setAttribute('data-theme', isDark ? 'light' : 'dark');
   localStorage.setItem('theme', isDark ? 'light' : 'dark');
-  document.getElementById('theme-btn').innerHTML = isDark ? '☾' : '☉';
+  document.getElementById('theme-btn').innerHTML = isDark ? '&#9790;' : '&#9788;';
 }
 (function() {
   var saved = localStorage.getItem('theme');
@@ -266,12 +342,9 @@ function updateSwitcherUI() {
 }
 
 function updateColumnHeaders() {
-  var sport = sportsData.find(function(s) { return s.slug === currentSport; });
-  if (!sport) return;
-  // Get result labels from model info (loaded after API call)
   var isPVP = currentSport === 'tennis' || currentSport === 'mma';
-  var aLabel = isPVP ? 'Player 1' : 'Home';
-  var bLabel = isPVP ? 'Player 2' : 'Away';
+  var aLabel = isPVP ? 'P1' : 'Home';
+  var bLabel = isPVP ? 'P2' : 'Away';
   var hasDraw = currentSport === 'soccer' || currentSport === 'mma';
 
   document.getElementById('col-entity-a').textContent = aLabel;
@@ -283,13 +356,37 @@ function updateColumnHeaders() {
   document.getElementById('col-draw-prob').style.display = hasDraw ? '' : 'none';
 }
 
+/* ── Season Banner ─────────────────────────────────────────────── */
+function updateSeasonBanner(status) {
+  var el = document.getElementById('season-banner');
+  if (status === 'off_season' || status === 'dormant') {
+    el.style.display = 'block';
+    el.className = 'season-banner off-season';
+    el.textContent = status === 'dormant'
+      ? 'No data available yet for this league'
+      : 'Off-season — no upcoming matches. Historical data still available.';
+  } else if (status === 'in_season') {
+    el.style.display = 'none';
+  } else {
+    el.style.display = 'none';
+  }
+}
+
 /* ── Tabs ──────────────────────────────────────────────────────── */
 function showTab(name) {
   document.querySelectorAll('.section').forEach(function(s) { s.classList.remove('active'); });
   document.querySelectorAll('.tabs button').forEach(function(b) { b.classList.remove('active'); });
   document.getElementById(name).classList.add('active');
   event.target.classList.add('active');
+
+  // Home tab hides league-specific UI; other tabs show it
+  var isHome = name === 'home';
+  document.getElementById('league-switcher').style.display = isHome ? 'none' : '';
+  document.getElementById('season-banner').style.display = isHome ? 'none' : '';
+  document.getElementById('summary').style.display = isHome ? 'none' : '';
+
   if (name === 'analytics' && historical.length) renderTrendChart();
+  if (name === 'home') renderHome();
 }
 
 /* ── Tags ──────────────────────────────────────────────────────── */
@@ -301,13 +398,8 @@ function resultTag(result) {
   if (lower === 'draw') return tag(result, 'tag-draw');
   return tag(result, 'tag-loss');
 }
-function confTag(conf) {
-  var cls = conf >= 70 ? 'tag-conf-high' : conf >= 50 ? 'tag-conf-med' : 'tag-conf-low';
-  return tag(conf + '%', cls);
-}
-function correctTag(ok) {
-  return ok ? tag('Yes', 'tag-correct') : ok === false ? tag('No', 'tag-wrong') : '-';
-}
+function confTag(conf) { var cls = conf >= 70 ? 'tag-conf-high' : conf >= 50 ? 'tag-conf-med' : 'tag-conf-low'; return tag(conf + '%', cls); }
+function correctTag(ok) { return ok ? tag('Yes', 'tag-correct') : ok === false ? tag('No', 'tag-wrong') : '-'; }
 
 /* ── Toast ─────────────────────────────────────────────────────── */
 function showToast(msg) {
@@ -348,11 +440,20 @@ function makeSortFn(dataSource, renderFn) {
 }
 
 /* ── Render: Predictions ───────────────────────────────────────── */
+function sourceChips(p) {
+  var src = p.sources || {};
+  var chips = [];
+  if (src.elo) chips.push('<span class="source-chip" title="ELO: ' + src.elo.a + '/' + src.elo.d + '/' + src.elo.b + '">E</span>');
+  if (src.colley) chips.push('<span class="source-chip" title="Colley: ' + src.colley.a + '/' + src.colley.d + '/' + src.colley.b + '">C</span>');
+  if (src.form) chips.push('<span class="source-chip" title="Form: ' + src.form.a + '/' + src.form.d + '/' + src.form.b + '">F</span>');
+  if (src.odds) chips.push('<span class="source-chip" title="Odds: ' + src.odds.a + '/' + src.odds.b + '">O</span>');
+  return chips.length ? '<div class="source-row">' + chips.join('') + '</div>' : '-';
+}
+
 function predictionRow(p) {
   var result = p.actual_result && p.actual_result !== 'Not Played' ? resultTag(p.actual_result) : '-';
   var score = (p.score_a != null && p.score_b != null) ? p.score_a + '-' + p.score_b : '-';
-  var drawCol = (currentSport === 'soccer' || currentSport === 'mma') ?
-    '<td>' + (p.draw_prob || 0) + '</td>' : '';
+  var drawCol = (currentSport === 'soccer' || currentSport === 'mma') ? '<td>' + (p.draw_prob || 0) + '</td>' : '';
   return '<tr>'
     + '<td>' + (p.date || '').split(' ')[0] + '</td>'
     + '<td>' + (p.entity_a || '') + '</td>'
@@ -363,11 +464,18 @@ function predictionRow(p) {
     + drawCol
     + '<td>' + (p.b_win_prob || 0) + '</td>'
     + '<td>' + ((p.elo_diff || 0) > 0 ? '+' : '') + (p.elo_diff || 0) + '</td>'
+    + '<td>' + sourceChips(p) + '</td>'
     + '<td>' + result + '</td>'
     + '<td>' + score + '</td></tr>';
 }
 
 function renderPredictions() {
+  var emptyEl = document.getElementById('pred-empty');
+  if (predictions.length === 0 && (summary.season_status === 'off_season' || summary.season_status === 'dormant')) {
+    emptyEl.style.display = 'block';
+  } else {
+    emptyEl.style.display = 'none';
+  }
   document.querySelector('#pred-table tbody').innerHTML = predictions.map(predictionRow).join('');
   sortPredictions = makeSortFn(predictions, function(d) {
     document.querySelector('#pred-table tbody').innerHTML = d.map(predictionRow).join('');
@@ -410,6 +518,7 @@ function standingsRow(t, i) {
     + '<td>' + ((t.score_diff || 0) > 0 ? '+' : '') + (t.score_diff || 0) + '</td>'
     + '<td><b>' + (t.points || 0) + '</b></td>'
     + '<td>' + (t.rating || 0) + '</td>'
+    + '<td>' + (t.colley_rating || 0) + '</td>'
     + '<td>' + (t.form || '-') + '</td></tr>';
 }
 
@@ -425,14 +534,94 @@ function renderStandings() {
 function renderModeling() {
   var m = modelInfo;
   if (!m || !m.ensemble) return;
-  document.getElementById('model-ensemble').innerHTML = '<b>Type:</b> ' + (m.ensemble.type || 'ELO');
+
+  // Ensemble
+  document.getElementById('model-ensemble').innerHTML =
+    '<b>Type:</b> ' + (m.ensemble.type || 'Blend') + '<br>' +
+    '<b>Estimators:</b> ' + (m.ensemble.estimators || 1) + '<br>' +
+    '<span style="font-size:12px;color:var(--text3)">' + (m.ensemble.description || '') + '</span>';
+
+  // Blend weights with visual bar
+  var w = m.blend && m.blend.weights || {};
+  var total = (w.elo||0) + (w.colley||0) + (w.form||0) + (w.odds||0);
+  if (total > 0) {
+    var pElo = Math.round((w.elo||0)/total*100);
+    var pCol = Math.round((w.colley||0)/total*100);
+    var pForm = Math.round((w.form||0)/total*100);
+    var pOdds = Math.round((w.odds||0)/total*100);
+    var barHtml = '<div class="weight-bar">' +
+      '<div class="wb-elo" style="width:' + pElo + '%">ELO ' + Math.round(w.elo*100) + '%</div>' +
+      '<div class="wb-colley" style="width:' + pCol + '%">C ' + Math.round(w.colley*100) + '%</div>' +
+      '<div class="wb-form" style="width:' + pForm + '%">F ' + Math.round(w.form*100) + '%</div>' +
+      '<div class="wb-odds" style="width:' + pOdds + '%">O ' + Math.round(w.odds*100) + '%</div>' +
+      '</div>' +
+      '<div class="weight-legend">' +
+      '<span><span class="dot" style="background:#4338ca"></span> ELO</span>' +
+      '<span><span class="dot" style="background:#0891b2"></span> Colley</span>' +
+      '<span><span class="dot" style="background:#d97706"></span> Form</span>' +
+      '<span><span class="dot" style="background:#059669"></span> Odds</span>' +
+      '</div>';
+    document.getElementById('model-blend').innerHTML = barHtml +
+      '<div style="font-size:12px;color:var(--text3);margin-top:4px">' + (m.blend.note || '') + '</div>';
+  }
+
+  // ELO
   if (m.elo) {
     document.getElementById('model-elo').innerHTML =
-      '<b>K-factor:</b> ' + (m.elo.k || '-') + ' &nbsp; <b>Home advantage:</b> ' + (m.elo.home_advantage || 0) + ' &nbsp; <b>Draw margin:</b> ' + (m.elo.draw_margin || 0);
+      '<b>K-factor:</b> ' + (m.elo.k || '-') +
+      ' &nbsp; <b>Home adv:</b> ' + (m.elo.home_advantage || 0) +
+      ' &nbsp; <b>Draw margin:</b> ' + (m.elo.draw_margin || 0) +
+      '<br><b>Decay:</b> ' + (m.elo.decay || '1.0') +
+      ' <span style="font-size:11px;color:var(--text3)">(' + (m.elo.decay_note || '') + ')</span>';
   }
-  document.getElementById('model-blend').innerHTML = '<b>Blend:</b> ' + (m.blend && m.blend.type || 'ELO-only') + (m.blend && m.blend.note ? ' (' + m.blend.note + ')' : '');
+
+  // Colley
+  if (m.colley) {
+    document.getElementById('model-colley').innerHTML =
+      '<b>Type:</b> ' + (m.colley.type || 'Colley Matrix') +
+      '<br><span style="font-size:12px;color:var(--text3)">' + (m.colley.description || '') + '</span>' +
+      '<br><b>Uses margin of victory:</b> ' + (m.colley.uses_margin ? 'Yes' : 'No') +
+      '<br><span style="font-size:11px;color:var(--text3)">' + (m.colley.note || '') + '</span>';
+  }
+
+  // Form
+  if (m.form) {
+    document.getElementById('model-form').innerHTML =
+      '<b>Window:</b> Last ' + (m.form.window || 5) + ' matches' +
+      '<br><span style="font-size:12px;color:var(--text3)">' + (m.form.description || '') + '</span>' +
+      '<br><b>Scale:</b> 0 (all losses) to 100 (all wins), recency-weighted';
+  }
+
+  // Odds
+  if (m.odds) {
+    var oddsHtml = '<b>Provider:</b> ' + (m.odds.provider || 'N/A');
+    if (m.odds.configured) {
+      oddsHtml += ' <span class="tag tag-win" style="font-size:10px;padding:1px 5px">ACTIVE</span>';
+    } else {
+      oddsHtml += ' <span class="tag tag-loss" style="font-size:10px;padding:1px 5px">NOT CONFIGURED</span>';
+    }
+    oddsHtml += '<br><b>Coverage:</b> ' + (m.odds.coverage || 'N/A');
+    oddsHtml += '<br><span style="font-size:12px;color:var(--text3)">' + (m.odds.fallback || '') + '</span>';
+    document.getElementById('model-odds').innerHTML = oddsHtml;
+  }
+
+  // Performance
   var perf = m.performance || {};
-  document.getElementById('model-performance').innerHTML = '<b>Accuracy:</b> ' + (perf.accuracy || '-') + '% &nbsp; <b>Matches:</b> ' + (perf.total_historical || '-');
+  document.getElementById('model-performance').innerHTML =
+    '<b>Accuracy:</b> ' + (perf.accuracy || '-') + '%' +
+    ' &nbsp; <b>Matches:</b> ' + (perf.total_historical || '-') +
+    ' &nbsp; <b>Odds coverage:</b> ' + (perf.odds_coverage || 0) + '/' + (perf.current_predictions || 0) + ' predictions';
+
+  // Season
+  var statusLabels = { in_season: 'Active Season', off_season: 'Off-Season', dormant: 'No Data Available' };
+  document.getElementById('model-season').innerHTML =
+    '<b>Status:</b> ' + (statusLabels[m.season_status] || m.season_status || 'Unknown') +
+    '<br><span style="font-size:12px;color:var(--text3)">' +
+    (m.season_status === 'in_season' ? 'Matches are being played — predictions are live' :
+     m.season_status === 'off_season' ? 'Season ended — historical data available, no new predictions' :
+     'No match data available yet for this league') + '</span>';
+
+  // Features
   if (m.features && m.features.length) {
     document.getElementById('model-features').innerHTML = m.features.map(function(f) { return '<span>' + f + '</span>'; }).join('');
   }
@@ -518,15 +707,16 @@ function renderAnalytics() {
   var total = historical.length;
   var correct = historical.filter(function(p) { return p.is_correct; }).length;
   var acc = total > 0 ? (correct / total * 100).toFixed(1) : 0;
+  var oddsCov = predictions.filter(function(p) { return p.odds_available; }).length;
   var rows = [
     ['Overall Accuracy', acc + '% (' + correct + '/' + total + ')'],
     ['Total Historical', historical.length],
     ['Current Predictions', predictions.length],
+    ['Odds Coverage', oddsCov + '/' + predictions.length + ' predictions'],
   ];
   var tb = document.querySelector('#analytics-table tbody');
   tb.innerHTML = rows.map(function(r) { return '<tr><td>' + r[0] + '</td><td>' + r[1] + '</td></tr>'; }).join('');
 
-  // Per-entity accuracy
   var entityAcc = {};
   historical.forEach(function(p) {
     [p.entity_a, p.entity_b].forEach(function(e) {
@@ -558,6 +748,9 @@ function renderSummary() {
   html += '<div class="card"><div class="num">' + (s.total_historical || 0) + '</div><div class="lbl">Matches</div></div>';
   html += '<div class="card"><div class="num">' + (s.current_predictions || 0) + '</div><div class="lbl">Upcoming</div></div>';
   html += '<div class="card"><div class="num">' + (s.entities || 0) + '</div><div class="lbl">Entities</div></div>';
+  if (s.odds_coverage !== undefined) {
+    html += '<div class="card"><div class="num">' + (s.odds_coverage || 0) + '/' + (s.current_predictions || 0) + '</div><div class="lbl">Ods Cov</div></div>';
+  }
   document.getElementById('summary').innerHTML = html;
   document.getElementById('last-updated').textContent = s.last_updated || '-';
 }
@@ -580,10 +773,10 @@ function loadLeagueData() {
     standings = results[3].data || [];
     modelInfo = results[4].data || {};
 
-    // Update draw column visibility based on model info
     var hasDraw = currentSport === 'soccer' || currentSport === 'mma';
     document.getElementById('col-draw-prob').style.display = hasDraw ? '' : 'none';
 
+    updateSeasonBanner(summary.season_status);
     renderSummary();
     renderPredictions();
     renderHistorical();
@@ -611,22 +804,86 @@ function refreshData() {
     });
 }
 
+/* ── Home Page ─────────────────────────────────────────────────── */
+var homeData = { picks: [], league_accuracy: [], model_accuracy: 0 };
+
+function loadHomeData() {
+  fetch('/api/home/weekly-picks').then(function(r) { return r.json(); }).then(function(res) {
+    homeData = res.data || {};
+    renderHome();
+  }).catch(function(err) { console.error('Home load failed:', err); });
+}
+
+function renderHome() {
+  var d = homeData;
+  if (!d.picks) return;
+
+  document.getElementById('home-sub').textContent =
+    'Week ' + (d.week || '?') + ' — Top ' + (d.total_picks || 0) + ' confidence picks across all leagues' +
+    (d.high_confidence_count ? ' (' + d.high_confidence_count + ' high confidence)' : '');
+
+  // Stats
+  var statsHtml = '';
+  statsHtml += '<div class="card"><div class="num">' + (d.total_picks || 0) + '</div><div class="lbl">Picks</div></div>';
+  statsHtml += '<div class="card"><div class="num">' + (d.model_accuracy || 0) + '%</div><div class="lbl">Model Acc</div></div>';
+  statsHtml += '<div class="card"><div class="num">' + (d.high_confidence_count || 0) + '</div><div class="lbl">High Conf</div></div>';
+  statsHtml += '<div class="card"><div class="num">$100</div><div class="lbl">Bankroll</div></div>';
+  document.getElementById('home-stats').innerHTML = statsHtml;
+
+  // Picks
+  var picksHtml = '';
+  if (d.picks.length === 0) {
+    picksHtml = '<div class="empty-msg"><h3>No picks this week</h3><p>No high/medium confidence matches found for the current week across active leagues.</p></div>';
+  } else {
+    d.picks.forEach(function(p, i) {
+      var rank = i + 1;
+      var rankClass = rank <= 3 ? 'pick-rank top3' : 'pick-rank';
+      var confTag = p.confidence_level === 'High' ? 'tag-conf-high' : 'tag-conf-med';
+      picksHtml += '<div class="pick-card">' +
+        '<div class="' + rankClass + '">' + rank + '</div>' +
+        '<div class="pick-info">' +
+          '<div class="match">' + (p.entity_a || '') + ' vs ' + (p.entity_b || '') + '</div>' +
+          '<div class="meta">' +
+            '<span class="tag ' + confTag + '">' + p.prediction + '</span> ' +
+            (p.confidence || 0) + '% &middot; ' +
+            p.league + ' &middot; ' +
+            (p.date || '').split(' ')[0] +
+          '</div>' +
+        '</div>' +
+        '<div class="pick-amount">' +
+          '<div class="bet">$' + (p.bet_amount || 0).toFixed(2) + '</div>' +
+          '<div class="payout">+$' + (p.estimated_profit || 0).toFixed(2) + '</div>' +
+        '</div>' +
+      '</div>';
+    });
+  }
+  document.getElementById('home-picks').innerHTML = picksHtml;
+
+  // League accuracy
+  var accHtml = '';
+  (d.league_accuracy || []).forEach(function(l) {
+    accHtml += '<div class="league-acc-row"><span>' + l.league + ' (' + l.matches + ')</span><span class="acc-val">' + l.accuracy + '%</span></div>';
+  });
+  if (!accHtml) accHtml = '<div style="padding:8px;color:var(--text3)">No historical data yet</div>';
+  document.getElementById('home-league-acc').innerHTML = accHtml;
+}
+
 /* ── Init ──────────────────────────────────────────────────────── */
 makeSortable('pred-table', function(k, d, t) { sortPredictions(k, d, t); });
 makeSortable('hist-table', function(k, d, t) { sortHistorical(k, d, t); });
 makeSortable('stand-table', function(k, d, t) { sortStandings(k, d, t); });
 
 if (document.documentElement.getAttribute('data-theme') === 'dark') {
-  document.getElementById('theme-btn').innerHTML = '☉';
+  document.getElementById('theme-btn').innerHTML = '&#9788;';
 }
 
-// Load sports list, then default league data
 fetch('/api/sports').then(function(r) { return r.json(); }).then(function(res) {
   sportsData = res.data || [];
   currentSport = res.default_sport || 'soccer';
   currentLeague = res.default_league || 'eng.1';
   updateSwitcherUI();
   loadLeagueData();
+  loadHomeData();
 });
 </script>
 </body>

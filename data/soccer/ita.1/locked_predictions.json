@@ -94,37 +94,5 @@
     "draw_prob": 19.3,
     "b_win_prob": 27.9,
     "is_correct": true
-  },
-  "2026-05-03|Bologna|Cagliari": {
-    "prediction": "Home Win",
-    "confidence": 50.2,
-    "a_win_prob": 50.2,
-    "draw_prob": 20.4,
-    "b_win_prob": 29.4,
-    "is_correct": false
-  },
-  "2026-05-03|Sassuolo|Milan": {
-    "prediction": "Home Win",
-    "confidence": 50.8,
-    "a_win_prob": 50.8,
-    "draw_prob": 20.2,
-    "b_win_prob": 29.0,
-    "is_correct": true
-  },
-  "2026-05-03|Juventus|Verona": {
-    "prediction": "Home Win",
-    "confidence": 50.2,
-    "a_win_prob": 50.2,
-    "draw_prob": 20.4,
-    "b_win_prob": 29.4,
-    "is_correct": false
-  },
-  "2026-05-03|Inter Milan|Parma": {
-    "prediction": "Home Win",
-    "confidence": 54.8,
-    "a_win_prob": 54.8,
-    "draw_prob": 18.5,
-    "b_win_prob": 26.7,
-    "is_correct": true
   }
 }

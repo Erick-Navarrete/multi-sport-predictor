@@ -166,37 +166,5 @@
     "draw_prob": 18.7,
     "b_win_prob": 27.0,
     "is_correct": true
-  },
-  "2026-05-03|Celta Vigo|Elche": {
-    "prediction": "Home Win",
-    "confidence": 52.1,
-    "a_win_prob": 52.1,
-    "draw_prob": 19.6,
-    "b_win_prob": 28.3,
-    "is_correct": true
-  },
-  "2026-05-03|Getafe|Rayo": {
-    "prediction": "Home Win",
-    "confidence": 42.6,
-    "a_win_prob": 42.6,
-    "draw_prob": 23.6,
-    "b_win_prob": 33.8,
-    "is_correct": false
-  },
-  "2026-05-03|Betis|Real Oviedo": {
-    "prediction": "Home Win",
-    "confidence": 54.1,
-    "a_win_prob": 54.1,
-    "draw_prob": 18.8,
-    "b_win_prob": 27.1,
-    "is_correct": true
-  },
-  "2026-05-03|Espanyol|Real Madrid": {
-    "prediction": "Home Win",
-    "confidence": 40.9,
-    "a_win_prob": 40.9,
-    "draw_prob": 24.3,
-    "b_win_prob": 34.8,
-    "is_correct": false
   }
 }

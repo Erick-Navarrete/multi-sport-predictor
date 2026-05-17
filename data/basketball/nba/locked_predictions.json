@@ -158,21 +158,5 @@
     "draw_prob": 0.0,
     "b_win_prob": 36.3,
     "is_correct": false
-  },
-  "2026-05-03|Pistons|Magic": {
-    "prediction": "Home Win",
-    "confidence": 62.0,
-    "a_win_prob": 62.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 38.0,
-    "is_correct": true
-  },
-  "2026-05-03|Cavaliers|Raptors": {
-    "prediction": "Home Win",
-    "confidence": 61.7,
-    "a_win_prob": 61.7,
-    "draw_prob": 0.0,
-    "b_win_prob": 38.3,
-    "is_correct": true
   }
 }

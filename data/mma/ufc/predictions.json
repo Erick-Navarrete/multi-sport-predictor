@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "date": "2026-05-16 21:00",
-    "time": "21:00",
-    "entity_a": "Shauna Bannon",
-    "entity_b": "Nicolle Caliari",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 08:00",
+    "time": "08:00",
+    "entity_a": "Loma Lookboonmee",
+    "entity_b": "Jaqueline Amorim",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -19,18 +19,47 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
     "day_of_week": "Saturday",
-    "week_number": 20,
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 2,
-    "date": "2026-05-16 21:00",
-    "time": "21:00",
-    "entity_a": "Daniel Barez",
-    "entity_b": "Luis Gurule",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 08:00",
+    "time": "08:00",
+    "entity_a": "Zhu Kangjie",
+    "entity_b": "Ramon Taveras",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -44,18 +73,47 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
     "day_of_week": "Saturday",
-    "week_number": 20,
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 3,
-    "date": "2026-05-16 21:00",
-    "time": "21:00",
-    "entity_a": "Alice Ardelean",
-    "entity_b": "Polyana Viana",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 08:00",
+    "time": "08:00",
+    "entity_a": "Angela Hill",
+    "entity_b": "Jingnan Xiong",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -69,18 +127,47 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
     "day_of_week": "Saturday",
-    "week_number": 20,
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 4,
-    "date": "2026-05-16 21:00",
-    "time": "21:00",
-    "entity_a": "Cody Brundage",
-    "entity_b": "Andre Petroski",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 08:00",
+    "time": "08:00",
+    "entity_a": "Rei Tsuruya",
+    "entity_b": "Jesus Aguilar",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -94,18 +181,47 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
     "day_of_week": "Saturday",
-    "week_number": 20,
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 5,
-    "date": "2026-05-16 21:00",
-    "time": "21:00",
-    "entity_a": "Ketlen Vieira",
-    "entity_b": "Jacqueline Cavalcanti",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 08:00",
+    "time": "08:00",
+    "entity_a": "Aoriqileng",
+    "entity_b": "Cody Haddon",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -119,18 +235,47 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
     "day_of_week": "Saturday",
-    "week_number": 20,
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 6,
-    "date": "2026-05-16 21:00",
-    "time": "21:00",
-    "entity_a": "Tommy Gantt",
-    "entity_b": "Artur Minev",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 08:00",
+    "time": "08:00",
+    "entity_a": "Ding Meng",
+    "entity_b": "Jose Henrique",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -144,18 +289,47 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
     "day_of_week": "Saturday",
-    "week_number": 20,
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 7,
-    "date": "2026-05-16 21:00",
-    "time": "21:00",
-    "entity_a": "Tuco Tokkos",
-    "entity_b": "Ivan Erslan",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 08:00",
+    "time": "08:00",
+    "entity_a": "Yi Sak Lee",
+    "entity_b": "Luis Felipe Dias",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -169,18 +343,47 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
     "day_of_week": "Saturday",
-    "week_number": 20,
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 8,
-    "date": "2026-05-17 00:00",
-    "time": "00:00",
-    "entity_a": "Nikolay Veretennikov",
-    "entity_b": "Khaos Williams",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 11:00",
+    "time": "11:00",
+    "entity_a": "Alex Perez",
+    "entity_b": "Sumudaerji",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -194,18 +397,47 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
-    "day_of_week": "Sunday",
-    "week_number": 20,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
+    "day_of_week": "Saturday",
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 9,
-    "date": "2026-05-17 00:00",
-    "time": "00:00",
-    "entity_a": "Timmy Cuamba",
-    "entity_b": "Bernardo Sopaj",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 11:00",
+    "time": "11:00",
+    "entity_a": "Muslim Salikhov",
+    "entity_b": "Jake Matthews",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -219,18 +451,47 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
-    "day_of_week": "Sunday",
-    "week_number": 20,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
+    "day_of_week": "Saturday",
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 10,
-    "date": "2026-05-17 00:00",
-    "time": "00:00",
-    "entity_a": "Modestas Bukauskas",
-    "entity_b": "Christian Edwards",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 11:00",
+    "time": "11:00",
+    "entity_a": "Kai Asakura",
+    "entity_b": "Cameron Smotherman",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -244,18 +505,47 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
-    "day_of_week": "Sunday",
-    "week_number": 20,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
+    "day_of_week": "Saturday",
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 11,
-    "date": "2026-05-17 00:00",
-    "time": "00:00",
-    "entity_a": "Malcolm Wellmaker",
-    "entity_b": "Juan Diaz",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 11:00",
+    "time": "11:00",
+    "entity_a": "Sergei Pavlovich",
+    "entity_b": "Tallison Teixeira",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -269,18 +559,47 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
-    "day_of_week": "Sunday",
-    "week_number": 20,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
+    "day_of_week": "Saturday",
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 12,
-    "date": "2026-05-17 00:00",
-    "time": "00:00",
-    "entity_a": "Dooho Choi",
-    "entity_b": "Daniel Santos",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 11:00",
+    "time": "11:00",
+    "entity_a": "Zhang Mingyang",
+    "entity_b": "Alonzo Menifield",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -294,18 +613,47 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
-    "day_of_week": "Sunday",
-    "week_number": 20,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
+    "day_of_week": "Saturday",
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 13,
-    "date": "2026-05-17 00:00",
-    "time": "00:00",
-    "entity_a": "Arnold Allen",
-    "entity_b": "Melquizael Costa",
-    "venue": "Meta APEX",
+    "date": "2026-05-30 11:00",
+    "time": "11:00",
+    "entity_a": "Song Yadong",
+    "entity_b": "Deiveson Figueiredo",
+    "venue": "Galaxy Arena",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
@@ -319,8 +667,37 @@
     "elo_a": 1500,
     "elo_b": 1500,
     "elo_diff": 0,
-    "day_of_week": "Sunday",
-    "week_number": 20,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.0625,
+      "form": 0.3125,
+      "odds": 0.0
+    },
+    "day_of_week": "Saturday",
+    "week_number": 22,
     "year": 2026,
     "month": 5
   }

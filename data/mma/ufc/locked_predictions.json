@@ -1,4 +1,100 @@
 {
+  "2026-05-16|Shauna Bannon|Nicolle Caliari": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-16|Daniel Barez|Luis Gurule": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-16|Alice Ardelean|Polyana Viana": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Cody Brundage|Andre Petroski": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Ketlen Vieira|Jacqueline Cavalcanti": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Tommy Gantt|Artur Minev": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-16|Tuco Tokkos|Ivan Erslan": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-17|Nikolay Veretennikov|Khaos Williams": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-17|Timmy Cuamba|Bernardo Sopaj": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-17|Modestas Bukauskas|Christian Edwards": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-17|Malcolm Wellmaker|Juan Diaz": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-17|Dooho Choi|Daniel Santos": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
   "2026-05-09|Clayton Carpenter|Jose Ochoa": {
     "prediction": "Fighter 1 Win",
     "confidence": 50.0,

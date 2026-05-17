@@ -86,45 +86,5 @@
     "draw_prob": 21.6,
     "b_win_prob": 31.0,
     "is_correct": true
-  },
-  "2026-05-03|Lille|Le Havre AC": {
-    "prediction": "Home Win",
-    "confidence": 50.2,
-    "a_win_prob": 50.2,
-    "draw_prob": 20.4,
-    "b_win_prob": 29.4,
-    "is_correct": false
-  },
-  "2026-05-03|Auxerre|Angers": {
-    "prediction": "Home Win",
-    "confidence": 51.8,
-    "a_win_prob": 51.8,
-    "draw_prob": 19.8,
-    "b_win_prob": 28.4,
-    "is_correct": true
-  },
-  "2026-05-03|Paris FC|Brest": {
-    "prediction": "Home Win",
-    "confidence": 52.1,
-    "a_win_prob": 52.1,
-    "draw_prob": 19.6,
-    "b_win_prob": 28.3,
-    "is_correct": true
-  },
-  "2026-05-03|Strasbourg|Toulouse": {
-    "prediction": "Home Win",
-    "confidence": 41.9,
-    "a_win_prob": 41.9,
-    "draw_prob": 23.9,
-    "b_win_prob": 34.2,
-    "is_correct": false
-  },
-  "2026-05-03|Lyon|Rennes": {
-    "prediction": "Home Win",
-    "confidence": 46.4,
-    "a_win_prob": 46.4,
-    "draw_prob": 22.0,
-    "b_win_prob": 31.6,
-    "is_correct": true
   }
 }

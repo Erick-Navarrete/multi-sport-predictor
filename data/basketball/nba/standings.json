@@ -19,7 +19,8 @@
     "win_rate": 66.7,
     "type": "team",
     "position": 1,
-    "rating": 1515
+    "rating": 1510,
+    "colley_rating": 1607
   },
   {
     "name": "Knicks",
@@ -41,7 +42,8 @@
     "win_rate": 100.0,
     "type": "team",
     "position": 2,
-    "rating": 1536
+    "rating": 1531.36,
+    "colley_rating": 1800
   },
   {
     "name": "Thunder",
@@ -63,51 +65,54 @@
     "win_rate": 100.0,
     "type": "team",
     "position": 3,
-    "rating": 1536
+    "rating": 1530.7328,
+    "colley_rating": 1800
   },
   {
     "name": "Pistons",
-    "matches": 7,
-    "wins": 4,
+    "matches": 6,
+    "wins": 3,
     "draws": 0,
     "losses": 3,
-    "score_for": 774,
-    "score_against": 731,
-    "score_diff": 43,
-    "points": 4,
-    "home_wins": 3,
+    "score_for": 658,
+    "score_against": 637,
+    "score_diff": 21,
+    "points": 3,
+    "home_wins": 2,
     "home_draws": 0,
     "home_losses": 1,
     "away_wins": 1,
     "away_draws": 0,
     "away_losses": 2,
-    "form": "LLWWW",
-    "win_rate": 57.1,
+    "form": "LLLWW",
+    "win_rate": 50.0,
     "type": "team",
     "position": 4,
-    "rating": 1509
+    "rating": 1502.823576,
+    "colley_rating": 1500
   },
   {
     "name": "Cavaliers",
-    "matches": 7,
-    "wins": 4,
+    "matches": 6,
+    "wins": 3,
     "draws": 0,
     "losses": 3,
-    "score_for": 751,
-    "score_against": 760,
-    "score_diff": -9,
-    "points": 4,
-    "home_wins": 3,
+    "score_for": 637,
+    "score_against": 658,
+    "score_diff": -21,
+    "points": 3,
+    "home_wins": 2,
     "home_draws": 0,
     "home_losses": 1,
     "away_wins": 1,
     "away_draws": 0,
     "away_losses": 2,
-    "form": "WWLLW",
-    "win_rate": 57.1,
+    "form": "WWWLL",
+    "win_rate": 50.0,
     "type": "team",
     "position": 5,
-    "rating": 1507
+    "rating": 1497.176424,
+    "colley_rating": 1500
   },
   {
     "name": "Timberwolves",
@@ -129,51 +134,8 @@
     "win_rate": 33.3,
     "type": "team",
     "position": 6,
-    "rating": 1485
-  },
-  {
-    "name": "Raptors",
-    "matches": 1,
-    "wins": 0,
-    "draws": 0,
-    "losses": 1,
-    "score_for": 102,
-    "score_against": 114,
-    "score_diff": -12,
-    "points": 0,
-    "home_wins": 0,
-    "home_draws": 0,
-    "home_losses": 0,
-    "away_wins": 0,
-    "away_draws": 0,
-    "away_losses": 1,
-    "form": "L",
-    "win_rate": 0.0,
-    "type": "team",
-    "position": 7,
-    "rating": 1492
-  },
-  {
-    "name": "Magic",
-    "matches": 1,
-    "wins": 0,
-    "draws": 0,
-    "losses": 1,
-    "score_for": 94,
-    "score_against": 116,
-    "score_diff": -22,
-    "points": 0,
-    "home_wins": 0,
-    "home_draws": 0,
-    "home_losses": 0,
-    "away_wins": 0,
-    "away_draws": 0,
-    "away_losses": 1,
-    "form": "L",
-    "win_rate": 0.0,
-    "type": "team",
-    "position": 8,
-    "rating": 1492
+    "rating": 1490,
+    "colley_rating": 1393
   },
   {
     "name": "Lakers",
@@ -194,8 +156,9 @@
     "form": "LLLL",
     "win_rate": 0.0,
     "type": "team",
-    "position": 9,
-    "rating": 1464
+    "position": 7,
+    "rating": 1469.2672,
+    "colley_rating": 1200
   },
   {
     "name": "76ers",
@@ -216,7 +179,8 @@
     "form": "LLLL",
     "win_rate": 0.0,
     "type": "team",
-    "position": 10,
-    "rating": 1464
+    "position": 8,
+    "rating": 1468.64,
+    "colley_rating": 1200
   }
 ]
