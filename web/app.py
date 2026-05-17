@@ -99,6 +99,7 @@ def api_weekly_picks():
                         "elo_diff": p.get("elo_diff", 0),
                         "sources": p.get("sources", {}),
                         "odds_available": p.get("odds_available", False),
+                    "odds_source": p.get("odds_source"),
                     })
 
     # Sort by confidence descending
@@ -228,7 +229,8 @@ def api_model_info(sport, league):
             "configured": bool(ODDS_API_KEY),
             "sport_key": odds_key,
             "coverage": "US bookmakers (h2h/moneyline)",
-            "fallback": "Odds weight redistributed to ELO/Colley/Form when unavailable",
+            "fallback": "ESPN embedded DraftKings odds used when Odds API unavailable, then weight redistributed to ELO/Colley/Form",
+    "espn_embedded": "DraftKings moneyline from ESPN scoreboard (free, no key needed)",
         },
         "blend": {
             "type": "Weighted Blend",

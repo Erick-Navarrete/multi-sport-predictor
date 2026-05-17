@@ -128,10 +128,25 @@ def parse_espn_competition(comp, sport, league, event_date, event_time):
         if not odds_entry or not isinstance(odds_entry, dict):
             continue
         provider = odds_entry.get("provider") or {}
-        if str(provider.get("id", "")) == "58":
+        # Accept DraftKings (id 100 or 58)
+        if str(provider.get("id", "")) not in ("100", "58"):
+            continue
+        # Try nested moneyline format (newer ESPN API: odds.moneyline.home.close.odds)
+        ml = odds_entry.get("moneyline") or {}
+        home_ml = None
+        away_ml = None
+        if ml:
+            home_ml = ((ml.get("home") or {}).get("close") or {}).get("odds")
+            away_ml = ((ml.get("away") or {}).get("close") or {}).get("odds")
+        # Fallback to flat format (older API: homeTeamOdds.value)
+        if not home_ml:
+            home_ml = (odds_entry.get("homeTeamOdds") or {}).get("value")
+        if not away_ml:
+            away_ml = (odds_entry.get("awayTeamOdds") or {}).get("value")
+        if home_ml and away_ml:
             espn_odds = {
-                "home_ml": (odds_entry.get("homeTeamOdds") or {}).get("value"),
-                "away_ml": (odds_entry.get("awayTeamOdds") or {}).get("value"),
+                "home_ml": home_ml,
+                "away_ml": away_ml,
                 "spread": odds_entry.get("details"),
                 "over_under": odds_entry.get("overUnder"),
             }
@@ -156,6 +171,7 @@ def parse_espn_competition(comp, sport, league, event_date, event_time):
 
 def fetch_completed_matches(sport, league, days_back=5):
     results = []
+    seen = set()
     today = datetime.now(timezone.utc).date()
     for i in range(days_back):
         d = today - timedelta(days=i)
@@ -172,7 +188,10 @@ def fetch_completed_matches(sport, league, days_back=5):
                     continue
                 match = parse_espn_competition(comp, sport, league, event_date, event_time)
                 if match and match["entity_a"] and match["entity_b"]:
-                    results.append(match)
+                    key = f"{match['date']}|{match['entity_a']}|{match['entity_b']}"
+                    if key not in seen:
+                        seen.add(key)
+                        results.append(match)
     return results
 
 
@@ -573,6 +592,61 @@ def odds_implied_prob(odds_data, entity_a, entity_b):
     }
 
 
+# ── ESPN Embedded Odds Fallback ────────────────────────────────────
+
+def espn_odds_to_prob(espn_odds, has_draw=False):
+    """Convert ESPN scoreboard embedded odds (DraftKings) to implied probabilities.
+
+    ESPN moneyline values are American odds (e.g. -150, +200).
+    American odds: negative = amount to bet to win $100, positive = payout on $100 bet.
+    """
+    if not espn_odds:
+        return None
+
+    home_ml = espn_odds.get("home_ml")
+    away_ml = espn_odds.get("away_ml")
+    if home_ml is None or away_ml is None:
+        return None
+
+    try:
+        home_ml = int(str(home_ml).replace("+", ""))
+        away_ml = int(str(away_ml).replace("+", ""))
+    except (ValueError, TypeError):
+        return None
+
+    if home_ml == 0 or away_ml == 0:
+        return None
+
+    # Convert American odds to implied probability
+    def am_prob(odds):
+        if odds > 0:
+            return 100.0 / (odds + 100.0)
+        else:
+            return abs(odds) / (abs(odds) + 100.0)
+
+    imp_a = am_prob(home_ml)
+    imp_b = am_prob(away_ml)
+    imp_d = 0.0
+
+    # If spread is "PK" or empty and no over_under, assume 2-way market
+    # For soccer, 3-way markets may have over_under but spread indicates the market
+    total = imp_a + imp_b + imp_d
+    if total <= 0:
+        return None
+
+    vig_free_a = imp_a / total
+    vig_free_b = imp_b / total
+    vig_free_d = imp_d / total
+
+    return {
+        "a_win_prob": round(vig_free_a * 100, 1),
+        "b_win_prob": round(vig_free_b * 100, 1),
+        "draw_prob": round(vig_free_d * 100, 1),
+        "prediction": "a_win" if vig_free_a > vig_free_b else "b_win",
+        "source": "espn_embedded",
+    }
+
+
 # ── Blend Predictions ──────────────────────────────────────────────
 
 def blend_predictions(elo_pred, colley_pred, form_pred, odds_pred, weights):
@@ -823,6 +897,11 @@ def build_predictions(upcoming_fixtures, elo, colley_ratings, completed_matches,
         form_b = compute_form_signal(fx["entity_b"], completed_matches)
         form_pred = form_predict(form_a, form_b, elo.draw_margin)
         odds_pred = odds_implied_prob(odds_data, fx["entity_a"], fx["entity_b"])
+        odds_source = "odds_api" if odds_pred else None
+        # Fallback to ESPN embedded odds (DraftKings) when Odds API has no match
+        if not odds_pred and fx.get("espn_odds"):
+            odds_pred = espn_odds_to_prob(fx["espn_odds"], has_draw=(elo.draw_margin > 0))
+            odds_source = "espn_embedded" if odds_pred else None
         blended = blend_predictions(elo_pred, colley_pred, form_pred, odds_pred, weights)
         prediction = resolve_prediction_label(blended["prediction"], labels)
 
@@ -852,6 +931,7 @@ def build_predictions(upcoming_fixtures, elo, colley_ratings, completed_matches,
             "form_a": form_a,
             "form_b": form_b,
             "odds_available": odds_pred is not None,
+            "odds_source": odds_source,
             "sources": blended.get("sources", {}),
             "weights_used": blended.get("weights_used", {}),
             "day_of_week": day_names[dt.weekday()],
@@ -870,6 +950,7 @@ def build_summary(predictions, historical, standings, season_status):
     total = len(historical)
     correct = sum(1 for h in historical if h.get("is_correct"))
     odds_count = sum(1 for p in predictions if p.get("odds_available"))
+    espn_odds_count = sum(1 for p in predictions if p.get("odds_source") == "espn_embedded")
 
     return {
         "total_historical": total,
@@ -881,6 +962,7 @@ def build_summary(predictions, historical, standings, season_status):
         "low_confidence": sum(1 for p in predictions if p.get("confidence_level") == "Low"),
         "entities": len(standings),
         "odds_coverage": odds_count,
+        "espn_odds_coverage": espn_odds_count,
         "season_status": season_status,
         "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S"),
     }
@@ -897,7 +979,7 @@ def refresh_league(sport, league):
     print(f"\n--- {league_cfg['label']} ({sport}/{league}) ---")
 
     # 1. Fetch completed + upcoming from ESPN
-    completed = fetch_completed_matches(sport, league, days_back=14)
+    completed = fetch_completed_matches(sport, league, days_back=60)
     upcoming = fetch_upcoming_fixtures(sport, league, days_ahead=14)
     print(f"  {len(completed)} completed, {len(upcoming)} upcoming from ESPN")
 

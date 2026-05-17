@@ -447,6 +447,7 @@ function sourceChips(p) {
   if (src.colley) chips.push('<span class="source-chip" title="Colley: ' + src.colley.a + '/' + src.colley.d + '/' + src.colley.b + '">C</span>');
   if (src.form) chips.push('<span class="source-chip" title="Form: ' + src.form.a + '/' + src.form.d + '/' + src.form.b + '">F</span>');
   if (src.odds) chips.push('<span class="source-chip" title="Odds: ' + src.odds.a + '/' + src.odds.b + '">O</span>');
+  else if (p.odds_source === 'espn_embedded') chips.push('<span class="source-chip" title="ESPN Odds (embedded)" style="border-color:var(--primary);color:var(--primary)">eO</span>');
   return chips.length ? '<div class="source-row">' + chips.join('') + '</div>' : '-';
 }
 
@@ -601,6 +602,7 @@ function renderModeling() {
       oddsHtml += ' <span class="tag tag-loss" style="font-size:10px;padding:1px 5px">NOT CONFIGURED</span>';
     }
     oddsHtml += '<br><b>Coverage:</b> ' + (m.odds.coverage || 'N/A');
+ oddsHtml += '<br><b>ESPN Embedded:</b> DraftKings from scoreboard (free) <span class="tag tag-win" style="font-size:10px;padding:1px 5px">AUTO</span>';
     oddsHtml += '<br><span style="font-size:12px;color:var(--text3)">' + (m.odds.fallback || '') + '</span>';
     document.getElementById('model-odds').innerHTML = oddsHtml;
   }
@@ -610,7 +612,7 @@ function renderModeling() {
   document.getElementById('model-performance').innerHTML =
     '<b>Accuracy:</b> ' + (perf.accuracy || '-') + '%' +
     ' &nbsp; <b>Matches:</b> ' + (perf.total_historical || '-') +
-    ' &nbsp; <b>Odds coverage:</b> ' + (perf.odds_coverage || 0) + '/' + (perf.current_predictions || 0) + ' predictions';
+    ' &nbsp; <b>Odds coverage:</b> ' + (perf.odds_coverage || 0) + '/' + (perf.current_predictions || 0) + ' predictions' + (perf.espn_odds_coverage ? ' (' + perf.espn_odds_coverage + ' ESPN)' : '');
 
   // Season
   var statusLabels = { in_season: 'Active Season', off_season: 'Off-Season', dormant: 'No Data Available' };
@@ -749,7 +751,10 @@ function renderSummary() {
   html += '<div class="card"><div class="num">' + (s.current_predictions || 0) + '</div><div class="lbl">Upcoming</div></div>';
   html += '<div class="card"><div class="num">' + (s.entities || 0) + '</div><div class="lbl">Entities</div></div>';
   if (s.odds_coverage !== undefined) {
-    html += '<div class="card"><div class="num">' + (s.odds_coverage || 0) + '/' + (s.current_predictions || 0) + '</div><div class="lbl">Ods Cov</div></div>';
+    html += '<div class="card"><div class="num">' + (s.odds_coverage || 0) + '/' + (s.current_predictions || 0) + '</div><div class="lbl">Odds</div></div>';
+ }
+ if (s.espn_odds_coverage > 0) {
+ html += '<div class="card"><div class="num">' + s.espn_odds_coverage + '</div><div class="lbl">ESPN Odds</div></div>';
   }
   document.getElementById('summary').innerHTML = html;
   document.getElementById('last-updated').textContent = s.last_updated || '-';
@@ -848,6 +853,7 @@ function renderHome() {
             (p.confidence || 0) + '% &middot; ' +
             p.league + ' &middot; ' +
             (p.date || '').split(' ')[0] +
+ (p.odds_available ? (p.odds_source === 'espn_embedded' ? ' <span class="source-chip" style="border-color:var(--primary);color:var(--primary)">eO</span>' : ' <span class="source-chip">O</span>') : '') +
           '</div>' +
         '</div>' +
         '<div class="pick-amount">' +
