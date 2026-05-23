@@ -1,10 +1,11 @@
 """Sport and league configuration registry.
 
 Defines all supported sports/leagues with ESPN API slugs,
-competition type, ELO parameters, and display metadata.
+competition type, ELO parameters, season calendar, and display metadata.
 """
 
 import os
+from datetime import date
 
 # Competition types
 TEAM_VS_TEAM = "team_vs_team" # soccer, nba, nfl, mlb, nhl
@@ -56,6 +57,9 @@ SPORTS = {
         "elo": {"k": 32, "home_advantage": 65, "draw_margin": 8},
         "result_labels": {"home": "Home Win", "away": "Away Win", "draw": "Draw"},
         "score_field": "goals",
+        "season_start_month": 8,
+        "season_start_day": 1,
+        "season_crosses_year": True,
     },
     "basketball": {
         "label": "Basketball",
@@ -66,6 +70,9 @@ SPORTS = {
         "elo": {"k": 20, "home_advantage": 68, "draw_margin": 0},
         "result_labels": {"home": "Home Win", "away": "Away Win", "draw": None},
         "score_field": "points",
+        "season_start_month": 10,
+        "season_start_day": 1,
+        "season_crosses_year": False,
     },
     "football": {
         "label": "Football",
@@ -76,6 +83,9 @@ SPORTS = {
         "elo": {"k": 20, "home_advantage": 55, "draw_margin": 0},
         "result_labels": {"home": "Home Win", "away": "Away Win", "draw": None},
         "score_field": "points",
+        "season_start_month": 9,
+        "season_start_day": 1,
+        "season_crosses_year": False,
     },
     "baseball": {
         "label": "Baseball",
@@ -86,6 +96,9 @@ SPORTS = {
         "elo": {"k": 16, "home_advantage": 24, "draw_margin": 0},
         "result_labels": {"home": "Home Win", "away": "Away Win", "draw": None},
         "score_field": "runs",
+        "season_start_month": 3,
+        "season_start_day": 1,
+        "season_crosses_year": False,
     },
     "hockey": {
         "label": "Hockey",
@@ -96,6 +109,9 @@ SPORTS = {
         "elo": {"k": 20, "home_advantage": 55, "draw_margin": 0},
         "result_labels": {"home": "Home Win", "away": "Away Win", "draw": None},
         "score_field": "goals",
+        "season_start_month": 10,
+        "season_start_day": 1,
+        "season_crosses_year": False,
     },
     "tennis": {
         "label": "Tennis",
@@ -107,6 +123,9 @@ SPORTS = {
         "elo": {"k": 24, "home_advantage": 0, "draw_margin": 0},
         "result_labels": {"home": "P1 Win", "away": "P2 Win", "draw": None},
         "score_field": "sets",
+        "season_start_month": 1,
+        "season_start_day": 1,
+        "season_crosses_year": False,
     },
     "mma": {
         "label": "MMA",
@@ -117,6 +136,9 @@ SPORTS = {
         "elo": {"k": 28, "home_advantage": 0, "draw_margin": 0},
         "result_labels": {"home": "Fighter 1 Win", "away": "Fighter 2 Win", "draw": "Draw"},
         "score_field": "decision",
+        "season_start_month": 1,
+        "season_start_day": 1,
+        "season_crosses_year": False,
     },
 }
 
@@ -155,3 +177,22 @@ def list_all_leagues():
 
 def is_player_vs_player(sport, league):
     return SPORTS[sport]["leagues"][league]["type"] == PLAYER_VS_PLAYER
+
+
+def get_season_start(sport):
+    """Return the start date of the current season for a sport.
+
+    For cross-year sports (e.g. soccer: Aug start, spans into next year),
+    if the current month is before the season start month, use previous year.
+    """
+    cfg = SPORTS[sport]
+    month = cfg["season_start_month"]
+    day = cfg["season_start_day"]
+    crosses = cfg.get("season_crosses_year", False)
+    now = date.today()
+    year = now.year
+
+    if crosses and now.month < month:
+        year -= 1
+
+    return date(year, month, day)

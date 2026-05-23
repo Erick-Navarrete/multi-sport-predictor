@@ -17,7 +17,7 @@ from sports_config import (
     SPORTS, get_elo_config, get_sport_config, get_league_config,
     list_all_leagues, is_player_vs_player,
     ODDS_API_KEY, ODDS_API_BASE, get_odds_sport_key,
-    get_blend_weights,
+    get_blend_weights, get_season_start,
 )
 
 ROOT_DIR = Path(__file__).parent
@@ -224,6 +224,17 @@ def fetch_upcoming_fixtures(sport, league, days_ahead=10):
 
 
 # ── Season Status Detection ────────────────────────────────────────
+
+def get_days_back(sport):
+    """Compute days_back from season start to today, capped at 365."""
+    try:
+        season_start = get_season_start(sport)
+        today = datetime.now(timezone.utc).date()
+        delta = (today - season_start).days
+        return min(max(delta, 30), 365)
+    except Exception:
+        return 60
+
 
 def detect_season_status(sport, completed, upcoming):
     if upcoming:
@@ -979,7 +990,9 @@ def refresh_league(sport, league):
     print(f"\n--- {league_cfg['label']} ({sport}/{league}) ---")
 
     # 1. Fetch completed + upcoming from ESPN
-    completed = fetch_completed_matches(sport, league, days_back=60)
+    days_back = get_days_back(sport)
+    completed = fetch_completed_matches(sport, league, days_back=days_back)
+    print(f" Fetching {days_back} days of history (season start to today)")
     upcoming = fetch_upcoming_fixtures(sport, league, days_ahead=14)
     print(f"  {len(completed)} completed, {len(upcoming)} upcoming from ESPN")
 

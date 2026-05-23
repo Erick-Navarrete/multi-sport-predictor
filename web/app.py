@@ -8,7 +8,7 @@ from flask import Flask, render_template, jsonify
 import json
 import subprocess
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -73,6 +73,7 @@ def api_weekly_picks():
     """
     this_week = datetime.now(timezone.utc).isocalendar()[1]
     this_year = datetime.now(timezone.utc).year
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     all_picks = []
 
     for sport, league, label in list_all_leagues():
@@ -82,6 +83,8 @@ def api_weekly_picks():
 
         predictions = load_league_json(sport, league, "predictions")
         for p in predictions:
+            if p.get("date", "")[:10] < today_str:
+                continue
             if p.get("week_number") == this_week and p.get("year") == this_year:
                 if p.get("confidence_level") in ("High", "Medium"):
                     all_picks.append({
@@ -166,15 +169,17 @@ def api_weekly_picks():
 
 @app.route("/api/home/recently-completed")
 def api_recently_completed():
-    """Return games completed today across all leagues with prediction results."""
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    """Return games completed in the last 3 days across all leagues with prediction results."""
+    now = datetime.now(timezone.utc)
+    cutoff = (now - timedelta(days=3)).strftime("%Y-%m-%d")
+    today = now.strftime("%Y-%m-%d")
     completed = []
 
     for sport, league, label in list_all_leagues():
         historical = load_league_json(sport, league, "historical")
         for h in historical:
             h_date = (h.get("date", "") or "")[:10]
-            if h_date == today and h.get("is_correct") is not None:
+            if h_date >= cutoff and h.get("is_correct") is not None:
                 completed.append({
                     "sport": sport,
                     "league": label,
@@ -299,7 +304,7 @@ def api_refresh():
     try:
         result = subprocess.run(
             [sys.executable, str(REFRESH_SCRIPT)],
-            capture_output=True, text=True, timeout=300,
+            capture_output=True, text=True, timeout=600,
         )
         if result.returncode == 0:
             return jsonify({"success": True, "message": "Data refreshed successfully"})
@@ -315,7 +320,7 @@ def api_refresh_league(sport, league):
     try:
         result = subprocess.run(
             [sys.executable, str(REFRESH_SCRIPT), sport, league],
-            capture_output=True, text=True, timeout=120,
+            capture_output=True, text=True, timeout=300,
         )
         if result.returncode == 0:
             return jsonify({"success": True, "message": f"{sport}/{league} refreshed successfully"})
