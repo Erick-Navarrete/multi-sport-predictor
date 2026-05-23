@@ -161,6 +161,26 @@ footer { text-align: center; padding: 12px; font-size: 11px; color: var(--text4)
 .league-acc-row { display: flex; justify-content: space-between; padding: 4px 0; font-size: 13px; border-bottom: 1px solid var(--border2); }
 .league-acc-row .acc-val { font-weight: 600; color: var(--primary); }
 
+/* Recently completed games */
+.completed-section { padding: 16px; }
+.completed-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+.completed-header h2 { font-size: 16px; color: var(--primary); margin: 0; }
+.completed-stats { display: flex; gap: 8px; }
+.completed-stats .card { min-width: 70px; padding: 6px 10px; background: var(--primary-light); border-radius: 6px; text-align: center; }
+.completed-stats .card .num { font-size: 16px; font-weight: 700; color: var(--primary); }
+.completed-stats .card .lbl { font-size: 10px; color: var(--text3); }
+.completed-card { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--border2); }
+.completed-card:last-child { border-bottom: none; }
+.completed-icon { width: 22px; height: 22px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700; flex-shrink: 0; }
+.completed-icon.correct { background: var(--tag-win-bg); color: var(--tag-win-fg); }
+.completed-icon.wrong { background: var(--tag-loss-bg); color: var(--tag-loss-fg); }
+.completed-info { flex: 1; min-width: 0; }
+.completed-info .match { font-size: 13px; font-weight: 600; color: var(--text); }
+.completed-info .meta { font-size: 11px; color: var(--text3); margin-top: 1px; }
+.completed-score { font-size: 13px; font-weight: 700; color: var(--text2); flex-shrink: 0; }
+.completed-live-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: #10b981; margin-right: 4px; animation: pulse-dot 2s ease-in-out infinite; }
+@keyframes pulse-dot { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
+
 /* Responsive */
 @media (max-width: 768px) {
   .header h1 { font-size: 17px; }
@@ -219,6 +239,13 @@ footer { text-align: center; padding: 12px; font-size: 11px; color: var(--text4)
     <h2 style="margin-bottom:8px">Model Accuracy by League</h2>
     <div id="home-league-acc"></div>
   </div>
+	<div class="completed-section" id="completed-section" style="display:none">
+		<div class="completed-header">
+			<h2><span class="completed-live-dot"></span>Today's Completed Games</h2>
+			<div class="completed-stats" id="completed-stats"></div>
+		</div>
+		<div id="completed-games"></div>
+	</div>
 </div>
 
 <!-- PREDICTIONS TAB -->
@@ -386,7 +413,7 @@ function showTab(name) {
   document.getElementById('summary').style.display = isHome ? 'none' : '';
 
   if (name === 'analytics' && historical.length) renderTrendChart();
-  if (name === 'home') renderHome();
+  if (name === 'home') { renderHome(); startCompletedPolling(); } else { stopCompletedPolling(); }
 }
 
 /* ── Tags ──────────────────────────────────────────────────────── */
@@ -874,6 +901,59 @@ function renderHome() {
   document.getElementById('home-league-acc').innerHTML = accHtml;
 }
 
+/* ── Recently Completed ─────────────────────────────────────────── */
+var completedData = {};
+var completedPollInterval = null;
+
+function loadCompletedData() {
+fetch('/api/home/recently-completed').then(function(r) { return r.json(); }).then(function(res) {
+completedData = res.data || {};
+renderCompleted();
+}).catch(function(err) { console.error('Completed load failed:', err); });
+}
+
+function renderCompleted() {
+var d = completedData;
+if (!d || !d.games) return;
+
+var section = document.getElementById('completed-section');
+if (!d.games.length) { section.style.display = 'none'; return; }
+
+section.style.display = 'block';
+
+// Stats
+var statsHtml = '';
+statsHtml += '<div class="card"><div class="num">' + d.total + '</div><div class="lbl">Games</div></div>';
+statsHtml += '<div class="card"><div class="num">' + d.correct + '</div><div class="lbl">Correct</div></div>';
+statsHtml += '<div class="card"><div class="num">' + (d.accuracy || 0) + '%</div><div class="lbl">Today</div></div>';
+document.getElementById('completed-stats').innerHTML = statsHtml;
+
+// Games
+var html = '';
+d.games.forEach(function(g) {
+var icon = g.is_correct ? '<div class="completed-icon correct">&#10003;</div>' : '<div class="completed-icon wrong">&#10007;</div>';
+var score = (g.score_a != null && g.score_b != null) ? g.score_a + '-' + g.score_b : '-';
+html += '<div class="completed-card">' + icon +
+'<div class="completed-info">' +
+'<div class="match">' + (g.entity_a || '') + ' vs ' + (g.entity_b || '') + '</div>' +
+'<div class="meta">' + g.league + ' &middot; Predicted: ' + (g.prediction || '') + ' &middot; Actual: ' + (g.actual || '') + '</div>' +
+'</div>' +
+'<div class="completed-score">' + score + '</div>' +
+'</div>';
+});
+document.getElementById('completed-games').innerHTML = html;
+}
+
+function startCompletedPolling() {
+if (completedPollInterval) return;
+loadCompletedData();
+completedPollInterval = setInterval(loadCompletedData, 120000);
+}
+
+function stopCompletedPolling() {
+if (completedPollInterval) { clearInterval(completedPollInterval); completedPollInterval = null; }
+}
+
 /* ── Init ──────────────────────────────────────────────────────── */
 makeSortable('pred-table', function(k, d, t) { sortPredictions(k, d, t); });
 makeSortable('hist-table', function(k, d, t) { sortHistorical(k, d, t); });
@@ -890,6 +970,7 @@ fetch('/api/sports').then(function(r) { return r.json(); }).then(function(res) {
   updateSwitcherUI();
   loadLeagueData();
   loadHomeData();
+startCompletedPolling();
 });
 </script>
 </body>

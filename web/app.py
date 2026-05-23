@@ -162,6 +162,43 @@ def api_weekly_picks():
     }})
 
 
+# ── Recently Completed Games API ───────────────────────────────────
+
+@app.route("/api/home/recently-completed")
+def api_recently_completed():
+    """Return games completed today across all leagues with prediction results."""
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    completed = []
+
+    for sport, league, label in list_all_leagues():
+        historical = load_league_json(sport, league, "historical")
+        for h in historical:
+            h_date = (h.get("date", "") or "")[:10]
+            if h_date == today and h.get("is_correct") is not None:
+                completed.append({
+                    "sport": sport,
+                    "league": label,
+                    "date": h.get("date", ""),
+                    "entity_a": h.get("entity_a", ""),
+                    "entity_b": h.get("entity_b", ""),
+                    "prediction": h.get("prediction", ""),
+                    "actual": h.get("actual", ""),
+                    "is_correct": h.get("is_correct"),
+                    "confidence": h.get("confidence", 0),
+                    "score_a": h.get("score_a"),
+                    "score_b": h.get("score_b"),
+                })
+
+    correct = sum(1 for c in completed if c["is_correct"])
+    return jsonify({"success": True, "data": {
+        "date": today,
+        "total": len(completed),
+        "correct": correct,
+        "accuracy": round(correct / len(completed) * 100, 1) if completed else 0,
+        "games": completed,
+    }})
+
+
 # ── Per-Sport/League Data API ──────────────────────────────────────
 
 @app.route("/api/<sport>/<league>/summary")

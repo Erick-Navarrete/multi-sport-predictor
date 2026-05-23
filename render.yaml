@@ -11,3 +11,16 @@ services:
       - key: ODDS_API_KEY
         sync: false
     healthCheckPath: /
+
+  - type: cron
+    name: sport-predictor-refresh
+    env: python
+    plan: free
+    schedule: "0 */2 * * *"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python refresh_data.py
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: ODDS_API_KEY
+        sync: false
