@@ -1,83 +1,30 @@
 [
   {
     "id": 1,
-    "date": "2026-05-17 15:00",
-    "time": "15:00",
-    "entity_a": "Jannik Sinner",
-    "entity_b": "Casper Ruud",
-    "venue": "Rome, Italy",
-    "a_win_prob": 50.4,
-    "draw_prob": 0.0,
-    "b_win_prob": 49.6,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.4,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1477,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 53.3,
-        "d": 0.0,
-        "b": 46.7
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Sunday",
-    "week_number": 20,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 2,
-    "date": "2026-05-17 09:00",
+    "date": "2026-05-24 09:00",
     "time": "09:00",
-    "entity_a": "Kilian Feldbausch",
-    "entity_b": "Nishesh Basavareddy",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 49.2,
+    "entity_a": "Lucia Bronzetti",
+    "entity_b": "Marie Bouzkova",
+    "venue": "Paris, France",
+    "a_win_prob": 46.7,
     "draw_prob": 0.0,
-    "b_win_prob": 50.8,
+    "b_win_prob": 53.3,
     "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.8,
+    "confidence": 53.3,
     "confidence_level": "Medium",
     "elo_a": 1500.0,
     "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1523,
-    "colley_b": 1569,
+    "colley_a": 1389,
+    "colley_b": 1594,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -85,9 +32,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 43.4,
+        "a": 23.5,
         "d": 0.0,
-        "b": 56.6
+        "b": 76.5
       },
       "form": {
         "a": 50.0,
@@ -103,35 +50,91 @@
       "odds": 0.0
     },
     "day_of_week": "Sunday",
-    "week_number": 20,
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 2,
+    "date": "2026-05-24 09:00",
+    "time": "09:00",
+    "entity_a": "Lilli Tagger",
+    "entity_b": "Wang Xinyu",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1526,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 55.0,
+        "d": 0.0,
+        "b": 45.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
     "year": 2026,
     "month": 5
   },
   {
     "id": 3,
-    "date": "2026-05-17 09:00",
+    "date": "2026-05-24 09:00",
     "time": "09:00",
-    "entity_a": "James Duckworth",
-    "entity_b": "Edas Butvilas",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.4,
+    "entity_a": "Marta Kostyuk",
+    "entity_b": "Oksana Selekhmeteva",
+    "venue": "Paris, France",
+    "a_win_prob": 52.9,
     "draw_prob": 0.0,
-    "b_win_prob": 49.6,
+    "b_win_prob": 47.1,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.4,
+    "confidence": 52.9,
     "confidence_level": "Medium",
     "elo_a": 1500.0,
     "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1569,
-    "colley_b": 1546,
+    "colley_a": 1663,
+    "colley_b": 1491,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -139,9 +142,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 53.3,
+        "a": 72.9,
         "d": 0.0,
-        "b": 46.7
+        "b": 27.1
       },
       "form": {
         "a": 50.0,
@@ -157,35 +160,36 @@
       "odds": 0.0
     },
     "day_of_week": "Sunday",
-    "week_number": 20,
+    "week_number": 21,
     "year": 2026,
     "month": 5
   },
   {
     "id": 4,
-    "date": "2026-05-17 10:30",
-    "time": "10:30",
-    "entity_a": "Raul Brancaccio",
-    "entity_b": "Clement Tabur",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.0,
+    "date": "2026-05-24 09:00",
+    "time": "09:00",
+    "entity_a": "Ajla Tomljanovic",
+    "entity_b": "Catherine McNally",
+    "venue": "Paris, France",
+    "a_win_prob": 51.5,
     "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 48.5,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 51.5,
     "confidence_level": "Medium",
     "elo_a": 1500.0,
     "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1569,
-    "colley_b": 1569,
+    "colley_a": 1491,
+    "colley_b": 1406,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -193,9 +197,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 50.0,
+        "a": 62.0,
         "d": 0.0,
-        "b": 50.0
+        "b": 38.0
       },
       "form": {
         "a": 50.0,
@@ -211,17 +215,17 @@
       "odds": 0.0
     },
     "day_of_week": "Sunday",
-    "week_number": 20,
+    "week_number": 21,
     "year": 2026,
     "month": 5
   },
   {
     "id": 5,
-    "date": "2026-05-17 11:00",
-    "time": "11:00",
-    "entity_a": "Max Hans Rehberg",
-    "entity_b": "Francisco Comesana",
-    "venue": "Geneva, Switzerland",
+    "date": "2026-05-24 10:00",
+    "time": "10:00",
+    "entity_a": "Sinja Kraus",
+    "entity_b": "Belinda Bencic",
+    "venue": "Paris, France",
     "a_win_prob": 47.6,
     "draw_prob": 0.0,
     "b_win_prob": 52.4,
@@ -235,11 +239,12 @@
     "elo_a": 1500.0,
     "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1477,
-    "colley_b": 1615,
+    "colley_a": 1354,
+    "colley_b": 1491,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -247,9 +252,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 31.1,
+        "a": 31.2,
         "d": 0.0,
-        "b": 68.9
+        "b": 68.8
       },
       "form": {
         "a": 50.0,
@@ -265,35 +270,36 @@
       "odds": 0.0
     },
     "day_of_week": "Sunday",
-    "week_number": 20,
+    "week_number": 21,
     "year": 2026,
     "month": 5
   },
   {
     "id": 6,
-    "date": "2026-05-17 12:00",
-    "time": "12:00",
-    "entity_a": "Marco Trungelliti",
-    "entity_b": "Mariano Navone",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 47.0,
+    "date": "2026-05-24 10:30",
+    "time": "10:30",
+    "entity_a": "Anna Blinkova",
+    "entity_b": "Yuliia Starodubtseva",
+    "venue": "Paris, France",
+    "a_win_prob": 49.4,
     "draw_prob": 0.0,
-    "b_win_prob": 53.0,
+    "b_win_prob": 50.6,
     "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 53.0,
+    "confidence": 50.6,
     "confidence_level": "Medium",
     "elo_a": 1500.0,
     "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1431,
-    "colley_b": 1615,
+    "colley_a": 1491,
+    "colley_b": 1526,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -301,9 +307,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 25.7,
+        "a": 45.0,
         "d": 0.0,
-        "b": 74.3
+        "b": 55.0
       },
       "form": {
         "a": 50.0,
@@ -319,35 +325,36 @@
       "odds": 0.0
     },
     "day_of_week": "Sunday",
-    "week_number": 20,
+    "week_number": 21,
     "year": 2026,
     "month": 5
   },
   {
     "id": 7,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Valentin Royer",
-    "entity_b": "TBD",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 52.7,
+    "date": "2026-05-24 10:30",
+    "time": "10:30",
+    "entity_a": "Katie Volynets",
+    "entity_b": "Clara Burel",
+    "venue": "Paris, France",
+    "a_win_prob": 48.1,
     "draw_prob": 0.0,
-    "b_win_prob": 47.3,
-    "prediction": "P1 Win",
+    "b_win_prob": 51.9,
+    "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 52.7,
+    "confidence": 51.9,
     "confidence_level": "Medium",
     "elo_a": 1500.0,
     "elo_b": 1500,
     "elo_diff": 0,
-    "colley_a": 1662,
+    "colley_a": 1389,
     "colley_b": 1500,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -355,9 +362,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 71.8,
+        "a": 34.5,
         "d": 0.0,
-        "b": 28.2
+        "b": 65.5
       },
       "form": {
         "a": 50.0,
@@ -372,36 +379,37 @@
       "form": 0.25,
       "odds": 0.0
     },
-    "day_of_week": "Monday",
+    "day_of_week": "Sunday",
     "week_number": 21,
     "year": 2026,
     "month": 5
   },
   {
     "id": 8,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Lorenzo Sonego",
-    "entity_b": "TBD",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 52.0,
+    "date": "2026-05-24 10:30",
+    "time": "10:30",
+    "entity_a": "Tereza Valentova",
+    "entity_b": "Magda Linette",
+    "venue": "Paris, France",
+    "a_win_prob": 53.3,
     "draw_prob": 0.0,
-    "b_win_prob": 48.0,
+    "b_win_prob": 46.7,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 52.0,
+    "confidence": 53.3,
     "confidence_level": "Medium",
     "elo_a": 1500.0,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1615,
-    "colley_b": 1500,
+    "colley_a": 1663,
+    "colley_b": 1457,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -409,9 +417,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 66.0,
+        "a": 76.6,
         "d": 0.0,
-        "b": 34.0
+        "b": 23.4
       },
       "form": {
         "a": 50.0,
@@ -426,36 +434,37 @@
       "form": 0.25,
       "odds": 0.0
     },
-    "day_of_week": "Monday",
+    "day_of_week": "Sunday",
     "week_number": 21,
     "year": 2026,
     "month": 5
   },
   {
     "id": 9,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Laslo Djere",
-    "entity_b": "Juan Manuel Cerundolo",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 48.0,
+    "date": "2026-05-24 11:00",
+    "time": "11:00",
+    "entity_a": "Hailey Baptiste",
+    "entity_b": "Barbora Krejcikova",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
     "draw_prob": 0.0,
-    "b_win_prob": 52.0,
-    "prediction": "P2 Win",
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 52.0,
+    "confidence": 50.6,
     "confidence_level": "Medium",
-    "elo_a": 1500,
+    "elo_a": 1500.0,
     "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1615,
+    "colley_a": 1354,
+    "colley_b": 1320,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -463,9 +472,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 34.0,
+        "a": 54.9,
         "d": 0.0,
-        "b": 66.0
+        "b": 45.1
       },
       "form": {
         "a": 50.0,
@@ -480,36 +489,37 @@
       "form": 0.25,
       "odds": 0.0
     },
-    "day_of_week": "Monday",
+    "day_of_week": "Sunday",
     "week_number": 21,
     "year": 2026,
     "month": 5
   },
   {
     "id": 10,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Alexei Popyrin",
-    "entity_b": "TBD",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 49.6,
+    "date": "2026-05-24 11:00",
+    "time": "11:00",
+    "entity_a": "Danka Kovinic",
+    "entity_b": "Wang Xiyu",
+    "venue": "Paris, France",
+    "a_win_prob": 49.5,
     "draw_prob": 0.0,
-    "b_win_prob": 50.4,
+    "b_win_prob": 50.5,
     "prediction": "P2 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.4,
+    "confidence": 50.5,
     "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500,
+    "elo_a": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1477,
-    "colley_b": 1500,
+    "colley_a": 1500,
+    "colley_b": 1526,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -517,9 +527,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 46.7,
+        "a": 46.3,
         "d": 0.0,
-        "b": 53.3
+        "b": 53.7
       },
       "form": {
         "a": 50.0,
@@ -534,1206 +544,18 @@
       "form": 0.25,
       "odds": 0.0
     },
-    "day_of_week": "Monday",
+    "day_of_week": "Sunday",
     "week_number": 21,
     "year": 2026,
     "month": 5
   },
   {
     "id": 11,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Adrian Mannarino",
-    "entity_b": "Raphael Collignon",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.4,
-    "draw_prob": 0.0,
-    "b_win_prob": 49.6,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.4,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1523,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 53.3,
-        "d": 0.0,
-        "b": 46.7
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 12,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Stefanos Tsitsipas",
-    "entity_b": "Giovanni Mpetshi Perricard",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.8,
-    "draw_prob": 0.0,
-    "b_win_prob": 49.2,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.8,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1477,
-    "colley_b": 1431,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 56.6,
-        "d": 0.0,
-        "b": 43.4
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 13,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Sebastian Baez",
-    "entity_b": "Alex Michelsen",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.4,
-    "draw_prob": 0.0,
-    "b_win_prob": 49.6,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.4,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1477,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 53.3,
-        "d": 0.0,
-        "b": 46.7
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 14,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Alejandro Tabilo",
-    "entity_b": "Stan Wawrinka",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 49.2,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.8,
-    "prediction": "P2 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.8,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1523,
-    "colley_b": 1569,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 43.4,
-        "d": 0.0,
-        "b": 56.6
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 15,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Arthur Rinderknech",
-    "entity_b": "Thiago Agustin Tirante",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 16,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Jenson Brooksby",
-    "entity_b": "Casper Ruud",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.4,
-    "draw_prob": 0.0,
-    "b_win_prob": 49.6,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.4,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1477,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 53.3,
-        "d": 0.0,
-        "b": 46.7
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 17,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "Jaume Munar",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 49.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.4,
-    "prediction": "P2 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.4,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1523,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 46.7,
-        "d": 0.0,
-        "b": 53.3
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 18,
-    "date": "2026-05-19 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "Alexander Bublik",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 49.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.4,
-    "prediction": "P2 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.4,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1523,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 46.7,
-        "d": 0.0,
-        "b": 53.3
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Tuesday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 19,
-    "date": "2026-05-19 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Tuesday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 20,
-    "date": "2026-05-19 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "Learner Tien",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 49.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.4,
-    "prediction": "P2 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.4,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1523,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 46.7,
-        "d": 0.0,
-        "b": 53.3
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Tuesday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 21,
-    "date": "2026-05-19 04:00",
-    "time": "04:00",
-    "entity_a": "Cameron Norrie",
-    "entity_b": "TBD",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Tuesday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 22,
-    "date": "2026-05-19 04:00",
-    "time": "04:00",
-    "entity_a": "Taylor Fritz",
-    "entity_b": "TBD",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Tuesday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 23,
-    "date": "2026-05-21 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Thursday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 24,
-    "date": "2026-05-22 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Friday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 25,
-    "date": "2026-05-23 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
-    "venue": "Geneva, Switzerland",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Saturday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 26,
-    "date": "2026-05-17 09:30",
-    "time": "09:30",
-    "entity_a": "Rinky Hijikata",
-    "entity_b": "Henri Squire",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 48.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 52.0,
-    "prediction": "P2 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 52.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1546,
-    "colley_b": 1662,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 33.9,
-        "d": 0.0,
-        "b": 66.1
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Sunday",
-    "week_number": 20,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 27,
-    "date": "2026-05-17 09:30",
-    "time": "09:30",
-    "entity_a": "Marcos Giron",
-    "entity_b": "Max Schoenhaus",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 51.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 48.4,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 51.6,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1662,
-    "colley_b": 1569,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 63.1,
-        "d": 0.0,
-        "b": 36.9
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Sunday",
-    "week_number": 20,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 28,
-    "date": "2026-05-17 10:00",
-    "time": "10:00",
-    "entity_a": "Ignacio Buse",
-    "entity_b": "Hugo Gaston",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1615,
-    "colley_b": 1615,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Sunday",
-    "week_number": 20,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 29,
-    "date": "2026-05-17 11:00",
+    "date": "2026-05-24 11:00",
     "time": "11:00",
-    "entity_a": "Aleksandar Kovacevic",
-    "entity_b": "Arthur Gea",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 47.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 52.4,
-    "prediction": "P2 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 52.4,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1431,
-    "colley_b": 1569,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 31.1,
-        "d": 0.0,
-        "b": 68.9
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Sunday",
-    "week_number": 20,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 30,
-    "date": "2026-05-17 11:30",
-    "time": "11:30",
-    "entity_a": "Diego Dedura",
-    "entity_b": "Frances Tiafoe",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 48.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 52.0,
-    "prediction": "P2 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 52.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1615,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 34.0,
-        "d": 0.0,
-        "b": 66.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Sunday",
-    "week_number": 20,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 31,
-    "date": "2026-05-17 13:00",
-    "time": "13:00",
-    "entity_a": "Tommy Paul",
-    "entity_b": "Ethan Quinn",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1523,
-    "colley_b": 1523,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Sunday",
-    "week_number": 20,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 32,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "Ben Shelton",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 33,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Yannick Hanfmann",
-    "entity_b": "Joao Fonseca",
-    "venue": "Hamburg, Germany",
+    "entity_a": "Francesca Jones",
+    "entity_b": "Beatriz Haddad Maia",
+    "venue": "Paris, France",
     "a_win_prob": 48.8,
     "draw_prob": 0.0,
     "b_win_prob": 51.2,
@@ -1747,11 +569,12 @@
     "elo_a": 1500.0,
     "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1546,
-    "colley_b": 1615,
+    "colley_a": 1457,
+    "colley_b": 1526,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -1776,18 +599,623 @@
       "form": 0.25,
       "odds": 0.0
     },
-    "day_of_week": "Monday",
+    "day_of_week": "Sunday",
     "week_number": 21,
     "year": 2026,
     "month": 5
   },
   {
-    "id": 34,
-    "date": "2026-05-18 04:00",
+    "id": 12,
+    "date": "2026-05-24 12:30",
+    "time": "12:30",
+    "entity_a": "Sara Sorribes Tormo",
+    "entity_b": "Tamara Korpatsch",
+    "venue": "Paris, France",
+    "a_win_prob": 50.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.1,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.9,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1406,
+    "colley_b": 1354,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 57.4,
+        "d": 0.0,
+        "b": 42.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 13,
+    "date": "2026-05-24 12:30",
+    "time": "12:30",
+    "entity_a": "Sofia Kenin",
+    "entity_b": "Peyton Stearns",
+    "venue": "Paris, France",
+    "a_win_prob": 48.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.2,
+        "d": 0.0,
+        "b": 59.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 14,
+    "date": "2026-05-24 13:00",
+    "time": "13:00",
+    "entity_a": "Emma Raducanu",
+    "entity_b": "Solana Sierra",
+    "venue": "Paris, France",
+    "a_win_prob": 47.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.4,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1594,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 31.2,
+        "d": 0.0,
+        "b": 68.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 15,
+    "date": "2026-05-24 13:00",
+    "time": "13:00",
+    "entity_a": "Magdalena Frech",
+    "entity_b": "Elena-Gabriela Ruse",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1423,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 54.9,
+        "d": 0.0,
+        "b": 45.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 16,
+    "date": "2026-05-24 13:30",
+    "time": "13:30",
+    "entity_a": "Mirra Andreeva",
+    "entity_b": "Fiona Ferro",
+    "venue": "Paris, France",
+    "a_win_prob": 53.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.3,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 53.7,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1663,
+    "colley_b": 1423,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 79.9,
+        "d": 0.0,
+        "b": 20.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 17,
+    "date": "2026-05-24 14:30",
+    "time": "14:30",
+    "entity_a": "Ksenia Efremova",
+    "entity_b": "Sorana Cirstea",
+    "venue": "Paris, France",
+    "a_win_prob": 49.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.6,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 45.0,
+        "d": 0.0,
+        "b": 55.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 18,
+    "date": "2026-05-24 14:30",
+    "time": "14:30",
+    "entity_a": "Clara Tauson",
+    "entity_b": "Daria Snigur",
+    "venue": "Paris, France",
+    "a_win_prob": 49.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.6,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1526,
+    "colley_b": 1560,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 45.1,
+        "d": 0.0,
+        "b": 54.9
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 19,
+    "date": "2026-05-24 14:30",
+    "time": "14:30",
+    "entity_a": "Marina Bassols Ribera",
+    "entity_b": "Emiliana Arango",
+    "venue": "Paris, France",
+    "a_win_prob": 48.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.5,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.5,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1406,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 38.0,
+        "d": 0.0,
+        "b": 62.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 20,
+    "date": "2026-05-24 14:30",
+    "time": "14:30",
+    "entity_a": "Sara Bejlek",
+    "entity_b": "Sloane Stephens",
+    "venue": "Paris, France",
+    "a_win_prob": 45.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.6,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 54.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1200,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 13.3,
+        "d": 0.0,
+        "b": 86.7
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 21,
+    "date": "2026-05-25 04:00",
     "time": "04:00",
-    "entity_a": "Terence Atmane",
-    "entity_b": "Tomas Martin Etcheverry",
-    "venue": "Hamburg, Germany",
+    "entity_a": "Aryna Sabalenka",
+    "entity_b": "Jessica Bouzas Maneiro",
+    "venue": "Paris, France",
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.0,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1526,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 22,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Petra Marcinko",
+    "entity_b": "Eva Lys",
+    "venue": "Paris, France",
+    "a_win_prob": 48.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.5,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.5,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1406,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 38.0,
+        "d": 0.0,
+        "b": 62.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 23,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Linda Fruhvirtova",
+    "entity_b": "Elsa Jacquemot",
+    "venue": "Paris, France",
     "a_win_prob": 45.6,
     "draw_prob": 0.0,
     "b_win_prob": 54.4,
@@ -1801,11 +1229,12 @@
     "elo_a": 1500.0,
     "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1800,
+    "colley_a": 1286,
+    "colley_b": 1594,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -1813,9 +1242,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 15.1,
+        "a": 14.5,
         "d": 0.0,
-        "b": 84.9
+        "b": 85.5
       },
       "form": {
         "a": 50.0,
@@ -1831,17 +1260,1392 @@
       "odds": 0.0
     },
     "day_of_week": "Monday",
-    "week_number": 21,
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 24,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Daria Kasatkina",
+    "entity_b": "Zeynep Sonmez",
+    "venue": "Paris, France",
+    "a_win_prob": 48.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.8,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1594,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 35.6,
+        "d": 0.0,
+        "b": 64.4
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 25,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Kamilla Rakhimova",
+    "entity_b": "Jaqueline Cristian",
+    "venue": "Paris, France",
+    "a_win_prob": 46.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 53.5,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 53.5,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1337,
+    "colley_b": 1560,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 21.7,
+        "d": 0.0,
+        "b": 78.3
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 26,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Anastasia Zakharova",
+    "entity_b": "Karolina Muchova",
+    "venue": "Paris, France",
+    "a_win_prob": 47.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.9,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.9,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1663,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 27.1,
+        "d": 0.0,
+        "b": 72.9
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 27,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Jasmine Paolini",
+    "entity_b": "Dayana Yastremska",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1526,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 55.0,
+        "d": 0.0,
+        "b": 45.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 28,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Liudmila Samsonova",
+    "entity_b": "Jil Teichmann",
+    "venue": "Paris, France",
+    "a_win_prob": 51.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.2,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1389,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 64.3,
+        "d": 0.0,
+        "b": 35.7
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 29,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Simona Waltert",
+    "entity_b": "Katerina Siniakova",
+    "venue": "Paris, France",
+    "a_win_prob": 48.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.8,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1560,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 35.6,
+        "d": 0.0,
+        "b": 64.4
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 30,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Antonia Ruzic",
+    "entity_b": "Ashlyn Krueger",
+    "venue": "Paris, France",
+    "a_win_prob": 51.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.5,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.5,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1406,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 62.0,
+        "d": 0.0,
+        "b": 38.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 31,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Laura Siegemund",
+    "entity_b": "Naomi Osaka",
+    "venue": "Paris, France",
+    "a_win_prob": 47.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.9,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.9,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1389,
+    "colley_b": 1560,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 27.2,
+        "d": 0.0,
+        "b": 72.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 32,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Victoria Mboko",
+    "entity_b": "Nikola Bartunkova",
+    "venue": "Paris, France",
+    "a_win_prob": 52.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.6,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1560,
+    "colley_b": 1423,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 68.8,
+        "d": 0.0,
+        "b": 31.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 33,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Susan Bandecchi",
+    "entity_b": "Cristina Bucsa",
+    "venue": "Paris, France",
+    "a_win_prob": 47.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.6,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1337,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 29.2,
+        "d": 0.0,
+        "b": 70.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 34,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Iva Jovic",
+    "entity_b": "Alexandra Eala",
+    "venue": "Paris, France",
+    "a_win_prob": 52.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.1,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.9,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1629,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 72.9,
+        "d": 0.0,
+        "b": 27.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 35,
-    "date": "2026-05-18 04:00",
+    "date": "2026-05-25 04:00",
     "time": "04:00",
-    "entity_a": "Luciano Darderi",
-    "entity_b": "Roman Andres Burruchaga",
-    "venue": "Hamburg, Germany",
+    "entity_a": "Emma Navarro",
+    "entity_b": "Janice Tjen",
+    "venue": "Paris, France",
+    "a_win_prob": 46.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 53.3,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 53.3,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1526,
+    "colley_b": 1731,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 23.5,
+        "d": 0.0,
+        "b": 76.5
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 36,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Veronika Erjavec",
+    "entity_b": "Elena Rybakina",
+    "venue": "Paris, France",
+    "a_win_prob": 51.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.2,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1594,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 64.4,
+        "d": 0.0,
+        "b": 35.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 37,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Donna Vekic",
+    "entity_b": "Alice Tubello",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 54.9,
+        "d": 0.0,
+        "b": 45.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 38,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Elena Pridankina",
+    "entity_b": "Oleksandra Oliynykova",
+    "venue": "Paris, France",
+    "a_win_prob": 47.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.9,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.9,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1423,
+    "colley_b": 1594,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 27.2,
+        "d": 0.0,
+        "b": 72.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 39,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Kimberly Birrell",
+    "entity_b": "Jessica Pegula",
+    "venue": "Paris, France",
+    "a_win_prob": 46.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 53.3,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 53.3,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1389,
+    "colley_b": 1594,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 23.5,
+        "d": 0.0,
+        "b": 76.5
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 40,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Diana Shnaider",
+    "entity_b": "Renata Zarazua",
+    "venue": "Paris, France",
+    "a_win_prob": 51.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.2,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1560,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 64.4,
+        "d": 0.0,
+        "b": 35.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 41,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Guo Hanyu",
+    "entity_b": "McCartney Kessler",
+    "venue": "Paris, France",
+    "a_win_prob": 48.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1423,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.3,
+        "d": 0.0,
+        "b": 59.7
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 42,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Hanne Vandewinkel",
+    "entity_b": "Madison Keys",
+    "venue": "Paris, France",
+    "a_win_prob": 49.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.6,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1423,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 45.1,
+        "d": 0.0,
+        "b": 54.9
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 43,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Akasha Urhobo",
+    "entity_b": "Katie Boulter",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 54.9,
+        "d": 0.0,
+        "b": 45.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 44,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Maya Joint",
+    "entity_b": "Anastasia Potapova",
+    "venue": "Paris, France",
+    "a_win_prob": 52.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.6,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1594,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 68.8,
+        "d": 0.0,
+        "b": 31.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 45,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Dalma Galfi",
+    "entity_b": "Mayar Sherif",
+    "venue": "Paris, France",
+    "a_win_prob": 48.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.8,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1389,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 35.7,
+        "d": 0.0,
+        "b": 64.3
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 46,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Coco Gauff",
+    "entity_b": "Taylor Townsend",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1629,
+    "colley_b": 1594,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 55.0,
+        "d": 0.0,
+        "b": 45.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 47,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Anna Kalinskaya",
+    "entity_b": "Lois Boisson",
+    "venue": "Paris, France",
+    "a_win_prob": 50.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.1,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.9,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1406,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 57.3,
+        "d": 0.0,
+        "b": 42.7
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 48,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Talia Gibson",
+    "entity_b": "Yulia Putintseva",
+    "venue": "Paris, France",
+    "a_win_prob": 47.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.9,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.9,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1526,
+    "colley_b": 1697,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 27.2,
+        "d": 0.0,
+        "b": 72.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 49,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Tiantsoa Rakotomanga Rajaonah",
+    "entity_b": "Amanda Anisimova",
+    "venue": "Paris, France",
     "a_win_prob": 46.1,
     "draw_prob": 0.0,
     "b_win_prob": 53.9,
@@ -1855,11 +2659,12 @@
     "elo_a": 1500.0,
     "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1754,
+    "colley_a": 1200,
+    "colley_b": 1457,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -1867,9 +2672,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 18.8,
+        "a": 18.6,
         "d": 0.0,
-        "b": 81.2
+        "b": 81.4
       },
       "form": {
         "a": 50.0,
@@ -1885,89 +2690,36 @@
       "odds": 0.0
     },
     "day_of_week": "Monday",
-    "week_number": 21,
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
-    "id": 36,
-    "date": "2026-05-18 04:00",
+    "id": 50,
+    "date": "2026-05-25 04:00",
     "time": "04:00",
-    "entity_a": "Miomir Kecmanovic",
-    "entity_b": "Karen Khachanov",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 48.8,
+    "entity_a": "Alina Korneeva",
+    "entity_b": "Elisabetta Cocciaretto",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
     "draw_prob": 0.0,
-    "b_win_prob": 51.2,
-    "prediction": "P2 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 51.2,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1408,
-    "colley_b": 1477,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 40.2,
-        "d": 0.0,
-        "b": 59.8
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 37,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Flavio Cobolli",
-    "entity_b": "TBD",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
+    "b_win_prob": 49.4,
     "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 50.0,
+    "confidence": 50.6,
     "confidence_level": "Medium",
     "elo_a": 1500.0,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
+    "colley_a": 1491,
+    "colley_b": 1457,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -1975,9 +2727,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 50.0,
+        "a": 54.9,
         "d": 0.0,
-        "b": 50.0
+        "b": 45.1
       },
       "form": {
         "a": 50.0,
@@ -1993,21 +2745,21 @@
       "odds": 0.0
     },
     "day_of_week": "Monday",
-    "week_number": 21,
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
-    "id": 38,
-    "date": "2026-05-18 04:00",
+    "id": 51,
+    "date": "2026-05-25 04:00",
     "time": "04:00",
-    "entity_a": "Jakub Mensik",
-    "entity_b": "Jan-Lennard Struff",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 47.6,
+    "entity_a": "Camila Osorio",
+    "entity_b": "Ekaterina Alexandrova",
+    "venue": "Paris, France",
+    "a_win_prob": 52.4,
     "draw_prob": 0.0,
-    "b_win_prob": 52.4,
-    "prediction": "P2 Win",
+    "b_win_prob": 47.6,
+    "prediction": "P1 Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
@@ -2017,11 +2769,12 @@
     "elo_a": 1500.0,
     "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1431,
-    "colley_b": 1569,
+    "colley_a": 1663,
+    "colley_b": 1526,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -2029,9 +2782,9 @@
         "b": 50.0
       },
       "colley": {
-        "a": 31.1,
+        "a": 68.8,
         "d": 0.0,
-        "b": 68.9
+        "b": 31.2
       },
       "form": {
         "a": 50.0,
@@ -2047,448 +2800,16 @@
       "odds": 0.0
     },
     "day_of_week": "Monday",
-    "week_number": 21,
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
-    "id": 39,
-    "date": "2026-05-18 04:00",
+    "id": 52,
+    "date": "2026-05-25 04:00",
     "time": "04:00",
-    "entity_a": "Francisco Cerundolo",
-    "entity_b": "Alex de Minaur",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 49.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.4,
-    "prediction": "P2 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.4,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1523,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 46.7,
-        "d": 0.0,
-        "b": 53.3
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 40,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Alejandro Davidovich Fokina",
-    "entity_b": "Corentin Moutet",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 50.4,
-    "draw_prob": 0.0,
-    "b_win_prob": 49.6,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.4,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1546,
-    "colley_b": 1523,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 53.3,
-        "d": 0.0,
-        "b": 46.7
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 41,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Justin Engel",
-    "entity_b": "Ugo Humbert",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 48.8,
-    "draw_prob": 0.0,
-    "b_win_prob": 51.2,
-    "prediction": "P2 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 51.2,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1569,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 40.2,
-        "d": 0.0,
-        "b": 59.8
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 42,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Felix Auger-Aliassime",
-    "entity_b": "Vit Kopriva",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 51.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 48.4,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 51.6,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1615,
-    "colley_b": 1523,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 62.9,
-        "d": 0.0,
-        "b": 37.1
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 43,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Zizou Bergs",
-    "entity_b": "TBD",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 50.4,
-    "draw_prob": 0.0,
-    "b_win_prob": 49.6,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.4,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1523,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 53.3,
-        "d": 0.0,
-        "b": 46.7
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 44,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Kamil Majchrzak",
-    "entity_b": "Camilo Ugo Carabelli",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 49.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.4,
-    "prediction": "P2 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.4,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500.0,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1523,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 46.7,
-        "d": 0.0,
-        "b": 53.3
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 45,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "Daniel Altmaier",
-    "entity_b": "TBD",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 49.2,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.8,
-    "prediction": "P2 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.8,
-    "confidence_level": "Medium",
-    "elo_a": 1500.0,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1454,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 43.4,
-        "d": 0.0,
-        "b": 56.6
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 46,
-    "date": "2026-05-18 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
-    "venue": "Hamburg, Germany",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 47,
-    "date": "2026-05-24 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
+    "entity_a": "Claire Liu",
+    "entity_b": "Moyuka Uchijima",
     "venue": "Paris, France",
     "a_win_prob": 50.0,
     "draw_prob": 0.0,
@@ -2500,14 +2821,15 @@
     "is_correct": null,
     "confidence": 50.0,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
+    "colley_a": 1457,
+    "colley_b": 1457,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -2532,13 +2854,673 @@
       "form": 0.25,
       "odds": 0.0
     },
-    "day_of_week": "Sunday",
-    "week_number": 21,
+    "day_of_week": "Monday",
+    "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
-    "id": 48,
+    "id": 53,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Linda Noskova",
+    "entity_b": "Maria Sakkari",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1594,
+    "colley_b": 1560,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 54.9,
+        "d": 0.0,
+        "b": 45.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 54,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Kaitlin Quevedo",
+    "entity_b": "Leolia Jeanjean",
+    "venue": "Paris, France",
+    "a_win_prob": 48.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.5,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.5,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1371,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 37.9,
+        "d": 0.0,
+        "b": 62.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 55,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Elina Svitolina",
+    "entity_b": "Anna Bondar",
+    "venue": "Paris, France",
+    "a_win_prob": 48.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.2,
+        "d": 0.0,
+        "b": 59.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 56,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Maja Chwalinska",
+    "entity_b": "Zheng Qinwen",
+    "venue": "Paris, France",
+    "a_win_prob": 54.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 45.7,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 54.3,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1629,
+    "colley_b": 1337,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 84.3,
+        "d": 0.0,
+        "b": 15.7
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 57,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Ann Li",
+    "entity_b": "Zhang Shuai",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 54.9,
+        "d": 0.0,
+        "b": 45.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 58,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Tatjana Maria",
+    "entity_b": "Elise Mertens",
+    "venue": "Paris, France",
+    "a_win_prob": 47.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.9,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.9,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1389,
+    "colley_b": 1560,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 27.2,
+        "d": 0.0,
+        "b": 72.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 59,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Anhelina Kalinina",
+    "entity_b": "Diane Parry",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 54.9,
+        "d": 0.0,
+        "b": 45.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 60,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Emerson Jones",
+    "entity_b": "Iga Swiatek",
+    "venue": "Paris, France",
+    "a_win_prob": 48.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.2,
+        "d": 0.0,
+        "b": 59.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 61,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Julia Grabher",
+    "entity_b": "Rebecca Sramkova",
+    "venue": "Paris, France",
+    "a_win_prob": 51.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.8,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1560,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 59.8,
+        "d": 0.0,
+        "b": 40.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 62,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Jelena Ostapenko",
+    "entity_b": "Ella Seidel",
+    "venue": "Paris, France",
+    "a_win_prob": 51.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.2,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1594,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 64.4,
+        "d": 0.0,
+        "b": 35.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 63,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Panna Udvardy",
+    "entity_b": "Viktorija Golubic",
+    "venue": "Paris, France",
+    "a_win_prob": 54.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 45.6,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 54.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1697,
+    "colley_b": 1389,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 85.5,
+        "d": 0.0,
+        "b": 14.5
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 64,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Alycia Parks",
+    "entity_b": "Leylah Fernandez",
+    "venue": "Paris, France",
+    "a_win_prob": 46.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 53.7,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 53.7,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1697,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 20.1,
+        "d": 0.0,
+        "b": 79.9
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 65,
     "date": "2026-05-27 04:00",
     "time": "04:00",
     "entity_a": "TBD",
@@ -2562,6 +3544,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -2592,7 +3575,7 @@
     "month": 5
   },
   {
-    "id": 49,
+    "id": 66,
     "date": "2026-05-29 04:00",
     "time": "04:00",
     "entity_a": "TBD",
@@ -2616,6 +3599,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -2646,7 +3630,7 @@
     "month": 5
   },
   {
-    "id": 50,
+    "id": 67,
     "date": "2026-05-31 04:00",
     "time": "04:00",
     "entity_a": "TBD",
@@ -2670,6 +3654,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -2700,7 +3685,7 @@
     "month": 5
   },
   {
-    "id": 51,
+    "id": 68,
     "date": "2026-06-02 04:00",
     "time": "04:00",
     "entity_a": "TBD",
@@ -2724,6 +3709,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -2754,7 +3740,7 @@
     "month": 6
   },
   {
-    "id": 52,
+    "id": 69,
     "date": "2026-06-04 04:00",
     "time": "04:00",
     "entity_a": "TBD",
@@ -2778,6 +3764,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -2808,7 +3795,7 @@
     "month": 6
   },
   {
-    "id": 53,
+    "id": 70,
     "date": "2026-06-06 13:00",
     "time": "13:00",
     "entity_a": "TBD",
@@ -2832,6 +3819,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -2862,7 +3850,3527 @@
     "month": 6
   },
   {
-    "id": 54,
+    "id": 71,
+    "date": "2026-05-24 09:00",
+    "time": "09:00",
+    "entity_a": "Karen Khachanov",
+    "entity_b": "Arthur Gea",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1560,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 54.9,
+        "d": 0.0,
+        "b": 45.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 72,
+    "date": "2026-05-24 09:00",
+    "time": "09:00",
+    "entity_a": "James Duckworth",
+    "entity_b": "Gabriel Diallo",
+    "venue": "Paris, France",
+    "a_win_prob": 49.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.6,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 45.0,
+        "d": 0.0,
+        "b": 55.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 73,
+    "date": "2026-05-24 09:00",
+    "time": "09:00",
+    "entity_a": "Alejandro Davidovich Fokina",
+    "entity_b": "Damir Dzumhur",
+    "venue": "Paris, France",
+    "a_win_prob": 48.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.2,
+        "d": 0.0,
+        "b": 59.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 74,
+    "date": "2026-05-24 09:00",
+    "time": "09:00",
+    "entity_a": "Pablo Llamas Ruiz",
+    "entity_b": "Thiago Agustin Tirante",
+    "venue": "Paris, France",
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.0,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1560,
+    "colley_b": 1560,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 75,
+    "date": "2026-05-24 09:00",
+    "time": "09:00",
+    "entity_a": "Miomir Kecmanovic",
+    "entity_b": "Fabian Marozsan",
+    "venue": "Paris, France",
+    "a_win_prob": 48.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1526,
+    "colley_b": 1594,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.3,
+        "d": 0.0,
+        "b": 59.7
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 76,
+    "date": "2026-05-24 10:30",
+    "time": "10:30",
+    "entity_a": "Kyrian Jacquet",
+    "entity_b": "Marco Trungelliti",
+    "venue": "Paris, France",
+    "a_win_prob": 47.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.4,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1320,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 31.2,
+        "d": 0.0,
+        "b": 68.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 77,
+    "date": "2026-05-24 11:00",
+    "time": "11:00",
+    "entity_a": "Tomas Machac",
+    "entity_b": "Zizou Bergs",
+    "venue": "Paris, France",
+    "a_win_prob": 48.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.5,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.5,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1406,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 38.0,
+        "d": 0.0,
+        "b": 62.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 78,
+    "date": "2026-05-24 11:00",
+    "time": "11:00",
+    "entity_a": "Tomas Martin Etcheverry",
+    "entity_b": "Nuno Borges",
+    "venue": "Paris, France",
+    "a_win_prob": 52.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.6,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1594,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 68.8,
+        "d": 0.0,
+        "b": 31.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 79,
+    "date": "2026-05-24 11:30",
+    "time": "11:30",
+    "entity_a": "Benjamin Bonzi",
+    "entity_b": "Alexander Zverev",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1526,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 55.0,
+        "d": 0.0,
+        "b": 45.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 80,
+    "date": "2026-05-24 12:00",
+    "time": "12:00",
+    "entity_a": "Quentin Halys",
+    "entity_b": "Mattia Bellucci",
+    "venue": "Paris, France",
+    "a_win_prob": 52.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.6,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1629,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 68.9,
+        "d": 0.0,
+        "b": 31.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 81,
+    "date": "2026-05-24 12:00",
+    "time": "12:00",
+    "entity_a": "Titouan Droguet",
+    "entity_b": "Jakub Mensik",
+    "venue": "Paris, France",
+    "a_win_prob": 51.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.2,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1594,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 64.4,
+        "d": 0.0,
+        "b": 35.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 82,
+    "date": "2026-05-24 12:00",
+    "time": "12:00",
+    "entity_a": "Michael Zheng",
+    "entity_b": "Dino Prizmic",
+    "venue": "Paris, France",
+    "a_win_prob": 50.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.1,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.9,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1406,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 57.3,
+        "d": 0.0,
+        "b": 42.7
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 83,
+    "date": "2026-05-24 12:30",
+    "time": "12:30",
+    "entity_a": "Federico Cina",
+    "entity_b": "Reilly Opelka",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1354,
+    "colley_b": 1320,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 54.9,
+        "d": 0.0,
+        "b": 45.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 84,
+    "date": "2026-05-24 12:30",
+    "time": "12:30",
+    "entity_a": "Taylor Fritz",
+    "entity_b": "Nishesh Basavareddy",
+    "venue": "Paris, France",
+    "a_win_prob": 51.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.2,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1560,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 64.4,
+        "d": 0.0,
+        "b": 35.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 85,
+    "date": "2026-05-24 14:00",
+    "time": "14:00",
+    "entity_a": "Alexander Blockx",
+    "entity_b": "Chak Lam Coleman Wong",
+    "venue": "Paris, France",
+    "a_win_prob": 47.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.1,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.1,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1406,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 33.4,
+        "d": 0.0,
+        "b": 66.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 86,
+    "date": "2026-05-24 14:00",
+    "time": "14:00",
+    "entity_a": "Hamad Medjedovic",
+    "entity_b": "Yannick Hanfmann",
+    "venue": "Paris, France",
+    "a_win_prob": 54.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 45.7,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 54.3,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1594,
+    "colley_b": 1303,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 84.2,
+        "d": 0.0,
+        "b": 15.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 87,
+    "date": "2026-05-24 14:00",
+    "time": "14:00",
+    "entity_a": "Joao Fonseca",
+    "entity_b": "Luka Pavlovic",
+    "venue": "Paris, France",
+    "a_win_prob": 53.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 46.3,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 53.7,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1526,
+    "colley_b": 1286,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 79.9,
+        "d": 0.0,
+        "b": 20.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 88,
+    "date": "2026-05-24 14:00",
+    "time": "14:00",
+    "entity_a": "Hugo Dellien",
+    "entity_b": "Valentin Royer",
+    "venue": "Paris, France",
+    "a_win_prob": 49.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.6,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 45.0,
+        "d": 0.0,
+        "b": 55.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 89,
+    "date": "2026-05-24 14:00",
+    "time": "14:00",
+    "entity_a": "Lorenzo Sonego",
+    "entity_b": "Pierre-Hugues Herbert",
+    "venue": "Paris, France",
+    "a_win_prob": 46.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 53.3,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 53.3,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1320,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 23.4,
+        "d": 0.0,
+        "b": 76.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 90,
+    "date": "2026-05-24 18:15",
+    "time": "18:15",
+    "entity_a": "Giovanni Mpetshi Perricard",
+    "entity_b": "Novak Djokovic",
+    "venue": "Paris, France",
+    "a_win_prob": 48.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1560,
+    "colley_b": 1629,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.2,
+        "d": 0.0,
+        "b": 59.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Sunday",
+    "week_number": 21,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 91,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Thanasi Kokkinakis",
+    "entity_b": "Terence Atmane",
+    "venue": "Paris, France",
+    "a_win_prob": 47.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.4,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1594,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 31.2,
+        "d": 0.0,
+        "b": 68.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 92,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Pablo Carreno Busta",
+    "entity_b": "Jiri Lehecka",
+    "venue": "Paris, France",
+    "a_win_prob": 46.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 53.5,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 53.5,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1406,
+    "colley_b": 1629,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 21.7,
+        "d": 0.0,
+        "b": 78.3
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 93,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Aleksandar Kovacevic",
+    "entity_b": "Rafael Jodar",
+    "venue": "Paris, France",
+    "a_win_prob": 47.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.4,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1594,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 31.2,
+        "d": 0.0,
+        "b": 68.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 94,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Alexandr Shevchenko",
+    "entity_b": "Alex Michelsen",
+    "venue": "Paris, France",
+    "a_win_prob": 48.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.2,
+        "d": 0.0,
+        "b": 59.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 95,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Arthur Rinderknech",
+    "entity_b": "Jurij Rodionov",
+    "venue": "Paris, France",
+    "a_win_prob": 51.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.2,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1389,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 64.3,
+        "d": 0.0,
+        "b": 35.7
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 96,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Marton Fucsovics",
+    "entity_b": "Matteo Berrettini",
+    "venue": "Paris, France",
+    "a_win_prob": 47.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.4,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1594,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 31.2,
+        "d": 0.0,
+        "b": 68.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 97,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Ethan Quinn",
+    "entity_b": "Francisco Comesana",
+    "venue": "Paris, France",
+    "a_win_prob": 48.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.8,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1423,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 35.6,
+        "d": 0.0,
+        "b": 64.4
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 98,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Sebastian Ofner",
+    "entity_b": "Luciano Darderi",
+    "venue": "Paris, France",
+    "a_win_prob": 49.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.9,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.9,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1371,
+    "colley_b": 1423,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 42.6,
+        "d": 0.0,
+        "b": 57.4
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 99,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Jannik Sinner",
+    "entity_b": "Clement Tabur",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1560,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 54.9,
+        "d": 0.0,
+        "b": 45.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 100,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Stan Wawrinka",
+    "entity_b": "Jesper de Jong",
+    "venue": "Paris, France",
+    "a_win_prob": 49.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.6,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1526,
+    "colley_b": 1560,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 45.1,
+        "d": 0.0,
+        "b": 54.9
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 101,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Jacob Fearnley",
+    "entity_b": "Juan Manuel Cerundolo",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1526,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 55.0,
+        "d": 0.0,
+        "b": 45.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 102,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Ugo Humbert",
+    "entity_b": "Adrian Mannarino",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1526,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 55.0,
+        "d": 0.0,
+        "b": 45.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 103,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Martin Landaluce",
+    "entity_b": "Juan Carlos Prado Angelo",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1423,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 54.9,
+        "d": 0.0,
+        "b": 45.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 104,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Vit Kopriva",
+    "entity_b": "Corentin Moutet",
+    "venue": "Paris, France",
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.0,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 105,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Jaume Munar",
+    "entity_b": "Hubert Hurkacz",
+    "venue": "Paris, France",
+    "a_win_prob": 51.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.8,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1389,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 59.7,
+        "d": 0.0,
+        "b": 40.3
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 106,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Alexandre Muller",
+    "entity_b": "Stefanos Tsitsipas",
+    "venue": "Paris, France",
+    "a_win_prob": 47.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.4,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1629,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 31.1,
+        "d": 0.0,
+        "b": 68.9
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 107,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Cristian Garin",
+    "entity_b": "Learner Tien",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 54.9,
+        "d": 0.0,
+        "b": 45.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 108,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Raphael Collignon",
+    "entity_b": "Aleksandar Vukic",
+    "venue": "Paris, France",
+    "a_win_prob": 52.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.6,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1594,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 68.8,
+        "d": 0.0,
+        "b": 31.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 109,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Eliot Spizzirri",
+    "entity_b": "Frances Tiafoe",
+    "venue": "Paris, France",
+    "a_win_prob": 51.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.2,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1560,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 64.4,
+        "d": 0.0,
+        "b": 35.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 110,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Tallon Griekspoor",
+    "entity_b": "Matteo Arnaldi",
+    "venue": "Paris, France",
+    "a_win_prob": 47.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.1,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.1,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1337,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 33.4,
+        "d": 0.0,
+        "b": 66.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 111,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Alexander Bublik",
+    "entity_b": "Jan-Lennard Struff",
+    "venue": "Paris, France",
+    "a_win_prob": 48.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.5,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.5,
+    "confidence_level": "Medium",
+    "elo_a": 1500,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1406,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 38.0,
+        "d": 0.0,
+        "b": 62.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 112,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Jaime Faria",
+    "entity_b": "Denis Shapovalov",
+    "venue": "Paris, France",
+    "a_win_prob": 48.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1423,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.3,
+        "d": 0.0,
+        "b": 59.7
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 113,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Daniel Merida",
+    "entity_b": "Ben Shelton",
+    "venue": "Paris, France",
+    "a_win_prob": 52.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.1,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.9,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1629,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 72.9,
+        "d": 0.0,
+        "b": 27.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 114,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Luca Van Assche",
+    "entity_b": "Patrick Kypson",
+    "venue": "Paris, France",
+    "a_win_prob": 47.9,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.1,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.1,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1371,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 33.4,
+        "d": 0.0,
+        "b": 66.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 115,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Roberto Bautista Agut",
+    "entity_b": "Brandon Nakashima",
+    "venue": "Paris, France",
+    "a_win_prob": 52.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.6,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1663,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 68.8,
+        "d": 0.0,
+        "b": 31.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 116,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Adam Walton",
+    "entity_b": "Daniil Medvedev",
+    "venue": "Paris, France",
+    "a_win_prob": 49.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.6,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 45.0,
+        "d": 0.0,
+        "b": 55.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 117,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Felix Auger-Aliassime",
+    "entity_b": "Daniel Altmaier",
+    "venue": "Paris, France",
+    "a_win_prob": 47.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.4,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1594,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 31.2,
+        "d": 0.0,
+        "b": 68.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 118,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Sebastian Baez",
+    "entity_b": "Roman Andres Burruchaga",
+    "venue": "Paris, France",
+    "a_win_prob": 52.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.6,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1560,
+    "colley_b": 1423,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 68.8,
+        "d": 0.0,
+        "b": 31.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 119,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Hugo Gaston",
+    "entity_b": "Gael Monfils",
+    "venue": "Paris, France",
+    "a_win_prob": 51.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.8,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1423,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 59.7,
+        "d": 0.0,
+        "b": 40.3
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 120,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Alexei Popyrin",
+    "entity_b": "Zachary Svajda",
+    "venue": "Paris, France",
+    "a_win_prob": 48.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.8,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1560,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 35.6,
+        "d": 0.0,
+        "b": 64.4
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 121,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Francisco Cerundolo",
+    "entity_b": "Botic Van De Zandschulp",
+    "venue": "Paris, France",
+    "a_win_prob": 49.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.6,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1423,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 45.1,
+        "d": 0.0,
+        "b": 54.9
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 122,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Cameron Norrie",
+    "entity_b": "Adolfo Daniel Vallejo",
+    "venue": "Paris, France",
+    "a_win_prob": 50.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 49.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1423,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 54.9,
+        "d": 0.0,
+        "b": 45.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 123,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Marin Cilic",
+    "entity_b": "Moise Kouame",
+    "venue": "Paris, France",
+    "a_win_prob": 48.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.2,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1526,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 40.2,
+        "d": 0.0,
+        "b": 59.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 124,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Thomas Faurel",
+    "entity_b": "Valentin Vacherot",
+    "venue": "Paris, France",
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.0,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1594,
+    "colley_b": 1594,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 125,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Mariano Navone",
+    "entity_b": "Jenson Brooksby",
+    "venue": "Paris, France",
+    "a_win_prob": 46.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 53.3,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 53.3,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1594,
+    "colley_b": 1800,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 23.4,
+        "d": 0.0,
+        "b": 76.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 126,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Alejandro Tabilo",
+    "entity_b": "Kamil Majchrzak",
+    "venue": "Paris, France",
+    "a_win_prob": 51.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.8,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.2,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1423,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 59.7,
+        "d": 0.0,
+        "b": 40.3
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 127,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Alex de Minaur",
+    "entity_b": "Toby Samuel",
+    "venue": "Paris, France",
+    "a_win_prob": 45.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.7,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 54.7,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1457,
+    "colley_b": 1800,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 12.2,
+        "d": 0.0,
+        "b": 87.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 128,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Flavio Cobolli",
+    "entity_b": "Andrea Pellegrino",
+    "venue": "Paris, France",
+    "a_win_prob": 51.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 48.2,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.8,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1560,
+    "colley_b": 1457,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 64.4,
+        "d": 0.0,
+        "b": 35.6
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 129,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Wu Yibing",
+    "entity_b": "Marcos Giron",
+    "venue": "Paris, France",
+    "a_win_prob": 52.4,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.6,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.4,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1697,
+    "colley_b": 1560,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 68.8,
+        "d": 0.0,
+        "b": 31.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 130,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Facundo Diaz Acosta",
+    "entity_b": "Zhang Zhizhen",
+    "venue": "Paris, France",
+    "a_win_prob": 45.3,
+    "draw_prob": 0.0,
+    "b_win_prob": 54.7,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 54.7,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1354,
+    "colley_b": 1697,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 12.2,
+        "d": 0.0,
+        "b": 87.8
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 131,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Casper Ruud",
+    "entity_b": "Roman Safiullin",
+    "venue": "Paris, France",
+    "a_win_prob": 54.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 45.9,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 54.1,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1217,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 82.9,
+        "d": 0.0,
+        "b": 17.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 132,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Ignacio Buse",
+    "entity_b": "Andrey Rublev",
+    "venue": "Paris, France",
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 50.0,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1491,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 133,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Emilio Nava",
+    "entity_b": "Camilo Ugo Carabelli",
+    "venue": "Paris, France",
+    "a_win_prob": 48.5,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.5,
+    "prediction": "P2 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 51.5,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1337,
+    "colley_b": 1423,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 37.9,
+        "d": 0.0,
+        "b": 62.1
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 134,
+    "date": "2026-05-25 04:00",
+    "time": "04:00",
+    "entity_a": "Rinky Hijikata",
+    "entity_b": "Tommy Paul",
+    "venue": "Paris, France",
+    "a_win_prob": 52.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.4,
+    "prediction": "P1 Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 52.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
+    "elo_diff": 0,
+    "colley_a": 1491,
+    "colley_b": 1337,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "colley": {
+        "a": 70.8,
+        "d": 0.0,
+        "b": 29.2
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.625,
+      "colley": 0.125,
+      "form": 0.25,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 135,
     "date": "2026-06-05 04:00",
     "time": "04:00",
     "entity_a": "TBD",
@@ -2886,6 +7394,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -2916,7 +7425,7 @@
     "month": 6
   },
   {
-    "id": 55,
+    "id": 136,
     "date": "2026-06-07 13:00",
     "time": "13:00",
     "entity_a": "TBD",
@@ -2940,6 +7449,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -2970,61 +7480,7 @@
     "month": 6
   },
   {
-    "id": 56,
-    "date": "2026-05-26 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
-    "venue": "Paris, France",
-    "a_win_prob": 50.0,
-    "draw_prob": 0.0,
-    "b_win_prob": 50.0,
-    "prediction": "P1 Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 50.0,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "colley": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.625,
-      "colley": 0.125,
-      "form": 0.25,
-      "odds": 0.0
-    },
-    "day_of_week": "Tuesday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 57,
+    "id": 137,
     "date": "2026-05-30 04:00",
     "time": "04:00",
     "entity_a": "TBD",
@@ -3048,6 +7504,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -3078,7 +7535,7 @@
     "month": 5
   },
   {
-    "id": 58,
+    "id": 138,
     "date": "2026-06-01 04:00",
     "time": "04:00",
     "entity_a": "TBD",
@@ -3102,6 +7559,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -3132,7 +7590,7 @@
     "month": 6
   },
   {
-    "id": 59,
+    "id": 139,
     "date": "2026-06-03 04:00",
     "time": "04:00",
     "entity_a": "TBD",
@@ -3156,6 +7614,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,

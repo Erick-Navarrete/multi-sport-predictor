@@ -1,13 +1,14 @@
 {
-  "total_historical": 3686,
-  "accuracy": 48.0,
-  "correct": 1768,
-  "current_predictions": 59,
+  "total_historical": 2935,
+  "accuracy": 52.6,
+  "correct": 1544,
+  "current_predictions": 139,
   "high_confidence": 0,
-  "medium_confidence": 59,
+  "medium_confidence": 139,
   "low_confidence": 0,
-  "entities": 278,
+  "entities": 693,
   "odds_coverage": 0,
+  "espn_odds_coverage": 0,
   "season_status": "in_season",
-  "last_updated": "2026-05-17 02:34:13"
+  "last_updated": "2026-05-23 23:14:18"
 }

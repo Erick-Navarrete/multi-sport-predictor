@@ -24,6 +24,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -78,6 +79,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -132,6 +134,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -179,13 +182,14 @@
     "confidence": 50.0,
     "confidence_level": "Medium",
     "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
     "colley_a": 1500,
     "colley_b": 1500,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -240,6 +244,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -294,6 +299,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -348,6 +354,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -394,14 +401,15 @@
     "is_correct": null,
     "confidence": 50.0,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
     "colley_a": 1500,
     "colley_b": 1500,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -456,6 +464,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -510,6 +519,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -557,13 +567,14 @@
     "confidence": 50.0,
     "confidence_level": "Medium",
     "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_b": 1500.0,
     "elo_diff": 0,
     "colley_a": 1500,
     "colley_b": 1500,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -618,6 +629,7 @@
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,
@@ -664,14 +676,15 @@
     "is_correct": null,
     "confidence": 50.0,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
+    "elo_a": 1500.0,
+    "elo_b": 1500.0,
     "elo_diff": 0,
     "colley_a": 1500,
     "colley_b": 1500,
     "form_a": 50.0,
     "form_b": 50.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
         "a": 50.0,

@@ -1,4 +1,156 @@
 {
+  "2026-05-23|Alavés|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 51.2,
+    "a_win_prob": 51.2,
+    "draw_prob": 21.1,
+    "b_win_prob": 27.7,
+    "is_correct": false
+  },
+  "2026-05-23|Celta Vigo|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 44.8,
+    "a_win_prob": 44.8,
+    "draw_prob": 23.1,
+    "b_win_prob": 32.1,
+    "is_correct": true
+  },
+  "2026-05-23|Espanyol|Real Sociedad": {
+    "prediction": "Away Win",
+    "confidence": 43.9,
+    "a_win_prob": 33.9,
+    "draw_prob": 22.2,
+    "b_win_prob": 43.9,
+    "is_correct": false
+  },
+  "2026-05-23|Getafe|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 53.8,
+    "a_win_prob": 53.8,
+    "draw_prob": 19.7,
+    "b_win_prob": 26.5,
+    "is_correct": true
+  },
+  "2026-05-23|Girona|Elche": {
+    "prediction": "Away Win",
+    "confidence": 52.7,
+    "a_win_prob": 27.7,
+    "draw_prob": 19.6,
+    "b_win_prob": 52.7,
+    "is_correct": false
+  },
+  "2026-05-23|Mallorca|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 47.7,
+    "a_win_prob": 47.7,
+    "draw_prob": 21.5,
+    "b_win_prob": 30.8,
+    "is_correct": true
+  },
+  "2026-05-23|Betis|Levante": {
+    "prediction": "Away Win",
+    "confidence": 45.4,
+    "a_win_prob": 32.9,
+    "draw_prob": 21.7,
+    "b_win_prob": 45.4,
+    "is_correct": false
+  },
+  "2026-05-23|Real Madrid|Athletic": {
+    "prediction": "Home Win",
+    "confidence": 56.2,
+    "a_win_prob": 56.2,
+    "draw_prob": 19.4,
+    "b_win_prob": 24.4,
+    "is_correct": true
+  },
+  "2026-05-23|Valencia|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 58.8,
+    "a_win_prob": 22.6,
+    "draw_prob": 18.6,
+    "b_win_prob": 58.8,
+    "is_correct": false
+  },
+  "2026-05-17|Athletic|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 52.8,
+    "a_win_prob": 52.8,
+    "draw_prob": 15.3,
+    "b_win_prob": 31.9,
+    "is_correct": false
+  },
+  "2026-05-17|Atlético|Girona": {
+    "prediction": "Home Win",
+    "confidence": 47.9,
+    "a_win_prob": 47.9,
+    "draw_prob": 14.0,
+    "b_win_prob": 38.1,
+    "is_correct": true
+  },
+  "2026-05-17|Elche|Getafe": {
+    "prediction": "Home Win",
+    "confidence": 48.4,
+    "a_win_prob": 48.4,
+    "draw_prob": 16.4,
+    "b_win_prob": 35.2,
+    "is_correct": true
+  },
+  "2026-05-17|Levante|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 56.8,
+    "a_win_prob": 56.8,
+    "draw_prob": 13.8,
+    "b_win_prob": 29.4,
+    "is_correct": true
+  },
+  "2026-05-17|Osasuna|Espanyol": {
+    "prediction": "Home Win",
+    "confidence": 63.0,
+    "a_win_prob": 63.0,
+    "draw_prob": 12.0,
+    "b_win_prob": 25.0,
+    "is_correct": false
+  },
+  "2026-05-17|Rayo|Villarreal": {
+    "prediction": "Home Win",
+    "confidence": 43.0,
+    "a_win_prob": 43.0,
+    "draw_prob": 15.4,
+    "b_win_prob": 41.6,
+    "is_correct": true
+  },
+  "2026-05-17|Real Oviedo|Alavés": {
+    "prediction": "Away Win",
+    "confidence": 48.9,
+    "a_win_prob": 35.6,
+    "draw_prob": 15.5,
+    "b_win_prob": 48.9,
+    "is_correct": true
+  },
+  "2026-05-17|Real Sociedad|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 44.7,
+    "a_win_prob": 44.7,
+    "draw_prob": 16.8,
+    "b_win_prob": 38.5,
+    "is_correct": false
+  },
+  "2026-05-17|Sevilla|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 53.5,
+    "a_win_prob": 32.4,
+    "draw_prob": 14.1,
+    "b_win_prob": 53.5,
+    "is_correct": true
+  },
+  "2026-05-17|Barcelona|Betis": {
+    "prediction": "Home Win",
+    "confidence": 73.5,
+    "a_win_prob": 73.5,
+    "draw_prob": 10.8,
+    "b_win_prob": 15.7,
+    "is_correct": true
+  },
   "2026-05-14|Valencia|Rayo": {
     "prediction": "Home Win",
     "confidence": 45.6,
@@ -165,6 +317,2718 @@
     "a_win_prob": 54.3,
     "draw_prob": 18.7,
     "b_win_prob": 27.0,
+    "is_correct": true
+  },
+  "2026-05-03|Celta Vigo|Elche": {
+    "prediction": "Away Win",
+    "confidence": 51.3,
+    "a_win_prob": 28.6,
+    "draw_prob": 20.1,
+    "b_win_prob": 51.3,
+    "is_correct": false
+  },
+  "2026-05-03|Getafe|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 54.4,
+    "a_win_prob": 54.4,
+    "draw_prob": 20.1,
+    "b_win_prob": 25.5,
+    "is_correct": false
+  },
+  "2026-05-03|Betis|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 45.2,
+    "a_win_prob": 45.2,
+    "draw_prob": 19.9,
+    "b_win_prob": 34.9,
+    "is_correct": true
+  },
+  "2026-05-03|Espanyol|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 56.3,
+    "a_win_prob": 25.1,
+    "draw_prob": 18.6,
+    "b_win_prob": 56.3,
+    "is_correct": true
+  },
+  "2026-05-02|Villarreal|Levante": {
+    "prediction": "Home Win",
+    "confidence": 40.9,
+    "a_win_prob": 40.9,
+    "draw_prob": 23.6,
+    "b_win_prob": 35.5,
+    "is_correct": true
+  },
+  "2026-05-02|Valencia|Atlético": {
+    "prediction": "Home Win",
+    "confidence": 59.9,
+    "a_win_prob": 59.9,
+    "draw_prob": 17.9,
+    "b_win_prob": 22.2,
+    "is_correct": false
+  },
+  "2026-05-02|Alavés|Athletic": {
+    "prediction": "Home Win",
+    "confidence": 56.6,
+    "a_win_prob": 56.6,
+    "draw_prob": 19.1,
+    "b_win_prob": 24.3,
+    "is_correct": false
+  },
+  "2026-05-02|Osasuna|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 57.1,
+    "a_win_prob": 23.5,
+    "draw_prob": 19.4,
+    "b_win_prob": 57.1,
+    "is_correct": true
+  },
+  "2026-05-01|Girona|Mallorca": {
+    "prediction": "Away Win",
+    "confidence": 45.9,
+    "a_win_prob": 32.8,
+    "draw_prob": 21.3,
+    "b_win_prob": 45.9,
+    "is_correct": true
+  },
+  "2026-04-27|Espanyol|Levante": {
+    "prediction": "Away Win",
+    "confidence": 57.9,
+    "a_win_prob": 23.5,
+    "draw_prob": 18.6,
+    "b_win_prob": 57.9,
+    "is_correct": false
+  },
+  "2026-04-26|Rayo|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 51.2,
+    "a_win_prob": 51.2,
+    "draw_prob": 20.2,
+    "b_win_prob": 28.6,
+    "is_correct": false
+  },
+  "2026-04-26|Real Oviedo|Elche": {
+    "prediction": "Away Win",
+    "confidence": 44.6,
+    "a_win_prob": 33.5,
+    "draw_prob": 21.9,
+    "b_win_prob": 44.6,
+    "is_correct": true
+  },
+  "2026-04-26|Osasuna|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 55.5,
+    "a_win_prob": 55.5,
+    "draw_prob": 19.5,
+    "b_win_prob": 25.0,
+    "is_correct": true
+  },
+  "2026-04-26|Villarreal|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 63.4,
+    "a_win_prob": 63.4,
+    "draw_prob": 16.4,
+    "b_win_prob": 20.2,
+    "is_correct": true
+  },
+  "2026-04-25|Alavés|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 49.3,
+    "a_win_prob": 49.3,
+    "draw_prob": 21.4,
+    "b_win_prob": 29.3,
+    "is_correct": true
+  },
+  "2026-04-25|Getafe|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 51.8,
+    "a_win_prob": 28.5,
+    "draw_prob": 19.7,
+    "b_win_prob": 51.8,
+    "is_correct": true
+  },
+  "2026-04-25|Valencia|Girona": {
+    "prediction": "Home Win",
+    "confidence": 53.2,
+    "a_win_prob": 53.2,
+    "draw_prob": 19.8,
+    "b_win_prob": 27.0,
+    "is_correct": true
+  },
+  "2026-04-25|Atlético|Athletic": {
+    "prediction": "Away Win",
+    "confidence": 45.4,
+    "a_win_prob": 34.6,
+    "draw_prob": 20.0,
+    "b_win_prob": 45.4,
+    "is_correct": false
+  },
+  "2026-04-24|Betis|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 41.6,
+    "a_win_prob": 35.7,
+    "draw_prob": 22.7,
+    "b_win_prob": 41.6,
+    "is_correct": false
+  },
+  "2026-04-23|Levante|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 65.3,
+    "a_win_prob": 65.3,
+    "draw_prob": 15.8,
+    "b_win_prob": 18.9,
+    "is_correct": true
+  },
+  "2026-04-23|Rayo|Espanyol": {
+    "prediction": "Home Win",
+    "confidence": 61.5,
+    "a_win_prob": 61.5,
+    "draw_prob": 17.7,
+    "b_win_prob": 20.8,
+    "is_correct": true
+  },
+  "2026-04-23|Real Oviedo|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 43.6,
+    "a_win_prob": 34.2,
+    "draw_prob": 22.2,
+    "b_win_prob": 43.6,
+    "is_correct": false
+  },
+  "2026-04-22|Elche|Atlético": {
+    "prediction": "Home Win",
+    "confidence": 66.2,
+    "a_win_prob": 66.2,
+    "draw_prob": 15.7,
+    "b_win_prob": 18.1,
+    "is_correct": true
+  },
+  "2026-04-22|Real Sociedad|Getafe": {
+    "prediction": "Away Win",
+    "confidence": 49.7,
+    "a_win_prob": 29.6,
+    "draw_prob": 20.7,
+    "b_win_prob": 49.7,
+    "is_correct": true
+  },
+  "2026-04-22|Barcelona|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 71.0,
+    "a_win_prob": 71.0,
+    "draw_prob": 14.9,
+    "b_win_prob": 14.1,
+    "is_correct": true
+  },
+  "2026-04-21|Athletic|Osasuna": {
+    "prediction": "Away Win",
+    "confidence": 40.0,
+    "a_win_prob": 37.5,
+    "draw_prob": 22.5,
+    "b_win_prob": 40.0,
+    "is_correct": false
+  },
+  "2026-04-21|Mallorca|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 48.2,
+    "a_win_prob": 48.2,
+    "draw_prob": 21.7,
+    "b_win_prob": 30.1,
+    "is_correct": false
+  },
+  "2026-04-21|Girona|Betis": {
+    "prediction": "Away Win",
+    "confidence": 42.4,
+    "a_win_prob": 35.8,
+    "draw_prob": 21.8,
+    "b_win_prob": 42.4,
+    "is_correct": true
+  },
+  "2026-04-21|Real Madrid|Alavés": {
+    "prediction": "Home Win",
+    "confidence": 44.3,
+    "a_win_prob": 44.3,
+    "draw_prob": 22.2,
+    "b_win_prob": 33.5,
+    "is_correct": true
+  },
+  "2026-04-13|Levante|Getafe": {
+    "prediction": "Home Win",
+    "confidence": 45.1,
+    "a_win_prob": 45.1,
+    "draw_prob": 21.9,
+    "b_win_prob": 33.0,
+    "is_correct": true
+  },
+  "2026-04-12|Osasuna|Betis": {
+    "prediction": "Home Win",
+    "confidence": 47.3,
+    "a_win_prob": 47.3,
+    "draw_prob": 20.4,
+    "b_win_prob": 32.3,
+    "is_correct": false
+  },
+  "2026-04-12|Mallorca|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 45.8,
+    "a_win_prob": 45.8,
+    "draw_prob": 22.9,
+    "b_win_prob": 31.3,
+    "is_correct": true
+  },
+  "2026-04-12|Celta Vigo|Real Oviedo": {
+    "prediction": "Away Win",
+    "confidence": 42.5,
+    "a_win_prob": 36.2,
+    "draw_prob": 21.3,
+    "b_win_prob": 42.5,
+    "is_correct": true
+  },
+  "2026-04-12|Athletic|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 47.8,
+    "a_win_prob": 31.3,
+    "draw_prob": 20.9,
+    "b_win_prob": 47.8,
+    "is_correct": true
+  },
+  "2026-04-11|Real Sociedad|Alavés": {
+    "prediction": "Away Win",
+    "confidence": 47.0,
+    "a_win_prob": 31.8,
+    "draw_prob": 21.2,
+    "b_win_prob": 47.0,
+    "is_correct": false
+  },
+  "2026-04-11|Elche|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 56.5,
+    "a_win_prob": 56.5,
+    "draw_prob": 19.1,
+    "b_win_prob": 24.4,
+    "is_correct": true
+  },
+  "2026-04-11|Barcelona|Espanyol": {
+    "prediction": "Home Win",
+    "confidence": 72.5,
+    "a_win_prob": 72.5,
+    "draw_prob": 14.6,
+    "b_win_prob": 12.9,
+    "is_correct": true
+  },
+  "2026-04-11|Sevilla|Atlético": {
+    "prediction": "Home Win",
+    "confidence": 51.2,
+    "a_win_prob": 51.2,
+    "draw_prob": 20.8,
+    "b_win_prob": 28.0,
+    "is_correct": true
+  },
+  "2026-04-10|Real Madrid|Girona": {
+    "prediction": "Home Win",
+    "confidence": 60.8,
+    "a_win_prob": 60.8,
+    "draw_prob": 18.1,
+    "b_win_prob": 21.1,
+    "is_correct": false
+  },
+  "2026-04-06|Girona|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 52.3,
+    "a_win_prob": 27.8,
+    "draw_prob": 19.9,
+    "b_win_prob": 52.3,
+    "is_correct": false
+  },
+  "2026-04-05|Getafe|Athletic": {
+    "prediction": "Home Win",
+    "confidence": 60.1,
+    "a_win_prob": 60.1,
+    "draw_prob": 18.0,
+    "b_win_prob": 21.9,
+    "is_correct": true
+  },
+  "2026-04-05|Valencia|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 53.1,
+    "a_win_prob": 53.1,
+    "draw_prob": 20.4,
+    "b_win_prob": 26.5,
+    "is_correct": false
+  },
+  "2026-04-05|Real Oviedo|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 53.7,
+    "a_win_prob": 53.7,
+    "draw_prob": 20.5,
+    "b_win_prob": 25.8,
+    "is_correct": true
+  },
+  "2026-04-05|Alavés|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 49.8,
+    "a_win_prob": 49.8,
+    "draw_prob": 20.8,
+    "b_win_prob": 29.4,
+    "is_correct": false
+  },
+  "2026-04-04|Real Sociedad|Levante": {
+    "prediction": "Away Win",
+    "confidence": 51.4,
+    "a_win_prob": 28.7,
+    "draw_prob": 19.9,
+    "b_win_prob": 51.4,
+    "is_correct": false
+  },
+  "2026-04-04|Mallorca|Real Madrid": {
+    "prediction": "Home Win",
+    "confidence": 38.5,
+    "a_win_prob": 38.5,
+    "draw_prob": 23.2,
+    "b_win_prob": 38.3,
+    "is_correct": true
+  },
+  "2026-04-04|Betis|Espanyol": {
+    "prediction": "Home Win",
+    "confidence": 60.3,
+    "a_win_prob": 60.3,
+    "draw_prob": 18.1,
+    "b_win_prob": 21.6,
+    "is_correct": false
+  },
+  "2026-04-04|Atlético|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 62.1,
+    "a_win_prob": 19.3,
+    "draw_prob": 18.6,
+    "b_win_prob": 62.1,
+    "is_correct": true
+  },
+  "2026-04-03|Rayo|Elche": {
+    "prediction": "Away Win",
+    "confidence": 43.2,
+    "a_win_prob": 35.9,
+    "draw_prob": 20.9,
+    "b_win_prob": 43.2,
+    "is_correct": false
+  },
+  "2026-03-22|Barcelona|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 67.8,
+    "a_win_prob": 67.8,
+    "draw_prob": 15.6,
+    "b_win_prob": 16.6,
+    "is_correct": true
+  },
+  "2026-03-22|Celta Vigo|Alavés": {
+    "prediction": "Away Win",
+    "confidence": 49.9,
+    "a_win_prob": 29.7,
+    "draw_prob": 20.4,
+    "b_win_prob": 49.9,
+    "is_correct": true
+  },
+  "2026-03-22|Athletic|Betis": {
+    "prediction": "Home Win",
+    "confidence": 40.7,
+    "a_win_prob": 40.7,
+    "draw_prob": 21.6,
+    "b_win_prob": 37.7,
+    "is_correct": true
+  },
+  "2026-03-22|Real Madrid|Atlético": {
+    "prediction": "Home Win",
+    "confidence": 66.3,
+    "a_win_prob": 66.3,
+    "draw_prob": 15.8,
+    "b_win_prob": 17.9,
+    "is_correct": true
+  },
+  "2026-03-21|Elche|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 52.3,
+    "a_win_prob": 52.3,
+    "draw_prob": 20.7,
+    "b_win_prob": 27.0,
+    "is_correct": true
+  },
+  "2026-03-21|Espanyol|Getafe": {
+    "prediction": "Away Win",
+    "confidence": 56.7,
+    "a_win_prob": 24.5,
+    "draw_prob": 18.8,
+    "b_win_prob": 56.7,
+    "is_correct": true
+  },
+  "2026-03-21|Levante|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 57.2,
+    "a_win_prob": 57.2,
+    "draw_prob": 18.9,
+    "b_win_prob": 23.9,
+    "is_correct": true
+  },
+  "2026-03-21|Osasuna|Girona": {
+    "prediction": "Home Win",
+    "confidence": 56.1,
+    "a_win_prob": 56.1,
+    "draw_prob": 19.3,
+    "b_win_prob": 24.6,
+    "is_correct": true
+  },
+  "2026-03-21|Sevilla|Valencia": {
+    "prediction": "Away Win",
+    "confidence": 42.9,
+    "a_win_prob": 35.5,
+    "draw_prob": 21.6,
+    "b_win_prob": 42.9,
+    "is_correct": true
+  },
+  "2026-03-20|Villarreal|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 60.4,
+    "a_win_prob": 60.4,
+    "draw_prob": 17.7,
+    "b_win_prob": 21.9,
+    "is_correct": true
+  },
+  "2026-03-16|Rayo|Levante": {
+    "prediction": "Home Win",
+    "confidence": 59.7,
+    "a_win_prob": 59.7,
+    "draw_prob": 18.0,
+    "b_win_prob": 22.3,
+    "is_correct": false
+  },
+  "2026-03-15|Mallorca|Espanyol": {
+    "prediction": "Away Win",
+    "confidence": 50.1,
+    "a_win_prob": 28.5,
+    "draw_prob": 21.4,
+    "b_win_prob": 50.1,
+    "is_correct": false
+  },
+  "2026-03-15|Barcelona|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 70.0,
+    "a_win_prob": 70.0,
+    "draw_prob": 15.1,
+    "b_win_prob": 14.9,
+    "is_correct": true
+  },
+  "2026-03-15|Betis|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 56.2,
+    "a_win_prob": 56.2,
+    "draw_prob": 19.2,
+    "b_win_prob": 24.6,
+    "is_correct": false
+  },
+  "2026-03-15|Real Sociedad|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 42.2,
+    "a_win_prob": 42.2,
+    "draw_prob": 21.8,
+    "b_win_prob": 36.0,
+    "is_correct": true
+  },
+  "2026-03-14|Girona|Athletic": {
+    "prediction": "Away Win",
+    "confidence": 49.7,
+    "a_win_prob": 29.4,
+    "draw_prob": 20.9,
+    "b_win_prob": 49.7,
+    "is_correct": false
+  },
+  "2026-03-14|Atlético|Getafe": {
+    "prediction": "Home Win",
+    "confidence": 41.1,
+    "a_win_prob": 41.1,
+    "draw_prob": 18.4,
+    "b_win_prob": 40.5,
+    "is_correct": true
+  },
+  "2026-03-14|Real Oviedo|Valencia": {
+    "prediction": "Away Win",
+    "confidence": 47.0,
+    "a_win_prob": 31.9,
+    "draw_prob": 21.1,
+    "b_win_prob": 47.0,
+    "is_correct": false
+  },
+  "2026-03-14|Real Madrid|Elche": {
+    "prediction": "Home Win",
+    "confidence": 65.5,
+    "a_win_prob": 65.5,
+    "draw_prob": 16.6,
+    "b_win_prob": 17.9,
+    "is_correct": true
+  },
+  "2026-03-13|Alavés|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 48.4,
+    "a_win_prob": 30.7,
+    "draw_prob": 20.9,
+    "b_win_prob": 48.4,
+    "is_correct": false
+  },
+  "2026-03-09|Espanyol|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 66.5,
+    "a_win_prob": 66.5,
+    "draw_prob": 15.3,
+    "b_win_prob": 18.2,
+    "is_correct": false
+  },
+  "2026-03-08|Villarreal|Elche": {
+    "prediction": "Home Win",
+    "confidence": 55.9,
+    "a_win_prob": 55.9,
+    "draw_prob": 19.3,
+    "b_win_prob": 24.8,
+    "is_correct": true
+  },
+  "2026-03-08|Getafe|Betis": {
+    "prediction": "Home Win",
+    "confidence": 46.1,
+    "a_win_prob": 46.1,
+    "draw_prob": 21.7,
+    "b_win_prob": 32.2,
+    "is_correct": true
+  },
+  "2026-03-08|Sevilla|Rayo": {
+    "prediction": "Away Win",
+    "confidence": 40.8,
+    "a_win_prob": 36.5,
+    "draw_prob": 22.7,
+    "b_win_prob": 40.8,
+    "is_correct": false
+  },
+  "2026-03-08|Valencia|Alavés": {
+    "prediction": "Home Win",
+    "confidence": 40.9,
+    "a_win_prob": 40.9,
+    "draw_prob": 21.7,
+    "b_win_prob": 37.4,
+    "is_correct": true
+  },
+  "2026-03-07|Osasuna|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 52.9,
+    "a_win_prob": 52.9,
+    "draw_prob": 20.6,
+    "b_win_prob": 26.5,
+    "is_correct": false
+  },
+  "2026-03-07|Levante|Girona": {
+    "prediction": "Home Win",
+    "confidence": 45.9,
+    "a_win_prob": 45.9,
+    "draw_prob": 22.6,
+    "b_win_prob": 31.5,
+    "is_correct": false
+  },
+  "2026-03-07|Atlético|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 54.8,
+    "a_win_prob": 54.8,
+    "draw_prob": 19.3,
+    "b_win_prob": 25.9,
+    "is_correct": true
+  },
+  "2026-03-07|Athletic|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 48.7,
+    "a_win_prob": 29.9,
+    "draw_prob": 21.4,
+    "b_win_prob": 48.7,
+    "is_correct": true
+  },
+  "2026-03-06|Celta Vigo|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 58.3,
+    "a_win_prob": 22.8,
+    "draw_prob": 18.9,
+    "b_win_prob": 58.3,
+    "is_correct": true
+  },
+  "2026-03-04|Rayo|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 60.9,
+    "a_win_prob": 60.9,
+    "draw_prob": 17.7,
+    "b_win_prob": 21.4,
+    "is_correct": true
+  },
+  "2026-03-02|Real Madrid|Getafe": {
+    "prediction": "Home Win",
+    "confidence": 62.5,
+    "a_win_prob": 62.5,
+    "draw_prob": 17.6,
+    "b_win_prob": 19.9,
+    "is_correct": false
+  },
+  "2026-03-01|Elche|Espanyol": {
+    "prediction": "Away Win",
+    "confidence": 39.7,
+    "a_win_prob": 38.1,
+    "draw_prob": 22.2,
+    "b_win_prob": 39.7,
+    "is_correct": false
+  },
+  "2026-03-01|Valencia|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 46.8,
+    "a_win_prob": 46.8,
+    "draw_prob": 22.1,
+    "b_win_prob": 31.1,
+    "is_correct": true
+  },
+  "2026-03-01|Betis|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 59.3,
+    "a_win_prob": 59.3,
+    "draw_prob": 18.2,
+    "b_win_prob": 22.5,
+    "is_correct": false
+  },
+  "2026-03-01|Girona|Celta Vigo": {
+    "prediction": "Away Win",
+    "confidence": 45.7,
+    "a_win_prob": 32.4,
+    "draw_prob": 21.9,
+    "b_win_prob": 45.7,
+    "is_correct": true
+  },
+  "2026-02-28|Rayo|Athletic": {
+    "prediction": "Away Win",
+    "confidence": 42.5,
+    "a_win_prob": 37.9,
+    "draw_prob": 19.6,
+    "b_win_prob": 42.5,
+    "is_correct": false
+  },
+  "2026-02-28|Barcelona|Villarreal": {
+    "prediction": "Home Win",
+    "confidence": 55.2,
+    "a_win_prob": 55.2,
+    "draw_prob": 19.4,
+    "b_win_prob": 25.4,
+    "is_correct": true
+  },
+  "2026-02-28|Mallorca|Real Sociedad": {
+    "prediction": "Away Win",
+    "confidence": 39.5,
+    "a_win_prob": 37.3,
+    "draw_prob": 23.2,
+    "b_win_prob": 39.5,
+    "is_correct": true
+  },
+  "2026-02-28|Real Oviedo|Atlético": {
+    "prediction": "Away Win",
+    "confidence": 51.6,
+    "a_win_prob": 27.7,
+    "draw_prob": 20.7,
+    "b_win_prob": 51.6,
+    "is_correct": true
+  },
+  "2026-02-27|Levante|Alavés": {
+    "prediction": "Away Win",
+    "confidence": 47.4,
+    "a_win_prob": 31.9,
+    "draw_prob": 20.7,
+    "b_win_prob": 47.4,
+    "is_correct": false
+  },
+  "2026-02-23|Alavés|Girona": {
+    "prediction": "Home Win",
+    "confidence": 59.8,
+    "a_win_prob": 59.8,
+    "draw_prob": 18.0,
+    "b_win_prob": 22.2,
+    "is_correct": false
+  },
+  "2026-02-22|Getafe|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 59.8,
+    "a_win_prob": 59.8,
+    "draw_prob": 17.9,
+    "b_win_prob": 22.3,
+    "is_correct": false
+  },
+  "2026-02-22|Barcelona|Levante": {
+    "prediction": "Home Win",
+    "confidence": 72.3,
+    "a_win_prob": 72.3,
+    "draw_prob": 14.4,
+    "b_win_prob": 13.3,
+    "is_correct": true
+  },
+  "2026-02-22|Celta Vigo|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 54.4,
+    "a_win_prob": 54.4,
+    "draw_prob": 19.7,
+    "b_win_prob": 25.9,
+    "is_correct": true
+  },
+  "2026-02-22|Villarreal|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 62.9,
+    "a_win_prob": 62.9,
+    "draw_prob": 16.8,
+    "b_win_prob": 20.3,
+    "is_correct": true
+  },
+  "2026-02-21|Real Sociedad|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 53.6,
+    "a_win_prob": 53.6,
+    "draw_prob": 19.6,
+    "b_win_prob": 26.8,
+    "is_correct": false
+  },
+  "2026-02-21|Betis|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 51.6,
+    "a_win_prob": 51.6,
+    "draw_prob": 20.5,
+    "b_win_prob": 27.9,
+    "is_correct": false
+  },
+  "2026-02-21|Osasuna|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 59.7,
+    "a_win_prob": 21.4,
+    "draw_prob": 18.9,
+    "b_win_prob": 59.7,
+    "is_correct": false
+  },
+  "2026-02-21|Atlético|Espanyol": {
+    "prediction": "Away Win",
+    "confidence": 41.6,
+    "a_win_prob": 40.4,
+    "draw_prob": 18.0,
+    "b_win_prob": 41.6,
+    "is_correct": false
+  },
+  "2026-02-20|Athletic|Elche": {
+    "prediction": "Home Win",
+    "confidence": 48.8,
+    "a_win_prob": 48.8,
+    "draw_prob": 22.0,
+    "b_win_prob": 29.2,
+    "is_correct": true
+  },
+  "2026-02-18|Levante|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 57.5,
+    "a_win_prob": 23.3,
+    "draw_prob": 19.2,
+    "b_win_prob": 57.5,
+    "is_correct": true
+  },
+  "2026-02-16|Girona|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 62.7,
+    "a_win_prob": 19.2,
+    "draw_prob": 18.1,
+    "b_win_prob": 62.7,
+    "is_correct": false
+  },
+  "2026-02-15|Real Oviedo|Athletic": {
+    "prediction": "Away Win",
+    "confidence": 52.4,
+    "a_win_prob": 27.0,
+    "draw_prob": 20.6,
+    "b_win_prob": 52.4,
+    "is_correct": true
+  },
+  "2026-02-15|Rayo|Atlético": {
+    "prediction": "Home Win",
+    "confidence": 41.4,
+    "a_win_prob": 41.4,
+    "draw_prob": 22.5,
+    "b_win_prob": 36.1,
+    "is_correct": true
+  },
+  "2026-02-15|Levante|Valencia": {
+    "prediction": "Away Win",
+    "confidence": 45.2,
+    "a_win_prob": 32.8,
+    "draw_prob": 22.0,
+    "b_win_prob": 45.2,
+    "is_correct": true
+  },
+  "2026-02-15|Mallorca|Betis": {
+    "prediction": "Away Win",
+    "confidence": 52.6,
+    "a_win_prob": 27.1,
+    "draw_prob": 20.3,
+    "b_win_prob": 52.6,
+    "is_correct": true
+  },
+  "2026-02-14|Espanyol|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 56.9,
+    "a_win_prob": 56.9,
+    "draw_prob": 18.6,
+    "b_win_prob": 24.5,
+    "is_correct": false
+  },
+  "2026-02-14|Getafe|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 40.2,
+    "a_win_prob": 37.2,
+    "draw_prob": 22.6,
+    "b_win_prob": 40.2,
+    "is_correct": false
+  },
+  "2026-02-14|Sevilla|Alavés": {
+    "prediction": "Away Win",
+    "confidence": 41.7,
+    "a_win_prob": 36.5,
+    "draw_prob": 21.8,
+    "b_win_prob": 41.7,
+    "is_correct": false
+  },
+  "2026-02-14|Real Madrid|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 70.5,
+    "a_win_prob": 70.5,
+    "draw_prob": 14.8,
+    "b_win_prob": 14.7,
+    "is_correct": true
+  },
+  "2026-02-13|Elche|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 53.9,
+    "a_win_prob": 53.9,
+    "draw_prob": 20.1,
+    "b_win_prob": 26.0,
+    "is_correct": false
+  },
+  "2026-02-09|Villarreal|Espanyol": {
+    "prediction": "Home Win",
+    "confidence": 49.5,
+    "a_win_prob": 49.5,
+    "draw_prob": 20.4,
+    "b_win_prob": 30.1,
+    "is_correct": true
+  },
+  "2026-02-08|Alavés|Getafe": {
+    "prediction": "Away Win",
+    "confidence": 40.8,
+    "a_win_prob": 36.1,
+    "draw_prob": 23.1,
+    "b_win_prob": 40.8,
+    "is_correct": true
+  },
+  "2026-02-08|Athletic|Levante": {
+    "prediction": "Home Win",
+    "confidence": 61.6,
+    "a_win_prob": 61.6,
+    "draw_prob": 17.6,
+    "b_win_prob": 20.8,
+    "is_correct": true
+  },
+  "2026-02-08|Sevilla|Girona": {
+    "prediction": "Home Win",
+    "confidence": 54.0,
+    "a_win_prob": 54.0,
+    "draw_prob": 20.2,
+    "b_win_prob": 25.8,
+    "is_correct": false
+  },
+  "2026-02-08|Atlético|Betis": {
+    "prediction": "Home Win",
+    "confidence": 40.6,
+    "a_win_prob": 40.6,
+    "draw_prob": 21.2,
+    "b_win_prob": 38.2,
+    "is_correct": false
+  },
+  "2026-02-08|Valencia|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 58.8,
+    "a_win_prob": 22.3,
+    "draw_prob": 18.9,
+    "b_win_prob": 58.8,
+    "is_correct": true
+  },
+  "2026-02-07|Barcelona|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 71.9,
+    "a_win_prob": 71.9,
+    "draw_prob": 14.6,
+    "b_win_prob": 13.5,
+    "is_correct": true
+  },
+  "2026-02-07|Real Sociedad|Elche": {
+    "prediction": "Away Win",
+    "confidence": 44.2,
+    "a_win_prob": 34.9,
+    "draw_prob": 20.9,
+    "b_win_prob": 44.2,
+    "is_correct": false
+  },
+  "2026-02-06|Celta Vigo|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 45.3,
+    "a_win_prob": 45.3,
+    "draw_prob": 21.1,
+    "b_win_prob": 33.6,
+    "is_correct": false
+  },
+  "2026-02-02|Mallorca|Sevilla": {
+    "prediction": "Away Win",
+    "confidence": 39.8,
+    "a_win_prob": 37.9,
+    "draw_prob": 22.3,
+    "b_win_prob": 39.8,
+    "is_correct": false
+  },
+  "2026-02-01|Real Madrid|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 68.1,
+    "a_win_prob": 68.1,
+    "draw_prob": 15.3,
+    "b_win_prob": 16.6,
+    "is_correct": true
+  },
+  "2026-02-01|Betis|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 54.6,
+    "a_win_prob": 54.6,
+    "draw_prob": 19.4,
+    "b_win_prob": 26.0,
+    "is_correct": true
+  },
+  "2026-02-01|Getafe|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 56.0,
+    "a_win_prob": 56.0,
+    "draw_prob": 19.5,
+    "b_win_prob": 24.5,
+    "is_correct": false
+  },
+  "2026-02-01|Athletic|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 57.6,
+    "a_win_prob": 57.6,
+    "draw_prob": 18.9,
+    "b_win_prob": 23.5,
+    "is_correct": false
+  },
+  "2026-01-31|Real Oviedo|Girona": {
+    "prediction": "Home Win",
+    "confidence": 45.5,
+    "a_win_prob": 45.5,
+    "draw_prob": 21.8,
+    "b_win_prob": 32.7,
+    "is_correct": true
+  },
+  "2026-01-31|Osasuna|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 53.5,
+    "a_win_prob": 26.9,
+    "draw_prob": 19.6,
+    "b_win_prob": 53.5,
+    "is_correct": false
+  },
+  "2026-01-31|Levante|Atlético": {
+    "prediction": "Away Win",
+    "confidence": 51.3,
+    "a_win_prob": 28.2,
+    "draw_prob": 20.5,
+    "b_win_prob": 51.3,
+    "is_correct": false
+  },
+  "2026-01-31|Elche|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 53.7,
+    "a_win_prob": 26.3,
+    "draw_prob": 20.0,
+    "b_win_prob": 53.7,
+    "is_correct": true
+  },
+  "2026-01-30|Espanyol|Alavés": {
+    "prediction": "Home Win",
+    "confidence": 53.9,
+    "a_win_prob": 53.9,
+    "draw_prob": 20.1,
+    "b_win_prob": 26.0,
+    "is_correct": false
+  },
+  "2026-01-26|Girona|Getafe": {
+    "prediction": "Away Win",
+    "confidence": 50.8,
+    "a_win_prob": 27.4,
+    "draw_prob": 21.8,
+    "b_win_prob": 50.8,
+    "is_correct": false
+  },
+  "2026-01-25|Atlético|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 60.9,
+    "a_win_prob": 60.9,
+    "draw_prob": 17.8,
+    "b_win_prob": 21.3,
+    "is_correct": true
+  },
+  "2026-01-25|Barcelona|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 72.6,
+    "a_win_prob": 72.6,
+    "draw_prob": 14.4,
+    "b_win_prob": 13.0,
+    "is_correct": true
+  },
+  "2026-01-25|Real Sociedad|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 40.5,
+    "a_win_prob": 40.5,
+    "draw_prob": 23.6,
+    "b_win_prob": 35.9,
+    "is_correct": true
+  },
+  "2026-01-25|Alavés|Betis": {
+    "prediction": "Away Win",
+    "confidence": 39.1,
+    "a_win_prob": 38.0,
+    "draw_prob": 22.9,
+    "b_win_prob": 39.1,
+    "is_correct": false
+  },
+  "2026-01-24|Rayo|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 49.8,
+    "a_win_prob": 49.8,
+    "draw_prob": 21.0,
+    "b_win_prob": 29.2,
+    "is_correct": false
+  },
+  "2026-01-24|Valencia|Espanyol": {
+    "prediction": "Away Win",
+    "confidence": 45.3,
+    "a_win_prob": 34.0,
+    "draw_prob": 20.7,
+    "b_win_prob": 45.3,
+    "is_correct": false
+  },
+  "2026-01-24|Sevilla|Athletic": {
+    "prediction": "Away Win",
+    "confidence": 47.5,
+    "a_win_prob": 32.3,
+    "draw_prob": 20.2,
+    "b_win_prob": 47.5,
+    "is_correct": false
+  },
+  "2026-01-24|Villarreal|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 45.6,
+    "a_win_prob": 32.7,
+    "draw_prob": 21.7,
+    "b_win_prob": 45.6,
+    "is_correct": true
+  },
+  "2026-01-23|Levante|Elche": {
+    "prediction": "Away Win",
+    "confidence": 48.9,
+    "a_win_prob": 30.0,
+    "draw_prob": 21.1,
+    "b_win_prob": 48.9,
+    "is_correct": false
+  },
+  "2026-01-19|Elche|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 55.9,
+    "a_win_prob": 55.9,
+    "draw_prob": 19.5,
+    "b_win_prob": 24.6,
+    "is_correct": false
+  },
+  "2026-01-18|Getafe|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 55.3,
+    "a_win_prob": 55.3,
+    "draw_prob": 19.7,
+    "b_win_prob": 25.0,
+    "is_correct": false
+  },
+  "2026-01-18|Atlético|Alavés": {
+    "prediction": "Home Win",
+    "confidence": 46.5,
+    "a_win_prob": 46.5,
+    "draw_prob": 19.3,
+    "b_win_prob": 34.2,
+    "is_correct": true
+  },
+  "2026-01-18|Celta Vigo|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 39.7,
+    "a_win_prob": 39.7,
+    "draw_prob": 22.2,
+    "b_win_prob": 38.1,
+    "is_correct": true
+  },
+  "2026-01-18|Real Sociedad|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 59.9,
+    "a_win_prob": 21.2,
+    "draw_prob": 18.9,
+    "b_win_prob": 59.9,
+    "is_correct": false
+  },
+  "2026-01-17|Real Madrid|Levante": {
+    "prediction": "Home Win",
+    "confidence": 72.5,
+    "a_win_prob": 72.5,
+    "draw_prob": 14.2,
+    "b_win_prob": 13.3,
+    "is_correct": true
+  },
+  "2026-01-17|Mallorca|Athletic": {
+    "prediction": "Away Win",
+    "confidence": 49.2,
+    "a_win_prob": 30.0,
+    "draw_prob": 20.8,
+    "b_win_prob": 49.2,
+    "is_correct": false
+  },
+  "2026-01-17|Osasuna|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 55.9,
+    "a_win_prob": 55.9,
+    "draw_prob": 19.2,
+    "b_win_prob": 24.9,
+    "is_correct": true
+  },
+  "2026-01-17|Betis|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 41.7,
+    "a_win_prob": 35.5,
+    "draw_prob": 22.8,
+    "b_win_prob": 41.7,
+    "is_correct": false
+  },
+  "2026-01-16|Espanyol|Girona": {
+    "prediction": "Home Win",
+    "confidence": 63.3,
+    "a_win_prob": 63.3,
+    "draw_prob": 16.9,
+    "b_win_prob": 19.8,
+    "is_correct": false
+  },
+  "2026-01-12|Sevilla|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 40.7,
+    "a_win_prob": 40.7,
+    "draw_prob": 23.0,
+    "b_win_prob": 36.3,
+    "is_correct": false
+  },
+  "2026-01-11|Rayo|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 58.6,
+    "a_win_prob": 58.6,
+    "draw_prob": 18.3,
+    "b_win_prob": 23.1,
+    "is_correct": true
+  },
+  "2026-01-11|Levante|Espanyol": {
+    "prediction": "Away Win",
+    "confidence": 50.4,
+    "a_win_prob": 28.1,
+    "draw_prob": 21.5,
+    "b_win_prob": 50.4,
+    "is_correct": false
+  },
+  "2026-01-10|Real Oviedo|Betis": {
+    "prediction": "Away Win",
+    "confidence": 55.3,
+    "a_win_prob": 25.2,
+    "draw_prob": 19.5,
+    "b_win_prob": 55.3,
+    "is_correct": false
+  },
+  "2026-01-10|Villarreal|Alavés": {
+    "prediction": "Home Win",
+    "confidence": 59.3,
+    "a_win_prob": 59.3,
+    "draw_prob": 18.3,
+    "b_win_prob": 22.4,
+    "is_correct": true
+  },
+  "2026-01-10|Girona|Osasuna": {
+    "prediction": "Away Win",
+    "confidence": 44.7,
+    "a_win_prob": 34.1,
+    "draw_prob": 21.2,
+    "b_win_prob": 44.7,
+    "is_correct": false
+  },
+  "2026-01-10|Valencia|Elche": {
+    "prediction": "Away Win",
+    "confidence": 40.3,
+    "a_win_prob": 38.0,
+    "draw_prob": 21.7,
+    "b_win_prob": 40.3,
+    "is_correct": false
+  },
+  "2026-01-09|Getafe|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 58.9,
+    "a_win_prob": 58.9,
+    "draw_prob": 18.3,
+    "b_win_prob": 22.8,
+    "is_correct": false
+  },
+  "2026-01-04|Sevilla|Levante": {
+    "prediction": "Home Win",
+    "confidence": 52.0,
+    "a_win_prob": 52.0,
+    "draw_prob": 20.8,
+    "b_win_prob": 27.2,
+    "is_correct": false
+  },
+  "2026-01-04|Real Madrid|Betis": {
+    "prediction": "Home Win",
+    "confidence": 64.5,
+    "a_win_prob": 64.5,
+    "draw_prob": 16.2,
+    "b_win_prob": 19.3,
+    "is_correct": true
+  },
+  "2026-01-04|Alavés|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 61.2,
+    "a_win_prob": 61.2,
+    "draw_prob": 17.3,
+    "b_win_prob": 21.5,
+    "is_correct": false
+  },
+  "2026-01-04|Mallorca|Girona": {
+    "prediction": "Home Win",
+    "confidence": 47.5,
+    "a_win_prob": 47.5,
+    "draw_prob": 22.2,
+    "b_win_prob": 30.3,
+    "is_correct": false
+  },
+  "2026-01-04|Real Sociedad|Atlético": {
+    "prediction": "Away Win",
+    "confidence": 43.5,
+    "a_win_prob": 34.3,
+    "draw_prob": 22.2,
+    "b_win_prob": 43.5,
+    "is_correct": false
+  },
+  "2026-01-03|Celta Vigo|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 42.5,
+    "a_win_prob": 42.5,
+    "draw_prob": 21.7,
+    "b_win_prob": 35.8,
+    "is_correct": true
+  },
+  "2026-01-03|Osasuna|Athletic": {
+    "prediction": "Away Win",
+    "confidence": 46.2,
+    "a_win_prob": 33.1,
+    "draw_prob": 20.7,
+    "b_win_prob": 46.2,
+    "is_correct": false
+  },
+  "2026-01-03|Elche|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 45.2,
+    "a_win_prob": 33.5,
+    "draw_prob": 21.3,
+    "b_win_prob": 45.2,
+    "is_correct": true
+  },
+  "2026-01-03|Espanyol|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 48.1,
+    "a_win_prob": 30.8,
+    "draw_prob": 21.1,
+    "b_win_prob": 48.1,
+    "is_correct": true
+  },
+  "2026-01-02|Rayo|Getafe": {
+    "prediction": "Away Win",
+    "confidence": 42.2,
+    "a_win_prob": 36.8,
+    "draw_prob": 21.0,
+    "b_win_prob": 42.2,
+    "is_correct": false
+  },
+  "2025-12-22|Athletic|Espanyol": {
+    "prediction": "Home Win",
+    "confidence": 42.0,
+    "a_win_prob": 42.0,
+    "draw_prob": 23.9,
+    "b_win_prob": 34.1,
+    "is_correct": false
+  },
+  "2025-12-21|Girona|Atlético": {
+    "prediction": "Away Win",
+    "confidence": 52.7,
+    "a_win_prob": 26.9,
+    "draw_prob": 20.4,
+    "b_win_prob": 52.7,
+    "is_correct": true
+  },
+  "2025-12-21|Villarreal|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 44.2,
+    "a_win_prob": 34.2,
+    "draw_prob": 21.6,
+    "b_win_prob": 44.2,
+    "is_correct": true
+  },
+  "2025-12-21|Elche|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 48.1,
+    "a_win_prob": 48.1,
+    "draw_prob": 22.1,
+    "b_win_prob": 29.8,
+    "is_correct": true
+  },
+  "2025-12-21|Betis|Getafe": {
+    "prediction": "Home Win",
+    "confidence": 43.4,
+    "a_win_prob": 43.4,
+    "draw_prob": 20.1,
+    "b_win_prob": 36.5,
+    "is_correct": true
+  },
+  "2025-12-20|Real Oviedo|Celta Vigo": {
+    "prediction": "Away Win",
+    "confidence": 45.6,
+    "a_win_prob": 33.4,
+    "draw_prob": 21.0,
+    "b_win_prob": 45.6,
+    "is_correct": false
+  },
+  "2025-12-20|Levante|Real Sociedad": {
+    "prediction": "Away Win",
+    "confidence": 40.8,
+    "a_win_prob": 36.1,
+    "draw_prob": 23.1,
+    "b_win_prob": 40.8,
+    "is_correct": false
+  },
+  "2025-12-20|Osasuna|Alavés": {
+    "prediction": "Away Win",
+    "confidence": 39.7,
+    "a_win_prob": 38.1,
+    "draw_prob": 22.2,
+    "b_win_prob": 39.7,
+    "is_correct": false
+  },
+  "2025-12-20|Real Madrid|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 70.4,
+    "a_win_prob": 70.4,
+    "draw_prob": 15.0,
+    "b_win_prob": 14.6,
+    "is_correct": true
+  },
+  "2025-12-19|Valencia|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 55.8,
+    "a_win_prob": 55.8,
+    "draw_prob": 19.4,
+    "b_win_prob": 24.8,
+    "is_correct": false
+  },
+  "2025-12-15|Rayo|Betis": {
+    "prediction": "Away Win",
+    "confidence": 39.8,
+    "a_win_prob": 37.0,
+    "draw_prob": 23.2,
+    "b_win_prob": 39.8,
+    "is_correct": false
+  },
+  "2025-12-14|Sevilla|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 53.6,
+    "a_win_prob": 53.6,
+    "draw_prob": 19.8,
+    "b_win_prob": 26.6,
+    "is_correct": true
+  },
+  "2025-12-14|Celta Vigo|Athletic": {
+    "prediction": "Away Win",
+    "confidence": 45.3,
+    "a_win_prob": 36.1,
+    "draw_prob": 18.6,
+    "b_win_prob": 45.3,
+    "is_correct": false
+  },
+  "2025-12-14|Alavés|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 57.7,
+    "a_win_prob": 23.2,
+    "draw_prob": 19.1,
+    "b_win_prob": 57.7,
+    "is_correct": true
+  },
+  "2025-12-13|Atlético|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 49.9,
+    "a_win_prob": 49.9,
+    "draw_prob": 20.0,
+    "b_win_prob": 30.1,
+    "is_correct": true
+  },
+  "2025-12-13|Mallorca|Elche": {
+    "prediction": "Away Win",
+    "confidence": 48.5,
+    "a_win_prob": 30.5,
+    "draw_prob": 21.0,
+    "b_win_prob": 48.5,
+    "is_correct": false
+  },
+  "2025-12-13|Barcelona|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 69.4,
+    "a_win_prob": 69.4,
+    "draw_prob": 15.2,
+    "b_win_prob": 15.4,
+    "is_correct": true
+  },
+  "2025-12-13|Getafe|Espanyol": {
+    "prediction": "Home Win",
+    "confidence": 42.4,
+    "a_win_prob": 42.4,
+    "draw_prob": 22.4,
+    "b_win_prob": 35.2,
+    "is_correct": false
+  },
+  "2025-12-12|Real Sociedad|Girona": {
+    "prediction": "Home Win",
+    "confidence": 54.6,
+    "a_win_prob": 54.6,
+    "draw_prob": 19.8,
+    "b_win_prob": 25.6,
+    "is_correct": false
+  },
+  "2025-12-08|Osasuna|Levante": {
+    "prediction": "Home Win",
+    "confidence": 54.1,
+    "a_win_prob": 54.1,
+    "draw_prob": 20.1,
+    "b_win_prob": 25.8,
+    "is_correct": true
+  },
+  "2025-12-07|Elche|Girona": {
+    "prediction": "Home Win",
+    "confidence": 61.7,
+    "a_win_prob": 61.7,
+    "draw_prob": 17.3,
+    "b_win_prob": 21.0,
+    "is_correct": true
+  },
+  "2025-12-07|Valencia|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 49.3,
+    "a_win_prob": 49.3,
+    "draw_prob": 21.4,
+    "b_win_prob": 29.3,
+    "is_correct": false
+  },
+  "2025-12-07|Espanyol|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 53.6,
+    "a_win_prob": 53.6,
+    "draw_prob": 20.5,
+    "b_win_prob": 25.9,
+    "is_correct": true
+  },
+  "2025-12-07|Real Madrid|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 69.6,
+    "a_win_prob": 69.6,
+    "draw_prob": 14.8,
+    "b_win_prob": 15.6,
+    "is_correct": false
+  },
+  "2025-12-06|Villarreal|Getafe": {
+    "prediction": "Home Win",
+    "confidence": 51.4,
+    "a_win_prob": 51.4,
+    "draw_prob": 20.3,
+    "b_win_prob": 28.3,
+    "is_correct": true
+  },
+  "2025-12-06|Alavés|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 52.1,
+    "a_win_prob": 52.1,
+    "draw_prob": 21.0,
+    "b_win_prob": 26.9,
+    "is_correct": true
+  },
+  "2025-12-06|Betis|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 52.4,
+    "a_win_prob": 28.0,
+    "draw_prob": 19.6,
+    "b_win_prob": 52.4,
+    "is_correct": true
+  },
+  "2025-12-06|Athletic|Atlético": {
+    "prediction": "Home Win",
+    "confidence": 50.2,
+    "a_win_prob": 50.2,
+    "draw_prob": 18.1,
+    "b_win_prob": 31.7,
+    "is_correct": true
+  },
+  "2025-12-05|Real Oviedo|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 41.5,
+    "a_win_prob": 41.5,
+    "draw_prob": 23.2,
+    "b_win_prob": 35.3,
+    "is_correct": false
+  },
+  "2025-12-03|Athletic|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 51.6,
+    "a_win_prob": 27.8,
+    "draw_prob": 20.6,
+    "b_win_prob": 51.6,
+    "is_correct": true
+  },
+  "2025-12-02|Barcelona|Atlético": {
+    "prediction": "Home Win",
+    "confidence": 65.5,
+    "a_win_prob": 65.5,
+    "draw_prob": 15.8,
+    "b_win_prob": 18.7,
+    "is_correct": true
+  },
+  "2025-12-01|Rayo|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 46.6,
+    "a_win_prob": 46.6,
+    "draw_prob": 22.1,
+    "b_win_prob": 31.3,
+    "is_correct": false
+  },
+  "2025-11-30|Real Sociedad|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 53.9,
+    "a_win_prob": 26.4,
+    "draw_prob": 19.7,
+    "b_win_prob": 53.9,
+    "is_correct": true
+  },
+  "2025-11-30|Sevilla|Betis": {
+    "prediction": "Away Win",
+    "confidence": 47.9,
+    "a_win_prob": 31.0,
+    "draw_prob": 21.1,
+    "b_win_prob": 47.9,
+    "is_correct": true
+  },
+  "2025-11-30|Celta Vigo|Espanyol": {
+    "prediction": "Away Win",
+    "confidence": 46.2,
+    "a_win_prob": 34.6,
+    "draw_prob": 19.2,
+    "b_win_prob": 46.2,
+    "is_correct": true
+  },
+  "2025-11-30|Girona|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 62.5,
+    "a_win_prob": 19.6,
+    "draw_prob": 17.9,
+    "b_win_prob": 62.5,
+    "is_correct": false
+  },
+  "2025-11-29|Mallorca|Osasuna": {
+    "prediction": "Away Win",
+    "confidence": 41.9,
+    "a_win_prob": 36.2,
+    "draw_prob": 21.9,
+    "b_win_prob": 41.9,
+    "is_correct": false
+  },
+  "2025-11-29|Barcelona|Alavés": {
+    "prediction": "Home Win",
+    "confidence": 65.9,
+    "a_win_prob": 65.9,
+    "draw_prob": 16.6,
+    "b_win_prob": 17.5,
+    "is_correct": true
+  },
+  "2025-11-29|Levante|Athletic": {
+    "prediction": "Away Win",
+    "confidence": 49.5,
+    "a_win_prob": 29.6,
+    "draw_prob": 20.9,
+    "b_win_prob": 49.5,
+    "is_correct": true
+  },
+  "2025-11-29|Atlético|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 61.4,
+    "a_win_prob": 61.4,
+    "draw_prob": 17.9,
+    "b_win_prob": 20.7,
+    "is_correct": true
+  },
+  "2025-11-28|Getafe|Elche": {
+    "prediction": "Home Win",
+    "confidence": 48.8,
+    "a_win_prob": 48.8,
+    "draw_prob": 21.6,
+    "b_win_prob": 29.6,
+    "is_correct": true
+  },
+  "2025-11-24|Espanyol|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 60.3,
+    "a_win_prob": 60.3,
+    "draw_prob": 17.6,
+    "b_win_prob": 22.1,
+    "is_correct": true
+  },
+  "2025-11-23|Real Oviedo|Rayo": {
+    "prediction": "Away Win",
+    "confidence": 49.5,
+    "a_win_prob": 29.7,
+    "draw_prob": 20.8,
+    "b_win_prob": 49.5,
+    "is_correct": false
+  },
+  "2025-11-23|Betis|Girona": {
+    "prediction": "Home Win",
+    "confidence": 66.7,
+    "a_win_prob": 66.7,
+    "draw_prob": 15.2,
+    "b_win_prob": 18.1,
+    "is_correct": false
+  },
+  "2025-11-23|Getafe|Atlético": {
+    "prediction": "Home Win",
+    "confidence": 50.1,
+    "a_win_prob": 50.1,
+    "draw_prob": 19.3,
+    "b_win_prob": 30.6,
+    "is_correct": false
+  },
+  "2025-11-23|Elche|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 55.7,
+    "a_win_prob": 25.1,
+    "draw_prob": 19.2,
+    "b_win_prob": 55.7,
+    "is_correct": false
+  },
+  "2025-11-22|Alavés|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 49.6,
+    "a_win_prob": 49.6,
+    "draw_prob": 20.8,
+    "b_win_prob": 29.6,
+    "is_correct": false
+  },
+  "2025-11-22|Barcelona|Athletic": {
+    "prediction": "Home Win",
+    "confidence": 58.0,
+    "a_win_prob": 58.0,
+    "draw_prob": 19.0,
+    "b_win_prob": 23.0,
+    "is_correct": true
+  },
+  "2025-11-22|Osasuna|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 45.8,
+    "a_win_prob": 45.8,
+    "draw_prob": 22.9,
+    "b_win_prob": 31.3,
+    "is_correct": false
+  },
+  "2025-11-22|Villarreal|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 68.6,
+    "a_win_prob": 68.6,
+    "draw_prob": 15.1,
+    "b_win_prob": 16.3,
+    "is_correct": true
+  },
+  "2025-11-21|Valencia|Levante": {
+    "prediction": "Home Win",
+    "confidence": 57.0,
+    "a_win_prob": 57.0,
+    "draw_prob": 19.0,
+    "b_win_prob": 24.0,
+    "is_correct": true
+  },
+  "2025-11-09|Athletic|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 65.0,
+    "a_win_prob": 65.0,
+    "draw_prob": 16.0,
+    "b_win_prob": 19.0,
+    "is_correct": true
+  },
+  "2025-11-09|Rayo|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 57.4,
+    "a_win_prob": 23.8,
+    "draw_prob": 18.8,
+    "b_win_prob": 57.4,
+    "is_correct": false
+  },
+  "2025-11-09|Mallorca|Getafe": {
+    "prediction": "Away Win",
+    "confidence": 50.3,
+    "a_win_prob": 28.3,
+    "draw_prob": 21.4,
+    "b_win_prob": 50.3,
+    "is_correct": false
+  },
+  "2025-11-09|Valencia|Betis": {
+    "prediction": "Away Win",
+    "confidence": 42.4,
+    "a_win_prob": 34.6,
+    "draw_prob": 23.0,
+    "b_win_prob": 42.4,
+    "is_correct": false
+  },
+  "2025-11-09|Celta Vigo|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 58.8,
+    "a_win_prob": 22.3,
+    "draw_prob": 18.9,
+    "b_win_prob": 58.8,
+    "is_correct": true
+  },
+  "2025-11-08|Girona|Alavés": {
+    "prediction": "Away Win",
+    "confidence": 48.2,
+    "a_win_prob": 31.3,
+    "draw_prob": 20.5,
+    "b_win_prob": 48.2,
+    "is_correct": false
+  },
+  "2025-11-08|Sevilla|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 41.6,
+    "a_win_prob": 41.6,
+    "draw_prob": 22.7,
+    "b_win_prob": 35.7,
+    "is_correct": true
+  },
+  "2025-11-08|Atlético|Levante": {
+    "prediction": "Home Win",
+    "confidence": 62.2,
+    "a_win_prob": 62.2,
+    "draw_prob": 17.4,
+    "b_win_prob": 20.4,
+    "is_correct": true
+  },
+  "2025-11-08|Espanyol|Villarreal": {
+    "prediction": "Home Win",
+    "confidence": 39.0,
+    "a_win_prob": 39.0,
+    "draw_prob": 22.1,
+    "b_win_prob": 38.9,
+    "is_correct": false
+  },
+  "2025-11-07|Elche|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 55.1,
+    "a_win_prob": 55.1,
+    "draw_prob": 19.8,
+    "b_win_prob": 25.1,
+    "is_correct": false
+  },
+  "2025-11-03|Real Oviedo|Osasuna": {
+    "prediction": "Away Win",
+    "confidence": 43.9,
+    "a_win_prob": 33.7,
+    "draw_prob": 22.4,
+    "b_win_prob": 43.9,
+    "is_correct": false
+  },
+  "2025-11-02|Levante|Celta Vigo": {
+    "prediction": "Away Win",
+    "confidence": 44.1,
+    "a_win_prob": 33.9,
+    "draw_prob": 22.0,
+    "b_win_prob": 44.1,
+    "is_correct": true
+  },
+  "2025-11-02|Alavés|Espanyol": {
+    "prediction": "Away Win",
+    "confidence": 42.5,
+    "a_win_prob": 35.2,
+    "draw_prob": 22.3,
+    "b_win_prob": 42.5,
+    "is_correct": false
+  },
+  "2025-11-02|Barcelona|Elche": {
+    "prediction": "Home Win",
+    "confidence": 63.2,
+    "a_win_prob": 63.2,
+    "draw_prob": 17.6,
+    "b_win_prob": 19.2,
+    "is_correct": true
+  },
+  "2025-11-02|Betis|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 64.6,
+    "a_win_prob": 64.6,
+    "draw_prob": 16.1,
+    "b_win_prob": 19.3,
+    "is_correct": true
+  },
+  "2025-11-01|Villarreal|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 60.5,
+    "a_win_prob": 60.5,
+    "draw_prob": 17.5,
+    "b_win_prob": 22.0,
+    "is_correct": true
+  },
+  "2025-11-01|Atlético|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 54.1,
+    "a_win_prob": 54.1,
+    "draw_prob": 19.8,
+    "b_win_prob": 26.1,
+    "is_correct": true
+  },
+  "2025-11-01|Real Sociedad|Athletic": {
+    "prediction": "Away Win",
+    "confidence": 47.0,
+    "a_win_prob": 33.5,
+    "draw_prob": 19.5,
+    "b_win_prob": 47.0,
+    "is_correct": false
+  },
+  "2025-11-01|Real Madrid|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 69.6,
+    "a_win_prob": 69.6,
+    "draw_prob": 14.9,
+    "b_win_prob": 15.5,
+    "is_correct": true
+  },
+  "2025-10-31|Getafe|Girona": {
+    "prediction": "Home Win",
+    "confidence": 63.8,
+    "a_win_prob": 63.8,
+    "draw_prob": 16.6,
+    "b_win_prob": 19.6,
+    "is_correct": true
+  },
+  "2025-10-27|Betis|Atlético": {
+    "prediction": "Home Win",
+    "confidence": 48.0,
+    "a_win_prob": 48.0,
+    "draw_prob": 22.4,
+    "b_win_prob": 29.6,
+    "is_correct": false
+  },
+  "2025-10-26|Mallorca|Levante": {
+    "prediction": "Home Win",
+    "confidence": 45.1,
+    "a_win_prob": 45.1,
+    "draw_prob": 22.8,
+    "b_win_prob": 32.1,
+    "is_correct": false
+  },
+  "2025-10-26|Real Madrid|Barcelona": {
+    "prediction": "Home Win",
+    "confidence": 45.6,
+    "a_win_prob": 45.6,
+    "draw_prob": 23.0,
+    "b_win_prob": 31.4,
+    "is_correct": true
+  },
+  "2025-10-26|Osasuna|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 43.2,
+    "a_win_prob": 43.2,
+    "draw_prob": 22.4,
+    "b_win_prob": 34.4,
+    "is_correct": false
+  },
+  "2025-10-26|Rayo|Alavés": {
+    "prediction": "Home Win",
+    "confidence": 43.7,
+    "a_win_prob": 43.7,
+    "draw_prob": 21.2,
+    "b_win_prob": 35.1,
+    "is_correct": true
+  },
+  "2025-10-25|Girona|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 43.6,
+    "a_win_prob": 43.6,
+    "draw_prob": 20.5,
+    "b_win_prob": 35.9,
+    "is_correct": false
+  },
+  "2025-10-25|Espanyol|Elche": {
+    "prediction": "Home Win",
+    "confidence": 50.4,
+    "a_win_prob": 50.4,
+    "draw_prob": 21.3,
+    "b_win_prob": 28.3,
+    "is_correct": true
+  },
+  "2025-10-25|Athletic|Getafe": {
+    "prediction": "Home Win",
+    "confidence": 43.8,
+    "a_win_prob": 43.8,
+    "draw_prob": 23.5,
+    "b_win_prob": 32.7,
+    "is_correct": false
+  },
+  "2025-10-25|Valencia|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 50.7,
+    "a_win_prob": 28.4,
+    "draw_prob": 20.9,
+    "b_win_prob": 50.7,
+    "is_correct": true
+  },
+  "2025-10-24|Real Sociedad|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 44.1,
+    "a_win_prob": 44.1,
+    "draw_prob": 22.3,
+    "b_win_prob": 33.6,
+    "is_correct": true
+  },
+  "2025-10-20|Alavés|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 47.3,
+    "a_win_prob": 47.3,
+    "draw_prob": 22.4,
+    "b_win_prob": 30.3,
+    "is_correct": false
+  },
+  "2025-10-19|Elche|Athletic": {
+    "prediction": "Home Win",
+    "confidence": 39.7,
+    "a_win_prob": 39.7,
+    "draw_prob": 21.6,
+    "b_win_prob": 38.7,
+    "is_correct": false
+  },
+  "2025-10-19|Celta Vigo|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 47.1,
+    "a_win_prob": 47.1,
+    "draw_prob": 22.0,
+    "b_win_prob": 30.9,
+    "is_correct": false
+  },
+  "2025-10-19|Levante|Rayo": {
+    "prediction": "Away Win",
+    "confidence": 47.4,
+    "a_win_prob": 30.9,
+    "draw_prob": 21.7,
+    "b_win_prob": 47.4,
+    "is_correct": true
+  },
+  "2025-10-19|Getafe|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 52.5,
+    "a_win_prob": 27.5,
+    "draw_prob": 20.0,
+    "b_win_prob": 52.5,
+    "is_correct": true
+  },
+  "2025-10-18|Sevilla|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 50.7,
+    "a_win_prob": 50.7,
+    "draw_prob": 21.2,
+    "b_win_prob": 28.1,
+    "is_correct": false
+  },
+  "2025-10-18|Barcelona|Girona": {
+    "prediction": "Home Win",
+    "confidence": 72.9,
+    "a_win_prob": 72.9,
+    "draw_prob": 14.2,
+    "b_win_prob": 12.9,
+    "is_correct": true
+  },
+  "2025-10-18|Villarreal|Betis": {
+    "prediction": "Home Win",
+    "confidence": 53.4,
+    "a_win_prob": 53.4,
+    "draw_prob": 20.2,
+    "b_win_prob": 26.4,
+    "is_correct": false
+  },
+  "2025-10-18|Atlético|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 51.6,
+    "a_win_prob": 51.6,
+    "draw_prob": 20.4,
+    "b_win_prob": 28.0,
+    "is_correct": true
+  },
+  "2025-10-17|Real Oviedo|Espanyol": {
+    "prediction": "Away Win",
+    "confidence": 53.6,
+    "a_win_prob": 25.9,
+    "draw_prob": 20.5,
+    "b_win_prob": 53.6,
+    "is_correct": true
+  },
+  "2025-10-05|Alavés|Elche": {
+    "prediction": "Home Win",
+    "confidence": 40.4,
+    "a_win_prob": 40.4,
+    "draw_prob": 23.2,
+    "b_win_prob": 36.4,
+    "is_correct": true
+  },
+  "2025-10-05|Sevilla|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 60.0,
+    "a_win_prob": 21.0,
+    "draw_prob": 19.0,
+    "b_win_prob": 60.0,
+    "is_correct": false
+  },
+  "2025-10-05|Espanyol|Betis": {
+    "prediction": "Home Win",
+    "confidence": 47.9,
+    "a_win_prob": 47.9,
+    "draw_prob": 20.7,
+    "b_win_prob": 31.4,
+    "is_correct": false
+  },
+  "2025-10-05|Real Sociedad|Rayo": {
+    "prediction": "Away Win",
+    "confidence": 40.5,
+    "a_win_prob": 36.6,
+    "draw_prob": 22.9,
+    "b_win_prob": 40.5,
+    "is_correct": true
+  },
+  "2025-10-05|Celta Vigo|Atlético": {
+    "prediction": "Away Win",
+    "confidence": 40.0,
+    "a_win_prob": 36.6,
+    "draw_prob": 23.4,
+    "b_win_prob": 40.0,
+    "is_correct": false
+  },
+  "2025-10-04|Real Oviedo|Levante": {
+    "prediction": "Home Win",
+    "confidence": 43.0,
+    "a_win_prob": 43.0,
+    "draw_prob": 22.8,
+    "b_win_prob": 34.2,
+    "is_correct": false
+  },
+  "2025-10-04|Girona|Valencia": {
+    "prediction": "Away Win",
+    "confidence": 46.6,
+    "a_win_prob": 31.7,
+    "draw_prob": 21.7,
+    "b_win_prob": 46.6,
+    "is_correct": false
+  },
+  "2025-10-04|Athletic|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 61.2,
+    "a_win_prob": 61.2,
+    "draw_prob": 17.7,
+    "b_win_prob": 21.1,
+    "is_correct": true
+  },
+  "2025-10-04|Real Madrid|Villarreal": {
+    "prediction": "Home Win",
+    "confidence": 57.5,
+    "a_win_prob": 57.5,
+    "draw_prob": 18.6,
+    "b_win_prob": 23.9,
+    "is_correct": true
+  },
+  "2025-10-03|Osasuna|Getafe": {
+    "prediction": "Away Win",
+    "confidence": 46.1,
+    "a_win_prob": 32.0,
+    "draw_prob": 21.9,
+    "b_win_prob": 46.1,
+    "is_correct": false
+  },
+  "2025-09-30|Valencia|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 58.5,
+    "a_win_prob": 58.5,
+    "draw_prob": 18.4,
+    "b_win_prob": 23.1,
+    "is_correct": false
+  },
+  "2025-09-28|Rayo|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 52.3,
+    "a_win_prob": 52.3,
+    "draw_prob": 20.4,
+    "b_win_prob": 27.3,
+    "is_correct": false
+  },
+  "2025-09-28|Elche|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 52.6,
+    "a_win_prob": 52.6,
+    "draw_prob": 20.1,
+    "b_win_prob": 27.3,
+    "is_correct": true
+  },
+  "2025-09-28|Barcelona|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 70.2,
+    "a_win_prob": 70.2,
+    "draw_prob": 14.9,
+    "b_win_prob": 14.9,
+    "is_correct": true
+  },
+  "2025-09-28|Betis|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 57.1,
+    "a_win_prob": 57.1,
+    "draw_prob": 18.8,
+    "b_win_prob": 24.1,
+    "is_correct": true
+  },
+  "2025-09-27|Getafe|Levante": {
+    "prediction": "Home Win",
+    "confidence": 63.5,
+    "a_win_prob": 63.5,
+    "draw_prob": 16.6,
+    "b_win_prob": 19.9,
+    "is_correct": false
+  },
+  "2025-09-27|Atlético|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 52.6,
+    "a_win_prob": 27.0,
+    "draw_prob": 20.4,
+    "b_win_prob": 52.6,
+    "is_correct": false
+  },
+  "2025-09-27|Mallorca|Alavés": {
+    "prediction": "Away Win",
+    "confidence": 46.5,
+    "a_win_prob": 32.6,
+    "draw_prob": 20.9,
+    "b_win_prob": 46.5,
+    "is_correct": false
+  },
+  "2025-09-27|Villarreal|Athletic": {
+    "prediction": "Home Win",
+    "confidence": 50.5,
+    "a_win_prob": 50.5,
+    "draw_prob": 20.2,
+    "b_win_prob": 29.3,
+    "is_correct": true
+  },
+  "2025-09-26|Girona|Espanyol": {
+    "prediction": "Away Win",
+    "confidence": 50.6,
+    "a_win_prob": 27.8,
+    "draw_prob": 21.6,
+    "b_win_prob": 50.6,
+    "is_correct": false
+  },
+  "2025-09-25|Osasuna|Elche": {
+    "prediction": "Away Win",
+    "confidence": 42.5,
+    "a_win_prob": 35.2,
+    "draw_prob": 22.3,
+    "b_win_prob": 42.5,
+    "is_correct": false
+  },
+  "2025-09-25|Real Oviedo|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 62.9,
+    "a_win_prob": 18.8,
+    "draw_prob": 18.3,
+    "b_win_prob": 62.9,
+    "is_correct": true
+  },
+  "2025-09-24|Getafe|Alavés": {
+    "prediction": "Home Win",
+    "confidence": 52.5,
+    "a_win_prob": 52.5,
+    "draw_prob": 20.5,
+    "b_win_prob": 27.0,
+    "is_correct": false
+  },
+  "2025-09-24|Atlético|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 47.5,
+    "a_win_prob": 47.5,
+    "draw_prob": 20.2,
+    "b_win_prob": 32.3,
+    "is_correct": true
+  },
+  "2025-09-24|Real Sociedad|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 51.0,
+    "a_win_prob": 51.0,
+    "draw_prob": 20.9,
+    "b_win_prob": 28.1,
+    "is_correct": true
+  },
+  "2025-09-23|Athletic|Girona": {
+    "prediction": "Home Win",
+    "confidence": 61.8,
+    "a_win_prob": 61.8,
+    "draw_prob": 17.5,
+    "b_win_prob": 20.7,
+    "is_correct": false
+  },
+  "2025-09-23|Espanyol|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 56.2,
+    "a_win_prob": 56.2,
+    "draw_prob": 19.4,
+    "b_win_prob": 24.4,
+    "is_correct": false
+  },
+  "2025-09-23|Levante|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 62.1,
+    "a_win_prob": 19.8,
+    "draw_prob": 18.1,
+    "b_win_prob": 62.1,
+    "is_correct": true
+  },
+  "2025-09-23|Sevilla|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 54.9,
+    "a_win_prob": 26.0,
+    "draw_prob": 19.1,
+    "b_win_prob": 54.9,
+    "is_correct": true
+  },
+  "2025-09-21|Rayo|Celta Vigo": {
+    "prediction": "Home Win",
+    "confidence": 48.5,
+    "a_win_prob": 48.5,
+    "draw_prob": 22.0,
+    "b_win_prob": 29.5,
+    "is_correct": false
+  },
+  "2025-09-21|Mallorca|Atlético": {
+    "prediction": "Away Win",
+    "confidence": 50.0,
+    "a_win_prob": 29.3,
+    "draw_prob": 20.7,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2025-09-21|Elche|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 64.0,
+    "a_win_prob": 64.0,
+    "draw_prob": 16.1,
+    "b_win_prob": 19.9,
+    "is_correct": true
+  },
+  "2025-09-21|Barcelona|Getafe": {
+    "prediction": "Home Win",
+    "confidence": 59.6,
+    "a_win_prob": 59.6,
+    "draw_prob": 18.6,
+    "b_win_prob": 21.8,
+    "is_correct": true
+  },
+  "2025-09-20|Girona|Levante": {
+    "prediction": "Home Win",
+    "confidence": 41.7,
+    "a_win_prob": 41.7,
+    "draw_prob": 22.6,
+    "b_win_prob": 35.7,
+    "is_correct": false
+  },
+  "2025-09-20|Real Madrid|Espanyol": {
+    "prediction": "Home Win",
+    "confidence": 60.4,
+    "a_win_prob": 60.4,
+    "draw_prob": 18.3,
+    "b_win_prob": 21.3,
+    "is_correct": true
+  },
+  "2025-09-20|Alavés|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 52.6,
+    "a_win_prob": 52.6,
+    "draw_prob": 20.7,
+    "b_win_prob": 26.7,
+    "is_correct": false
+  },
+  "2025-09-20|Villarreal|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 64.4,
+    "a_win_prob": 64.4,
+    "draw_prob": 16.6,
+    "b_win_prob": 19.0,
+    "is_correct": true
+  },
+  "2025-09-20|Valencia|Athletic": {
+    "prediction": "Away Win",
+    "confidence": 44.4,
+    "a_win_prob": 35.5,
+    "draw_prob": 20.1,
+    "b_win_prob": 44.4,
+    "is_correct": false
+  },
+  "2025-09-19|Betis|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 59.3,
+    "a_win_prob": 59.3,
+    "draw_prob": 17.9,
+    "b_win_prob": 22.8,
+    "is_correct": true
+  },
+  "2025-09-15|Espanyol|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 62.7,
+    "a_win_prob": 62.7,
+    "draw_prob": 17.0,
+    "b_win_prob": 20.3,
+    "is_correct": true
+  },
+  "2025-09-14|Celta Vigo|Girona": {
+    "prediction": "Home Win",
+    "confidence": 57.8,
+    "a_win_prob": 57.8,
+    "draw_prob": 18.6,
+    "b_win_prob": 23.6,
+    "is_correct": false
+  },
+  "2025-09-14|Levante|Betis": {
+    "prediction": "Away Win",
+    "confidence": 53.4,
+    "a_win_prob": 26.5,
+    "draw_prob": 20.1,
+    "b_win_prob": 53.4,
+    "is_correct": false
+  },
+  "2025-09-14|Osasuna|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 38.4,
+    "a_win_prob": 38.4,
+    "draw_prob": 23.3,
+    "b_win_prob": 38.3,
+    "is_correct": true
+  },
+  "2025-09-14|Barcelona|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 69.1,
+    "a_win_prob": 69.1,
+    "draw_prob": 15.1,
+    "b_win_prob": 15.8,
+    "is_correct": true
+  },
+  "2025-09-13|Getafe|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 66.4,
+    "a_win_prob": 66.4,
+    "draw_prob": 15.4,
+    "b_win_prob": 18.2,
+    "is_correct": true
+  },
+  "2025-09-13|Real Sociedad|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 59.7,
+    "a_win_prob": 21.5,
+    "draw_prob": 18.8,
+    "b_win_prob": 59.7,
+    "is_correct": true
+  },
+  "2025-09-13|Athletic|Alavés": {
+    "prediction": "Home Win",
+    "confidence": 52.3,
+    "a_win_prob": 52.3,
+    "draw_prob": 20.8,
+    "b_win_prob": 26.9,
+    "is_correct": false
+  },
+  "2025-09-13|Atlético|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 45.3,
+    "a_win_prob": 33.9,
+    "draw_prob": 20.8,
+    "b_win_prob": 45.3,
+    "is_correct": false
+  },
+  "2025-09-12|Sevilla|Elche": {
+    "prediction": "Away Win",
+    "confidence": 44.3,
+    "a_win_prob": 33.9,
+    "draw_prob": 21.8,
+    "b_win_prob": 44.3,
+    "is_correct": false
+  },
+  "2025-08-31|Celta Vigo|Villarreal": {
+    "prediction": "Away Win",
+    "confidence": 51.0,
+    "a_win_prob": 28.0,
+    "draw_prob": 21.0,
+    "b_win_prob": 51.0,
+    "is_correct": false
+  },
+  "2025-08-31|Betis|Athletic": {
+    "prediction": "Home Win",
+    "confidence": 43.6,
+    "a_win_prob": 43.6,
+    "draw_prob": 18.9,
+    "b_win_prob": 37.5,
+    "is_correct": false
+  },
+  "2025-08-31|Espanyol|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 59.0,
+    "a_win_prob": 59.0,
+    "draw_prob": 18.3,
+    "b_win_prob": 22.7,
+    "is_correct": true
+  },
+  "2025-08-31|Rayo|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 57.2,
+    "a_win_prob": 23.9,
+    "draw_prob": 18.9,
+    "b_win_prob": 57.2,
+    "is_correct": false
+  },
+  "2025-08-30|Alavés|Atlético": {
+    "prediction": "Home Win",
+    "confidence": 43.2,
+    "a_win_prob": 43.2,
+    "draw_prob": 20.5,
+    "b_win_prob": 36.3,
+    "is_correct": false
+  },
+  "2025-08-30|Real Oviedo|Real Sociedad": {
+    "prediction": "Away Win",
+    "confidence": 42.1,
+    "a_win_prob": 35.6,
+    "draw_prob": 22.3,
+    "b_win_prob": 42.1,
+    "is_correct": false
+  },
+  "2025-08-30|Girona|Sevilla": {
+    "prediction": "Away Win",
+    "confidence": 43.0,
+    "a_win_prob": 35.4,
+    "draw_prob": 21.6,
+    "b_win_prob": 43.0,
+    "is_correct": true
+  },
+  "2025-08-30|Real Madrid|Mallorca": {
+    "prediction": "Home Win",
+    "confidence": 72.1,
+    "a_win_prob": 72.1,
+    "draw_prob": 14.4,
+    "b_win_prob": 13.5,
+    "is_correct": true
+  },
+  "2025-08-29|Elche|Levante": {
+    "prediction": "Home Win",
+    "confidence": 61.2,
+    "a_win_prob": 61.2,
+    "draw_prob": 17.4,
+    "b_win_prob": 21.4,
+    "is_correct": true
+  },
+  "2025-08-29|Valencia|Getafe": {
+    "prediction": "Away Win",
+    "confidence": 44.1,
+    "a_win_prob": 34.3,
+    "draw_prob": 21.6,
+    "b_win_prob": 44.1,
+    "is_correct": false
+  },
+  "2025-08-27|Celta Vigo|Betis": {
+    "prediction": "Away Win",
+    "confidence": 43.9,
+    "a_win_prob": 33.1,
+    "draw_prob": 23.0,
+    "b_win_prob": 43.9,
+    "is_correct": false
+  },
+  "2025-08-25|Athletic|Rayo": {
+    "prediction": "Home Win",
+    "confidence": 52.5,
+    "a_win_prob": 52.5,
+    "draw_prob": 20.5,
+    "b_win_prob": 27.0,
+    "is_correct": true
+  },
+  "2025-08-25|Sevilla|Getafe": {
+    "prediction": "Away Win",
+    "confidence": 47.7,
+    "a_win_prob": 30.9,
+    "draw_prob": 21.4,
+    "b_win_prob": 47.7,
+    "is_correct": true
+  },
+  "2025-08-24|Osasuna|Valencia": {
+    "prediction": "Home Win",
+    "confidence": 40.8,
+    "a_win_prob": 40.8,
+    "draw_prob": 23.5,
+    "b_win_prob": 35.7,
+    "is_correct": true
+  },
+  "2025-08-24|Real Sociedad|Espanyol": {
+    "prediction": "Away Win",
+    "confidence": 47.8,
+    "a_win_prob": 32.0,
+    "draw_prob": 20.2,
+    "b_win_prob": 47.8,
+    "is_correct": false
+  },
+  "2025-08-24|Villarreal|Girona": {
+    "prediction": "Home Win",
+    "confidence": 69.6,
+    "a_win_prob": 69.6,
+    "draw_prob": 14.8,
+    "b_win_prob": 15.6,
+    "is_correct": true
+  },
+  "2025-08-24|Real Oviedo|Real Madrid": {
+    "prediction": "Away Win",
+    "confidence": 63.1,
+    "a_win_prob": 18.8,
+    "draw_prob": 18.1,
+    "b_win_prob": 63.1,
+    "is_correct": true
+  },
+  "2025-08-23|Mallorca|Celta Vigo": {
+    "prediction": "Away Win",
+    "confidence": 42.8,
+    "a_win_prob": 35.1,
+    "draw_prob": 22.1,
+    "b_win_prob": 42.8,
+    "is_correct": false
+  },
+  "2025-08-23|Atlético|Elche": {
+    "prediction": "Home Win",
+    "confidence": 43.8,
+    "a_win_prob": 43.8,
+    "draw_prob": 19.1,
+    "b_win_prob": 37.1,
+    "is_correct": false
+  },
+  "2025-08-23|Levante|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 62.2,
+    "a_win_prob": 19.5,
+    "draw_prob": 18.3,
+    "b_win_prob": 62.2,
+    "is_correct": true
+  },
+  "2025-08-22|Betis|Alavés": {
+    "prediction": "Home Win",
+    "confidence": 50.4,
+    "a_win_prob": 50.4,
+    "draw_prob": 20.5,
+    "b_win_prob": 29.1,
+    "is_correct": true
+  },
+  "2025-08-19|Real Madrid|Osasuna": {
+    "prediction": "Home Win",
+    "confidence": 70.0,
+    "a_win_prob": 70.0,
+    "draw_prob": 15.1,
+    "b_win_prob": 14.9,
+    "is_correct": true
+  },
+  "2025-08-18|Elche|Betis": {
+    "prediction": "Home Win",
+    "confidence": 41.5,
+    "a_win_prob": 41.5,
+    "draw_prob": 22.1,
+    "b_win_prob": 36.4,
+    "is_correct": false
+  },
+  "2025-08-17|Celta Vigo|Getafe": {
+    "prediction": "Away Win",
+    "confidence": 45.3,
+    "a_win_prob": 34.6,
+    "draw_prob": 20.1,
+    "b_win_prob": 45.3,
+    "is_correct": true
+  },
+  "2025-08-17|Athletic|Sevilla": {
+    "prediction": "Home Win",
+    "confidence": 58.8,
+    "a_win_prob": 58.8,
+    "draw_prob": 18.3,
+    "b_win_prob": 22.9,
+    "is_correct": true
+  },
+  "2025-08-17|Espanyol|Atlético": {
+    "prediction": "Home Win",
+    "confidence": 51.3,
+    "a_win_prob": 51.3,
+    "draw_prob": 18.2,
+    "b_win_prob": 30.5,
+    "is_correct": true
+  },
+  "2025-08-16|Mallorca|Barcelona": {
+    "prediction": "Away Win",
+    "confidence": 61.9,
+    "a_win_prob": 19.7,
+    "draw_prob": 18.4,
+    "b_win_prob": 61.9,
+    "is_correct": true
+  },
+  "2025-08-16|Alavés|Levante": {
+    "prediction": "Home Win",
+    "confidence": 58.9,
+    "a_win_prob": 58.9,
+    "draw_prob": 18.3,
+    "b_win_prob": 22.8,
+    "is_correct": true
+  },
+  "2025-08-16|Valencia|Real Sociedad": {
+    "prediction": "Home Win",
+    "confidence": 48.9,
+    "a_win_prob": 48.9,
+    "draw_prob": 21.8,
+    "b_win_prob": 29.3,
+    "is_correct": false
+  },
+  "2025-08-15|Girona|Rayo": {
+    "prediction": "Away Win",
+    "confidence": 48.7,
+    "a_win_prob": 29.7,
+    "draw_prob": 21.6,
+    "b_win_prob": 48.7,
+    "is_correct": true
+  },
+  "2025-08-15|Villarreal|Real Oviedo": {
+    "prediction": "Home Win",
+    "confidence": 69.9,
+    "a_win_prob": 69.9,
+    "draw_prob": 14.9,
+    "b_win_prob": 15.2,
     "is_correct": true
   }
 }

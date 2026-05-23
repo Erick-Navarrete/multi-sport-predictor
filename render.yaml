@@ -1,26 +1,15 @@
 services:
-  - type: web
-    name: sport-predictor
-    env: python
-    plan: free
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:app
-    envVars:
-      - key: FLASK_ENV
-        value: production
-      - key: ODDS_API_KEY
-        sync: false
-    healthCheckPath: /
-
-  - type: cron
-    name: sport-predictor-refresh
-    env: python
-    plan: free
-    schedule: "0 */2 * * *"
-    buildCommand: pip install -r requirements.txt
-    startCommand: python refresh_data.py
-    envVars:
-      - key: FLASK_ENV
-        value: production
-      - key: ODDS_API_KEY
-        sync: false
+- type: web
+  name: sport-predictor
+  env: python
+  plan: free
+  buildCommand: pip install -r requirements.txt
+  startCommand: gunicorn app:app
+  envVars:
+  - key: FLASK_ENV
+    value: production
+  - key: ODDS_API_KEY
+    sync: false
+  - key: REFRESH_INTERVAL
+    value: "7200"
+  healthCheckPath: /

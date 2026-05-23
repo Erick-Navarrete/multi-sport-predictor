@@ -6,8 +6,11 @@ per sport/league from JSON data files.
 
 from flask import Flask, render_template, jsonify
 import json
+import logging
+import os
 import subprocess
 import sys
+import threading
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -22,6 +25,11 @@ app = Flask(__name__)
 ROOT_DIR = Path(__file__).parent.parent
 DATA_DIR = ROOT_DIR / "data"
 REFRESH_SCRIPT = ROOT_DIR / "refresh_data.py"
+REFRESH_INTERVAL_SECONDS = int(os.environ.get("REFRESH_INTERVAL", "7200"))  # default 2h
+
+logger = logging.getLogger(__name__)
+_refresh_lock = threading.Lock()
+_last_refresh = None
 
 
 def load_league_json(sport, league, name):
@@ -329,6 +337,70 @@ def api_refresh_league(sport, league):
         return jsonify({"success": False, "message": "Refresh timed out"}), 504
     except Exception as e:
         return jsonify({"success": False, "message": str(e)}), 500
+
+
+@app.route("/api/refresh/status")
+def api_refresh_status():
+    return jsonify({
+        "success": True,
+        "last_refresh": _last_refresh.isoformat() if _last_refresh else None,
+        "interval_seconds": REFRESH_INTERVAL_SECONDS,
+    })
+
+
+# ── Background Auto-Refresh ──────────────────────────────────────
+
+def _run_refresh():
+    """Run refresh_data.py and log the result."""
+    try:
+        result = subprocess.run(
+            [sys.executable, str(REFRESH_SCRIPT)],
+            capture_output=True, text=True, timeout=600,
+        )
+        if result.returncode == 0:
+            logger.info("Background refresh completed successfully")
+        else:
+            logger.warning("Background refresh failed: %s", result.stderr[-300:])
+    except Exception as e:
+        logger.error("Background refresh error: %s", e)
+
+
+def _refresh_loop():
+    """Periodically refresh data in a background thread."""
+    global _last_refresh
+    import time
+    while True:
+        time.sleep(REFRESH_INTERVAL_SECONDS)
+        if _refresh_lock.acquire(blocking=False):
+            try:
+                _run_refresh()
+                _last_refresh = datetime.now(timezone.utc)
+            finally:
+                _refresh_lock.release()
+
+
+def _start_refresh_on_boot():
+    """Run initial refresh in background, then start periodic loop."""
+    t = threading.Thread(target=_refresh_on_boot_then_loop, daemon=True)
+    t.start()
+
+
+def _refresh_on_boot_then_loop():
+    """First refresh immediately (the server just started with stale data),
+    then enter the periodic refresh loop."""
+    global _last_refresh
+    logger.info("Running startup data refresh...")
+    if _refresh_lock.acquire(blocking=False):
+        try:
+            _run_refresh()
+            _last_refresh = datetime.now(timezone.utc)
+        finally:
+            _refresh_lock.release()
+    _refresh_loop()
+
+
+# Auto-start refresh when the module is loaded (gunicorn import or direct run)
+_start_refresh_on_boot()
 
 
 if __name__ == "__main__":

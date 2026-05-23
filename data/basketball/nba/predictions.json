@@ -1,476 +1,175 @@
 [
   {
     "id": 1,
-    "date": "2026-05-18 00:00",
+    "date": "2026-05-24 00:00",
     "time": "00:00",
-    "entity_a": "Pistons",
-    "entity_b": "Cavaliers",
-    "venue": "Little Caesars Arena",
-    "a_win_prob": 63.6,
+    "entity_a": "Cavaliers",
+    "entity_b": "Knicks",
+    "venue": "Rocket Arena",
+    "a_win_prob": 40.7,
     "draw_prob": 0.0,
-    "b_win_prob": 36.4,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 63.6,
-    "confidence_level": "Medium",
-    "elo_a": 1502.823576,
-    "elo_b": 1497.176424,
-    "elo_diff": 6,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 60.0,
-    "form_b": 40.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 60.4,
-        "d": 0.0,
-        "b": 39.6
-      },
-      "colley": {
-        "a": 59.7,
-        "d": 0.0,
-        "b": 40.3
-      },
-      "form": {
-        "a": 76.0,
-        "d": 0.0,
-        "b": 24.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 2,
-    "date": "2026-05-19 00:30",
-    "time": "00:30",
-    "entity_a": "Thunder",
-    "entity_b": "Spurs",
-    "venue": "Paycom Center",
-    "a_win_prob": 73.3,
-    "draw_prob": 0.0,
-    "b_win_prob": 26.7,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 73.3,
-    "confidence_level": "High",
-    "elo_a": 1530.7328,
-    "elo_b": 1510,
-    "elo_diff": 21,
-    "colley_a": 1800,
-    "colley_b": 1607,
-    "form_a": 100.0,
-    "form_b": 53.3,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 62.5,
-        "d": 0.0,
-        "b": 37.5
-      },
-      "colley": {
-        "a": 81.8,
-        "d": 0.0,
-        "b": 18.2
-      },
-      "form": {
-        "a": 93.6,
-        "d": 0.0,
-        "b": 6.4
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Tuesday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 3,
-    "date": "2026-05-19 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
-    "venue": "Unknown",
-    "a_win_prob": 57.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 42.4,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 57.6,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 59.7,
-        "d": 0.0,
-        "b": 40.3
-      },
-      "colley": {
-        "a": 59.7,
-        "d": 0.0,
-        "b": 40.3
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Tuesday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 4,
-    "date": "2026-05-21 00:30",
-    "time": "00:30",
-    "entity_a": "Thunder",
-    "entity_b": "Spurs",
-    "venue": "Paycom Center",
-    "a_win_prob": 73.3,
-    "draw_prob": 0.0,
-    "b_win_prob": 26.7,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 73.3,
-    "confidence_level": "High",
-    "elo_a": 1530.7328,
-    "elo_b": 1510,
-    "elo_diff": 21,
-    "colley_a": 1800,
-    "colley_b": 1607,
-    "form_a": 100.0,
-    "form_b": 53.3,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 62.5,
-        "d": 0.0,
-        "b": 37.5
-      },
-      "colley": {
-        "a": 81.8,
-        "d": 0.0,
-        "b": 18.2
-      },
-      "form": {
-        "a": 93.6,
-        "d": 0.0,
-        "b": 6.4
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Thursday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 5,
-    "date": "2026-05-21 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
-    "venue": "Unknown",
-    "a_win_prob": 57.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 42.4,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 57.6,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 59.7,
-        "d": 0.0,
-        "b": 40.3
-      },
-      "colley": {
-        "a": 59.7,
-        "d": 0.0,
-        "b": 40.3
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Thursday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 6,
-    "date": "2026-05-23 00:30",
-    "time": "00:30",
-    "entity_a": "Spurs",
-    "entity_b": "Thunder",
-    "venue": "Frost Bank Center",
-    "a_win_prob": 40.8,
-    "draw_prob": 0.0,
-    "b_win_prob": 59.2,
+    "b_win_prob": 59.3,
     "prediction": "Away Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 59.2,
+    "confidence": 59.3,
     "confidence_level": "Medium",
-    "elo_a": 1510,
-    "elo_b": 1530.7328,
-    "elo_diff": -21,
-    "colley_a": 1607,
+    "elo_a": 1495.9146359655622,
+    "elo_b": 1544.2736716799998,
+    "elo_diff": -48,
+    "colley_a": 1404,
     "colley_b": 1800,
-    "form_a": 53.3,
+    "form_a": 40.0,
     "form_b": 100.0,
-    "odds_available": false,
+    "odds_available": true,
+    "odds_source": "espn_embedded",
     "sources": {
       "elo": {
-        "a": 56.8,
+        "a": 52.8,
         "d": 0.0,
-        "b": 43.2
+        "b": 47.2
       },
       "colley": {
-        "a": 32.7,
+        "a": 13.1,
         "d": 0.0,
-        "b": 67.3
+        "b": 86.9
       },
       "form": {
-        "a": 6.4,
+        "a": 3.1,
         "d": 0.0,
-        "b": 93.6
+        "b": 96.9
       },
-      "odds": null
+      "odds": {
+        "a": 57.2,
+        "d": 0.0,
+        "b": 42.8
+      }
     },
     "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
+      "elo": 0.4,
+      "colley": 0.15,
+      "form": 0.15,
+      "odds": 0.3
     },
-    "day_of_week": "Saturday",
+    "day_of_week": "Sunday",
     "week_number": 21,
     "year": 2026,
-    "month": 5
+    "month": 5,
+    "espn_odds": {
+      "home_ml": "-148",
+      "away_ml": "+124",
+      "spread": "CLE -3.5",
+      "over_under": 215.5
+    }
   },
   {
-    "id": 7,
-    "date": "2026-05-23 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
-    "venue": "Unknown",
-    "a_win_prob": 57.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 42.4,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 57.6,
-    "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 59.7,
-        "d": 0.0,
-        "b": 40.3
-      },
-      "colley": {
-        "a": 59.7,
-        "d": 0.0,
-        "b": 40.3
-      },
-      "form": {
-        "a": 50.0,
-        "d": 0.0,
-        "b": 50.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Saturday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 8,
+    "id": 2,
     "date": "2026-05-25 00:00",
     "time": "00:00",
     "entity_a": "Spurs",
     "entity_b": "Thunder",
     "venue": "Frost Bank Center",
-    "a_win_prob": 40.8,
+    "a_win_prob": 50.6,
     "draw_prob": 0.0,
-    "b_win_prob": 59.2,
-    "prediction": "Away Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 59.2,
-    "confidence_level": "Medium",
-    "elo_a": 1510,
-    "elo_b": 1530.7328,
-    "elo_diff": -21,
-    "colley_a": 1607,
-    "colley_b": 1800,
-    "form_a": 53.3,
-    "form_b": 100.0,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 56.8,
-        "d": 0.0,
-        "b": 43.2
-      },
-      "colley": {
-        "a": 32.7,
-        "d": 0.0,
-        "b": 67.3
-      },
-      "form": {
-        "a": 6.4,
-        "d": 0.0,
-        "b": 93.6
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Monday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 9,
-    "date": "2026-05-25 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
-    "venue": "Unknown",
-    "a_win_prob": 57.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 42.4,
+    "b_win_prob": 49.4,
     "prediction": "Home Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 57.6,
+    "confidence": 50.6,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
-    "odds_available": false,
+    "elo_a": 1529,
+    "elo_b": 1537.0607526688,
+    "elo_diff": -8,
+    "colley_a": 1601,
+    "colley_b": 1742,
+    "form_a": 86.7,
+    "form_b": 100.0,
+    "odds_available": true,
+    "odds_source": "espn_embedded",
     "sources": {
       "elo": {
-        "a": 59.7,
+        "a": 58.5,
         "d": 0.0,
-        "b": 40.3
+        "b": 41.5
       },
       "colley": {
-        "a": 59.7,
+        "a": 39.6,
         "d": 0.0,
-        "b": 40.3
+        "b": 60.4
       },
       "form": {
-        "a": 50.0,
+        "a": 31.7,
         "d": 0.0,
-        "b": 50.0
+        "b": 68.3
+      },
+      "odds": {
+        "a": 55.1,
+        "d": 0.0,
+        "b": 44.9
+      }
+    },
+    "weights_used": {
+      "elo": 0.4,
+      "colley": 0.15,
+      "form": 0.15,
+      "odds": 0.3
+    },
+    "day_of_week": "Monday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5,
+    "espn_odds": {
+      "home_ml": "-135",
+      "away_ml": "+114",
+      "spread": "SA -2.5",
+      "over_under": 218.5
+    }
+  },
+  {
+    "id": 3,
+    "date": "2026-05-26 00:00",
+    "time": "00:00",
+    "entity_a": "Cavaliers",
+    "entity_b": "Knicks",
+    "venue": "Rocket Arena",
+    "a_win_prob": 33.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 66.4,
+    "prediction": "Away Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 66.4,
+    "confidence_level": "Medium",
+    "elo_a": 1495.9146359655622,
+    "elo_b": 1544.2736716799998,
+    "elo_diff": -48,
+    "colley_a": 1404,
+    "colley_b": 1800,
+    "form_a": 40.0,
+    "form_b": 100.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 52.8,
+        "d": 0.0,
+        "b": 47.2
+      },
+      "colley": {
+        "a": 13.1,
+        "d": 0.0,
+        "b": 86.9
+      },
+      "form": {
+        "a": 3.1,
+        "d": 0.0,
+        "b": 96.9
       },
       "odds": null
     },
@@ -480,105 +179,52 @@
       "form": 0.21428571428571425,
       "odds": 0.0
     },
-    "day_of_week": "Monday",
+    "day_of_week": "Tuesday",
     "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
-    "id": 10,
+    "id": 4,
     "date": "2026-05-27 00:30",
     "time": "00:30",
     "entity_a": "Thunder",
     "entity_b": "Spurs",
     "venue": "Paycom Center",
-    "a_win_prob": 73.3,
+    "a_win_prob": 65.9,
     "draw_prob": 0.0,
-    "b_win_prob": 26.7,
+    "b_win_prob": 34.1,
     "prediction": "Home Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 73.3,
-    "confidence_level": "High",
-    "elo_a": 1530.7328,
-    "elo_b": 1510,
-    "elo_diff": 21,
-    "colley_a": 1800,
-    "colley_b": 1607,
-    "form_a": 100.0,
-    "form_b": 53.3,
-    "odds_available": false,
-    "sources": {
-      "elo": {
-        "a": 62.5,
-        "d": 0.0,
-        "b": 37.5
-      },
-      "colley": {
-        "a": 81.8,
-        "d": 0.0,
-        "b": 18.2
-      },
-      "form": {
-        "a": 93.6,
-        "d": 0.0,
-        "b": 6.4
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Wednesday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 11,
-    "date": "2026-05-27 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
-    "venue": "Unknown",
-    "a_win_prob": 57.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 42.4,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 57.6,
+    "confidence": 65.9,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
+    "elo_a": 1537.0607526688,
+    "elo_b": 1529,
+    "elo_diff": 8,
+    "colley_a": 1742,
+    "colley_b": 1601,
+    "form_a": 100.0,
+    "form_b": 86.7,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
-        "a": 59.7,
+        "a": 60.8,
         "d": 0.0,
-        "b": 40.3
+        "b": 39.2
       },
       "colley": {
-        "a": 59.7,
+        "a": 76.9,
         "d": 0.0,
-        "b": 40.3
+        "b": 23.1
       },
       "form": {
-        "a": 50.0,
+        "a": 68.3,
         "d": 0.0,
-        "b": 50.0
+        "b": 31.7
       },
       "odds": null
     },
@@ -594,45 +240,101 @@
     "month": 5
   },
   {
-    "id": 12,
+    "id": 5,
+    "date": "2026-05-28 00:00",
+    "time": "00:00",
+    "entity_a": "Knicks",
+    "entity_b": "Cavaliers",
+    "venue": "Madison Square Garden",
+    "a_win_prob": 78.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 21.4,
+    "prediction": "Home Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 78.6,
+    "confidence_level": "High",
+    "elo_a": 1544.2736716799998,
+    "elo_b": 1495.9146359655622,
+    "elo_diff": 48,
+    "colley_a": 1800,
+    "colley_b": 1404,
+    "form_a": 100.0,
+    "form_b": 40.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 66.1,
+        "d": 0.0,
+        "b": 33.9
+      },
+      "colley": {
+        "a": 93.5,
+        "d": 0.0,
+        "b": 6.5
+      },
+      "form": {
+        "a": 96.9,
+        "d": 0.0,
+        "b": 3.1
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.5714285714285714,
+      "colley": 0.21428571428571425,
+      "form": 0.21428571428571425,
+      "odds": 0.0
+    },
+    "day_of_week": "Thursday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5
+  },
+  {
+    "id": 6,
     "date": "2026-05-29 00:30",
     "time": "00:30",
     "entity_a": "Spurs",
     "entity_b": "Thunder",
     "venue": "Frost Bank Center",
-    "a_win_prob": 40.8,
+    "a_win_prob": 48.7,
     "draw_prob": 0.0,
-    "b_win_prob": 59.2,
+    "b_win_prob": 51.3,
     "prediction": "Away Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 59.2,
+    "confidence": 51.3,
     "confidence_level": "Medium",
-    "elo_a": 1510,
-    "elo_b": 1530.7328,
-    "elo_diff": -21,
-    "colley_a": 1607,
-    "colley_b": 1800,
-    "form_a": 53.3,
+    "elo_a": 1529,
+    "elo_b": 1537.0607526688,
+    "elo_diff": -8,
+    "colley_a": 1601,
+    "colley_b": 1742,
+    "form_a": 86.7,
     "form_b": 100.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
-        "a": 56.8,
+        "a": 58.5,
         "d": 0.0,
-        "b": 43.2
+        "b": 41.5
       },
       "colley": {
-        "a": 32.7,
+        "a": 39.6,
         "d": 0.0,
-        "b": 67.3
+        "b": 60.4
       },
       "form": {
-        "a": 6.4,
+        "a": 31.7,
         "d": 0.0,
-        "b": 93.6
+        "b": 68.3
       },
       "odds": null
     },
@@ -648,45 +350,46 @@
     "month": 5
   },
   {
-    "id": 13,
-    "date": "2026-05-29 04:00",
-    "time": "04:00",
-    "entity_a": "TBD",
-    "entity_b": "TBD",
-    "venue": "Unknown",
-    "a_win_prob": 57.6,
+    "id": 7,
+    "date": "2026-05-30 00:00",
+    "time": "00:00",
+    "entity_a": "Cavaliers",
+    "entity_b": "Knicks",
+    "venue": "Rocket Arena",
+    "a_win_prob": 33.6,
     "draw_prob": 0.0,
-    "b_win_prob": 42.4,
-    "prediction": "Home Win",
+    "b_win_prob": 66.4,
+    "prediction": "Away Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 57.6,
+    "confidence": 66.4,
     "confidence_level": "Medium",
-    "elo_a": 1500,
-    "elo_b": 1500,
-    "elo_diff": 0,
-    "colley_a": 1500,
-    "colley_b": 1500,
-    "form_a": 50.0,
-    "form_b": 50.0,
+    "elo_a": 1495.9146359655622,
+    "elo_b": 1544.2736716799998,
+    "elo_diff": -48,
+    "colley_a": 1404,
+    "colley_b": 1800,
+    "form_a": 40.0,
+    "form_b": 100.0,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
-        "a": 59.7,
+        "a": 52.8,
         "d": 0.0,
-        "b": 40.3
+        "b": 47.2
       },
       "colley": {
-        "a": 59.7,
+        "a": 13.1,
         "d": 0.0,
-        "b": 40.3
+        "b": 86.9
       },
       "form": {
-        "a": 50.0,
+        "a": 3.1,
         "d": 0.0,
-        "b": 50.0
+        "b": 96.9
       },
       "odds": null
     },
@@ -696,51 +399,52 @@
       "form": 0.21428571428571425,
       "odds": 0.0
     },
-    "day_of_week": "Friday",
+    "day_of_week": "Saturday",
     "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
-    "id": 14,
+    "id": 8,
     "date": "2026-05-31 00:00",
     "time": "00:00",
     "entity_a": "Thunder",
     "entity_b": "Spurs",
     "venue": "Paycom Center",
-    "a_win_prob": 73.3,
+    "a_win_prob": 65.9,
     "draw_prob": 0.0,
-    "b_win_prob": 26.7,
+    "b_win_prob": 34.1,
     "prediction": "Home Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 73.3,
-    "confidence_level": "High",
-    "elo_a": 1530.7328,
-    "elo_b": 1510,
-    "elo_diff": 21,
-    "colley_a": 1800,
-    "colley_b": 1607,
+    "confidence": 65.9,
+    "confidence_level": "Medium",
+    "elo_a": 1537.0607526688,
+    "elo_b": 1529,
+    "elo_diff": 8,
+    "colley_a": 1742,
+    "colley_b": 1601,
     "form_a": 100.0,
-    "form_b": 53.3,
+    "form_b": 86.7,
     "odds_available": false,
+    "odds_source": null,
     "sources": {
       "elo": {
-        "a": 62.5,
+        "a": 60.8,
         "d": 0.0,
-        "b": 37.5
+        "b": 39.2
       },
       "colley": {
-        "a": 81.8,
+        "a": 76.9,
         "d": 0.0,
-        "b": 18.2
+        "b": 23.1
       },
       "form": {
-        "a": 93.6,
+        "a": 68.3,
         "d": 0.0,
-        "b": 6.4
+        "b": 31.7
       },
       "odds": null
     },
@@ -754,5 +458,170 @@
     "week_number": 22,
     "year": 2026,
     "month": 5
+  },
+  {
+    "id": 9,
+    "date": "2026-06-01 00:00",
+    "time": "00:00",
+    "entity_a": "Knicks",
+    "entity_b": "Cavaliers",
+    "venue": "Madison Square Garden",
+    "a_win_prob": 78.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 21.4,
+    "prediction": "Home Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 78.6,
+    "confidence_level": "High",
+    "elo_a": 1544.2736716799998,
+    "elo_b": 1495.9146359655622,
+    "elo_diff": 48,
+    "colley_a": 1800,
+    "colley_b": 1404,
+    "form_a": 100.0,
+    "form_b": 40.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 66.1,
+        "d": 0.0,
+        "b": 33.9
+      },
+      "colley": {
+        "a": 93.5,
+        "d": 0.0,
+        "b": 6.5
+      },
+      "form": {
+        "a": 96.9,
+        "d": 0.0,
+        "b": 3.1
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.5714285714285714,
+      "colley": 0.21428571428571425,
+      "form": 0.21428571428571425,
+      "odds": 0.0
+    },
+    "day_of_week": "Monday",
+    "week_number": 23,
+    "year": 2026,
+    "month": 6
+  },
+  {
+    "id": 10,
+    "date": "2026-06-04 00:30",
+    "time": "00:30",
+    "entity_a": "TBD",
+    "entity_b": "TBD",
+    "venue": "Unknown",
+    "a_win_prob": 57.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 42.4,
+    "prediction": "Home Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 57.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500,
+    "elo_b": 1500,
+    "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 59.7,
+        "d": 0.0,
+        "b": 40.3
+      },
+      "colley": {
+        "a": 59.7,
+        "d": 0.0,
+        "b": 40.3
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.5714285714285714,
+      "colley": 0.21428571428571425,
+      "form": 0.21428571428571425,
+      "odds": 0.0
+    },
+    "day_of_week": "Thursday",
+    "week_number": 23,
+    "year": 2026,
+    "month": 6
+  },
+  {
+    "id": 11,
+    "date": "2026-06-06 00:30",
+    "time": "00:30",
+    "entity_a": "TBD",
+    "entity_b": "TBD",
+    "venue": "Unknown",
+    "a_win_prob": 57.6,
+    "draw_prob": 0.0,
+    "b_win_prob": 42.4,
+    "prediction": "Home Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 57.6,
+    "confidence_level": "Medium",
+    "elo_a": 1500,
+    "elo_b": 1500,
+    "elo_diff": 0,
+    "colley_a": 1500,
+    "colley_b": 1500,
+    "form_a": 50.0,
+    "form_b": 50.0,
+    "odds_available": false,
+    "odds_source": null,
+    "sources": {
+      "elo": {
+        "a": 59.7,
+        "d": 0.0,
+        "b": 40.3
+      },
+      "colley": {
+        "a": 59.7,
+        "d": 0.0,
+        "b": 40.3
+      },
+      "form": {
+        "a": 50.0,
+        "d": 0.0,
+        "b": 50.0
+      },
+      "odds": null
+    },
+    "weights_used": {
+      "elo": 0.5714285714285714,
+      "colley": 0.21428571428571425,
+      "form": 0.21428571428571425,
+      "odds": 0.0
+    },
+    "day_of_week": "Saturday",
+    "week_number": 23,
+    "year": 2026,
+    "month": 6
   }
 ]

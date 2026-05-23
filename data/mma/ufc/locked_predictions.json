@@ -95,6 +95,14 @@
     "b_win_prob": 50.0,
     "is_correct": true
   },
+  "2026-05-17|Arnold Allen|Melquizael Costa": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
   "2026-05-09|Clayton Carpenter|Jose Ochoa": {
     "prediction": "Fighter 1 Win",
     "confidence": 50.0,
@@ -198,5 +206,1437 @@
     "draw_prob": 0.0,
     "b_win_prob": 50.0,
     "is_correct": false
+  },
+  "2026-05-02|Dom Mar Fan|Kody Steele": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-02|Jonathan Micallef|Themba Gorimbo": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-02|Ben Johnston|Wes Schultz": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-02|Colby Thicknesse|Vince Morales": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-02|Jacob Malkoun|Gerald Meerschaert": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-02|Junior Tafa|Kevin Christian": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-02|Cam Rowston|Robert Bryczek": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-02|Tai Tuivasa|Louie Sutherland": {
+    "prediction": "Fighter 2 Win",
+    "confidence": 52.9,
+    "a_win_prob": 47.1,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.9,
+    "is_correct": true
+  },
+  "2026-05-02|Shamil Gaziev|Brando Peričić": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-02|Marwan Rahiki|Ollie Schmid": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-05-02|Tim Elliott|Steve Erceg": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-02|Beneil Dariush|Quillan Salkilld": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-05-02|Jack Della Maddalena|Carlos Prates": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Talita Alencar|Julia Polastri": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Max Griffin|Victor Valenzuela": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Francis Marshall|Lucas Brennan": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Jafel Filho|Cody Durden": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Mayra Bueno Silva|Michelle Montague": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Jackson McVey|Sedriques Dumas": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-25|Rodolfo Vieira|Eric McConico": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Marcus Buchecha|Ryan Spann": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Montel Jackson|Raoni Barcelos": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Davey Grant|Adrian Luna Martinetti": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-26|Rafa Garcia|Alexander Hernandez": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-26|Norma Dumont|Joselyne Edwards": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-26|Aljamain Sterling|Youssef Zalal": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-18|Jamie Siraj|John Yannis": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-18|John Castaneda|Mark Vologdin": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-18|JJ Aldrich|Jamey-Lyn Horth": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-18|Melissa Croden|Daria Zhelezniakova": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-18|Tanner Boser|Gokhan Saricam": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-18|Julien LeBlanc|Robert Valentin": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-18|Dennis Buzukja|Marcio Barbosa": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-19|Thiago Moisés|Gauge Young": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-19|Jasmine Jasudavicius|Karine Silva": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-19|Mandel Nallo|Jai Herbert": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-19|Kyler Phillips|Charles Jourdain": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-19|Gilbert Burns|Mike Malott": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-11|Charles Radtke|Francisco Prado": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-11|Kelvin Gastelum|Vicente Luque": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-11|Chris Padilla|MarQuel Mederos": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-11|Tatiana Suarez|Loopy Godínez": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-11|Mateusz Gamrot|Esteban Ribovics": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-11|Kevin Holland|Randy Brown": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-11|Patricio Pitbull|Aaron Pico": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-12|Cub Swanson|Nate Landwehr": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-12|Dominick Reyes|Johnny Walker": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-12|Curtis Blaydes|Josh Hokit": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-12|Azamat Murzakanov|Paulo Costa": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-12|Jiří Procházka|Carlos Ulberg": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-04|Kai Kamaka III|Dakota Hope": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-04|Dione Barbosa|Melissa Gatto": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-04|Azamat Bekoev|Tresean Gore": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-04|Alice Pereira|Hailey Cowan": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-04|Lando Vannata|Darrius Flowers": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-04|Alessandro Costa|Stewart Nicoll": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-04|Guilherme Pat|Thomas Petersen": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-05|Jose Delano|Robert Ruchała": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-05|Tommy McMillen|Manolo Zecchini": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-05|Ethyn Ewing|Rafael Estevam": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-05|Abdul-Rakhman Yakhyaev|Brendson Ribeiro": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-05|Virna Jandiroba|Tabatha Ricci": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-04-05|Renato Moicano|Chris Duncan": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-28|Alexia Thainara|Bruna Brasil": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-28|Ricky Simon|Adrian Yanez": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-28|Navajo Stirling|Bruno Lopes": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-28|Casey O'Neill|Gabriella Fernandes": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-28|Marcin Tybura|Tyrell Fortune": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-28|Chase Hooper|Lance Gibson Jr.": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-28|Ignacio Bahamondes|Tofiq Musayev": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-29|Terrance McKinney|Kyle Nelson": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-29|Mansur Abdul-Malik|Yousri Belgaroui": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-29|Julian Erosa|Lerryan Douglas": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-29|Michael Chiesa|Niko Price": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-29|Alexa Grasso|Maycee Barber": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-29|Israel Adesanya|Joe Pyfer": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-21|Shanelle Dyer|Ravena Oliveira": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-21|Shem Rock|Abdul-Kareem Al-Selwady": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-21|Louie Sutherland|Brando Peričić": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-21|Mantas Kondratavičius|Antonio Trocoli": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-21|Mario Pinto|Felipe Franco": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-21|Nathaniel Wood|Losene Keita": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-21|Mason Jones|Axel Sola": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-21|Kurtis Campbell|Danny Silva": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-21|Roman Dolidze|Christian Leroy Duncan": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-21|Iwo Baraniewski|Austen Lane": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-21|Michael Page|Sam Patterson": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-21|Luke Riley|Michael Aswell": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-21|Movsar Evloev|Lerone Murphy": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-14|Piera Rodriguez|Sam Hughes": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-14|Luan Lacerda|Hecher Sosa": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-14|Bia Mesquita|Montse Rendon": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-14|Brad Tavares|Eryk Anders": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-14|Bolaji Oki|Manoel Sousa": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-14|Elijah Smith|SuYoung You": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-14|Vitor Petrino|Steven Asplund": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-14|Chris Curtis|Myktybek Orolbai": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-15|Charles Johnson|Bruno Silva": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-15|Ion Cutelaba|Oumar Sy": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-15|Marwan Rahiki|Harry Hardwick": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 52.2,
+    "a_win_prob": 52.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.8,
+    "is_correct": true
+  },
+  "2026-03-15|Andre Fili|Jose Miguel Delgado": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-15|Amanda Lemos|Gillian Robertson": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-15|Josh Emmett|Kevin Vallejos": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-07|Luke Fernandez|Rodolfo Bellato": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-07|Rafael Tobias|Diyar Nurgozhay": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-07|Sumudaerji|Jesus Aguilar": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-08|Cody Durden|Nyamjargal Tumendemberel": {
+    "prediction": "Fighter 2 Win",
+    "confidence": 52.2,
+    "a_win_prob": 47.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.2,
+    "is_correct": true
+  },
+  "2026-03-08|Ricky Turcios|Alberto Montes": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-08|Donte Johnson|Cody Brundage": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 52.2,
+    "a_win_prob": 52.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.8,
+    "is_correct": true
+  },
+  "2026-03-08|Cody Garbrandt|Xiao Long": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-08|Gregory Rodrigues|Brunno Ferreira": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-08|Drew Dober|Michael Johnson": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-08|Rob Font|Raul Rosas Jr.": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-08|Caio Borralho|Reinier de Ridder": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-08|Max Holloway|Charles Oliveira": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-28|Damian Pinas|Wes Schultz": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-28|Erik Silva|Francis Marshall": {
+    "prediction": "Fighter 2 Win",
+    "confidence": 52.2,
+    "a_win_prob": 47.8,
+    "draw_prob": 0.0,
+    "b_win_prob": 52.2,
+    "is_correct": true
+  },
+  "2026-02-28|Regina Tarin|Ernesta Kareckaite": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-28|Douglas Silva de Andrade|Javier Reyes": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-28|Cristian Quiñonez|Kris Moutinho": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-28|Ailin Perez|Macy Chiasson": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-28|Ryan Gandra|Jose Daniel Medina": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-01|Santiago Luna|Angel Pacheco": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-01|Imanol Rodriguez|Kevin Borjas": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-01|Édgar Cháirez|Felipe Bunes": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-01|Daniel Zellhuber|King Green": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-01|Marlon Vera|David Martinez": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-03-01|Brandon Moreno|Lone'er Kavanagh": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-21|Juliana Miller|Carli Judice": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-21|Jordan Leavitt|Yadier del Valle": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-21|Phil Rowe|Jean-Paul Lebosnoyani": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-21|Ramiz Brahimaj|Punahele Soriano": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-21|Nora Cornolle|Joselyne Edwards": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-21|Alden Coria|Luis Gurule": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-21|Ode' Osbourne|Alibi Idiris": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-21|Chidi Njokuani|Carlos Leal": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-22|Zachary Reese|Michel Pereira": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-22|Jacobe Smith|Josiah Harrell": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-22|Serghei Spivac|Ante Delija": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-22|Dan Ige|Melquizael Costa": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-22|Geoff Neal|Uros Medic": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-22|Sean Strickland|Anthony Hernandez": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-07|Klaudia Syguła|Priscila Cachoeira": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-07|Muin Gafurov|Jakub Wikłacz": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-07|Wang Cong|Eduarda Moura": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-07|Javid Basharat|Gianni Vazquez": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-07|Bruna Brasil|Ketlen Souza": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-07|Nikolay Veretennikov|Niko Price": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-07|Alex Morono|Daniil Donchenko": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-08|Dustin Jacoby|Julius Walker": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-08|Jean Matsumoto|Farid Basharat": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-08|Michal Oleksiejczuk|Marc-Andre Barriault": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-08|Jailton Almeida|Rizvan Kuniev": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-08|Amir Albazi|Kyoji Horiguchi": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-08|Mario Bautista|Vinicius Oliveira": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-01-31|Sulangrangbo|Lawrence Lui": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-01-31|Keiichiro Nakamura|Sebastian Szalay": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-01-31|Sangwook Kim|Dom Mar Fan": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 52.2,
+    "a_win_prob": 52.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.8,
+    "is_correct": false
+  },
+  "2026-01-31|Kaan Ofli|Yizha": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-01|Jonathan Micallef|Oban Elliott": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-01|Jacob Malkoun|Torrez Finney": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-01|Cam Rowston|Cody Brundage": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 52.2,
+    "a_win_prob": 52.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.8,
+    "is_correct": true
+  },
+  "2026-02-01|Junior Tafa|Billy Elekana": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 52.2,
+    "a_win_prob": 52.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.8,
+    "is_correct": false
+  },
+  "2026-02-01|Quillan Salkilld|Jamie Mullarkey": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-02-01|Tai Tuivasa|Tallison Teixeira": {
+    "prediction": "Fighter 2 Win",
+    "confidence": 51.3,
+    "a_win_prob": 48.7,
+    "draw_prob": 0.0,
+    "b_win_prob": 51.3,
+    "is_correct": true
+  },
+  "2026-02-01|Rafael Fiziev|Mauricio Ruffy": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-01|Dan Hooker|Benoît Saint Denis": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-02-01|Alexander Volkanovski|Diego Lopes": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-01-24|Adam Fugitt|Ty Miller": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-01-24|Josh Hokit|Denzel Freeman": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-01-25|Alex Perez|Charles Johnson": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-01-25|Nikita Krylov|Modestas Bukauskas": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-01-25|Ateba Gautier|Andrey Pulyaev": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 52.2,
+    "a_win_prob": 52.2,
+    "draw_prob": 0.0,
+    "b_win_prob": 47.8,
+    "is_correct": true
+  },
+  "2026-01-25|Umar Nurmagomedov|Deiveson Figueiredo": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-01-25|Arnold Allen|Jean Silva": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-01-25|Natalia Silva|Rose Namajunas": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-01-25|Waldo Cortes Acosta|Derrick Lewis": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-01-25|Sean O'Malley|Song Yadong": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-01-25|Justin Gaethje|Paddy Pimblett": {
+    "prediction": "Fighter 1 Win",
+    "confidence": 50.0,
+    "a_win_prob": 50.0,
+    "draw_prob": 0.0,
+    "b_win_prob": 50.0,
+    "is_correct": true
   }
 }

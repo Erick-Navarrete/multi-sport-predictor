@@ -1,4 +1,108 @@
 {
+  "2026-05-23|Bologna|Inter Milan": {
+    "prediction": "Away Win",
+    "confidence": 44.6,
+    "a_win_prob": 34.6,
+    "draw_prob": 20.8,
+    "b_win_prob": 44.6,
+    "is_correct": false
+  },
+  "2026-05-23|Lazio|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 57.0,
+    "a_win_prob": 57.0,
+    "draw_prob": 19.2,
+    "b_win_prob": 23.8,
+    "is_correct": true
+  },
+  "2026-05-22|Fiorentina|Atalanta": {
+    "prediction": "Away Win",
+    "confidence": 48.8,
+    "a_win_prob": 30.0,
+    "draw_prob": 21.2,
+    "b_win_prob": 48.8,
+    "is_correct": false
+  },
+  "2026-05-17|AS Roma|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 63.6,
+    "a_win_prob": 63.6,
+    "draw_prob": 16.2,
+    "b_win_prob": 20.2,
+    "is_correct": true
+  },
+  "2026-05-17|Como|Parma": {
+    "prediction": "Home Win",
+    "confidence": 62.7,
+    "a_win_prob": 62.7,
+    "draw_prob": 17.1,
+    "b_win_prob": 20.2,
+    "is_correct": true
+  },
+  "2026-05-17|Genoa|Milan": {
+    "prediction": "Away Win",
+    "confidence": 54.4,
+    "a_win_prob": 25.8,
+    "draw_prob": 19.8,
+    "b_win_prob": 54.4,
+    "is_correct": true
+  },
+  "2026-05-17|Juventus|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 67.6,
+    "a_win_prob": 67.6,
+    "draw_prob": 15.3,
+    "b_win_prob": 17.1,
+    "is_correct": false
+  },
+  "2026-05-17|Pisa|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 61.6,
+    "a_win_prob": 19.8,
+    "draw_prob": 18.6,
+    "b_win_prob": 61.6,
+    "is_correct": true
+  },
+  "2026-05-17|Inter Milan|Verona": {
+    "prediction": "Home Win",
+    "confidence": 76.8,
+    "a_win_prob": 76.8,
+    "draw_prob": 10.1,
+    "b_win_prob": 13.1,
+    "is_correct": false
+  },
+  "2026-05-17|Atalanta|Bologna": {
+    "prediction": "Home Win",
+    "confidence": 57.7,
+    "a_win_prob": 57.7,
+    "draw_prob": 14.6,
+    "b_win_prob": 27.7,
+    "is_correct": false
+  },
+  "2026-05-17|Cagliari|Torino": {
+    "prediction": "Away Win",
+    "confidence": 43.7,
+    "a_win_prob": 40.6,
+    "draw_prob": 15.7,
+    "b_win_prob": 43.7,
+    "is_correct": false
+  },
+  "2026-05-17|Sassuolo|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 61.4,
+    "a_win_prob": 61.4,
+    "draw_prob": 11.0,
+    "b_win_prob": 27.6,
+    "is_correct": false
+  },
+  "2026-05-17|Udinese|Cremonese": {
+    "prediction": "Home Win",
+    "confidence": 60.1,
+    "a_win_prob": 60.1,
+    "draw_prob": 12.1,
+    "b_win_prob": 27.8,
+    "is_correct": false
+  },
   "2026-05-11|Napoli|Bologna": {
     "prediction": "Home Win",
     "confidence": 41.4,
@@ -93,6 +197,2790 @@
     "a_win_prob": 52.8,
     "draw_prob": 19.3,
     "b_win_prob": 27.9,
+    "is_correct": true
+  },
+  "2026-05-03|Bologna|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 53.6,
+    "a_win_prob": 53.6,
+    "draw_prob": 20.1,
+    "b_win_prob": 26.3,
+    "is_correct": false
+  },
+  "2026-05-03|Sassuolo|Milan": {
+    "prediction": "Home Win",
+    "confidence": 52.7,
+    "a_win_prob": 52.7,
+    "draw_prob": 20.0,
+    "b_win_prob": 27.3,
+    "is_correct": true
+  },
+  "2026-05-03|Juventus|Verona": {
+    "prediction": "Home Win",
+    "confidence": 70.6,
+    "a_win_prob": 70.6,
+    "draw_prob": 14.8,
+    "b_win_prob": 14.6,
+    "is_correct": false
+  },
+  "2026-05-03|Inter Milan|Parma": {
+    "prediction": "Home Win",
+    "confidence": 65.2,
+    "a_win_prob": 65.2,
+    "draw_prob": 16.3,
+    "b_win_prob": 18.5,
+    "is_correct": true
+  },
+  "2026-05-02|Udinese|Torino": {
+    "prediction": "Home Win",
+    "confidence": 53.5,
+    "a_win_prob": 53.5,
+    "draw_prob": 19.9,
+    "b_win_prob": 26.6,
+    "is_correct": true
+  },
+  "2026-05-02|Como|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 41.8,
+    "a_win_prob": 36.5,
+    "draw_prob": 21.7,
+    "b_win_prob": 41.8,
+    "is_correct": false
+  },
+  "2026-05-02|Atalanta|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 57.6,
+    "a_win_prob": 57.6,
+    "draw_prob": 18.8,
+    "b_win_prob": 23.6,
+    "is_correct": false
+  },
+  "2026-05-01|Pisa|Lecce": {
+    "prediction": "Away Win",
+    "confidence": 42.3,
+    "a_win_prob": 35.3,
+    "draw_prob": 22.4,
+    "b_win_prob": 42.3,
+    "is_correct": true
+  },
+  "2026-04-27|Cagliari|Atalanta": {
+    "prediction": "Away Win",
+    "confidence": 47.8,
+    "a_win_prob": 30.5,
+    "draw_prob": 21.7,
+    "b_win_prob": 47.8,
+    "is_correct": false
+  },
+  "2026-04-27|Lazio|Udinese": {
+    "prediction": "Home Win",
+    "confidence": 39.5,
+    "a_win_prob": 39.5,
+    "draw_prob": 23.6,
+    "b_win_prob": 36.9,
+    "is_correct": false
+  },
+  "2026-04-26|Fiorentina|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 48.4,
+    "a_win_prob": 48.4,
+    "draw_prob": 21.9,
+    "b_win_prob": 29.7,
+    "is_correct": false
+  },
+  "2026-04-26|Genoa|Como": {
+    "prediction": "Away Win",
+    "confidence": 42.1,
+    "a_win_prob": 34.9,
+    "draw_prob": 23.0,
+    "b_win_prob": 42.1,
+    "is_correct": true
+  },
+  "2026-04-26|Torino|Inter Milan": {
+    "prediction": "Away Win",
+    "confidence": 49.2,
+    "a_win_prob": 30.1,
+    "draw_prob": 20.7,
+    "b_win_prob": 49.2,
+    "is_correct": false
+  },
+  "2026-04-26|Milan|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 50.0,
+    "a_win_prob": 29.4,
+    "draw_prob": 20.6,
+    "b_win_prob": 50.0,
+    "is_correct": false
+  },
+  "2026-04-25|Parma|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 65.9,
+    "a_win_prob": 65.9,
+    "draw_prob": 16.1,
+    "b_win_prob": 18.0,
+    "is_correct": true
+  },
+  "2026-04-25|Bologna|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 45.1,
+    "a_win_prob": 32.9,
+    "draw_prob": 22.0,
+    "b_win_prob": 45.1,
+    "is_correct": true
+  },
+  "2026-04-25|Verona|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 38.6,
+    "a_win_prob": 38.6,
+    "draw_prob": 23.9,
+    "b_win_prob": 37.5,
+    "is_correct": false
+  },
+  "2026-04-24|Napoli|Cremonese": {
+    "prediction": "Home Win",
+    "confidence": 61.8,
+    "a_win_prob": 61.8,
+    "draw_prob": 17.1,
+    "b_win_prob": 21.1,
+    "is_correct": true
+  },
+  "2026-04-20|Lecce|Fiorentina": {
+    "prediction": "Away Win",
+    "confidence": 54.9,
+    "a_win_prob": 25.6,
+    "draw_prob": 19.5,
+    "b_win_prob": 54.9,
+    "is_correct": false
+  },
+  "2026-04-19|Cremonese|Torino": {
+    "prediction": "Away Win",
+    "confidence": 42.9,
+    "a_win_prob": 34.8,
+    "draw_prob": 22.3,
+    "b_win_prob": 42.9,
+    "is_correct": false
+  },
+  "2026-04-19|Verona|Milan": {
+    "prediction": "Away Win",
+    "confidence": 51.5,
+    "a_win_prob": 28.4,
+    "draw_prob": 20.1,
+    "b_win_prob": 51.5,
+    "is_correct": true
+  },
+  "2026-04-19|Pisa|Genoa": {
+    "prediction": "Away Win",
+    "confidence": 53.4,
+    "a_win_prob": 27.4,
+    "draw_prob": 19.2,
+    "b_win_prob": 53.4,
+    "is_correct": true
+  },
+  "2026-04-19|Juventus|Bologna": {
+    "prediction": "Home Win",
+    "confidence": 60.3,
+    "a_win_prob": 60.3,
+    "draw_prob": 17.7,
+    "b_win_prob": 22.0,
+    "is_correct": true
+  },
+  "2026-04-18|Udinese|Parma": {
+    "prediction": "Home Win",
+    "confidence": 59.9,
+    "a_win_prob": 59.9,
+    "draw_prob": 17.7,
+    "b_win_prob": 22.4,
+    "is_correct": false
+  },
+  "2026-04-18|Napoli|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 47.0,
+    "a_win_prob": 47.0,
+    "draw_prob": 22.6,
+    "b_win_prob": 30.4,
+    "is_correct": false
+  },
+  "2026-04-18|AS Roma|Atalanta": {
+    "prediction": "Home Win",
+    "confidence": 48.7,
+    "a_win_prob": 48.7,
+    "draw_prob": 21.0,
+    "b_win_prob": 30.3,
+    "is_correct": false
+  },
+  "2026-04-17|Sassuolo|Como": {
+    "prediction": "Home Win",
+    "confidence": 47.3,
+    "a_win_prob": 47.3,
+    "draw_prob": 22.0,
+    "b_win_prob": 30.7,
+    "is_correct": true
+  },
+  "2026-04-17|Inter Milan|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 68.8,
+    "a_win_prob": 68.8,
+    "draw_prob": 15.1,
+    "b_win_prob": 16.1,
+    "is_correct": true
+  },
+  "2026-04-13|Fiorentina|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 46.3,
+    "a_win_prob": 46.3,
+    "draw_prob": 22.7,
+    "b_win_prob": 31.0,
+    "is_correct": true
+  },
+  "2026-04-12|Genoa|Sassuolo": {
+    "prediction": "Away Win",
+    "confidence": 45.2,
+    "a_win_prob": 32.4,
+    "draw_prob": 22.4,
+    "b_win_prob": 45.2,
+    "is_correct": false
+  },
+  "2026-04-12|Parma|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 46.0,
+    "a_win_prob": 31.9,
+    "draw_prob": 22.1,
+    "b_win_prob": 46.0,
+    "is_correct": false
+  },
+  "2026-04-12|Bologna|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 61.4,
+    "a_win_prob": 61.4,
+    "draw_prob": 17.2,
+    "b_win_prob": 21.4,
+    "is_correct": true
+  },
+  "2026-04-12|Como|Inter Milan": {
+    "prediction": "Away Win",
+    "confidence": 49.5,
+    "a_win_prob": 29.8,
+    "draw_prob": 20.7,
+    "b_win_prob": 49.5,
+    "is_correct": true
+  },
+  "2026-04-11|Cagliari|Cremonese": {
+    "prediction": "Home Win",
+    "confidence": 41.3,
+    "a_win_prob": 41.3,
+    "draw_prob": 21.5,
+    "b_win_prob": 37.2,
+    "is_correct": true
+  },
+  "2026-04-11|Torino|Verona": {
+    "prediction": "Home Win",
+    "confidence": 66.8,
+    "a_win_prob": 66.8,
+    "draw_prob": 15.6,
+    "b_win_prob": 17.6,
+    "is_correct": true
+  },
+  "2026-04-11|Milan|Udinese": {
+    "prediction": "Away Win",
+    "confidence": 46.9,
+    "a_win_prob": 31.5,
+    "draw_prob": 21.6,
+    "b_win_prob": 46.9,
+    "is_correct": true
+  },
+  "2026-04-11|Atalanta|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 41.3,
+    "a_win_prob": 36.0,
+    "draw_prob": 22.7,
+    "b_win_prob": 41.3,
+    "is_correct": true
+  },
+  "2026-04-10|AS Roma|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 71.2,
+    "a_win_prob": 71.2,
+    "draw_prob": 14.8,
+    "b_win_prob": 14.0,
+    "is_correct": true
+  },
+  "2026-04-06|Udinese|Como": {
+    "prediction": "Home Win",
+    "confidence": 54.0,
+    "a_win_prob": 54.0,
+    "draw_prob": 19.8,
+    "b_win_prob": 26.2,
+    "is_correct": false
+  },
+  "2026-04-06|Lecce|Atalanta": {
+    "prediction": "Away Win",
+    "confidence": 53.1,
+    "a_win_prob": 27.0,
+    "draw_prob": 19.9,
+    "b_win_prob": 53.1,
+    "is_correct": true
+  },
+  "2026-04-06|Juventus|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 64.9,
+    "a_win_prob": 64.9,
+    "draw_prob": 15.7,
+    "b_win_prob": 19.4,
+    "is_correct": true
+  },
+  "2026-04-06|Napoli|Milan": {
+    "prediction": "Home Win",
+    "confidence": 57.7,
+    "a_win_prob": 57.7,
+    "draw_prob": 18.7,
+    "b_win_prob": 23.6,
+    "is_correct": true
+  },
+  "2026-04-05|Cremonese|Bologna": {
+    "prediction": "Away Win",
+    "confidence": 39.0,
+    "a_win_prob": 38.2,
+    "draw_prob": 22.8,
+    "b_win_prob": 39.0,
+    "is_correct": true
+  },
+  "2026-04-05|Pisa|Torino": {
+    "prediction": "Away Win",
+    "confidence": 58.3,
+    "a_win_prob": 22.9,
+    "draw_prob": 18.8,
+    "b_win_prob": 58.3,
+    "is_correct": true
+  },
+  "2026-04-05|Inter Milan|AS Roma": {
+    "prediction": "Home Win",
+    "confidence": 52.4,
+    "a_win_prob": 52.4,
+    "draw_prob": 20.3,
+    "b_win_prob": 27.3,
+    "is_correct": true
+  },
+  "2026-04-04|Sassuolo|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 60.1,
+    "a_win_prob": 60.1,
+    "draw_prob": 17.8,
+    "b_win_prob": 22.1,
+    "is_correct": true
+  },
+  "2026-04-04|Verona|Fiorentina": {
+    "prediction": "Away Win",
+    "confidence": 57.8,
+    "a_win_prob": 23.2,
+    "draw_prob": 19.0,
+    "b_win_prob": 57.8,
+    "is_correct": true
+  },
+  "2026-04-04|Lazio|Parma": {
+    "prediction": "Home Win",
+    "confidence": 55.8,
+    "a_win_prob": 55.8,
+    "draw_prob": 19.2,
+    "b_win_prob": 25.0,
+    "is_correct": false
+  },
+  "2026-03-22|Como|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 68.7,
+    "a_win_prob": 68.7,
+    "draw_prob": 15.3,
+    "b_win_prob": 16.0,
+    "is_correct": true
+  },
+  "2026-03-22|Atalanta|Verona": {
+    "prediction": "Home Win",
+    "confidence": 67.9,
+    "a_win_prob": 67.9,
+    "draw_prob": 15.3,
+    "b_win_prob": 16.8,
+    "is_correct": true
+  },
+  "2026-03-22|Bologna|Lazio": {
+    "prediction": "Away Win",
+    "confidence": 41.3,
+    "a_win_prob": 35.5,
+    "draw_prob": 23.2,
+    "b_win_prob": 41.3,
+    "is_correct": true
+  },
+  "2026-03-22|AS Roma|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 68.1,
+    "a_win_prob": 68.1,
+    "draw_prob": 15.5,
+    "b_win_prob": 16.4,
+    "is_correct": true
+  },
+  "2026-03-22|Fiorentina|Inter Milan": {
+    "prediction": "Away Win",
+    "confidence": 41.8,
+    "a_win_prob": 35.8,
+    "draw_prob": 22.4,
+    "b_win_prob": 41.8,
+    "is_correct": false
+  },
+  "2026-03-21|Parma|Cremonese": {
+    "prediction": "Home Win",
+    "confidence": 47.7,
+    "a_win_prob": 47.7,
+    "draw_prob": 21.7,
+    "b_win_prob": 30.6,
+    "is_correct": false
+  },
+  "2026-03-21|Milan|Torino": {
+    "prediction": "Home Win",
+    "confidence": 38.5,
+    "a_win_prob": 38.5,
+    "draw_prob": 23.6,
+    "b_win_prob": 37.9,
+    "is_correct": true
+  },
+  "2026-03-21|Juventus|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 53.8,
+    "a_win_prob": 53.8,
+    "draw_prob": 20.1,
+    "b_win_prob": 26.1,
+    "is_correct": false
+  },
+  "2026-03-20|Cagliari|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 50.0,
+    "a_win_prob": 28.7,
+    "draw_prob": 21.3,
+    "b_win_prob": 50.0,
+    "is_correct": true
+  },
+  "2026-03-20|Genoa|Udinese": {
+    "prediction": "Away Win",
+    "confidence": 50.3,
+    "a_win_prob": 28.7,
+    "draw_prob": 21.0,
+    "b_win_prob": 50.3,
+    "is_correct": true
+  },
+  "2026-03-16|Cremonese|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 57.9,
+    "a_win_prob": 57.9,
+    "draw_prob": 18.2,
+    "b_win_prob": 23.9,
+    "is_correct": false
+  },
+  "2026-03-15|Verona|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 42.3,
+    "a_win_prob": 42.3,
+    "draw_prob": 21.6,
+    "b_win_prob": 36.1,
+    "is_correct": false
+  },
+  "2026-03-15|Pisa|Cagliari": {
+    "prediction": "Away Win",
+    "confidence": 49.0,
+    "a_win_prob": 30.5,
+    "draw_prob": 20.5,
+    "b_win_prob": 49.0,
+    "is_correct": false
+  },
+  "2026-03-15|Sassuolo|Bologna": {
+    "prediction": "Away Win",
+    "confidence": 40.9,
+    "a_win_prob": 36.0,
+    "draw_prob": 23.1,
+    "b_win_prob": 40.9,
+    "is_correct": true
+  },
+  "2026-03-15|Como|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 40.6,
+    "a_win_prob": 37.4,
+    "draw_prob": 22.0,
+    "b_win_prob": 40.6,
+    "is_correct": false
+  },
+  "2026-03-15|Lazio|Milan": {
+    "prediction": "Away Win",
+    "confidence": 48.9,
+    "a_win_prob": 30.0,
+    "draw_prob": 21.1,
+    "b_win_prob": 48.9,
+    "is_correct": false
+  },
+  "2026-03-14|Inter Milan|Atalanta": {
+    "prediction": "Home Win",
+    "confidence": 46.4,
+    "a_win_prob": 46.4,
+    "draw_prob": 19.7,
+    "b_win_prob": 33.9,
+    "is_correct": false
+  },
+  "2026-03-14|Napoli|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 70.5,
+    "a_win_prob": 70.5,
+    "draw_prob": 14.8,
+    "b_win_prob": 14.7,
+    "is_correct": true
+  },
+  "2026-03-14|Udinese|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 47.9,
+    "a_win_prob": 31.2,
+    "draw_prob": 20.9,
+    "b_win_prob": 47.9,
+    "is_correct": true
+  },
+  "2026-03-13|Torino|Parma": {
+    "prediction": "Home Win",
+    "confidence": 46.6,
+    "a_win_prob": 46.6,
+    "draw_prob": 22.4,
+    "b_win_prob": 31.0,
+    "is_correct": true
+  },
+  "2026-03-09|Lazio|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 48.0,
+    "a_win_prob": 48.0,
+    "draw_prob": 21.8,
+    "b_win_prob": 30.2,
+    "is_correct": true
+  },
+  "2026-03-08|Lecce|Cremonese": {
+    "prediction": "Away Win",
+    "confidence": 49.2,
+    "a_win_prob": 30.0,
+    "draw_prob": 20.8,
+    "b_win_prob": 49.2,
+    "is_correct": false
+  },
+  "2026-03-08|Bologna|Verona": {
+    "prediction": "Home Win",
+    "confidence": 56.0,
+    "a_win_prob": 56.0,
+    "draw_prob": 19.3,
+    "b_win_prob": 24.7,
+    "is_correct": false
+  },
+  "2026-03-08|Fiorentina|Parma": {
+    "prediction": "Home Win",
+    "confidence": 45.7,
+    "a_win_prob": 45.7,
+    "draw_prob": 22.7,
+    "b_win_prob": 31.6,
+    "is_correct": false
+  },
+  "2026-03-08|Genoa|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 55.7,
+    "a_win_prob": 24.5,
+    "draw_prob": 19.8,
+    "b_win_prob": 55.7,
+    "is_correct": false
+  },
+  "2026-03-08|Milan|Inter Milan": {
+    "prediction": "Home Win",
+    "confidence": 46.0,
+    "a_win_prob": 46.0,
+    "draw_prob": 21.9,
+    "b_win_prob": 32.1,
+    "is_correct": true
+  },
+  "2026-03-07|Cagliari|Como": {
+    "prediction": "Away Win",
+    "confidence": 45.1,
+    "a_win_prob": 33.7,
+    "draw_prob": 21.2,
+    "b_win_prob": 45.1,
+    "is_correct": true
+  },
+  "2026-03-07|Atalanta|Udinese": {
+    "prediction": "Home Win",
+    "confidence": 48.1,
+    "a_win_prob": 48.1,
+    "draw_prob": 21.5,
+    "b_win_prob": 30.4,
+    "is_correct": false
+  },
+  "2026-03-07|Juventus|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 70.4,
+    "a_win_prob": 70.4,
+    "draw_prob": 15.2,
+    "b_win_prob": 14.4,
+    "is_correct": true
+  },
+  "2026-03-06|Napoli|Torino": {
+    "prediction": "Home Win",
+    "confidence": 68.1,
+    "a_win_prob": 68.1,
+    "draw_prob": 15.3,
+    "b_win_prob": 16.6,
+    "is_correct": true
+  },
+  "2026-03-02|Pisa|Bologna": {
+    "prediction": "Away Win",
+    "confidence": 51.2,
+    "a_win_prob": 28.6,
+    "draw_prob": 20.2,
+    "b_win_prob": 51.2,
+    "is_correct": true
+  },
+  "2026-03-02|Udinese|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 57.0,
+    "a_win_prob": 57.0,
+    "draw_prob": 19.0,
+    "b_win_prob": 24.0,
+    "is_correct": true
+  },
+  "2026-03-01|Cremonese|Milan": {
+    "prediction": "Home Win",
+    "confidence": 41.5,
+    "a_win_prob": 41.5,
+    "draw_prob": 19.9,
+    "b_win_prob": 38.6,
+    "is_correct": false
+  },
+  "2026-03-01|Sassuolo|Atalanta": {
+    "prediction": "Away Win",
+    "confidence": 48.5,
+    "a_win_prob": 30.7,
+    "draw_prob": 20.8,
+    "b_win_prob": 48.5,
+    "is_correct": false
+  },
+  "2026-03-01|Torino|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 40.9,
+    "a_win_prob": 40.9,
+    "draw_prob": 23.6,
+    "b_win_prob": 35.5,
+    "is_correct": true
+  },
+  "2026-03-01|AS Roma|Juventus": {
+    "prediction": "Home Win",
+    "confidence": 40.7,
+    "a_win_prob": 40.7,
+    "draw_prob": 22.4,
+    "b_win_prob": 36.9,
+    "is_correct": false
+  },
+  "2026-02-28|Como|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 65.5,
+    "a_win_prob": 65.5,
+    "draw_prob": 16.4,
+    "b_win_prob": 18.1,
+    "is_correct": true
+  },
+  "2026-02-28|Verona|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 60.3,
+    "a_win_prob": 20.8,
+    "draw_prob": 18.9,
+    "b_win_prob": 60.3,
+    "is_correct": true
+  },
+  "2026-02-28|Inter Milan|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 63.3,
+    "a_win_prob": 63.3,
+    "draw_prob": 17.4,
+    "b_win_prob": 19.3,
+    "is_correct": true
+  },
+  "2026-02-27|Parma|Cagliari": {
+    "prediction": "Away Win",
+    "confidence": 41.1,
+    "a_win_prob": 37.7,
+    "draw_prob": 21.2,
+    "b_win_prob": 41.1,
+    "is_correct": false
+  },
+  "2026-02-23|Fiorentina|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 54.6,
+    "a_win_prob": 54.6,
+    "draw_prob": 19.8,
+    "b_win_prob": 25.6,
+    "is_correct": true
+  },
+  "2026-02-23|Bologna|Udinese": {
+    "prediction": "Home Win",
+    "confidence": 39.9,
+    "a_win_prob": 39.9,
+    "draw_prob": 20.9,
+    "b_win_prob": 39.2,
+    "is_correct": true
+  },
+  "2026-02-22|Genoa|Torino": {
+    "prediction": "Home Win",
+    "confidence": 40.2,
+    "a_win_prob": 40.2,
+    "draw_prob": 23.3,
+    "b_win_prob": 36.5,
+    "is_correct": true
+  },
+  "2026-02-22|Atalanta|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 46.1,
+    "a_win_prob": 31.7,
+    "draw_prob": 22.2,
+    "b_win_prob": 46.1,
+    "is_correct": false
+  },
+  "2026-02-22|Milan|Parma": {
+    "prediction": "Home Win",
+    "confidence": 65.1,
+    "a_win_prob": 65.1,
+    "draw_prob": 16.2,
+    "b_win_prob": 18.7,
+    "is_correct": false
+  },
+  "2026-02-22|AS Roma|Cremonese": {
+    "prediction": "Home Win",
+    "confidence": 51.2,
+    "a_win_prob": 51.2,
+    "draw_prob": 20.8,
+    "b_win_prob": 28.0,
+    "is_correct": true
+  },
+  "2026-02-21|Juventus|Como": {
+    "prediction": "Home Win",
+    "confidence": 54.4,
+    "a_win_prob": 54.4,
+    "draw_prob": 20.1,
+    "b_win_prob": 25.5,
+    "is_correct": false
+  },
+  "2026-02-21|Lecce|Inter Milan": {
+    "prediction": "Away Win",
+    "confidence": 55.7,
+    "a_win_prob": 24.8,
+    "draw_prob": 19.5,
+    "b_win_prob": 55.7,
+    "is_correct": true
+  },
+  "2026-02-21|Cagliari|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 46.3,
+    "a_win_prob": 46.3,
+    "draw_prob": 21.8,
+    "b_win_prob": 31.9,
+    "is_correct": false
+  },
+  "2026-02-20|Sassuolo|Verona": {
+    "prediction": "Home Win",
+    "confidence": 48.5,
+    "a_win_prob": 48.5,
+    "draw_prob": 20.3,
+    "b_win_prob": 31.2,
+    "is_correct": true
+  },
+  "2026-02-18|Milan|Como": {
+    "prediction": "Home Win",
+    "confidence": 47.1,
+    "a_win_prob": 47.1,
+    "draw_prob": 22.1,
+    "b_win_prob": 30.8,
+    "is_correct": false
+  },
+  "2026-02-16|Cagliari|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 56.1,
+    "a_win_prob": 56.1,
+    "draw_prob": 19.4,
+    "b_win_prob": 24.5,
+    "is_correct": false
+  },
+  "2026-02-15|Udinese|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 56.4,
+    "a_win_prob": 56.4,
+    "draw_prob": 19.3,
+    "b_win_prob": 24.3,
+    "is_correct": false
+  },
+  "2026-02-15|Cremonese|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 58.9,
+    "a_win_prob": 58.9,
+    "draw_prob": 18.2,
+    "b_win_prob": 22.9,
+    "is_correct": false
+  },
+  "2026-02-15|Parma|Verona": {
+    "prediction": "Home Win",
+    "confidence": 47.4,
+    "a_win_prob": 47.4,
+    "draw_prob": 20.5,
+    "b_win_prob": 32.1,
+    "is_correct": true
+  },
+  "2026-02-15|Torino|Bologna": {
+    "prediction": "Away Win",
+    "confidence": 39.7,
+    "a_win_prob": 37.0,
+    "draw_prob": 23.3,
+    "b_win_prob": 39.7,
+    "is_correct": true
+  },
+  "2026-02-15|Napoli|AS Roma": {
+    "prediction": "Home Win",
+    "confidence": 50.2,
+    "a_win_prob": 50.2,
+    "draw_prob": 21.2,
+    "b_win_prob": 28.6,
+    "is_correct": false
+  },
+  "2026-02-14|Como|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 61.3,
+    "a_win_prob": 61.3,
+    "draw_prob": 17.6,
+    "b_win_prob": 21.1,
+    "is_correct": false
+  },
+  "2026-02-14|Lazio|Atalanta": {
+    "prediction": "Away Win",
+    "confidence": 45.4,
+    "a_win_prob": 33.0,
+    "draw_prob": 21.6,
+    "b_win_prob": 45.4,
+    "is_correct": true
+  },
+  "2026-02-14|Inter Milan|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 42.7,
+    "a_win_prob": 38.4,
+    "draw_prob": 18.9,
+    "b_win_prob": 42.7,
+    "is_correct": false
+  },
+  "2026-02-13|Pisa|Milan": {
+    "prediction": "Away Win",
+    "confidence": 59.0,
+    "a_win_prob": 22.2,
+    "draw_prob": 18.8,
+    "b_win_prob": 59.0,
+    "is_correct": true
+  },
+  "2026-02-09|Atalanta|Cremonese": {
+    "prediction": "Home Win",
+    "confidence": 45.1,
+    "a_win_prob": 45.1,
+    "draw_prob": 20.4,
+    "b_win_prob": 34.5,
+    "is_correct": true
+  },
+  "2026-02-09|AS Roma|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 62.6,
+    "a_win_prob": 62.6,
+    "draw_prob": 17.2,
+    "b_win_prob": 20.2,
+    "is_correct": true
+  },
+  "2026-02-08|Bologna|Parma": {
+    "prediction": "Home Win",
+    "confidence": 54.4,
+    "a_win_prob": 54.4,
+    "draw_prob": 19.6,
+    "b_win_prob": 26.0,
+    "is_correct": false
+  },
+  "2026-02-08|Lecce|Udinese": {
+    "prediction": "Away Win",
+    "confidence": 50.3,
+    "a_win_prob": 29.2,
+    "draw_prob": 20.5,
+    "b_win_prob": 50.3,
+    "is_correct": false
+  },
+  "2026-02-08|Sassuolo|Inter Milan": {
+    "prediction": "Away Win",
+    "confidence": 51.9,
+    "a_win_prob": 28.4,
+    "draw_prob": 19.7,
+    "b_win_prob": 51.9,
+    "is_correct": true
+  },
+  "2026-02-08|Juventus|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 64.5,
+    "a_win_prob": 64.5,
+    "draw_prob": 16.1,
+    "b_win_prob": 19.4,
+    "is_correct": false
+  },
+  "2026-02-07|Genoa|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 58.3,
+    "a_win_prob": 22.8,
+    "draw_prob": 18.9,
+    "b_win_prob": 58.3,
+    "is_correct": true
+  },
+  "2026-02-07|Fiorentina|Torino": {
+    "prediction": "Home Win",
+    "confidence": 42.6,
+    "a_win_prob": 42.6,
+    "draw_prob": 23.6,
+    "b_win_prob": 33.8,
+    "is_correct": false
+  },
+  "2026-02-06|Verona|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 49.8,
+    "a_win_prob": 49.8,
+    "draw_prob": 21.4,
+    "b_win_prob": 28.8,
+    "is_correct": false
+  },
+  "2026-02-03|Bologna|Milan": {
+    "prediction": "Away Win",
+    "confidence": 45.8,
+    "a_win_prob": 32.8,
+    "draw_prob": 21.4,
+    "b_win_prob": 45.8,
+    "is_correct": true
+  },
+  "2026-02-02|Udinese|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 44.7,
+    "a_win_prob": 33.3,
+    "draw_prob": 22.0,
+    "b_win_prob": 44.7,
+    "is_correct": false
+  },
+  "2026-02-01|Torino|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 51.8,
+    "a_win_prob": 51.8,
+    "draw_prob": 20.6,
+    "b_win_prob": 27.6,
+    "is_correct": true
+  },
+  "2026-02-01|Como|Atalanta": {
+    "prediction": "Home Win",
+    "confidence": 44.8,
+    "a_win_prob": 44.8,
+    "draw_prob": 21.4,
+    "b_win_prob": 33.8,
+    "is_correct": false
+  },
+  "2026-02-01|Cremonese|Inter Milan": {
+    "prediction": "Home Win",
+    "confidence": 44.9,
+    "a_win_prob": 44.9,
+    "draw_prob": 18.5,
+    "b_win_prob": 36.6,
+    "is_correct": false
+  },
+  "2026-02-01|Parma|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 55.8,
+    "a_win_prob": 24.7,
+    "draw_prob": 19.5,
+    "b_win_prob": 55.8,
+    "is_correct": true
+  },
+  "2026-01-31|Pisa|Sassuolo": {
+    "prediction": "Away Win",
+    "confidence": 43.7,
+    "a_win_prob": 35.0,
+    "draw_prob": 21.3,
+    "b_win_prob": 43.7,
+    "is_correct": true
+  },
+  "2026-01-31|Napoli|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 69.1,
+    "a_win_prob": 69.1,
+    "draw_prob": 14.8,
+    "b_win_prob": 16.1,
+    "is_correct": true
+  },
+  "2026-01-31|Cagliari|Verona": {
+    "prediction": "Home Win",
+    "confidence": 55.4,
+    "a_win_prob": 55.4,
+    "draw_prob": 19.2,
+    "b_win_prob": 25.4,
+    "is_correct": true
+  },
+  "2026-01-30|Lazio|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 50.7,
+    "a_win_prob": 50.7,
+    "draw_prob": 20.6,
+    "b_win_prob": 28.7,
+    "is_correct": true
+  },
+  "2026-01-26|Verona|Udinese": {
+    "prediction": "Away Win",
+    "confidence": 50.8,
+    "a_win_prob": 29.2,
+    "draw_prob": 20.0,
+    "b_win_prob": 50.8,
+    "is_correct": true
+  },
+  "2026-01-25|Sassuolo|Cremonese": {
+    "prediction": "Away Win",
+    "confidence": 46.1,
+    "a_win_prob": 35.1,
+    "draw_prob": 18.8,
+    "b_win_prob": 46.1,
+    "is_correct": false
+  },
+  "2026-01-25|Atalanta|Parma": {
+    "prediction": "Home Win",
+    "confidence": 62.3,
+    "a_win_prob": 62.3,
+    "draw_prob": 16.8,
+    "b_win_prob": 20.9,
+    "is_correct": true
+  },
+  "2026-01-25|Genoa|Bologna": {
+    "prediction": "Away Win",
+    "confidence": 43.0,
+    "a_win_prob": 33.8,
+    "draw_prob": 23.2,
+    "b_win_prob": 43.0,
+    "is_correct": false
+  },
+  "2026-01-25|Juventus|Napoli": {
+    "prediction": "Home Win",
+    "confidence": 40.8,
+    "a_win_prob": 40.8,
+    "draw_prob": 23.7,
+    "b_win_prob": 35.5,
+    "is_correct": true
+  },
+  "2026-01-25|AS Roma|Milan": {
+    "prediction": "Home Win",
+    "confidence": 48.1,
+    "a_win_prob": 48.1,
+    "draw_prob": 22.1,
+    "b_win_prob": 29.8,
+    "is_correct": false
+  },
+  "2026-01-24|Como|Torino": {
+    "prediction": "Home Win",
+    "confidence": 60.3,
+    "a_win_prob": 60.3,
+    "draw_prob": 18.0,
+    "b_win_prob": 21.7,
+    "is_correct": true
+  },
+  "2026-01-24|Fiorentina|Cagliari": {
+    "prediction": "Away Win",
+    "confidence": 39.2,
+    "a_win_prob": 38.9,
+    "draw_prob": 21.9,
+    "b_win_prob": 39.2,
+    "is_correct": true
+  },
+  "2026-01-24|Lecce|Lazio": {
+    "prediction": "Away Win",
+    "confidence": 43.2,
+    "a_win_prob": 34.7,
+    "draw_prob": 22.1,
+    "b_win_prob": 43.2,
+    "is_correct": false
+  },
+  "2026-01-23|Inter Milan|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 65.9,
+    "a_win_prob": 65.9,
+    "draw_prob": 16.7,
+    "b_win_prob": 17.4,
+    "is_correct": true
+  },
+  "2026-01-19|Cremonese|Verona": {
+    "prediction": "Home Win",
+    "confidence": 63.5,
+    "a_win_prob": 63.5,
+    "draw_prob": 16.3,
+    "b_win_prob": 20.2,
+    "is_correct": false
+  },
+  "2026-01-19|Lazio|Como": {
+    "prediction": "Away Win",
+    "confidence": 46.4,
+    "a_win_prob": 32.1,
+    "draw_prob": 21.5,
+    "b_win_prob": 46.4,
+    "is_correct": true
+  },
+  "2026-01-18|Parma|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 44.5,
+    "a_win_prob": 44.5,
+    "draw_prob": 22.8,
+    "b_win_prob": 32.7,
+    "is_correct": false
+  },
+  "2026-01-18|Bologna|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 52.4,
+    "a_win_prob": 52.4,
+    "draw_prob": 20.1,
+    "b_win_prob": 27.5,
+    "is_correct": false
+  },
+  "2026-01-18|Torino|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 54.3,
+    "a_win_prob": 26.5,
+    "draw_prob": 19.2,
+    "b_win_prob": 54.3,
+    "is_correct": true
+  },
+  "2026-01-18|Milan|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 67.6,
+    "a_win_prob": 67.6,
+    "draw_prob": 15.4,
+    "b_win_prob": 17.0,
+    "is_correct": true
+  },
+  "2026-01-17|Udinese|Inter Milan": {
+    "prediction": "Home Win",
+    "confidence": 40.0,
+    "a_win_prob": 40.0,
+    "draw_prob": 20.5,
+    "b_win_prob": 39.5,
+    "is_correct": false
+  },
+  "2026-01-17|Napoli|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 68.0,
+    "a_win_prob": 68.0,
+    "draw_prob": 15.2,
+    "b_win_prob": 16.8,
+    "is_correct": true
+  },
+  "2026-01-17|Cagliari|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 54.0,
+    "a_win_prob": 26.8,
+    "draw_prob": 19.2,
+    "b_win_prob": 54.0,
+    "is_correct": false
+  },
+  "2026-01-16|Pisa|Atalanta": {
+    "prediction": "Away Win",
+    "confidence": 57.4,
+    "a_win_prob": 24.3,
+    "draw_prob": 18.3,
+    "b_win_prob": 57.4,
+    "is_correct": false
+  },
+  "2026-01-15|Verona|Bologna": {
+    "prediction": "Away Win",
+    "confidence": 46.1,
+    "a_win_prob": 32.8,
+    "draw_prob": 21.1,
+    "b_win_prob": 46.1,
+    "is_correct": true
+  },
+  "2026-01-15|Como|Milan": {
+    "prediction": "Home Win",
+    "confidence": 40.5,
+    "a_win_prob": 40.5,
+    "draw_prob": 23.2,
+    "b_win_prob": 36.3,
+    "is_correct": false
+  },
+  "2026-01-14|Napoli|Parma": {
+    "prediction": "Home Win",
+    "confidence": 69.1,
+    "a_win_prob": 69.1,
+    "draw_prob": 14.9,
+    "b_win_prob": 16.0,
+    "is_correct": false
+  },
+  "2026-01-14|Inter Milan|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 65.2,
+    "a_win_prob": 65.2,
+    "draw_prob": 16.8,
+    "b_win_prob": 18.0,
+    "is_correct": true
+  },
+  "2026-01-12|Genoa|Cagliari": {
+    "prediction": "Away Win",
+    "confidence": 41.6,
+    "a_win_prob": 36.8,
+    "draw_prob": 21.6,
+    "b_win_prob": 41.6,
+    "is_correct": false
+  },
+  "2026-01-12|Juventus|Cremonese": {
+    "prediction": "Home Win",
+    "confidence": 54.7,
+    "a_win_prob": 54.7,
+    "draw_prob": 20.0,
+    "b_win_prob": 25.3,
+    "is_correct": true
+  },
+  "2026-01-11|Lecce|Parma": {
+    "prediction": "Home Win",
+    "confidence": 39.1,
+    "a_win_prob": 39.1,
+    "draw_prob": 23.4,
+    "b_win_prob": 37.5,
+    "is_correct": false
+  },
+  "2026-01-11|Fiorentina|Milan": {
+    "prediction": "Away Win",
+    "confidence": 52.5,
+    "a_win_prob": 27.2,
+    "draw_prob": 20.3,
+    "b_win_prob": 52.5,
+    "is_correct": false
+  },
+  "2026-01-11|Verona|Lazio": {
+    "prediction": "Away Win",
+    "confidence": 41.9,
+    "a_win_prob": 36.6,
+    "draw_prob": 21.5,
+    "b_win_prob": 41.9,
+    "is_correct": true
+  },
+  "2026-01-11|Inter Milan|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 44.4,
+    "a_win_prob": 36.2,
+    "draw_prob": 19.4,
+    "b_win_prob": 44.4,
+    "is_correct": false
+  },
+  "2026-01-10|Como|Bologna": {
+    "prediction": "Home Win",
+    "confidence": 54.2,
+    "a_win_prob": 54.2,
+    "draw_prob": 19.7,
+    "b_win_prob": 26.1,
+    "is_correct": false
+  },
+  "2026-01-10|Udinese|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 65.4,
+    "a_win_prob": 65.4,
+    "draw_prob": 16.2,
+    "b_win_prob": 18.4,
+    "is_correct": false
+  },
+  "2026-01-10|AS Roma|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 65.9,
+    "a_win_prob": 65.9,
+    "draw_prob": 15.6,
+    "b_win_prob": 18.5,
+    "is_correct": true
+  },
+  "2026-01-10|Atalanta|Torino": {
+    "prediction": "Home Win",
+    "confidence": 60.2,
+    "a_win_prob": 60.2,
+    "draw_prob": 17.7,
+    "b_win_prob": 22.1,
+    "is_correct": true
+  },
+  "2026-01-08|Cremonese|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 53.9,
+    "a_win_prob": 53.9,
+    "draw_prob": 20.4,
+    "b_win_prob": 25.7,
+    "is_correct": false
+  },
+  "2026-01-08|Milan|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 65.9,
+    "a_win_prob": 65.9,
+    "draw_prob": 15.9,
+    "b_win_prob": 18.2,
+    "is_correct": false
+  },
+  "2026-01-07|Bologna|Atalanta": {
+    "prediction": "Away Win",
+    "confidence": 42.1,
+    "a_win_prob": 35.9,
+    "draw_prob": 22.0,
+    "b_win_prob": 42.1,
+    "is_correct": true
+  },
+  "2026-01-07|Napoli|Verona": {
+    "prediction": "Home Win",
+    "confidence": 70.5,
+    "a_win_prob": 70.5,
+    "draw_prob": 14.9,
+    "b_win_prob": 14.6,
+    "is_correct": false
+  },
+  "2026-01-07|Lazio|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 47.7,
+    "a_win_prob": 47.7,
+    "draw_prob": 21.5,
+    "b_win_prob": 30.8,
+    "is_correct": false
+  },
+  "2026-01-07|Parma|Inter Milan": {
+    "prediction": "Away Win",
+    "confidence": 52.8,
+    "a_win_prob": 27.2,
+    "draw_prob": 20.0,
+    "b_win_prob": 52.8,
+    "is_correct": true
+  },
+  "2026-01-07|Torino|Udinese": {
+    "prediction": "Away Win",
+    "confidence": 44.5,
+    "a_win_prob": 33.6,
+    "draw_prob": 21.9,
+    "b_win_prob": 44.5,
+    "is_correct": true
+  },
+  "2026-01-06|Pisa|Como": {
+    "prediction": "Away Win",
+    "confidence": 57.2,
+    "a_win_prob": 23.8,
+    "draw_prob": 19.0,
+    "b_win_prob": 57.2,
+    "is_correct": true
+  },
+  "2026-01-06|Lecce|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 58.0,
+    "a_win_prob": 23.1,
+    "draw_prob": 18.9,
+    "b_win_prob": 58.0,
+    "is_correct": true
+  },
+  "2026-01-06|Sassuolo|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 54.2,
+    "a_win_prob": 26.0,
+    "draw_prob": 19.8,
+    "b_win_prob": 54.2,
+    "is_correct": true
+  },
+  "2026-01-04|Lazio|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 53.6,
+    "a_win_prob": 26.0,
+    "draw_prob": 20.4,
+    "b_win_prob": 53.6,
+    "is_correct": true
+  },
+  "2026-01-04|Fiorentina|Cremonese": {
+    "prediction": "Away Win",
+    "confidence": 46.7,
+    "a_win_prob": 33.7,
+    "draw_prob": 19.6,
+    "b_win_prob": 46.7,
+    "is_correct": false
+  },
+  "2026-01-04|Verona|Torino": {
+    "prediction": "Away Win",
+    "confidence": 38.8,
+    "a_win_prob": 38.5,
+    "draw_prob": 22.7,
+    "b_win_prob": 38.8,
+    "is_correct": true
+  },
+  "2026-01-04|Inter Milan|Bologna": {
+    "prediction": "Home Win",
+    "confidence": 54.3,
+    "a_win_prob": 54.3,
+    "draw_prob": 19.9,
+    "b_win_prob": 25.8,
+    "is_correct": true
+  },
+  "2026-01-03|Como|Udinese": {
+    "prediction": "Home Win",
+    "confidence": 48.6,
+    "a_win_prob": 48.6,
+    "draw_prob": 20.6,
+    "b_win_prob": 30.8,
+    "is_correct": true
+  },
+  "2026-01-03|Genoa|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 51.8,
+    "a_win_prob": 51.8,
+    "draw_prob": 20.5,
+    "b_win_prob": 27.7,
+    "is_correct": false
+  },
+  "2026-01-03|Sassuolo|Parma": {
+    "prediction": "Home Win",
+    "confidence": 45.5,
+    "a_win_prob": 45.5,
+    "draw_prob": 22.4,
+    "b_win_prob": 32.1,
+    "is_correct": false
+  },
+  "2026-01-03|Juventus|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 69.2,
+    "a_win_prob": 69.2,
+    "draw_prob": 15.2,
+    "b_win_prob": 15.6,
+    "is_correct": false
+  },
+  "2026-01-03|Atalanta|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 40.4,
+    "a_win_prob": 36.2,
+    "draw_prob": 23.4,
+    "b_win_prob": 40.4,
+    "is_correct": false
+  },
+  "2026-01-02|Cagliari|Milan": {
+    "prediction": "Away Win",
+    "confidence": 48.1,
+    "a_win_prob": 31.1,
+    "draw_prob": 20.8,
+    "b_win_prob": 48.1,
+    "is_correct": true
+  },
+  "2025-12-29|AS Roma|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 67.8,
+    "a_win_prob": 67.8,
+    "draw_prob": 15.1,
+    "b_win_prob": 17.1,
+    "is_correct": true
+  },
+  "2025-12-28|Milan|Verona": {
+    "prediction": "Home Win",
+    "confidence": 65.5,
+    "a_win_prob": 65.5,
+    "draw_prob": 16.7,
+    "b_win_prob": 17.8,
+    "is_correct": true
+  },
+  "2025-12-28|Cremonese|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 47.8,
+    "a_win_prob": 31.7,
+    "draw_prob": 20.5,
+    "b_win_prob": 47.8,
+    "is_correct": true
+  },
+  "2025-12-28|Bologna|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 52.5,
+    "a_win_prob": 52.5,
+    "draw_prob": 20.4,
+    "b_win_prob": 27.1,
+    "is_correct": false
+  },
+  "2025-12-28|Atalanta|Inter Milan": {
+    "prediction": "Home Win",
+    "confidence": 43.1,
+    "a_win_prob": 43.1,
+    "draw_prob": 21.1,
+    "b_win_prob": 35.8,
+    "is_correct": false
+  },
+  "2025-12-27|Parma|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 42.0,
+    "a_win_prob": 42.0,
+    "draw_prob": 22.6,
+    "b_win_prob": 35.4,
+    "is_correct": true
+  },
+  "2025-12-27|Lecce|Como": {
+    "prediction": "Away Win",
+    "confidence": 55.3,
+    "a_win_prob": 25.8,
+    "draw_prob": 18.9,
+    "b_win_prob": 55.3,
+    "is_correct": true
+  },
+  "2025-12-27|Torino|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 39.9,
+    "a_win_prob": 39.9,
+    "draw_prob": 21.5,
+    "b_win_prob": 38.6,
+    "is_correct": false
+  },
+  "2025-12-27|Udinese|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 52.8,
+    "a_win_prob": 52.8,
+    "draw_prob": 20.8,
+    "b_win_prob": 26.4,
+    "is_correct": false
+  },
+  "2025-12-27|Pisa|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 60.4,
+    "a_win_prob": 20.7,
+    "draw_prob": 18.9,
+    "b_win_prob": 60.4,
+    "is_correct": true
+  },
+  "2025-12-21|Cagliari|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 60.4,
+    "a_win_prob": 60.4,
+    "draw_prob": 17.8,
+    "b_win_prob": 21.8,
+    "is_correct": false
+  },
+  "2025-12-21|Sassuolo|Torino": {
+    "prediction": "Home Win",
+    "confidence": 43.0,
+    "a_win_prob": 43.0,
+    "draw_prob": 22.2,
+    "b_win_prob": 34.8,
+    "is_correct": false
+  },
+  "2025-12-21|Fiorentina|Udinese": {
+    "prediction": "Away Win",
+    "confidence": 45.0,
+    "a_win_prob": 32.7,
+    "draw_prob": 22.3,
+    "b_win_prob": 45.0,
+    "is_correct": false
+  },
+  "2025-12-21|Genoa|Atalanta": {
+    "prediction": "Away Win",
+    "confidence": 50.8,
+    "a_win_prob": 28.6,
+    "draw_prob": 20.6,
+    "b_win_prob": 50.8,
+    "is_correct": true
+  },
+  "2025-12-20|Lazio|Cremonese": {
+    "prediction": "Away Win",
+    "confidence": 44.5,
+    "a_win_prob": 37.4,
+    "draw_prob": 18.1,
+    "b_win_prob": 44.5,
+    "is_correct": false
+  },
+  "2025-12-20|Juventus|AS Roma": {
+    "prediction": "Home Win",
+    "confidence": 47.2,
+    "a_win_prob": 47.2,
+    "draw_prob": 22.3,
+    "b_win_prob": 30.5,
+    "is_correct": true
+  },
+  "2025-12-15|AS Roma|Como": {
+    "prediction": "Home Win",
+    "confidence": 51.4,
+    "a_win_prob": 51.4,
+    "draw_prob": 21.1,
+    "b_win_prob": 27.5,
+    "is_correct": true
+  },
+  "2025-12-14|Milan|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 64.0,
+    "a_win_prob": 64.0,
+    "draw_prob": 16.4,
+    "b_win_prob": 19.6,
+    "is_correct": false
+  },
+  "2025-12-14|Fiorentina|Verona": {
+    "prediction": "Home Win",
+    "confidence": 48.9,
+    "a_win_prob": 48.9,
+    "draw_prob": 21.2,
+    "b_win_prob": 29.9,
+    "is_correct": false
+  },
+  "2025-12-14|Udinese|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 50.2,
+    "a_win_prob": 29.0,
+    "draw_prob": 20.8,
+    "b_win_prob": 50.2,
+    "is_correct": false
+  },
+  "2025-12-14|Genoa|Inter Milan": {
+    "prediction": "Away Win",
+    "confidence": 53.2,
+    "a_win_prob": 26.6,
+    "draw_prob": 20.2,
+    "b_win_prob": 53.2,
+    "is_correct": true
+  },
+  "2025-12-14|Bologna|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 50.8,
+    "a_win_prob": 29.4,
+    "draw_prob": 19.8,
+    "b_win_prob": 50.8,
+    "is_correct": true
+  },
+  "2025-12-13|Torino|Cremonese": {
+    "prediction": "Away Win",
+    "confidence": 46.3,
+    "a_win_prob": 34.5,
+    "draw_prob": 19.2,
+    "b_win_prob": 46.3,
+    "is_correct": false
+  },
+  "2025-12-13|Parma|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 38.3,
+    "a_win_prob": 38.3,
+    "draw_prob": 23.5,
+    "b_win_prob": 38.2,
+    "is_correct": false
+  },
+  "2025-12-13|Atalanta|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 55.9,
+    "a_win_prob": 55.9,
+    "draw_prob": 19.1,
+    "b_win_prob": 25.0,
+    "is_correct": true
+  },
+  "2025-12-12|Lecce|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 48.2,
+    "a_win_prob": 48.2,
+    "draw_prob": 21.2,
+    "b_win_prob": 30.6,
+    "is_correct": true
+  },
+  "2025-12-08|Pisa|Parma": {
+    "prediction": "Away Win",
+    "confidence": 42.2,
+    "a_win_prob": 36.2,
+    "draw_prob": 21.6,
+    "b_win_prob": 42.2,
+    "is_correct": true
+  },
+  "2025-12-08|Udinese|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 59.2,
+    "a_win_prob": 59.2,
+    "draw_prob": 18.1,
+    "b_win_prob": 22.7,
+    "is_correct": false
+  },
+  "2025-12-08|Torino|Milan": {
+    "prediction": "Away Win",
+    "confidence": 52.1,
+    "a_win_prob": 28.1,
+    "draw_prob": 19.8,
+    "b_win_prob": 52.1,
+    "is_correct": true
+  },
+  "2025-12-07|Cremonese|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 61.1,
+    "a_win_prob": 61.1,
+    "draw_prob": 17.6,
+    "b_win_prob": 21.3,
+    "is_correct": true
+  },
+  "2025-12-07|Cagliari|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 51.6,
+    "a_win_prob": 28.2,
+    "draw_prob": 20.2,
+    "b_win_prob": 51.6,
+    "is_correct": false
+  },
+  "2025-12-07|Lazio|Bologna": {
+    "prediction": "Home Win",
+    "confidence": 39.8,
+    "a_win_prob": 39.8,
+    "draw_prob": 22.8,
+    "b_win_prob": 37.4,
+    "is_correct": false
+  },
+  "2025-12-07|Napoli|Juventus": {
+    "prediction": "Home Win",
+    "confidence": 46.6,
+    "a_win_prob": 46.6,
+    "draw_prob": 22.1,
+    "b_win_prob": 31.3,
+    "is_correct": true
+  },
+  "2025-12-06|Sassuolo|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 43.9,
+    "a_win_prob": 43.9,
+    "draw_prob": 21.8,
+    "b_win_prob": 34.3,
+    "is_correct": true
+  },
+  "2025-12-06|Inter Milan|Como": {
+    "prediction": "Home Win",
+    "confidence": 45.8,
+    "a_win_prob": 45.8,
+    "draw_prob": 20.9,
+    "b_win_prob": 33.3,
+    "is_correct": true
+  },
+  "2025-12-06|Verona|Atalanta": {
+    "prediction": "Away Win",
+    "confidence": 54.0,
+    "a_win_prob": 26.9,
+    "draw_prob": 19.1,
+    "b_win_prob": 54.0,
+    "is_correct": false
+  },
+  "2025-12-01|Bologna|Cremonese": {
+    "prediction": "Away Win",
+    "confidence": 42.0,
+    "a_win_prob": 39.5,
+    "draw_prob": 18.5,
+    "b_win_prob": 42.0,
+    "is_correct": true
+  },
+  "2025-11-30|Lecce|Torino": {
+    "prediction": "Away Win",
+    "confidence": 40.1,
+    "a_win_prob": 36.7,
+    "draw_prob": 23.2,
+    "b_win_prob": 40.1,
+    "is_correct": false
+  },
+  "2025-11-30|Pisa|Inter Milan": {
+    "prediction": "Away Win",
+    "confidence": 56.8,
+    "a_win_prob": 23.6,
+    "draw_prob": 19.6,
+    "b_win_prob": 56.8,
+    "is_correct": true
+  },
+  "2025-11-30|Atalanta|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 61.1,
+    "a_win_prob": 61.1,
+    "draw_prob": 17.3,
+    "b_win_prob": 21.6,
+    "is_correct": true
+  },
+  "2025-11-30|AS Roma|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 39.1,
+    "a_win_prob": 38.0,
+    "draw_prob": 22.9,
+    "b_win_prob": 39.1,
+    "is_correct": true
+  },
+  "2025-11-29|Genoa|Verona": {
+    "prediction": "Home Win",
+    "confidence": 46.6,
+    "a_win_prob": 46.6,
+    "draw_prob": 20.7,
+    "b_win_prob": 32.7,
+    "is_correct": true
+  },
+  "2025-11-29|Parma|Udinese": {
+    "prediction": "Away Win",
+    "confidence": 46.4,
+    "a_win_prob": 32.0,
+    "draw_prob": 21.6,
+    "b_win_prob": 46.4,
+    "is_correct": true
+  },
+  "2025-11-29|Juventus|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 64.8,
+    "a_win_prob": 64.8,
+    "draw_prob": 16.4,
+    "b_win_prob": 18.8,
+    "is_correct": true
+  },
+  "2025-11-29|Milan|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 61.1,
+    "a_win_prob": 61.1,
+    "draw_prob": 17.3,
+    "b_win_prob": 21.6,
+    "is_correct": true
+  },
+  "2025-11-28|Como|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 61.6,
+    "a_win_prob": 61.6,
+    "draw_prob": 17.3,
+    "b_win_prob": 21.1,
+    "is_correct": true
+  },
+  "2025-11-24|Torino|Como": {
+    "prediction": "Away Win",
+    "confidence": 49.6,
+    "a_win_prob": 30.2,
+    "draw_prob": 20.2,
+    "b_win_prob": 49.6,
+    "is_correct": true
+  },
+  "2025-11-24|Sassuolo|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 53.7,
+    "a_win_prob": 53.7,
+    "draw_prob": 20.0,
+    "b_win_prob": 26.3,
+    "is_correct": false
+  },
+  "2025-11-23|Verona|Parma": {
+    "prediction": "Home Win",
+    "confidence": 41.5,
+    "a_win_prob": 41.5,
+    "draw_prob": 21.7,
+    "b_win_prob": 36.8,
+    "is_correct": false
+  },
+  "2025-11-23|Cremonese|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 42.1,
+    "a_win_prob": 36.6,
+    "draw_prob": 21.3,
+    "b_win_prob": 42.1,
+    "is_correct": true
+  },
+  "2025-11-23|Lazio|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 54.9,
+    "a_win_prob": 54.9,
+    "draw_prob": 19.3,
+    "b_win_prob": 25.8,
+    "is_correct": true
+  },
+  "2025-11-23|Inter Milan|Milan": {
+    "prediction": "Home Win",
+    "confidence": 42.9,
+    "a_win_prob": 42.9,
+    "draw_prob": 20.9,
+    "b_win_prob": 36.2,
+    "is_correct": false
+  },
+  "2025-11-22|Cagliari|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 52.3,
+    "a_win_prob": 52.3,
+    "draw_prob": 20.8,
+    "b_win_prob": 26.9,
+    "is_correct": false
+  },
+  "2025-11-22|Udinese|Bologna": {
+    "prediction": "Home Win",
+    "confidence": 48.9,
+    "a_win_prob": 48.9,
+    "draw_prob": 22.1,
+    "b_win_prob": 29.0,
+    "is_correct": false
+  },
+  "2025-11-22|Fiorentina|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 55.6,
+    "a_win_prob": 24.8,
+    "draw_prob": 19.6,
+    "b_win_prob": 55.6,
+    "is_correct": false
+  },
+  "2025-11-22|Napoli|Atalanta": {
+    "prediction": "Home Win",
+    "confidence": 58.4,
+    "a_win_prob": 58.4,
+    "draw_prob": 18.4,
+    "b_win_prob": 23.2,
+    "is_correct": true
+  },
+  "2025-11-09|Atalanta|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 60.4,
+    "a_win_prob": 60.4,
+    "draw_prob": 17.6,
+    "b_win_prob": 22.0,
+    "is_correct": false
+  },
+  "2025-11-09|Bologna|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 52.4,
+    "a_win_prob": 27.7,
+    "draw_prob": 19.9,
+    "b_win_prob": 52.4,
+    "is_correct": false
+  },
+  "2025-11-09|Genoa|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 41.0,
+    "a_win_prob": 41.0,
+    "draw_prob": 22.9,
+    "b_win_prob": 36.1,
+    "is_correct": false
+  },
+  "2025-11-09|AS Roma|Udinese": {
+    "prediction": "Home Win",
+    "confidence": 56.5,
+    "a_win_prob": 56.5,
+    "draw_prob": 18.8,
+    "b_win_prob": 24.7,
+    "is_correct": true
+  },
+  "2025-11-09|Inter Milan|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 58.8,
+    "a_win_prob": 58.8,
+    "draw_prob": 18.6,
+    "b_win_prob": 22.6,
+    "is_correct": true
+  },
+  "2025-11-08|Como|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 55.2,
+    "a_win_prob": 55.2,
+    "draw_prob": 19.5,
+    "b_win_prob": 25.3,
+    "is_correct": false
+  },
+  "2025-11-08|Lecce|Verona": {
+    "prediction": "Home Win",
+    "confidence": 43.2,
+    "a_win_prob": 43.2,
+    "draw_prob": 20.7,
+    "b_win_prob": 36.1,
+    "is_correct": false
+  },
+  "2025-11-08|Juventus|Torino": {
+    "prediction": "Home Win",
+    "confidence": 66.5,
+    "a_win_prob": 66.5,
+    "draw_prob": 15.8,
+    "b_win_prob": 17.7,
+    "is_correct": false
+  },
+  "2025-11-08|Parma|Milan": {
+    "prediction": "Away Win",
+    "confidence": 53.8,
+    "a_win_prob": 26.5,
+    "draw_prob": 19.7,
+    "b_win_prob": 53.8,
+    "is_correct": false
+  },
+  "2025-11-07|Pisa|Cremonese": {
+    "prediction": "Away Win",
+    "confidence": 52.9,
+    "a_win_prob": 26.3,
+    "draw_prob": 20.8,
+    "b_win_prob": 52.9,
+    "is_correct": false
+  },
+  "2025-11-03|Sassuolo|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 46.3,
+    "a_win_prob": 46.3,
+    "draw_prob": 22.1,
+    "b_win_prob": 31.6,
+    "is_correct": false
+  },
+  "2025-11-03|Lazio|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 43.1,
+    "a_win_prob": 43.1,
+    "draw_prob": 20.2,
+    "b_win_prob": 36.7,
+    "is_correct": true
+  },
+  "2025-11-02|Verona|Inter Milan": {
+    "prediction": "Away Win",
+    "confidence": 52.7,
+    "a_win_prob": 26.8,
+    "draw_prob": 20.5,
+    "b_win_prob": 52.7,
+    "is_correct": true
+  },
+  "2025-11-02|Fiorentina|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 50.9,
+    "a_win_prob": 50.9,
+    "draw_prob": 21.0,
+    "b_win_prob": 28.1,
+    "is_correct": false
+  },
+  "2025-11-02|Torino|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 55.6,
+    "a_win_prob": 55.6,
+    "draw_prob": 19.3,
+    "b_win_prob": 25.1,
+    "is_correct": false
+  },
+  "2025-11-02|Parma|Bologna": {
+    "prediction": "Away Win",
+    "confidence": 42.3,
+    "a_win_prob": 34.6,
+    "draw_prob": 23.1,
+    "b_win_prob": 42.3,
+    "is_correct": true
+  },
+  "2025-11-02|Milan|AS Roma": {
+    "prediction": "Home Win",
+    "confidence": 40.2,
+    "a_win_prob": 40.2,
+    "draw_prob": 22.0,
+    "b_win_prob": 37.8,
+    "is_correct": true
+  },
+  "2025-11-01|Udinese|Atalanta": {
+    "prediction": "Home Win",
+    "confidence": 39.8,
+    "a_win_prob": 39.8,
+    "draw_prob": 23.4,
+    "b_win_prob": 36.8,
+    "is_correct": true
+  },
+  "2025-11-01|Napoli|Como": {
+    "prediction": "Home Win",
+    "confidence": 57.0,
+    "a_win_prob": 57.0,
+    "draw_prob": 19.0,
+    "b_win_prob": 24.0,
+    "is_correct": false
+  },
+  "2025-11-01|Cremonese|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 45.6,
+    "a_win_prob": 34.0,
+    "draw_prob": 20.4,
+    "b_win_prob": 45.6,
+    "is_correct": true
+  },
+  "2025-10-30|Cagliari|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 49.8,
+    "a_win_prob": 49.8,
+    "draw_prob": 21.7,
+    "b_win_prob": 28.5,
+    "is_correct": false
+  },
+  "2025-10-30|Pisa|Lazio": {
+    "prediction": "Away Win",
+    "confidence": 47.5,
+    "a_win_prob": 31.9,
+    "draw_prob": 20.6,
+    "b_win_prob": 47.5,
+    "is_correct": false
+  },
+  "2025-10-29|AS Roma|Parma": {
+    "prediction": "Home Win",
+    "confidence": 67.2,
+    "a_win_prob": 67.2,
+    "draw_prob": 15.3,
+    "b_win_prob": 17.5,
+    "is_correct": true
+  },
+  "2025-10-29|Como|Verona": {
+    "prediction": "Home Win",
+    "confidence": 62.9,
+    "a_win_prob": 62.9,
+    "draw_prob": 17.7,
+    "b_win_prob": 19.4,
+    "is_correct": true
+  },
+  "2025-10-29|Juventus|Udinese": {
+    "prediction": "Home Win",
+    "confidence": 59.5,
+    "a_win_prob": 59.5,
+    "draw_prob": 18.0,
+    "b_win_prob": 22.5,
+    "is_correct": true
+  },
+  "2025-10-29|Bologna|Torino": {
+    "prediction": "Home Win",
+    "confidence": 51.5,
+    "a_win_prob": 51.5,
+    "draw_prob": 20.5,
+    "b_win_prob": 28.0,
+    "is_correct": false
+  },
+  "2025-10-29|Genoa|Cremonese": {
+    "prediction": "Away Win",
+    "confidence": 47.6,
+    "a_win_prob": 32.5,
+    "draw_prob": 19.9,
+    "b_win_prob": 47.6,
+    "is_correct": true
+  },
+  "2025-10-29|Inter Milan|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 60.9,
+    "a_win_prob": 60.9,
+    "draw_prob": 18.1,
+    "b_win_prob": 21.0,
+    "is_correct": true
+  },
+  "2025-10-28|Lecce|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 59.7,
+    "a_win_prob": 21.6,
+    "draw_prob": 18.7,
+    "b_win_prob": 59.7,
+    "is_correct": true
+  },
+  "2025-10-28|Atalanta|Milan": {
+    "prediction": "Home Win",
+    "confidence": 39.9,
+    "a_win_prob": 39.9,
+    "draw_prob": 24.0,
+    "b_win_prob": 36.1,
+    "is_correct": false
+  },
+  "2025-10-26|Torino|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 47.5,
+    "a_win_prob": 47.5,
+    "draw_prob": 22.0,
+    "b_win_prob": 30.5,
+    "is_correct": true
+  },
+  "2025-10-26|Verona|Cagliari": {
+    "prediction": "Away Win",
+    "confidence": 43.8,
+    "a_win_prob": 34.4,
+    "draw_prob": 21.8,
+    "b_win_prob": 43.8,
+    "is_correct": false
+  },
+  "2025-10-26|Sassuolo|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 53.5,
+    "a_win_prob": 26.5,
+    "draw_prob": 20.0,
+    "b_win_prob": 53.5,
+    "is_correct": true
+  },
+  "2025-10-26|Fiorentina|Bologna": {
+    "prediction": "Away Win",
+    "confidence": 40.2,
+    "a_win_prob": 36.0,
+    "draw_prob": 23.8,
+    "b_win_prob": 40.2,
+    "is_correct": false
+  },
+  "2025-10-26|Lazio|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 52.1,
+    "a_win_prob": 27.6,
+    "draw_prob": 20.3,
+    "b_win_prob": 52.1,
+    "is_correct": false
+  },
+  "2025-10-25|Parma|Como": {
+    "prediction": "Away Win",
+    "confidence": 51.6,
+    "a_win_prob": 28.4,
+    "draw_prob": 20.0,
+    "b_win_prob": 51.6,
+    "is_correct": false
+  },
+  "2025-10-25|Udinese|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 62.5,
+    "a_win_prob": 62.5,
+    "draw_prob": 16.7,
+    "b_win_prob": 20.8,
+    "is_correct": true
+  },
+  "2025-10-25|Napoli|Inter Milan": {
+    "prediction": "Home Win",
+    "confidence": 54.9,
+    "a_win_prob": 54.9,
+    "draw_prob": 19.2,
+    "b_win_prob": 25.9,
+    "is_correct": true
+  },
+  "2025-10-25|Cremonese|Atalanta": {
+    "prediction": "Home Win",
+    "confidence": 44.3,
+    "a_win_prob": 44.3,
+    "draw_prob": 20.2,
+    "b_win_prob": 35.5,
+    "is_correct": false
+  },
+  "2025-10-24|Milan|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 68.8,
+    "a_win_prob": 68.8,
+    "draw_prob": 15.3,
+    "b_win_prob": 15.9,
+    "is_correct": false
+  },
+  "2025-10-20|Cremonese|Udinese": {
+    "prediction": "Home Win",
+    "confidence": 47.5,
+    "a_win_prob": 47.5,
+    "draw_prob": 21.1,
+    "b_win_prob": 31.4,
+    "is_correct": false
+  },
+  "2025-10-19|Como|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 43.5,
+    "a_win_prob": 35.3,
+    "draw_prob": 21.2,
+    "b_win_prob": 43.5,
+    "is_correct": false
+  },
+  "2025-10-19|Cagliari|Bologna": {
+    "prediction": "Home Win",
+    "confidence": 41.7,
+    "a_win_prob": 41.7,
+    "draw_prob": 23.1,
+    "b_win_prob": 35.2,
+    "is_correct": false
+  },
+  "2025-10-19|Genoa|Parma": {
+    "prediction": "Home Win",
+    "confidence": 42.6,
+    "a_win_prob": 42.6,
+    "draw_prob": 23.6,
+    "b_win_prob": 33.8,
+    "is_correct": false
+  },
+  "2025-10-19|Atalanta|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 56.9,
+    "a_win_prob": 56.9,
+    "draw_prob": 19.1,
+    "b_win_prob": 24.0,
+    "is_correct": false
+  },
+  "2025-10-19|Milan|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 64.0,
+    "a_win_prob": 64.0,
+    "draw_prob": 16.6,
+    "b_win_prob": 19.4,
+    "is_correct": true
+  },
+  "2025-10-18|Lecce|Sassuolo": {
+    "prediction": "Away Win",
+    "confidence": 39.1,
+    "a_win_prob": 37.8,
+    "draw_prob": 23.1,
+    "b_win_prob": 39.1,
+    "is_correct": false
+  },
+  "2025-10-18|Pisa|Verona": {
+    "prediction": "Away Win",
+    "confidence": 38.8,
+    "a_win_prob": 38.4,
+    "draw_prob": 22.8,
+    "b_win_prob": 38.8,
+    "is_correct": false
+  },
+  "2025-10-18|Torino|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 56.7,
+    "a_win_prob": 24.1,
+    "draw_prob": 19.2,
+    "b_win_prob": 56.7,
+    "is_correct": false
+  },
+  "2025-10-18|AS Roma|Inter Milan": {
+    "prediction": "Home Win",
+    "confidence": 50.3,
+    "a_win_prob": 50.3,
+    "draw_prob": 20.2,
+    "b_win_prob": 29.5,
+    "is_correct": false
+  },
+  "2025-10-05|Udinese|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 51.8,
+    "a_win_prob": 51.8,
+    "draw_prob": 20.6,
+    "b_win_prob": 27.6,
+    "is_correct": false
+  },
+  "2025-10-05|Bologna|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 61.3,
+    "a_win_prob": 61.3,
+    "draw_prob": 17.9,
+    "b_win_prob": 20.8,
+    "is_correct": true
+  },
+  "2025-10-05|Fiorentina|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 54.7,
+    "a_win_prob": 25.5,
+    "draw_prob": 19.8,
+    "b_win_prob": 54.7,
+    "is_correct": true
+  },
+  "2025-10-05|Napoli|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 69.8,
+    "a_win_prob": 69.8,
+    "draw_prob": 14.7,
+    "b_win_prob": 15.5,
+    "is_correct": true
+  },
+  "2025-10-05|Juventus|Milan": {
+    "prediction": "Home Win",
+    "confidence": 51.3,
+    "a_win_prob": 51.3,
+    "draw_prob": 21.2,
+    "b_win_prob": 27.5,
+    "is_correct": false
+  },
+  "2025-10-04|Lazio|Torino": {
+    "prediction": "Home Win",
+    "confidence": 46.8,
+    "a_win_prob": 46.8,
+    "draw_prob": 21.9,
+    "b_win_prob": 31.3,
+    "is_correct": false
+  },
+  "2025-10-04|Parma|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 48.8,
+    "a_win_prob": 48.8,
+    "draw_prob": 21.4,
+    "b_win_prob": 29.8,
+    "is_correct": false
+  },
+  "2025-10-04|Inter Milan|Cremonese": {
+    "prediction": "Home Win",
+    "confidence": 44.5,
+    "a_win_prob": 44.5,
+    "draw_prob": 19.1,
+    "b_win_prob": 36.4,
+    "is_correct": true
+  },
+  "2025-10-04|Atalanta|Como": {
+    "prediction": "Home Win",
+    "confidence": 43.2,
+    "a_win_prob": 43.2,
+    "draw_prob": 23.3,
+    "b_win_prob": 33.5,
+    "is_correct": false
+  },
+  "2025-10-03|Verona|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 40.3,
+    "a_win_prob": 40.3,
+    "draw_prob": 21.4,
+    "b_win_prob": 38.3,
+    "is_correct": false
+  },
+  "2025-09-29|Parma|Torino": {
+    "prediction": "Home Win",
+    "confidence": 41.1,
+    "a_win_prob": 41.1,
+    "draw_prob": 22.9,
+    "b_win_prob": 36.0,
+    "is_correct": true
+  },
+  "2025-09-29|Genoa|Lazio": {
+    "prediction": "Away Win",
+    "confidence": 38.9,
+    "a_win_prob": 37.5,
+    "draw_prob": 23.6,
+    "b_win_prob": 38.9,
+    "is_correct": true
+  },
+  "2025-09-28|Sassuolo|Udinese": {
+    "prediction": "Away Win",
+    "confidence": 45.4,
+    "a_win_prob": 33.8,
+    "draw_prob": 20.8,
+    "b_win_prob": 45.4,
+    "is_correct": false
+  },
+  "2025-09-28|AS Roma|Verona": {
+    "prediction": "Home Win",
+    "confidence": 68.5,
+    "a_win_prob": 68.5,
+    "draw_prob": 15.3,
+    "b_win_prob": 16.2,
+    "is_correct": true
+  },
+  "2025-09-28|Pisa|Fiorentina": {
+    "prediction": "Away Win",
+    "confidence": 44.3,
+    "a_win_prob": 34.8,
+    "draw_prob": 20.9,
+    "b_win_prob": 44.3,
+    "is_correct": false
+  },
+  "2025-09-28|Lecce|Bologna": {
+    "prediction": "Away Win",
+    "confidence": 47.1,
+    "a_win_prob": 31.3,
+    "draw_prob": 21.6,
+    "b_win_prob": 47.1,
+    "is_correct": false
+  },
+  "2025-09-28|Milan|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 43.1,
+    "a_win_prob": 35.2,
+    "draw_prob": 21.7,
+    "b_win_prob": 43.1,
+    "is_correct": false
+  },
+  "2025-09-27|Como|Cremonese": {
+    "prediction": "Home Win",
+    "confidence": 44.8,
+    "a_win_prob": 44.8,
+    "draw_prob": 19.7,
+    "b_win_prob": 35.5,
+    "is_correct": false
+  },
+  "2025-09-27|Juventus|Atalanta": {
+    "prediction": "Home Win",
+    "confidence": 55.6,
+    "a_win_prob": 55.6,
+    "draw_prob": 19.5,
+    "b_win_prob": 24.9,
+    "is_correct": false
+  },
+  "2025-09-27|Cagliari|Inter Milan": {
+    "prediction": "Away Win",
+    "confidence": 45.1,
+    "a_win_prob": 33.4,
+    "draw_prob": 21.5,
+    "b_win_prob": 45.1,
+    "is_correct": true
+  },
+  "2025-09-22|Napoli|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 71.7,
+    "a_win_prob": 71.7,
+    "draw_prob": 14.7,
+    "b_win_prob": 13.6,
+    "is_correct": true
+  },
+  "2025-09-21|Lazio|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 51.1,
+    "a_win_prob": 28.4,
+    "draw_prob": 20.5,
+    "b_win_prob": 51.1,
+    "is_correct": true
+  },
+  "2025-09-21|Cremonese|Parma": {
+    "prediction": "Home Win",
+    "confidence": 58.2,
+    "a_win_prob": 58.2,
+    "draw_prob": 18.2,
+    "b_win_prob": 23.6,
+    "is_correct": false
+  },
+  "2025-09-21|Torino|Atalanta": {
+    "prediction": "Away Win",
+    "confidence": 48.3,
+    "a_win_prob": 31.0,
+    "draw_prob": 20.7,
+    "b_win_prob": 48.3,
+    "is_correct": true
+  },
+  "2025-09-21|Fiorentina|Como": {
+    "prediction": "Away Win",
+    "confidence": 50.1,
+    "a_win_prob": 29.2,
+    "draw_prob": 20.7,
+    "b_win_prob": 50.1,
+    "is_correct": true
+  },
+  "2025-09-21|Inter Milan|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 61.7,
+    "a_win_prob": 61.7,
+    "draw_prob": 17.8,
+    "b_win_prob": 20.5,
+    "is_correct": true
+  },
+  "2025-09-20|Bologna|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 55.3,
+    "a_win_prob": 55.3,
+    "draw_prob": 19.3,
+    "b_win_prob": 25.4,
+    "is_correct": true
+  },
+  "2025-09-20|Verona|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 59.2,
+    "a_win_prob": 22.1,
+    "draw_prob": 18.7,
+    "b_win_prob": 59.2,
+    "is_correct": false
+  },
+  "2025-09-20|Udinese|Milan": {
+    "prediction": "Away Win",
+    "confidence": 40.6,
+    "a_win_prob": 36.9,
+    "draw_prob": 22.5,
+    "b_win_prob": 40.6,
+    "is_correct": true
+  },
+  "2025-09-19|Lecce|Cagliari": {
+    "prediction": "Away Win",
+    "confidence": 44.5,
+    "a_win_prob": 33.6,
+    "draw_prob": 21.9,
+    "b_win_prob": 44.5,
+    "is_correct": true
+  },
+  "2025-09-15|Verona|Cremonese": {
+    "prediction": "Away Win",
+    "confidence": 50.8,
+    "a_win_prob": 28.3,
+    "draw_prob": 20.9,
+    "b_win_prob": 50.8,
+    "is_correct": false
+  },
+  "2025-09-15|Como|Genoa": {
+    "prediction": "Home Win",
+    "confidence": 63.5,
+    "a_win_prob": 63.5,
+    "draw_prob": 16.8,
+    "b_win_prob": 19.7,
+    "is_correct": false
+  },
+  "2025-09-14|AS Roma|Torino": {
+    "prediction": "Home Win",
+    "confidence": 65.8,
+    "a_win_prob": 65.8,
+    "draw_prob": 15.7,
+    "b_win_prob": 18.5,
+    "is_correct": false
+  },
+  "2025-09-14|Atalanta|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 65.4,
+    "a_win_prob": 65.4,
+    "draw_prob": 15.9,
+    "b_win_prob": 18.7,
+    "is_correct": true
+  },
+  "2025-09-14|Pisa|Udinese": {
+    "prediction": "Away Win",
+    "confidence": 54.9,
+    "a_win_prob": 26.4,
+    "draw_prob": 18.7,
+    "b_win_prob": 54.9,
+    "is_correct": true
+  },
+  "2025-09-14|Sassuolo|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 39.7,
+    "a_win_prob": 39.7,
+    "draw_prob": 23.5,
+    "b_win_prob": 36.8,
+    "is_correct": true
+  },
+  "2025-09-14|Milan|Bologna": {
+    "prediction": "Home Win",
+    "confidence": 57.4,
+    "a_win_prob": 57.4,
+    "draw_prob": 18.7,
+    "b_win_prob": 23.9,
+    "is_correct": true
+  },
+  "2025-09-13|Cagliari|Parma": {
+    "prediction": "Home Win",
+    "confidence": 51.4,
+    "a_win_prob": 51.4,
+    "draw_prob": 21.2,
+    "b_win_prob": 27.4,
+    "is_correct": true
+  },
+  "2025-09-13|Juventus|Inter Milan": {
+    "prediction": "Home Win",
+    "confidence": 52.7,
+    "a_win_prob": 52.7,
+    "draw_prob": 19.6,
+    "b_win_prob": 27.7,
+    "is_correct": true
+  },
+  "2025-09-13|Fiorentina|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 57.4,
+    "a_win_prob": 23.4,
+    "draw_prob": 19.2,
+    "b_win_prob": 57.4,
+    "is_correct": true
+  },
+  "2025-08-31|Genoa|Juventus": {
+    "prediction": "Away Win",
+    "confidence": 56.5,
+    "a_win_prob": 23.9,
+    "draw_prob": 19.6,
+    "b_win_prob": 56.5,
+    "is_correct": true
+  },
+  "2025-08-31|Torino|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 44.4,
+    "a_win_prob": 44.4,
+    "draw_prob": 22.9,
+    "b_win_prob": 32.7,
+    "is_correct": false
+  },
+  "2025-08-31|Inter Milan|Udinese": {
+    "prediction": "Home Win",
+    "confidence": 48.7,
+    "a_win_prob": 48.7,
+    "draw_prob": 19.9,
+    "b_win_prob": 31.4,
+    "is_correct": false
+  },
+  "2025-08-31|Lazio|Verona": {
+    "prediction": "Home Win",
+    "confidence": 51.4,
+    "a_win_prob": 51.4,
+    "draw_prob": 20.7,
+    "b_win_prob": 27.9,
+    "is_correct": true
+  },
+  "2025-08-30|Bologna|Como": {
+    "prediction": "Away Win",
+    "confidence": 42.8,
+    "a_win_prob": 35.4,
+    "draw_prob": 21.8,
+    "b_win_prob": 42.8,
+    "is_correct": false
+  },
+  "2025-08-30|Parma|Atalanta": {
+    "prediction": "Away Win",
+    "confidence": 50.1,
+    "a_win_prob": 29.4,
+    "draw_prob": 20.5,
+    "b_win_prob": 50.1,
+    "is_correct": false
+  },
+  "2025-08-30|Napoli|Cagliari": {
+    "prediction": "Home Win",
+    "confidence": 66.8,
+    "a_win_prob": 66.8,
+    "draw_prob": 15.7,
+    "b_win_prob": 17.5,
+    "is_correct": true
+  },
+  "2025-08-30|Pisa|AS Roma": {
+    "prediction": "Away Win",
+    "confidence": 60.0,
+    "a_win_prob": 21.0,
+    "draw_prob": 19.0,
+    "b_win_prob": 60.0,
+    "is_correct": true
+  },
+  "2025-08-29|Cremonese|Sassuolo": {
+    "prediction": "Home Win",
+    "confidence": 56.9,
+    "a_win_prob": 56.9,
+    "draw_prob": 17.9,
+    "b_win_prob": 25.2,
+    "is_correct": true
+  },
+  "2025-08-29|Lecce|Milan": {
+    "prediction": "Away Win",
+    "confidence": 57.2,
+    "a_win_prob": 24.2,
+    "draw_prob": 18.6,
+    "b_win_prob": 57.2,
+    "is_correct": true
+  },
+  "2025-08-25|Udinese|Verona": {
+    "prediction": "Home Win",
+    "confidence": 61.6,
+    "a_win_prob": 61.6,
+    "draw_prob": 17.6,
+    "b_win_prob": 20.8,
+    "is_correct": false
+  },
+  "2025-08-25|Inter Milan|Torino": {
+    "prediction": "Home Win",
+    "confidence": 59.9,
+    "a_win_prob": 59.9,
+    "draw_prob": 18.5,
+    "b_win_prob": 21.6,
+    "is_correct": true
+  },
+  "2025-08-24|Cagliari|Fiorentina": {
+    "prediction": "Home Win",
+    "confidence": 49.6,
+    "a_win_prob": 49.6,
+    "draw_prob": 21.7,
+    "b_win_prob": 28.7,
+    "is_correct": false
+  },
+  "2025-08-24|Como|Lazio": {
+    "prediction": "Home Win",
+    "confidence": 58.3,
+    "a_win_prob": 58.3,
+    "draw_prob": 18.4,
+    "b_win_prob": 23.3,
+    "is_correct": true
+  },
+  "2025-08-24|Atalanta|Pisa": {
+    "prediction": "Home Win",
+    "confidence": 67.2,
+    "a_win_prob": 67.2,
+    "draw_prob": 15.8,
+    "b_win_prob": 17.0,
+    "is_correct": false
+  },
+  "2025-08-24|Juventus|Parma": {
+    "prediction": "Home Win",
+    "confidence": 67.6,
+    "a_win_prob": 67.6,
+    "draw_prob": 15.4,
+    "b_win_prob": 17.0,
+    "is_correct": true
+  },
+  "2025-08-23|Genoa|Lecce": {
+    "prediction": "Home Win",
+    "confidence": 47.9,
+    "a_win_prob": 47.9,
+    "draw_prob": 21.8,
+    "b_win_prob": 30.3,
+    "is_correct": false
+  },
+  "2025-08-23|Sassuolo|Napoli": {
+    "prediction": "Away Win",
+    "confidence": 55.7,
+    "a_win_prob": 24.4,
+    "draw_prob": 19.9,
+    "b_win_prob": 55.7,
+    "is_correct": true
+  },
+  "2025-08-23|Milan|Cremonese": {
+    "prediction": "Home Win",
+    "confidence": 47.3,
+    "a_win_prob": 47.3,
+    "draw_prob": 20.0,
+    "b_win_prob": 32.7,
+    "is_correct": false
+  },
+  "2025-08-23|AS Roma|Bologna": {
+    "prediction": "Home Win",
+    "confidence": 60.6,
+    "a_win_prob": 60.6,
+    "draw_prob": 17.6,
+    "b_win_prob": 21.8,
     "is_correct": true
   }
 }
