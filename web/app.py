@@ -4,7 +4,7 @@ Serves the SPA frontend and provides REST API endpoints
 per sport/league from JSON data files.
 """
 
-from flask import Flask, render_template, jsonify
+from flask import Flask, render_template, jsonify, request
 import json
 import logging
 import os
@@ -322,18 +322,23 @@ def _run_refresh_bg(args=None):
         _refresh_status["completed_at"] = datetime.now(timezone.utc).isoformat()
 
 
+def _run_refresh_bg_with_lock(args=None):
+    """Run refresh holding the lock for the critical section, then release."""
+    try:
+        _run_refresh_bg(args)
+    finally:
+        _refresh_lock.release()
+
+
 @app.route("/api/refresh", methods=["POST"])
 def api_refresh():
     if _refresh_status["running"]:
         return jsonify({"success": False, "message": "Refresh already in progress"}), 409
     if not _refresh_lock.acquire(blocking=False):
         return jsonify({"success": False, "message": "Refresh already in progress"}), 409
-    try:
-        t = threading.Thread(target=_run_refresh_bg, daemon=True)
-        t.start()
-        return jsonify({"success": True, "message": "Refresh started in background"})
-    finally:
-        _refresh_lock.release()
+    t = threading.Thread(target=_run_refresh_bg_with_lock, daemon=True)
+    t.start()
+    return jsonify({"success": True, "message": "Refresh started in background"})
 
 
 @app.route("/api/refresh/<sport>/<league>", methods=["POST"])
@@ -371,17 +376,17 @@ def api_refresh_status():
 def api_refresh_cron():
     """Scheduled refresh endpoint for external cron (GitHub Actions, cron-job.org, etc).
 
-    Accepts an optional 'token' query param matching CRON_TOKEN env var for security.
+    Accepts an optional 'token' query param or X-Cron-Token header matching
+    CRON_TOKEN env var for security.
     If no CRON_TOKEN is set, this endpoint is open (use with caution on public sites).
     Starts a background refresh and returns immediately — does not wait for completion.
     """
     cron_token = os.environ.get("CRON_TOKEN", "")
     if cron_token:
-        provided = os.environ.get("CRON_TOKEN_QUERY", "") or ""
         # Check both query param and header
-        from flask import request
         provided = request.args.get("token", "") or request.headers.get("X-Cron-Token", "")
         if provided != cron_token:
+            logger.warning("Cron refresh rejected: invalid token (provided=%s)", provided[:4] + "..." if provided else "none")
             return jsonify({"success": False, "message": "Invalid cron token"}), 403
 
     if _refresh_status["running"]:
@@ -389,12 +394,11 @@ def api_refresh_cron():
 
     if not _refresh_lock.acquire(blocking=False):
         return jsonify({"success": True, "message": "Refresh already in progress, skipping"})
-    try:
-        t = threading.Thread(target=_run_refresh_bg, daemon=True)
-        t.start()
-        return jsonify({"success": True, "message": "Refresh started in background"})
-    finally:
-        _refresh_lock.release()
+
+    # Start thread BEFORE releasing lock so _run_refresh_bg can safely set running=True
+    t = threading.Thread(target=_run_refresh_bg_with_lock, daemon=True)
+    t.start()
+    return jsonify({"success": True, "message": "Refresh started in background"})
 
 
 # ── Background Auto-Refresh ──────────────────────────────────────
@@ -405,10 +409,7 @@ def _refresh_loop():
     while True:
         time.sleep(REFRESH_INTERVAL_SECONDS)
         if _refresh_lock.acquire(blocking=False):
-            try:
-                _run_refresh_bg()
-            finally:
-                _refresh_lock.release()
+            _run_refresh_bg_with_lock()
 
 
 def _start_refresh_on_boot():
@@ -419,7 +420,12 @@ def _start_refresh_on_boot():
 
 def _refresh_on_boot_then_loop():
     """First refresh immediately (the server just started with stale data),
-    then enter the periodic refresh loop."""
+    then enter the periodic refresh loop.
+
+    Since this already runs in its own background thread, we call
+    _run_refresh_bg directly (blocking) so _last_refresh is set after completion.
+    The lock is held for the duration and released by _run_refresh_bg_with_lock.
+    """
     global _last_refresh
     logger.info("Running startup data refresh...")
     if _refresh_lock.acquire(blocking=False):

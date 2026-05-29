@@ -2,16 +2,29 @@ name: Refresh Data (Cron)
 
 on:
   schedule:
-    # Every 4 hours at :17 past the hour (avoid :00 peaks)
-    - cron: '17 0,4,8,12,16,20 * * *'
+  # Every 4 hours at :17 past the hour (avoid :00 peaks)
+  - cron: '17 0,4,8,12,16,20 * * *'
   workflow_dispatch:
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger data refresh
-        run: |
-          curl -s -X POST "${{ secrets.APP_URL }}/api/refresh/cron" \
-            -H "X-Cron-Token: ${{ secrets.CRON_TOKEN }}" \
-            | jq .
+    - name: Trigger data refresh
+      run: |
+        RESPONSE=$(curl -s -w "\n%{http_code}" -X POST \
+          --max-time 60 \
+          --retry 3 \
+          --retry-delay 10 \
+          --retry-connrefused \
+          "${{ secrets.APP_URL }}/api/refresh/cron" \
+          -H "X-Cron-Token: ${{ secrets.CRON_TOKEN }}")
+        HTTP_CODE=$(echo "$RESPONSE" | tail -1)
+        BODY=$(echo "$RESPONSE" | sed '$d')
+        echo "HTTP Status: $HTTP_CODE"
+        echo "Response: $BODY"
+        if [ "$HTTP_CODE" -ge 400 ]; then
+          echo "ERROR: Refresh failed with HTTP $HTTP_CODE"
+          exit 1
+        fi
+        echo "SUCCESS: Refresh triggered"
