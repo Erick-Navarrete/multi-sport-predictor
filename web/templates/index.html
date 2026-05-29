@@ -824,16 +824,32 @@ function refreshData() {
   var btn = document.getElementById('refresh-btn');
   btn.disabled = true; btn.textContent = 'Updating...'; btn.classList.add('loading');
   fetch('/api/refresh/' + currentSport + '/' + currentLeague, { method: 'POST' })
-    .then(function(r) { return r.json(); })
-    .then(function(res) {
-      btn.disabled = false; btn.textContent = 'Update Now'; btn.classList.remove('loading');
-      if (res.success) { showToast('Data refreshed'); loadLeagueData(); }
-      else { showToast('Refresh failed: ' + (res.message || 'Unknown error')); }
-    })
-    .catch(function() {
-      btn.disabled = false; btn.textContent = 'Update Now'; btn.classList.remove('loading');
-      showToast('Refresh failed: network error');
-    });
+  .then(function(r) { return r.json(); })
+  .then(function(res) {
+    if (res.success) {
+      showToast('Data refreshed'); loadLeagueData();
+    } else {
+      showToast('Refresh failed: ' + (res.message || 'Unknown error'));
+    }
+    btn.disabled = false; btn.textContent = 'Update Now'; btn.classList.remove('loading');
+  })
+  .catch(function() {
+    btn.disabled = false; btn.textContent = 'Update Now'; btn.classList.remove('loading');
+    showToast('Refresh failed: network error');
+  });
+}
+
+/* Poll refresh status for background full-refresh operations */
+var _refreshPollTimer = null;
+function pollRefreshStatus() {
+  fetch('/api/refresh/status').then(function(r) { return r.json(); }).then(function(res) {
+    if (!res.running && res.completed_at) {
+      clearInterval(_refreshPollTimer);
+      loadLeagueData();
+      loadHomeData();
+      showToast('Data refreshed');
+    }
+  }).catch(function() {});
 }
 
 /* ── Home Page ─────────────────────────────────────────────────── */

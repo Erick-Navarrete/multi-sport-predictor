@@ -30,6 +30,7 @@ REFRESH_INTERVAL_SECONDS = int(os.environ.get("REFRESH_INTERVAL", "7200"))  # de
 logger = logging.getLogger(__name__)
 _refresh_lock = threading.Lock()
 _last_refresh = None
+_refresh_status = {"running": False, "started_at": None, "completed_at": None, "last_error": None}
 
 
 def load_league_json(sport, league, name):
@@ -74,11 +75,6 @@ def api_sports():
 
 @app.route("/api/home/weekly-picks")
 def api_weekly_picks():
-    """Aggregate top-confidence picks across all leagues for the current week.
-
-    Returns picks sorted by confidence with $100 bankroll allocation.
-    Bet sizing: proportional to confidence (Kelly-lite), scaled so total = $100.
-    """
     this_week = datetime.now(timezone.utc).isocalendar()[1]
     this_year = datetime.now(timezone.utc).year
     today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -110,18 +106,12 @@ def api_weekly_picks():
                         "elo_diff": p.get("elo_diff", 0),
                         "sources": p.get("sources", {}),
                         "odds_available": p.get("odds_available", False),
-                    "odds_source": p.get("odds_source"),
+                        "odds_source": p.get("odds_source"),
                     })
 
-    # Sort by confidence descending
     all_picks.sort(key=lambda p: p["confidence"], reverse=True)
-
-    # Cap at top 15 picks max
     all_picks = all_picks[:15]
 
-    # Allocate $100 bankroll: weight by confidence, higher confidence = bigger bet
-    # Simple model: each pick gets a share proportional to (confidence - 40)
-    # This means sub-40% picks get nothing, and the rest share $100 proportionally
     raw_weights = []
     for p in all_picks:
         raw = max(p["confidence"] - 40, 0)
@@ -134,8 +124,6 @@ def api_weekly_picks():
         share = raw_weights[i] / total_raw
         bet_amount = round(share * total_bankroll, 2)
         p["bet_amount"] = bet_amount
-        # Estimated payout: if prediction is correct, return = bet * (100 / predicted_prob)
-        # This approximates a "fair odds" payout
         predicted_prob = max(p["a_win_prob"], p["b_win_prob"], p["draw_prob"])
         if predicted_prob > 0 and predicted_prob < 100:
             p["estimated_payout"] = round(bet_amount * (100 / predicted_prob), 2)
@@ -144,7 +132,6 @@ def api_weekly_picks():
             p["estimated_payout"] = bet_amount
             p["estimated_profit"] = 0
 
-    # Aggregate ROI from historical data across all leagues
     total_correct = 0
     total_historical = 0
     league_accuracy = []
@@ -177,7 +164,6 @@ def api_weekly_picks():
 
 @app.route("/api/home/recently-completed")
 def api_recently_completed():
-    """Return games completed in the last 3 days across all leagues with prediction results."""
     now = datetime.now(timezone.utc)
     cutoff = (now - timedelta(days=3)).strftime("%Y-%m-%d")
     today = now.strftime("%Y-%m-%d")
@@ -280,7 +266,7 @@ def api_model_info(sport, league):
             "sport_key": odds_key,
             "coverage": "US bookmakers (h2h/moneyline)",
             "fallback": "ESPN embedded DraftKings odds used when Odds API unavailable, then weight redistributed to ELO/Colley/Form",
-    "espn_embedded": "DraftKings moneyline from ESPN scoreboard (free, no key needed)",
+            "espn_embedded": "DraftKings moneyline from ESPN scoreboard (free, no key needed)",
         },
         "blend": {
             "type": "Weighted Blend",
@@ -305,30 +291,59 @@ def api_model_info(sport, league):
     }})
 
 
-# ── Refresh API ────────────────────────────────────────────────────
+# ── Refresh API (non-blocking) ────────────────────────────────────
+
+def _run_refresh_bg(args=None):
+    """Run refresh in a background thread. Updates _refresh_status for polling."""
+    global _last_refresh
+    _refresh_status["running"] = True
+    _refresh_status["started_at"] = datetime.now(timezone.utc).isoformat()
+    _refresh_status["last_error"] = None
+    try:
+        cmd = [sys.executable, str(REFRESH_SCRIPT)]
+        if args:
+            cmd.extend(args)
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
+        if result.returncode == 0:
+            logger.info("Background refresh completed successfully")
+            _last_refresh = datetime.now(timezone.utc)
+        else:
+            err = result.stderr[-500:] if result.stderr else "unknown error"
+            logger.warning("Background refresh failed: %s", err)
+            _refresh_status["last_error"] = err
+    except subprocess.TimeoutExpired:
+        logger.warning("Background refresh timed out")
+        _refresh_status["last_error"] = "Refresh timed out (10 min limit)"
+    except Exception as e:
+        logger.error("Background refresh error: %s", e)
+        _refresh_status["last_error"] = str(e)
+    finally:
+        _refresh_status["running"] = False
+        _refresh_status["completed_at"] = datetime.now(timezone.utc).isoformat()
+
 
 @app.route("/api/refresh", methods=["POST"])
 def api_refresh():
+    if _refresh_status["running"]:
+        return jsonify({"success": False, "message": "Refresh already in progress"}), 409
+    if not _refresh_lock.acquire(blocking=False):
+        return jsonify({"success": False, "message": "Refresh already in progress"}), 409
     try:
-        result = subprocess.run(
-            [sys.executable, str(REFRESH_SCRIPT)],
-            capture_output=True, text=True, timeout=600,
-        )
-        if result.returncode == 0:
-            return jsonify({"success": True, "message": "Data refreshed successfully"})
-        return jsonify({"success": False, "message": f"Refresh failed: {result.stderr[-500:]}"}), 500
-    except subprocess.TimeoutExpired:
-        return jsonify({"success": False, "message": "Refresh timed out"}), 504
-    except Exception as e:
-        return jsonify({"success": False, "message": str(e)}), 500
+        t = threading.Thread(target=_run_refresh_bg, daemon=True)
+        t.start()
+        return jsonify({"success": True, "message": "Refresh started in background"})
+    finally:
+        _refresh_lock.release()
 
 
 @app.route("/api/refresh/<sport>/<league>", methods=["POST"])
 def api_refresh_league(sport, league):
+    if _refresh_status["running"]:
+        return jsonify({"success": False, "message": "Refresh already in progress"}), 409
     try:
         result = subprocess.run(
             [sys.executable, str(REFRESH_SCRIPT), sport, league],
-            capture_output=True, text=True, timeout=300,
+            capture_output=True, text=True, timeout=120,
         )
         if result.returncode == 0:
             return jsonify({"success": True, "message": f"{sport}/{league} refreshed successfully"})
@@ -343,38 +358,55 @@ def api_refresh_league(sport, league):
 def api_refresh_status():
     return jsonify({
         "success": True,
+        "running": _refresh_status["running"],
+        "started_at": _refresh_status.get("started_at"),
+        "completed_at": _refresh_status.get("completed_at"),
+        "last_error": _refresh_status.get("last_error"),
         "last_refresh": _last_refresh.isoformat() if _last_refresh else None,
         "interval_seconds": REFRESH_INTERVAL_SECONDS,
     })
 
 
-# ── Background Auto-Refresh ──────────────────────────────────────
+@app.route("/api/refresh/cron", methods=["GET", "POST"])
+def api_refresh_cron():
+    """Scheduled refresh endpoint for external cron (GitHub Actions, cron-job.org, etc).
 
-def _run_refresh():
-    """Run refresh_data.py and log the result."""
+    Accepts an optional 'token' query param matching CRON_TOKEN env var for security.
+    If no CRON_TOKEN is set, this endpoint is open (use with caution on public sites).
+    Starts a background refresh and returns immediately — does not wait for completion.
+    """
+    cron_token = os.environ.get("CRON_TOKEN", "")
+    if cron_token:
+        provided = os.environ.get("CRON_TOKEN_QUERY", "") or ""
+        # Check both query param and header
+        from flask import request
+        provided = request.args.get("token", "") or request.headers.get("X-Cron-Token", "")
+        if provided != cron_token:
+            return jsonify({"success": False, "message": "Invalid cron token"}), 403
+
+    if _refresh_status["running"]:
+        return jsonify({"success": True, "message": "Refresh already in progress, skipping"})
+
+    if not _refresh_lock.acquire(blocking=False):
+        return jsonify({"success": True, "message": "Refresh already in progress, skipping"})
     try:
-        result = subprocess.run(
-            [sys.executable, str(REFRESH_SCRIPT)],
-            capture_output=True, text=True, timeout=600,
-        )
-        if result.returncode == 0:
-            logger.info("Background refresh completed successfully")
-        else:
-            logger.warning("Background refresh failed: %s", result.stderr[-300:])
-    except Exception as e:
-        logger.error("Background refresh error: %s", e)
+        t = threading.Thread(target=_run_refresh_bg, daemon=True)
+        t.start()
+        return jsonify({"success": True, "message": "Refresh started in background"})
+    finally:
+        _refresh_lock.release()
 
+
+# ── Background Auto-Refresh ──────────────────────────────────────
 
 def _refresh_loop():
     """Periodically refresh data in a background thread."""
-    global _last_refresh
     import time
     while True:
         time.sleep(REFRESH_INTERVAL_SECONDS)
         if _refresh_lock.acquire(blocking=False):
             try:
-                _run_refresh()
-                _last_refresh = datetime.now(timezone.utc)
+                _run_refresh_bg()
             finally:
                 _refresh_lock.release()
 
@@ -392,7 +424,7 @@ def _refresh_on_boot_then_loop():
     logger.info("Running startup data refresh...")
     if _refresh_lock.acquire(blocking=False):
         try:
-            _run_refresh()
+            _run_refresh_bg()
             _last_refresh = datetime.now(timezone.utc)
         finally:
             _refresh_lock.release()

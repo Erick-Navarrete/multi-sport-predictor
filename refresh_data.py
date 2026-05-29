@@ -10,6 +10,7 @@ import json
 import os
 import requests
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -169,69 +170,83 @@ def parse_espn_competition(comp, sport, league, event_date, event_time):
     return match
 
 
-def fetch_completed_matches(sport, league, days_back=5):
-    results = []
-    seen = set()
-    today = datetime.now(timezone.utc).date()
-    for i in range(days_back):
-        d = today - timedelta(days=i)
-        date_str = d.strftime("%Y%m%d")
-        data = fetch_espn_scoreboard(sport, league, date_str)
-        if not data:
-            continue
-        for ev in data.get("events", []):
-            event_date = (ev.get("date", "")[:10])
-            event_time = (ev.get("date", "")[11:16]) or "00:00"
-            for comp in _extract_competitions(ev):
-                comp_status = comp.get("status", {}).get("type", {})
-                if comp_status.get("state") != "post":
-                    continue
-                match = parse_espn_competition(comp, sport, league, event_date, event_time)
-                if match and match["entity_a"] and match["entity_b"]:
-                    key = f"{match['date']}|{match['entity_a']}|{match['entity_b']}"
-                    if key not in seen:
-                        seen.add(key)
-                        results.append(match)
-    return results
+def _fetch_day_matches(sport, league, date_str):
+    """Fetch and parse matches for a single date. Returns (completed, upcoming, has_data)."""
+    data = fetch_espn_scoreboard(sport, league, date_str)
+    if not data or not data.get("events"):
+        return [], [], False
+    completed = []
+    upcoming = []
+    has_data = False
+    for ev in data["events"]:
+        event_date = (ev.get("date", "")[:10])
+        event_time = (ev.get("date", "")[11:16]) or "00:00"
+        for comp in _extract_competitions(ev):
+            comp_status = comp.get("status", {}).get("type", {})
+            state = comp_status.get("state")
+            if state not in ("post", "pre"):
+                continue
+            has_data = True
+            match = parse_espn_competition(comp, sport, league, event_date, event_time)
+            if not match or not match["entity_a"] or not match["entity_b"]:
+                continue
+            if state == "post":
+                completed.append(match)
+            elif state == "pre":
+                upcoming.append(match)
+    return completed, upcoming, has_data
 
 
-def fetch_upcoming_fixtures(sport, league, days_ahead=10):
-    fixtures = []
-    seen = set()
+def fetch_league_data(sport, league, days_back=60, days_ahead=14):
+    """Fetch completed + upcoming matches in a single concurrent pass.
+
+    Combines past and future date fetches into one ThreadPoolExecutor batch
+    for maximum parallelism and minimal latency.
+    """
     today = datetime.now(timezone.utc).date()
-    for i in range(days_ahead):
-        d = today + timedelta(days=i)
-        date_str = d.strftime("%Y%m%d")
-        data = fetch_espn_scoreboard(sport, league, date_str)
-        if not data:
-            continue
-        for ev in data.get("events", []):
-            event_date = (ev.get("date", "")[:10])
-            event_time = (ev.get("date", "")[11:16]) or "00:00"
-            for comp in _extract_competitions(ev):
-                comp_status = comp.get("status", {}).get("type", {})
-                if comp_status.get("state") != "pre":
-                    continue
-                match = parse_espn_competition(comp, sport, league, event_date, event_time)
-                if not match or not match["entity_a"] or not match["entity_b"]:
-                    continue
+    completed = []
+    upcoming = []
+    seen_completed = set()
+    seen_upcoming = set()
+
+    # Generate all date strings: past + future
+    past_dates = [(today - timedelta(days=i)).strftime("%Y%m%d") for i in range(days_back)]
+    future_dates = [(today + timedelta(days=i + 1)).strftime("%Y%m%d") for i in range(days_ahead)]
+    all_dates = past_dates + future_dates
+
+    with ThreadPoolExecutor(max_workers=10) as pool:
+        futures = {pool.submit(_fetch_day_matches, sport, league, ds): ds for ds in all_dates}
+        for future in as_completed(futures):
+            day_completed, day_upcoming, _ = future.result()
+            for match in day_completed:
                 key = f"{match['date']}|{match['entity_a']}|{match['entity_b']}"
-                if key in seen:
-                    continue
-                seen.add(key)
-                fixtures.append(match)
-    return fixtures
+                if key not in seen_completed:
+                    seen_completed.add(key)
+                    completed.append(match)
+            for match in day_upcoming:
+                key = f"{match['date']}|{match['entity_a']}|{match['entity_b']}"
+                if key not in seen_upcoming:
+                    seen_upcoming.add(key)
+                    upcoming.append(match)
+
+    completed.sort(key=lambda m: m["date"])
+    upcoming.sort(key=lambda m: m["date"])
+    return completed, upcoming
 
 
 # ── Season Status Detection ────────────────────────────────────────
 
 def get_days_back(sport):
-    """Compute days_back from season start to today, capped at 365."""
+    """Compute days_back from season start to today, capped at 120 days.
+
+    120 days provides 4 months of recent history which is sufficient for
+    ELO/Colley/Form signals. Older accuracy is preserved via locked_predictions.
+    """
     try:
         season_start = get_season_start(sport)
         today = datetime.now(timezone.utc).date()
         delta = (today - season_start).days
-        return min(max(delta, 30), 365)
+        return min(max(delta, 14), 120)
     except Exception:
         return 60
 
@@ -338,9 +353,9 @@ def build_colley_ratings(completed_matches):
     """Colley Matrix: strength-of-schedule-adjusted ratings via linear algebra.
 
     Solves C * r = b where:
-      C[i][i] = 2 + n_i  (games played by team i)
-      C[i][j] = -n_ij    (times team i played team j)
-      b[i] = 1 + (w_i - l_i) / 2
+    C[i][i] = 2 + n_i (games played by team i)
+    C[i][j] = -n_ij (times team i played team j)
+    b[i] = 1 + (w_i - l_i) / 2
     No external deps — uses simple Gaussian elimination.
     """
 
@@ -934,13 +949,10 @@ def build_predictions(upcoming_fixtures, elo, colley_ratings, completed_matches,
             "is_correct": None,
             "confidence": blended["confidence"],
             "confidence_level": blended["confidence_level"],
-            "elo_a": elo_pred["elo_a"],
-            "elo_b": elo_pred["elo_b"],
-            "elo_diff": elo_pred["elo_diff"],
+            "elo_a": elo_pred["elo_a"], "elo_b": elo_pred["elo_b"], "elo_diff": elo_pred["elo_diff"],
             "colley_a": colley_ratings.get(fx["entity_a"], 1500),
             "colley_b": colley_ratings.get(fx["entity_b"], 1500),
-            "form_a": form_a,
-            "form_b": form_b,
+            "form_a": form_a, "form_b": form_b,
             "odds_available": odds_pred is not None,
             "odds_source": odds_source,
             "sources": blended.get("sources", {}),
@@ -989,11 +1001,10 @@ def refresh_league(sport, league):
 
     print(f"\n--- {league_cfg['label']} ({sport}/{league}) ---")
 
-    # 1. Fetch completed + upcoming from ESPN
+    # 1. Fetch completed + upcoming from ESPN (single concurrent pass)
     days_back = get_days_back(sport)
-    completed = fetch_completed_matches(sport, league, days_back=days_back)
-    print(f" Fetching {days_back} days of history (season start to today)")
-    upcoming = fetch_upcoming_fixtures(sport, league, days_ahead=14)
+    completed, upcoming = fetch_league_data(sport, league, days_back=days_back, days_ahead=14)
+    print(f"  {days_back} days back + 14 days ahead (concurrent)")
     print(f"  {len(completed)} completed, {len(upcoming)} upcoming from ESPN")
 
     # 2. Detect season status

@@ -1,0 +1,17 @@
+name: Refresh Data (Cron)
+
+on:
+  schedule:
+    # Every 4 hours at :17 past the hour (avoid :00 peaks)
+    - cron: '17 0,4,8,12,16,20 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger data refresh
+        run: |
+          curl -s -X POST "${{ secrets.APP_URL }}/api/refresh/cron" \
+            -H "X-Cron-Token: ${{ secrets.CRON_TOKEN }}" \
+            | jq .
