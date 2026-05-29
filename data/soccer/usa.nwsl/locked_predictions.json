@@ -1,474 +1,130 @@
 {
-  "2026-05-23|Louisville|North Carolina": {
-    "prediction": "Home Win",
-    "confidence": 39.7,
-    "a_win_prob": 39.7,
-    "draw_prob": 22.2,
-    "b_win_prob": 38.1,
-    "is_correct": false
-  },
-  "2026-05-23|Boston|Seattle": {
+  "2026-03-14|Boston|Gotham": {
     "prediction": "Away Win",
-    "confidence": 48.0,
-    "a_win_prob": 31.7,
-    "draw_prob": 20.3,
-    "b_win_prob": 48.0,
+    "confidence": 57.7,
+    "a_win_prob": 24.7,
+    "draw_prob": 17.6,
+    "b_win_prob": 57.7,
     "is_correct": true
   },
-  "2026-05-21|Houston|San Diego": {
+  "2026-03-14|Kansas City|Utah": {
+    "prediction": "Home Win",
+    "confidence": 62.0,
+    "a_win_prob": 62.0,
+    "draw_prob": 16.9,
+    "b_win_prob": 21.1,
+    "is_correct": true
+  },
+  "2026-03-14|Bay|Denver": {
     "prediction": "Away Win",
-    "confidence": 59.6,
-    "a_win_prob": 21.2,
-    "draw_prob": 19.2,
-    "b_win_prob": 59.6,
+    "confidence": 47.4,
+    "a_win_prob": 31.0,
+    "draw_prob": 21.6,
+    "b_win_prob": 47.4,
     "is_correct": false
   },
-  "2026-05-21|Angel City|Kansas City": {
+  "2026-03-14|North Carolina|Louisville": {
+    "prediction": "Home Win",
+    "confidence": 40.4,
+    "a_win_prob": 40.4,
+    "draw_prob": 20.1,
+    "b_win_prob": 39.5,
+    "is_correct": true
+  },
+  "2026-03-14|Washington|Portland": {
+    "prediction": "Home Win",
+    "confidence": 58.6,
+    "a_win_prob": 58.6,
+    "draw_prob": 18.4,
+    "b_win_prob": 23.0,
+    "is_correct": false
+  },
+  "2026-03-15|Orlando|Seattle": {
+    "prediction": "Home Win",
+    "confidence": 44.1,
+    "a_win_prob": 44.1,
+    "draw_prob": 23.1,
+    "b_win_prob": 32.8,
+    "is_correct": false
+  },
+  "2026-03-15|Angel City|Chicago": {
+    "prediction": "Home Win",
+    "confidence": 51.9,
+    "a_win_prob": 51.9,
+    "draw_prob": 20.3,
+    "b_win_prob": 27.8,
+    "is_correct": true
+  },
+  "2026-03-15|San Diego|Houston": {
+    "prediction": "Away Win",
+    "confidence": 41.1,
+    "a_win_prob": 36.6,
+    "draw_prob": 22.3,
+    "b_win_prob": 41.1,
+    "is_correct": true
+  },
+  "2026-03-21|Houston|Boston": {
     "prediction": "Home Win",
     "confidence": 55.8,
     "a_win_prob": 55.8,
-    "draw_prob": 19.5,
-    "b_win_prob": 24.7,
+    "draw_prob": 18.9,
+    "b_win_prob": 25.3,
     "is_correct": true
   },
-  "2026-05-21|Portland|Bay": {
-    "prediction": "Home Win",
-    "confidence": 62.7,
-    "a_win_prob": 62.7,
-    "draw_prob": 16.9,
-    "b_win_prob": 20.4,
-    "is_correct": true
-  },
-  "2026-05-17|Portland|Angel City": {
-    "prediction": "Home Win",
-    "confidence": 56.8,
-    "a_win_prob": 56.8,
-    "draw_prob": 13.7,
-    "b_win_prob": 29.5,
-    "is_correct": false
-  },
-  "2026-05-18|Utah|Louisville": {
-    "prediction": "Home Win",
-    "confidence": 62.4,
-    "a_win_prob": 62.4,
-    "draw_prob": 12.4,
-    "b_win_prob": 25.2,
-    "is_correct": true
-  },
-  "2026-05-16|North Carolina|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 61.1,
-    "a_win_prob": 61.1,
-    "draw_prob": 17.7,
-    "b_win_prob": 21.2,
-    "is_correct": true
-  },
-  "2026-05-17|Denver|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 66.1,
-    "a_win_prob": 66.1,
-    "draw_prob": 16.1,
-    "b_win_prob": 17.8,
-    "is_correct": true
-  },
-  "2026-05-16|Kansas City|Houston": {
-    "prediction": "Home Win",
-    "confidence": 70.5,
-    "a_win_prob": 70.5,
-    "draw_prob": 15.2,
-    "b_win_prob": 14.3,
-    "is_correct": true
-  },
-  "2026-05-16|Bay|Boston": {
-    "prediction": "Away Win",
-    "confidence": 42.1,
-    "a_win_prob": 35.1,
-    "draw_prob": 22.8,
-    "b_win_prob": 42.1,
-    "is_correct": false
-  },
-  "2026-05-16|San Diego|Washington": {
-    "prediction": "Home Win",
-    "confidence": 62.3,
-    "a_win_prob": 62.3,
-    "draw_prob": 17.5,
-    "b_win_prob": 20.2,
-    "is_correct": true
-  },
-  "2026-05-16|Seattle|Gotham": {
-    "prediction": "Away Win",
-    "confidence": 59.0,
-    "a_win_prob": 22.6,
-    "draw_prob": 18.4,
-    "b_win_prob": 59.0,
-    "is_correct": true
-  },
-  "2026-05-12|Boston|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 49.0,
-    "a_win_prob": 49.0,
-    "draw_prob": 20.9,
-    "b_win_prob": 30.1,
-    "is_correct": true
-  },
-  "2026-05-10|Kansas City|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 69.1,
-    "a_win_prob": 69.1,
-    "draw_prob": 15.8,
-    "b_win_prob": 15.1,
-    "is_correct": true
-  },
-  "2026-05-10|Bay|Utah": {
-    "prediction": "Away Win",
-    "confidence": 44.9,
-    "a_win_prob": 33.7,
-    "draw_prob": 21.4,
-    "b_win_prob": 44.9,
-    "is_correct": false
-  },
-  "2026-05-10|Seattle|Washington": {
-    "prediction": "Away Win",
-    "confidence": 56.7,
-    "a_win_prob": 25.0,
-    "draw_prob": 18.3,
-    "b_win_prob": 56.7,
-    "is_correct": true
-  },
-  "2026-05-09|Gotham|Boston": {
-    "prediction": "Home Win",
-    "confidence": 42.0,
-    "a_win_prob": 42.0,
-    "draw_prob": 23.9,
-    "b_win_prob": 34.1,
-    "is_correct": false
-  },
-  "2026-05-10|Houston|Denver": {
-    "prediction": "Away Win",
-    "confidence": 59.9,
-    "a_win_prob": 21.4,
-    "draw_prob": 18.7,
-    "b_win_prob": 59.9,
-    "is_correct": true
-  },
-  "2026-05-10|Angel City|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 59.4,
-    "a_win_prob": 22.2,
-    "draw_prob": 18.4,
-    "b_win_prob": 59.4,
-    "is_correct": true
-  },
-  "2026-05-08|Louisville|Portland": {
-    "prediction": "Home Win",
-    "confidence": 67.0,
-    "a_win_prob": 67.0,
-    "draw_prob": 16.3,
-    "b_win_prob": 16.7,
-    "is_correct": true
-  },
-  "2026-05-09|Orlando|North Carolina": {
-    "prediction": "Home Win",
-    "confidence": 57.3,
-    "a_win_prob": 57.3,
-    "draw_prob": 19.0,
-    "b_win_prob": 23.7,
-    "is_correct": true
-  },
-  "2026-05-07|Utah|Houston": {
-    "prediction": "Home Win",
-    "confidence": 69.5,
-    "a_win_prob": 69.5,
-    "draw_prob": 15.4,
-    "b_win_prob": 15.1,
-    "is_correct": true
-  },
-  "2026-05-03|Chicago|Portland": {
-    "prediction": "Away Win",
-    "confidence": 54.6,
-    "a_win_prob": 24.8,
-    "draw_prob": 20.6,
-    "b_win_prob": 54.6,
-    "is_correct": true
-  },
-  "2026-05-03|Boston|Denver": {
-    "prediction": "Away Win",
-    "confidence": 53.7,
-    "a_win_prob": 26.4,
-    "draw_prob": 19.9,
-    "b_win_prob": 53.7,
-    "is_correct": false
-  },
-  "2026-05-03|Gotham|Louisville": {
-    "prediction": "Home Win",
-    "confidence": 50.3,
-    "a_win_prob": 50.3,
-    "draw_prob": 20.6,
-    "b_win_prob": 29.1,
-    "is_correct": true
-  },
-  "2026-05-03|San Diego|Bay": {
-    "prediction": "Home Win",
-    "confidence": 69.9,
-    "a_win_prob": 69.9,
-    "draw_prob": 15.0,
-    "b_win_prob": 15.1,
-    "is_correct": false
-  },
-  "2026-05-02|Orlando|Washington": {
-    "prediction": "Away Win",
-    "confidence": 41.4,
-    "a_win_prob": 37.4,
-    "draw_prob": 21.2,
-    "b_win_prob": 41.4,
-    "is_correct": true
-  },
-  "2026-05-02|North Carolina|Kansas City": {
-    "prediction": "Home Win",
-    "confidence": 51.6,
-    "a_win_prob": 51.6,
-    "draw_prob": 21.1,
-    "b_win_prob": 27.3,
-    "is_correct": false
-  },
-  "2026-05-03|Angel City|Utah": {
-    "prediction": "Away Win",
-    "confidence": 41.5,
-    "a_win_prob": 37.3,
-    "draw_prob": 21.2,
-    "b_win_prob": 41.5,
-    "is_correct": true
-  },
-  "2026-05-02|Houston|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 41.3,
-    "a_win_prob": 41.3,
-    "draw_prob": 22.9,
-    "b_win_prob": 35.8,
-    "is_correct": false
-  },
-  "2026-04-29|Boston|North Carolina": {
-    "prediction": "Away Win",
-    "confidence": 46.1,
-    "a_win_prob": 33.3,
-    "draw_prob": 20.6,
-    "b_win_prob": 46.1,
-    "is_correct": false
-  },
-  "2026-04-29|Washington|Louisville": {
-    "prediction": "Home Win",
-    "confidence": 64.2,
-    "a_win_prob": 64.2,
-    "draw_prob": 17.0,
-    "b_win_prob": 18.8,
-    "is_correct": true
-  },
-  "2026-04-30|Chicago|Gotham": {
-    "prediction": "Away Win",
-    "confidence": 40.9,
-    "a_win_prob": 37.9,
-    "draw_prob": 21.2,
-    "b_win_prob": 40.9,
-    "is_correct": true
-  },
-  "2026-04-30|Portland|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 48.2,
-    "a_win_prob": 30.9,
-    "draw_prob": 20.9,
-    "b_win_prob": 48.2,
-    "is_correct": false
-  },
-  "2026-04-26|Angel City|Portland": {
-    "prediction": "Away Win",
-    "confidence": 45.0,
-    "a_win_prob": 33.7,
-    "draw_prob": 21.3,
-    "b_win_prob": 45.0,
-    "is_correct": true
-  },
-  "2026-04-27|Seattle|Utah": {
-    "prediction": "Away Win",
-    "confidence": 43.4,
-    "a_win_prob": 34.5,
-    "draw_prob": 22.1,
-    "b_win_prob": 43.4,
-    "is_correct": true
-  },
-  "2026-04-25|Gotham|Bay": {
+  "2026-03-21|Gotham|North Carolina": {
     "prediction": "Home Win",
     "confidence": 46.1,
     "a_win_prob": 46.1,
-    "draw_prob": 22.2,
-    "b_win_prob": 31.7,
-    "is_correct": true
-  },
-  "2026-04-25|Chicago|Boston": {
-    "prediction": "Home Win",
-    "confidence": 51.5,
-    "a_win_prob": 51.5,
-    "draw_prob": 19.8,
-    "b_win_prob": 28.7,
-    "is_correct": true
-  },
-  "2026-04-26|Houston|North Carolina": {
-    "prediction": "Home Win",
-    "confidence": 45.1,
-    "a_win_prob": 45.1,
-    "draw_prob": 22.5,
-    "b_win_prob": 32.4,
+    "draw_prob": 20.1,
+    "b_win_prob": 33.8,
     "is_correct": false
   },
-  "2026-04-26|Denver|San Diego": {
+  "2026-03-21|Orlando|Denver": {
+    "prediction": "Home Win",
+    "confidence": 41.8,
+    "a_win_prob": 41.8,
+    "draw_prob": 22.6,
+    "b_win_prob": 35.6,
+    "is_correct": false
+  },
+  "2026-03-21|Louisville|Washington": {
     "prediction": "Away Win",
     "confidence": 54.0,
-    "a_win_prob": 26.8,
-    "draw_prob": 19.2,
+    "a_win_prob": 26.0,
+    "draw_prob": 20.0,
     "b_win_prob": 54.0,
-    "is_correct": true
-  },
-  "2026-04-24|Louisville|Orlando": {
-    "prediction": "Away Win",
-    "confidence": 45.8,
-    "a_win_prob": 33.1,
-    "draw_prob": 21.1,
-    "b_win_prob": 45.8,
     "is_correct": false
   },
-  "2026-04-25|Washington|Kansas City": {
+  "2026-03-21|Portland|Seattle": {
     "prediction": "Home Win",
-    "confidence": 67.0,
-    "a_win_prob": 67.0,
-    "draw_prob": 15.6,
-    "b_win_prob": 17.4,
+    "confidence": 57.8,
+    "a_win_prob": 57.8,
+    "draw_prob": 18.7,
+    "b_win_prob": 23.5,
     "is_correct": true
   },
-  "2026-04-05|Bay|Washington": {
+  "2026-03-22|Bay|Angel City": {
     "prediction": "Away Win",
-    "confidence": 51.2,
-    "a_win_prob": 28.3,
-    "draw_prob": 20.5,
-    "b_win_prob": 51.2,
+    "confidence": 40.8,
+    "a_win_prob": 39.1,
+    "draw_prob": 20.1,
+    "b_win_prob": 40.8,
     "is_correct": true
   },
-  "2026-04-04|Kansas City|Gotham": {
-    "prediction": "Away Win",
-    "confidence": 42.5,
-    "a_win_prob": 35.2,
-    "draw_prob": 22.3,
-    "b_win_prob": 42.5,
-    "is_correct": false
-  },
-  "2026-04-04|North Carolina|Portland": {
-    "prediction": "Away Win",
-    "confidence": 50.9,
-    "a_win_prob": 28.9,
+  "2026-03-22|Chicago|Kansas City": {
+    "prediction": "Home Win",
+    "confidence": 46.6,
+    "a_win_prob": 46.6,
     "draw_prob": 20.2,
-    "b_win_prob": 50.9,
-    "is_correct": false
+    "b_win_prob": 33.2,
+    "is_correct": true
   },
-  "2026-04-05|Seattle|Denver": {
+  "2026-03-22|Utah|San Diego": {
     "prediction": "Away Win",
-    "confidence": 40.6,
-    "a_win_prob": 36.4,
-    "draw_prob": 23.0,
-    "b_win_prob": 40.6,
-    "is_correct": false
-  },
-  "2026-04-03|Boston|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 62.2,
-    "a_win_prob": 19.5,
-    "draw_prob": 18.3,
-    "b_win_prob": 62.2,
-    "is_correct": true
-  },
-  "2026-04-04|Orlando|Angel City": {
-    "prediction": "Home Win",
-    "confidence": 47.0,
-    "a_win_prob": 47.0,
-    "draw_prob": 22.2,
-    "b_win_prob": 30.8,
-    "is_correct": true
-  },
-  "2026-04-04|Houston|Louisville": {
-    "prediction": "Home Win",
-    "confidence": 49.7,
-    "a_win_prob": 49.7,
-    "draw_prob": 21.0,
-    "b_win_prob": 29.3,
-    "is_correct": true
-  },
-  "2026-04-04|Utah|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 60.5,
-    "a_win_prob": 60.5,
-    "draw_prob": 18.2,
-    "b_win_prob": 21.3,
-    "is_correct": true
-  },
-  "2026-03-29|Gotham|Orlando": {
-    "prediction": "Away Win",
-    "confidence": 41.8,
-    "a_win_prob": 39.2,
-    "draw_prob": 19.0,
-    "b_win_prob": 41.8,
-    "is_correct": false
-  },
-  "2026-03-28|Boston|Utah": {
-    "prediction": "Away Win",
-    "confidence": 58.0,
-    "a_win_prob": 23.2,
-    "draw_prob": 18.8,
-    "b_win_prob": 58.0,
-    "is_correct": true
-  },
-  "2026-03-28|Denver|Washington": {
-    "prediction": "Away Win",
-    "confidence": 38.9,
-    "a_win_prob": 38.1,
-    "draw_prob": 23.0,
-    "b_win_prob": 38.9,
-    "is_correct": false
-  },
-  "2026-03-28|Portland|Kansas City": {
-    "prediction": "Home Win",
-    "confidence": 66.5,
-    "a_win_prob": 66.5,
-    "draw_prob": 15.7,
-    "b_win_prob": 17.8,
-    "is_correct": true
-  },
-  "2026-03-28|Seattle|Louisville": {
-    "prediction": "Home Win",
-    "confidence": 52.5,
-    "a_win_prob": 52.5,
-    "draw_prob": 20.7,
-    "b_win_prob": 26.8,
-    "is_correct": true
-  },
-  "2026-03-28|North Carolina|Bay": {
-    "prediction": "Home Win",
-    "confidence": 44.8,
-    "a_win_prob": 44.8,
-    "draw_prob": 22.6,
-    "b_win_prob": 32.6,
-    "is_correct": false
-  },
-  "2026-03-29|San Diego|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 72.0,
-    "a_win_prob": 72.0,
-    "draw_prob": 14.5,
-    "b_win_prob": 13.5,
-    "is_correct": true
-  },
-  "2026-03-28|Angel City|Houston": {
-    "prediction": "Home Win",
-    "confidence": 49.4,
-    "a_win_prob": 49.4,
-    "draw_prob": 21.0,
-    "b_win_prob": 29.6,
+    "confidence": 49.5,
+    "a_win_prob": 30.0,
+    "draw_prob": 20.5,
+    "b_win_prob": 49.5,
     "is_correct": true
   },
   "2026-03-25|Gotham|Denver": {
@@ -511,892 +167,516 @@
     "b_win_prob": 22.1,
     "is_correct": true
   },
-  "2026-03-22|Chicago|Kansas City": {
-    "prediction": "Home Win",
-    "confidence": 46.6,
-    "a_win_prob": 46.6,
-    "draw_prob": 20.2,
-    "b_win_prob": 33.2,
-    "is_correct": true
-  },
-  "2026-03-22|Utah|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 49.5,
-    "a_win_prob": 30.0,
-    "draw_prob": 20.5,
-    "b_win_prob": 49.5,
-    "is_correct": true
-  },
-  "2026-03-21|Houston|Boston": {
-    "prediction": "Home Win",
-    "confidence": 55.8,
-    "a_win_prob": 55.8,
-    "draw_prob": 18.9,
-    "b_win_prob": 25.3,
-    "is_correct": true
-  },
-  "2026-03-21|Gotham|North Carolina": {
-    "prediction": "Home Win",
-    "confidence": 46.1,
-    "a_win_prob": 46.1,
-    "draw_prob": 20.1,
-    "b_win_prob": 33.8,
-    "is_correct": false
-  },
-  "2026-03-22|Bay|Angel City": {
-    "prediction": "Away Win",
-    "confidence": 40.8,
-    "a_win_prob": 39.1,
-    "draw_prob": 20.1,
-    "b_win_prob": 40.8,
-    "is_correct": true
-  },
-  "2026-03-21|Orlando|Denver": {
-    "prediction": "Home Win",
-    "confidence": 41.8,
-    "a_win_prob": 41.8,
-    "draw_prob": 22.6,
-    "b_win_prob": 35.6,
-    "is_correct": false
-  },
-  "2026-03-21|Louisville|Washington": {
-    "prediction": "Away Win",
-    "confidence": 54.0,
-    "a_win_prob": 26.0,
-    "draw_prob": 20.0,
-    "b_win_prob": 54.0,
-    "is_correct": false
-  },
-  "2026-03-21|Portland|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 57.8,
-    "a_win_prob": 57.8,
-    "draw_prob": 18.7,
-    "b_win_prob": 23.5,
-    "is_correct": true
-  },
-  "2026-03-15|Orlando|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 44.1,
-    "a_win_prob": 44.1,
-    "draw_prob": 23.1,
-    "b_win_prob": 32.8,
-    "is_correct": false
-  },
-  "2026-03-15|Angel City|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 51.9,
-    "a_win_prob": 51.9,
-    "draw_prob": 20.3,
-    "b_win_prob": 27.8,
-    "is_correct": true
-  },
-  "2026-03-14|Boston|Gotham": {
-    "prediction": "Away Win",
-    "confidence": 57.7,
-    "a_win_prob": 24.7,
-    "draw_prob": 17.6,
-    "b_win_prob": 57.7,
-    "is_correct": true
-  },
-  "2026-03-14|Kansas City|Utah": {
-    "prediction": "Home Win",
-    "confidence": 62.0,
-    "a_win_prob": 62.0,
-    "draw_prob": 16.9,
-    "b_win_prob": 21.1,
-    "is_correct": true
-  },
-  "2026-03-14|Bay|Denver": {
-    "prediction": "Away Win",
-    "confidence": 47.4,
-    "a_win_prob": 31.0,
-    "draw_prob": 21.6,
-    "b_win_prob": 47.4,
-    "is_correct": false
-  },
-  "2026-03-14|North Carolina|Louisville": {
-    "prediction": "Home Win",
-    "confidence": 40.4,
-    "a_win_prob": 40.4,
-    "draw_prob": 20.1,
-    "b_win_prob": 39.5,
-    "is_correct": true
-  },
-  "2026-03-15|San Diego|Houston": {
-    "prediction": "Away Win",
-    "confidence": 41.1,
-    "a_win_prob": 36.6,
-    "draw_prob": 22.3,
-    "b_win_prob": 41.1,
-    "is_correct": true
-  },
-  "2026-03-14|Washington|Portland": {
-    "prediction": "Home Win",
-    "confidence": 58.6,
-    "a_win_prob": 58.6,
-    "draw_prob": 18.4,
-    "b_win_prob": 23.0,
-    "is_correct": false
-  },
-  "2025-11-23|Washington|Gotham": {
-    "prediction": "Home Win",
-    "confidence": 53.1,
-    "a_win_prob": 53.1,
-    "draw_prob": 20.6,
-    "b_win_prob": 26.3,
-    "is_correct": false
-  },
-  "2025-11-16|Orlando|Gotham": {
-    "prediction": "Away Win",
-    "confidence": 45.5,
-    "a_win_prob": 33.1,
-    "draw_prob": 21.4,
-    "b_win_prob": 45.5,
-    "is_correct": true
-  },
-  "2025-11-15|Washington|Portland": {
-    "prediction": "Home Win",
-    "confidence": 58.6,
-    "a_win_prob": 58.6,
-    "draw_prob": 18.4,
-    "b_win_prob": 23.0,
-    "is_correct": true
-  },
-  "2025-11-09|Kansas City|Gotham": {
-    "prediction": "Home Win",
-    "confidence": 60.0,
-    "a_win_prob": 60.0,
-    "draw_prob": 17.9,
-    "b_win_prob": 22.1,
-    "is_correct": false
-  },
-  "2025-11-09|Portland|San Diego": {
-    "prediction": "Home Win",
-    "confidence": 44.7,
-    "a_win_prob": 44.7,
-    "draw_prob": 19.4,
-    "b_win_prob": 35.9,
-    "is_correct": true
-  },
-  "2025-11-08|Washington|Louisville": {
-    "prediction": "Home Win",
-    "confidence": 58.1,
-    "a_win_prob": 58.1,
-    "draw_prob": 18.9,
-    "b_win_prob": 23.0,
-    "is_correct": true
-  },
-  "2025-11-08|Orlando|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 44.1,
-    "a_win_prob": 44.1,
-    "draw_prob": 23.1,
-    "b_win_prob": 32.8,
-    "is_correct": true
-  },
-  "2025-11-02|Kansas City|San Diego": {
-    "prediction": "Home Win",
-    "confidence": 65.3,
-    "a_win_prob": 65.3,
-    "draw_prob": 16.2,
-    "b_win_prob": 18.5,
-    "is_correct": true
-  },
-  "2025-11-02|Chicago|Angel City": {
-    "prediction": "Away Win",
-    "confidence": 40.4,
-    "a_win_prob": 37.0,
-    "draw_prob": 22.6,
-    "b_win_prob": 40.4,
-    "is_correct": false
-  },
-  "2025-11-02|North Carolina|Gotham": {
-    "prediction": "Away Win",
-    "confidence": 44.3,
-    "a_win_prob": 33.9,
-    "draw_prob": 21.8,
-    "b_win_prob": 44.3,
-    "is_correct": false
-  },
-  "2025-11-02|Orlando|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 44.1,
-    "a_win_prob": 44.1,
-    "draw_prob": 23.1,
-    "b_win_prob": 32.8,
-    "is_correct": false
-  },
-  "2025-11-02|Portland|Houston": {
-    "prediction": "Away Win",
-    "confidence": 42.3,
-    "a_win_prob": 38.8,
-    "draw_prob": 18.9,
-    "b_win_prob": 42.3,
-    "is_correct": false
-  },
-  "2025-11-02|Louisville|Bay": {
-    "prediction": "Home Win",
-    "confidence": 61.8,
-    "a_win_prob": 61.8,
-    "draw_prob": 17.2,
-    "b_win_prob": 21.0,
-    "is_correct": true
-  },
-  "2025-11-02|Utah|Washington": {
-    "prediction": "Away Win",
-    "confidence": 44.6,
-    "a_win_prob": 34.3,
-    "draw_prob": 21.1,
-    "b_win_prob": 44.6,
-    "is_correct": false
-  },
-  "2025-10-19|Gotham|Louisville": {
-    "prediction": "Home Win",
-    "confidence": 48.5,
-    "a_win_prob": 48.5,
-    "draw_prob": 20.0,
-    "b_win_prob": 31.5,
-    "is_correct": false
-  },
-  "2025-10-19|Angel City|Portland": {
-    "prediction": "Home Win",
-    "confidence": 47.2,
-    "a_win_prob": 47.2,
-    "draw_prob": 18.9,
-    "b_win_prob": 33.9,
-    "is_correct": false
-  },
-  "2025-10-18|Washington|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 64.5,
-    "a_win_prob": 64.5,
-    "draw_prob": 16.7,
-    "b_win_prob": 18.8,
-    "is_correct": false
-  },
-  "2025-10-18|Houston|Kansas City": {
-    "prediction": "Away Win",
-    "confidence": 47.3,
-    "a_win_prob": 32.1,
-    "draw_prob": 20.6,
-    "b_win_prob": 47.3,
-    "is_correct": false
-  },
-  "2025-10-19|San Diego|Chicago": {
+  "2026-03-28|Angel City|Houston": {
     "prediction": "Home Win",
     "confidence": 49.4,
     "a_win_prob": 49.4,
-    "draw_prob": 21.2,
-    "b_win_prob": 29.4,
+    "draw_prob": 21.0,
+    "b_win_prob": 29.6,
     "is_correct": true
   },
-  "2025-10-18|Bay|North Carolina": {
+  "2026-03-28|Boston|Utah": {
     "prediction": "Away Win",
-    "confidence": 44.7,
-    "a_win_prob": 33.5,
-    "draw_prob": 21.8,
-    "b_win_prob": 44.7,
+    "confidence": 58.0,
+    "a_win_prob": 23.2,
+    "draw_prob": 18.8,
+    "b_win_prob": 58.0,
     "is_correct": true
   },
-  "2025-10-18|Seattle|Utah": {
+  "2026-03-28|Denver|Washington": {
     "prediction": "Away Win",
-    "confidence": 43.2,
-    "a_win_prob": 34.8,
-    "draw_prob": 22.0,
-    "b_win_prob": 43.2,
+    "confidence": 38.9,
+    "a_win_prob": 38.1,
+    "draw_prob": 23.0,
+    "b_win_prob": 38.9,
     "is_correct": false
   },
-  "2025-10-12|Angel City|Houston": {
-    "prediction": "Away Win",
-    "confidence": 39.2,
-    "a_win_prob": 36.9,
-    "draw_prob": 23.9,
-    "b_win_prob": 39.2,
-    "is_correct": false
-  },
-  "2025-10-11|Kansas City|Gotham": {
+  "2026-03-28|Portland|Kansas City": {
     "prediction": "Home Win",
-    "confidence": 60.0,
-    "a_win_prob": 60.0,
-    "draw_prob": 17.9,
-    "b_win_prob": 22.1,
+    "confidence": 66.5,
+    "a_win_prob": 66.5,
+    "draw_prob": 15.7,
+    "b_win_prob": 17.8,
     "is_correct": true
   },
-  "2025-10-11|North Carolina|Washington": {
-    "prediction": "Away Win",
-    "confidence": 51.7,
-    "a_win_prob": 28.0,
-    "draw_prob": 20.3,
-    "b_win_prob": 51.7,
-    "is_correct": false
-  },
-  "2025-10-12|Utah|San Diego": {
+  "2026-03-28|Seattle|Louisville": {
     "prediction": "Home Win",
-    "confidence": 47.3,
-    "a_win_prob": 47.3,
-    "draw_prob": 19.3,
-    "b_win_prob": 33.4,
-    "is_correct": false
-  },
-  "2025-10-10|Louisville|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 49.8,
-    "a_win_prob": 49.8,
-    "draw_prob": 20.8,
-    "b_win_prob": 29.4,
-    "is_correct": false
-  },
-  "2025-10-11|Orlando|Portland": {
-    "prediction": "Away Win",
-    "confidence": 40.2,
-    "a_win_prob": 38.2,
-    "draw_prob": 21.6,
-    "b_win_prob": 40.2,
-    "is_correct": false
-  },
-  "2025-10-11|Seattle|Bay": {
-    "prediction": "Home Win",
-    "confidence": 53.1,
-    "a_win_prob": 53.1,
-    "draw_prob": 20.0,
-    "b_win_prob": 26.9,
-    "is_correct": false
-  },
-  "2025-10-07|Angel City|Kansas City": {
-    "prediction": "Away Win",
     "confidence": 52.5,
-    "a_win_prob": 26.9,
-    "draw_prob": 20.6,
-    "b_win_prob": 52.5,
+    "a_win_prob": 52.5,
+    "draw_prob": 20.7,
+    "b_win_prob": 26.8,
     "is_correct": true
   },
-  "2025-10-05|Washington|San Diego": {
+  "2026-03-28|North Carolina|Bay": {
     "prediction": "Home Win",
-    "confidence": 59.2,
-    "a_win_prob": 59.2,
-    "draw_prob": 18.0,
-    "b_win_prob": 22.8,
+    "confidence": 44.8,
+    "a_win_prob": 44.8,
+    "draw_prob": 22.6,
+    "b_win_prob": 32.6,
+    "is_correct": false
+  },
+  "2026-03-29|Gotham|Orlando": {
+    "prediction": "Away Win",
+    "confidence": 41.8,
+    "a_win_prob": 39.2,
+    "draw_prob": 19.0,
+    "b_win_prob": 41.8,
+    "is_correct": false
+  },
+  "2026-03-29|San Diego|Chicago": {
+    "prediction": "Home Win",
+    "confidence": 72.0,
+    "a_win_prob": 72.0,
+    "draw_prob": 14.5,
+    "b_win_prob": 13.5,
     "is_correct": true
   },
-  "2025-10-05|Chicago|Utah": {
+  "2026-04-03|Boston|San Diego": {
+    "prediction": "Away Win",
+    "confidence": 62.2,
+    "a_win_prob": 19.5,
+    "draw_prob": 18.3,
+    "b_win_prob": 62.2,
+    "is_correct": true
+  },
+  "2026-04-04|Kansas City|Gotham": {
+    "prediction": "Away Win",
+    "confidence": 42.5,
+    "a_win_prob": 35.2,
+    "draw_prob": 22.3,
+    "b_win_prob": 42.5,
+    "is_correct": false
+  },
+  "2026-04-04|North Carolina|Portland": {
+    "prediction": "Away Win",
+    "confidence": 50.9,
+    "a_win_prob": 28.9,
+    "draw_prob": 20.2,
+    "b_win_prob": 50.9,
+    "is_correct": false
+  },
+  "2026-04-04|Orlando|Angel City": {
+    "prediction": "Home Win",
+    "confidence": 47.0,
+    "a_win_prob": 47.0,
+    "draw_prob": 22.2,
+    "b_win_prob": 30.8,
+    "is_correct": true
+  },
+  "2026-04-04|Houston|Louisville": {
+    "prediction": "Home Win",
+    "confidence": 49.7,
+    "a_win_prob": 49.7,
+    "draw_prob": 21.0,
+    "b_win_prob": 29.3,
+    "is_correct": true
+  },
+  "2026-04-04|Utah|Chicago": {
+    "prediction": "Home Win",
+    "confidence": 60.5,
+    "a_win_prob": 60.5,
+    "draw_prob": 18.2,
+    "b_win_prob": 21.3,
+    "is_correct": true
+  },
+  "2026-04-05|Seattle|Denver": {
     "prediction": "Away Win",
     "confidence": 40.6,
-    "a_win_prob": 38.9,
-    "draw_prob": 20.5,
+    "a_win_prob": 36.4,
+    "draw_prob": 23.0,
     "b_win_prob": 40.6,
     "is_correct": false
   },
-  "2025-10-05|Gotham|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 57.1,
-    "a_win_prob": 57.1,
-    "draw_prob": 18.9,
-    "b_win_prob": 24.0,
-    "is_correct": false
-  },
-  "2025-10-04|North Carolina|Louisville": {
-    "prediction": "Home Win",
-    "confidence": 40.4,
-    "a_win_prob": 40.4,
-    "draw_prob": 20.1,
-    "b_win_prob": 39.5,
-    "is_correct": false
-  },
-  "2025-10-05|Portland|Bay": {
-    "prediction": "Home Win",
-    "confidence": 57.1,
-    "a_win_prob": 57.1,
-    "draw_prob": 19.2,
-    "b_win_prob": 23.7,
+  "2026-04-05|Bay|Washington": {
+    "prediction": "Away Win",
+    "confidence": 51.2,
+    "a_win_prob": 28.3,
+    "draw_prob": 20.5,
+    "b_win_prob": 51.2,
     "is_correct": true
   },
-  "2025-10-04|Houston|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 59.5,
-    "a_win_prob": 59.5,
-    "draw_prob": 18.0,
-    "b_win_prob": 22.5,
+  "2026-04-24|Louisville|Orlando": {
+    "prediction": "Away Win",
+    "confidence": 45.8,
+    "a_win_prob": 33.1,
+    "draw_prob": 21.1,
+    "b_win_prob": 45.8,
     "is_correct": false
   },
-  "2025-09-28|Washington|Houston": {
+  "2026-04-25|Gotham|Bay": {
     "prediction": "Home Win",
-    "confidence": 49.9,
-    "a_win_prob": 49.9,
-    "draw_prob": 21.0,
+    "confidence": 46.1,
+    "a_win_prob": 46.1,
+    "draw_prob": 22.2,
+    "b_win_prob": 31.7,
+    "is_correct": true
+  },
+  "2026-04-25|Chicago|Boston": {
+    "prediction": "Home Win",
+    "confidence": 51.5,
+    "a_win_prob": 51.5,
+    "draw_prob": 19.8,
+    "b_win_prob": 28.7,
+    "is_correct": true
+  },
+  "2026-04-25|Washington|Kansas City": {
+    "prediction": "Home Win",
+    "confidence": 67.0,
+    "a_win_prob": 67.0,
+    "draw_prob": 15.6,
+    "b_win_prob": 17.4,
+    "is_correct": true
+  },
+  "2026-04-26|Angel City|Portland": {
+    "prediction": "Away Win",
+    "confidence": 45.0,
+    "a_win_prob": 33.7,
+    "draw_prob": 21.3,
+    "b_win_prob": 45.0,
+    "is_correct": true
+  },
+  "2026-04-26|Houston|North Carolina": {
+    "prediction": "Home Win",
+    "confidence": 45.1,
+    "a_win_prob": 45.1,
+    "draw_prob": 22.5,
+    "b_win_prob": 32.4,
+    "is_correct": false
+  },
+  "2026-04-26|Denver|San Diego": {
+    "prediction": "Away Win",
+    "confidence": 54.0,
+    "a_win_prob": 26.8,
+    "draw_prob": 19.2,
+    "b_win_prob": 54.0,
+    "is_correct": true
+  },
+  "2026-04-27|Seattle|Utah": {
+    "prediction": "Away Win",
+    "confidence": 43.4,
+    "a_win_prob": 34.5,
+    "draw_prob": 22.1,
+    "b_win_prob": 43.4,
+    "is_correct": true
+  },
+  "2026-04-29|Boston|North Carolina": {
+    "prediction": "Away Win",
+    "confidence": 46.1,
+    "a_win_prob": 33.3,
+    "draw_prob": 20.6,
+    "b_win_prob": 46.1,
+    "is_correct": false
+  },
+  "2026-04-29|Washington|Louisville": {
+    "prediction": "Home Win",
+    "confidence": 64.2,
+    "a_win_prob": 64.2,
+    "draw_prob": 17.0,
+    "b_win_prob": 18.8,
+    "is_correct": true
+  },
+  "2026-04-30|Chicago|Gotham": {
+    "prediction": "Away Win",
+    "confidence": 40.9,
+    "a_win_prob": 37.9,
+    "draw_prob": 21.2,
+    "b_win_prob": 40.9,
+    "is_correct": true
+  },
+  "2026-04-30|Portland|San Diego": {
+    "prediction": "Away Win",
+    "confidence": 48.2,
+    "a_win_prob": 30.9,
+    "draw_prob": 20.9,
+    "b_win_prob": 48.2,
+    "is_correct": false
+  },
+  "2026-05-02|Orlando|Washington": {
+    "prediction": "Away Win",
+    "confidence": 41.4,
+    "a_win_prob": 37.4,
+    "draw_prob": 21.2,
+    "b_win_prob": 41.4,
+    "is_correct": true
+  },
+  "2026-05-02|North Carolina|Kansas City": {
+    "prediction": "Home Win",
+    "confidence": 51.6,
+    "a_win_prob": 51.6,
+    "draw_prob": 21.1,
+    "b_win_prob": 27.3,
+    "is_correct": false
+  },
+  "2026-05-02|Houston|Seattle": {
+    "prediction": "Home Win",
+    "confidence": 41.3,
+    "a_win_prob": 41.3,
+    "draw_prob": 22.9,
+    "b_win_prob": 35.8,
+    "is_correct": false
+  },
+  "2026-05-03|Angel City|Utah": {
+    "prediction": "Away Win",
+    "confidence": 41.5,
+    "a_win_prob": 37.3,
+    "draw_prob": 21.2,
+    "b_win_prob": 41.5,
+    "is_correct": true
+  },
+  "2026-05-03|Chicago|Portland": {
+    "prediction": "Away Win",
+    "confidence": 54.6,
+    "a_win_prob": 24.8,
+    "draw_prob": 20.6,
+    "b_win_prob": 54.6,
+    "is_correct": true
+  },
+  "2026-05-03|Boston|Denver": {
+    "prediction": "Away Win",
+    "confidence": 53.7,
+    "a_win_prob": 26.4,
+    "draw_prob": 19.9,
+    "b_win_prob": 53.7,
+    "is_correct": false
+  },
+  "2026-05-03|Gotham|Louisville": {
+    "prediction": "Home Win",
+    "confidence": 50.3,
+    "a_win_prob": 50.3,
+    "draw_prob": 20.6,
     "b_win_prob": 29.1,
     "is_correct": true
   },
-  "2025-09-29|Seattle|North Carolina": {
+  "2026-05-03|San Diego|Bay": {
     "prediction": "Home Win",
-    "confidence": 41.7,
-    "a_win_prob": 41.7,
-    "draw_prob": 23.4,
-    "b_win_prob": 34.9,
+    "confidence": 69.9,
+    "a_win_prob": 69.9,
+    "draw_prob": 15.0,
+    "b_win_prob": 15.1,
+    "is_correct": false
+  },
+  "2026-05-07|Utah|Houston": {
+    "prediction": "Home Win",
+    "confidence": 69.5,
+    "a_win_prob": 69.5,
+    "draw_prob": 15.4,
+    "b_win_prob": 15.1,
     "is_correct": true
   },
-  "2025-09-27|Louisville|Angel City": {
+  "2026-05-08|Louisville|Portland": {
+    "prediction": "Home Win",
+    "confidence": 67.0,
+    "a_win_prob": 67.0,
+    "draw_prob": 16.3,
+    "b_win_prob": 16.7,
+    "is_correct": true
+  },
+  "2026-05-09|Gotham|Boston": {
     "prediction": "Home Win",
     "confidence": 42.0,
     "a_win_prob": 42.0,
-    "draw_prob": 22.6,
-    "b_win_prob": 35.4,
+    "draw_prob": 23.9,
+    "b_win_prob": 34.1,
+    "is_correct": false
+  },
+  "2026-05-09|Orlando|North Carolina": {
+    "prediction": "Home Win",
+    "confidence": 57.3,
+    "a_win_prob": 57.3,
+    "draw_prob": 19.0,
+    "b_win_prob": 23.7,
     "is_correct": true
   },
-  "2025-09-28|Bay|Utah": {
+  "2026-05-10|Kansas City|Chicago": {
+    "prediction": "Home Win",
+    "confidence": 69.1,
+    "a_win_prob": 69.1,
+    "draw_prob": 15.8,
+    "b_win_prob": 15.1,
+    "is_correct": true
+  },
+  "2026-05-10|Bay|Utah": {
     "prediction": "Away Win",
-    "confidence": 49.9,
-    "a_win_prob": 28.2,
-    "draw_prob": 21.9,
-    "b_win_prob": 49.9,
+    "confidence": 44.9,
+    "a_win_prob": 33.7,
+    "draw_prob": 21.4,
+    "b_win_prob": 44.9,
+    "is_correct": false
+  },
+  "2026-05-10|Seattle|Washington": {
+    "prediction": "Away Win",
+    "confidence": 56.7,
+    "a_win_prob": 25.0,
+    "draw_prob": 18.3,
+    "b_win_prob": 56.7,
     "is_correct": true
   },
-  "2025-09-27|Gotham|Portland": {
+  "2026-05-10|Houston|Denver": {
+    "prediction": "Away Win",
+    "confidence": 59.9,
+    "a_win_prob": 21.4,
+    "draw_prob": 18.7,
+    "b_win_prob": 59.9,
+    "is_correct": true
+  },
+  "2026-05-10|Angel City|San Diego": {
+    "prediction": "Away Win",
+    "confidence": 59.4,
+    "a_win_prob": 22.2,
+    "draw_prob": 18.4,
+    "b_win_prob": 59.4,
+    "is_correct": true
+  },
+  "2026-05-12|Boston|Orlando": {
+    "prediction": "Home Win",
+    "confidence": 49.0,
+    "a_win_prob": 49.0,
+    "draw_prob": 20.9,
+    "b_win_prob": 30.1,
+    "is_correct": true
+  },
+  "2026-05-16|Kansas City|Houston": {
+    "prediction": "Home Win",
+    "confidence": 70.5,
+    "a_win_prob": 70.5,
+    "draw_prob": 15.2,
+    "b_win_prob": 14.3,
+    "is_correct": true
+  },
+  "2026-05-16|Bay|Boston": {
+    "prediction": "Away Win",
+    "confidence": 42.1,
+    "a_win_prob": 35.1,
+    "draw_prob": 22.8,
+    "b_win_prob": 42.1,
+    "is_correct": false
+  },
+  "2026-05-16|San Diego|Washington": {
+    "prediction": "Home Win",
+    "confidence": 62.3,
+    "a_win_prob": 62.3,
+    "draw_prob": 17.5,
+    "b_win_prob": 20.2,
+    "is_correct": true
+  },
+  "2026-05-16|Seattle|Gotham": {
+    "prediction": "Away Win",
+    "confidence": 59.0,
+    "a_win_prob": 22.6,
+    "draw_prob": 18.4,
+    "b_win_prob": 59.0,
+    "is_correct": true
+  },
+  "2026-05-16|North Carolina|Chicago": {
+    "prediction": "Home Win",
+    "confidence": 61.1,
+    "a_win_prob": 61.1,
+    "draw_prob": 17.7,
+    "b_win_prob": 21.2,
+    "is_correct": true
+  },
+  "2026-05-17|Portland|Angel City": {
+    "prediction": "Home Win",
+    "confidence": 56.8,
+    "a_win_prob": 56.8,
+    "draw_prob": 13.7,
+    "b_win_prob": 29.5,
+    "is_correct": false
+  },
+  "2026-05-17|Denver|Orlando": {
+    "prediction": "Home Win",
+    "confidence": 66.1,
+    "a_win_prob": 66.1,
+    "draw_prob": 16.1,
+    "b_win_prob": 17.8,
+    "is_correct": true
+  },
+  "2026-05-18|Utah|Louisville": {
+    "prediction": "Home Win",
+    "confidence": 62.4,
+    "a_win_prob": 62.4,
+    "draw_prob": 12.4,
+    "b_win_prob": 25.2,
+    "is_correct": true
+  },
+  "2026-05-21|Houston|San Diego": {
+    "prediction": "Away Win",
+    "confidence": 59.6,
+    "a_win_prob": 21.2,
+    "draw_prob": 19.2,
+    "b_win_prob": 59.6,
+    "is_correct": false
+  },
+  "2026-05-21|Angel City|Kansas City": {
+    "prediction": "Home Win",
+    "confidence": 55.8,
+    "a_win_prob": 55.8,
+    "draw_prob": 19.5,
+    "b_win_prob": 24.7,
+    "is_correct": true
+  },
+  "2026-05-21|Portland|Bay": {
+    "prediction": "Home Win",
+    "confidence": 62.7,
+    "a_win_prob": 62.7,
+    "draw_prob": 16.9,
+    "b_win_prob": 20.4,
+    "is_correct": true
+  },
+  "2026-05-23|Louisville|North Carolina": {
+    "prediction": "Home Win",
+    "confidence": 39.7,
+    "a_win_prob": 39.7,
+    "draw_prob": 22.2,
+    "b_win_prob": 38.1,
+    "is_correct": false
+  },
+  "2026-05-23|Utah|Denver": {
     "prediction": "Home Win",
     "confidence": 50.1,
     "a_win_prob": 50.1,
-    "draw_prob": 21.1,
-    "b_win_prob": 28.8,
+    "draw_prob": 20.5,
+    "b_win_prob": 29.4,
     "is_correct": true
   },
-  "2025-09-27|Kansas City|Chicago": {
+  "2026-05-23|Boston|Seattle": {
+    "prediction": "Away Win",
+    "confidence": 48.0,
+    "a_win_prob": 31.7,
+    "draw_prob": 20.3,
+    "b_win_prob": 48.0,
+    "is_correct": true
+  },
+  "2026-05-24|Houston|Angel City": {
     "prediction": "Home Win",
-    "confidence": 66.6,
-    "a_win_prob": 66.6,
-    "draw_prob": 16.4,
-    "b_win_prob": 17.0,
+    "confidence": 47.2,
+    "a_win_prob": 47.2,
+    "draw_prob": 14.4,
+    "b_win_prob": 38.4,
     "is_correct": true
   },
-  "2025-09-27|San Diego|Orlando": {
+  "2026-05-24|Kansas City|Portland": {
+    "prediction": "Home Win",
+    "confidence": 66.9,
+    "a_win_prob": 66.9,
+    "draw_prob": 11.2,
+    "b_win_prob": 21.9,
+    "is_correct": true
+  },
+  "2026-05-24|Bay|Chicago": {
+    "prediction": "Away Win",
+    "confidence": 44.2,
+    "a_win_prob": 32.8,
+    "draw_prob": 23.0,
+    "b_win_prob": 44.2,
+    "is_correct": true
+  },
+  "2026-05-24|San Diego|Orlando": {
     "prediction": "Home Win",
     "confidence": 51.8,
     "a_win_prob": 51.8,
     "draw_prob": 20.6,
     "b_win_prob": 27.6,
-    "is_correct": false
-  },
-  "2025-09-22|Bay|Gotham": {
-    "prediction": "Away Win",
-    "confidence": 52.3,
-    "a_win_prob": 26.3,
-    "draw_prob": 21.4,
-    "b_win_prob": 52.3,
-    "is_correct": false
-  },
-  "2025-09-20|Kansas City|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 68.6,
-    "a_win_prob": 68.6,
-    "draw_prob": 15.2,
-    "b_win_prob": 16.2,
-    "is_correct": true
-  },
-  "2025-09-21|Portland|San Diego": {
-    "prediction": "Home Win",
-    "confidence": 44.7,
-    "a_win_prob": 44.7,
-    "draw_prob": 19.4,
-    "b_win_prob": 35.9,
-    "is_correct": false
-  },
-  "2025-09-20|Houston|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 58.7,
-    "a_win_prob": 58.7,
-    "draw_prob": 18.2,
-    "b_win_prob": 23.1,
-    "is_correct": true
-  },
-  "2025-09-20|Orlando|North Carolina": {
-    "prediction": "Home Win",
-    "confidence": 42.4,
-    "a_win_prob": 42.4,
-    "draw_prob": 22.9,
-    "b_win_prob": 34.7,
-    "is_correct": false
-  },
-  "2025-09-20|Utah|Louisville": {
-    "prediction": "Home Win",
-    "confidence": 46.5,
-    "a_win_prob": 46.5,
-    "draw_prob": 19.5,
-    "b_win_prob": 34.0,
-    "is_correct": true
-  },
-  "2025-09-19|Angel City|Washington": {
-    "prediction": "Away Win",
-    "confidence": 46.4,
-    "a_win_prob": 32.6,
-    "draw_prob": 21.0,
-    "b_win_prob": 46.4,
-    "is_correct": false
-  },
-  "2025-09-17|Seattle|Louisville": {
-    "prediction": "Away Win",
-    "confidence": 41.0,
-    "a_win_prob": 38.8,
-    "draw_prob": 20.2,
-    "b_win_prob": 41.0,
-    "is_correct": false
-  },
-  "2025-09-14|Chicago|Portland": {
-    "prediction": "Home Win",
-    "confidence": 41.5,
-    "a_win_prob": 41.5,
-    "draw_prob": 19.7,
-    "b_win_prob": 38.8,
-    "is_correct": false
-  },
-  "2025-09-14|Utah|Houston": {
-    "prediction": "Home Win",
-    "confidence": 40.8,
-    "a_win_prob": 40.8,
-    "draw_prob": 18.7,
-    "b_win_prob": 40.5,
-    "is_correct": true
-  },
-  "2025-09-13|North Carolina|Angel City": {
-    "prediction": "Away Win",
-    "confidence": 41.2,
-    "a_win_prob": 39.4,
-    "draw_prob": 19.4,
-    "b_win_prob": 41.2,
-    "is_correct": false
-  },
-  "2025-09-13|Orlando|Bay": {
-    "prediction": "Home Win",
-    "confidence": 54.8,
-    "a_win_prob": 54.8,
-    "draw_prob": 19.4,
-    "b_win_prob": 25.8,
-    "is_correct": false
-  },
-  "2025-09-13|Kansas City|Washington": {
-    "prediction": "Home Win",
-    "confidence": 52.0,
-    "a_win_prob": 52.0,
-    "draw_prob": 20.5,
-    "b_win_prob": 27.5,
-    "is_correct": false
-  },
-  "2025-09-13|San Diego|Gotham": {
-    "prediction": "Home Win",
-    "confidence": 39.4,
-    "a_win_prob": 39.4,
-    "draw_prob": 22.1,
-    "b_win_prob": 38.5,
-    "is_correct": false
-  },
-  "2025-09-07|Chicago|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 45.8,
-    "a_win_prob": 45.8,
-    "draw_prob": 21.6,
-    "b_win_prob": 32.6,
-    "is_correct": true
-  },
-  "2025-09-07|Washington|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 64.9,
-    "a_win_prob": 64.9,
-    "draw_prob": 16.0,
-    "b_win_prob": 19.1,
-    "is_correct": true
-  },
-  "2025-09-07|Gotham|Angel City": {
-    "prediction": "Home Win",
-    "confidence": 47.1,
-    "a_win_prob": 47.1,
-    "draw_prob": 19.3,
-    "b_win_prob": 33.6,
-    "is_correct": true
-  },
-  "2025-09-08|San Diego|Houston": {
-    "prediction": "Away Win",
-    "confidence": 41.1,
-    "a_win_prob": 36.6,
-    "draw_prob": 22.3,
-    "b_win_prob": 41.1,
-    "is_correct": true
-  },
-  "2025-09-06|North Carolina|Utah": {
-    "prediction": "Away Win",
-    "confidence": 41.1,
-    "a_win_prob": 36.2,
-    "draw_prob": 22.7,
-    "b_win_prob": 41.1,
-    "is_correct": false
-  },
-  "2025-09-07|Bay|Kansas City": {
-    "prediction": "Away Win",
-    "confidence": 63.1,
-    "a_win_prob": 18.9,
-    "draw_prob": 18.0,
-    "b_win_prob": 63.1,
-    "is_correct": true
-  },
-  "2025-09-06|Louisville|Portland": {
-    "prediction": "Home Win",
-    "confidence": 45.5,
-    "a_win_prob": 45.5,
-    "draw_prob": 19.4,
-    "b_win_prob": 35.1,
-    "is_correct": false
-  },
-  "2025-09-02|Angel City|Bay": {
-    "prediction": "Home Win",
-    "confidence": 63.2,
-    "a_win_prob": 63.2,
-    "draw_prob": 16.7,
-    "b_win_prob": 20.1,
-    "is_correct": true
-  },
-  "2025-08-31|Washington|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 61.2,
-    "a_win_prob": 61.2,
-    "draw_prob": 18.2,
-    "b_win_prob": 20.6,
-    "is_correct": false
-  },
-  "2025-08-30|Kansas City|North Carolina": {
-    "prediction": "Home Win",
-    "confidence": 68.1,
-    "a_win_prob": 68.1,
-    "draw_prob": 15.1,
-    "b_win_prob": 16.8,
-    "is_correct": true
-  },
-  "2025-08-29|Louisville|Houston": {
-    "prediction": "Away Win",
-    "confidence": 41.3,
-    "a_win_prob": 35.5,
-    "draw_prob": 23.2,
-    "b_win_prob": 41.3,
-    "is_correct": false
-  },
-  "2025-08-30|Orlando|Gotham": {
-    "prediction": "Away Win",
-    "confidence": 45.5,
-    "a_win_prob": 33.1,
-    "draw_prob": 21.4,
-    "b_win_prob": 45.5,
-    "is_correct": true
-  },
-  "2025-08-30|Portland|Utah": {
-    "prediction": "Home Win",
-    "confidence": 40.5,
-    "a_win_prob": 40.5,
-    "draw_prob": 23.9,
-    "b_win_prob": 35.6,
-    "is_correct": false
-  },
-  "2025-08-30|Seattle|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 41.1,
-    "a_win_prob": 37.5,
-    "draw_prob": 21.4,
-    "b_win_prob": 41.1,
-    "is_correct": false
-  },
-  "2025-08-24|Houston|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 58.2,
-    "a_win_prob": 58.2,
-    "draw_prob": 18.6,
-    "b_win_prob": 23.2,
-    "is_correct": false
-  },
-  "2025-08-25|San Diego|Louisville": {
-    "prediction": "Home Win",
-    "confidence": 44.6,
-    "a_win_prob": 44.6,
-    "draw_prob": 22.1,
-    "b_win_prob": 33.3,
-    "is_correct": false
-  },
-  "2025-08-23|Bay|Washington": {
-    "prediction": "Away Win",
-    "confidence": 60.0,
-    "a_win_prob": 21.1,
-    "draw_prob": 18.9,
-    "b_win_prob": 60.0,
-    "is_correct": true
-  },
-  "2025-08-23|Gotham|Utah": {
-    "prediction": "Home Win",
-    "confidence": 46.7,
-    "a_win_prob": 46.7,
-    "draw_prob": 22.3,
-    "b_win_prob": 31.0,
-    "is_correct": false
-  },
-  "2025-08-24|Portland|Kansas City": {
-    "prediction": "Away Win",
-    "confidence": 51.4,
-    "a_win_prob": 27.5,
-    "draw_prob": 21.1,
-    "b_win_prob": 51.4,
-    "is_correct": true
-  },
-  "2025-08-23|Chicago|North Carolina": {
-    "prediction": "Home Win",
-    "confidence": 45.2,
-    "a_win_prob": 45.2,
-    "draw_prob": 19.6,
-    "b_win_prob": 35.2,
-    "is_correct": false
-  },
-  "2025-08-22|Angel City|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 52.8,
-    "a_win_prob": 52.8,
-    "draw_prob": 20.6,
-    "b_win_prob": 26.6,
-    "is_correct": true
-  },
-  "2025-08-19|Seattle|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 43.5,
-    "a_win_prob": 43.5,
-    "draw_prob": 19.2,
-    "b_win_prob": 37.3,
-    "is_correct": false
-  },
-  "2025-08-17|Gotham|Houston": {
-    "prediction": "Home Win",
-    "confidence": 42.4,
-    "a_win_prob": 42.4,
-    "draw_prob": 19.3,
-    "b_win_prob": 38.3,
-    "is_correct": false
-  },
-  "2025-08-16|Kansas City|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 69.3,
-    "a_win_prob": 69.3,
-    "draw_prob": 14.9,
-    "b_win_prob": 15.8,
-    "is_correct": false
-  },
-  "2025-08-16|North Carolina|Portland": {
-    "prediction": "Home Win",
-    "confidence": 38.8,
-    "a_win_prob": 38.8,
-    "draw_prob": 23.0,
-    "b_win_prob": 38.2,
-    "is_correct": false
-  },
-  "2025-08-17|Bay|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 50.9,
-    "a_win_prob": 29.0,
-    "draw_prob": 20.1,
-    "b_win_prob": 50.9,
-    "is_correct": true
-  },
-  "2025-08-16|Washington|Louisville": {
-    "prediction": "Home Win",
-    "confidence": 58.1,
-    "a_win_prob": 58.1,
-    "draw_prob": 18.9,
-    "b_win_prob": 23.0,
-    "is_correct": false
-  },
-  "2025-08-16|Utah|Angel City": {
-    "prediction": "Home Win",
-    "confidence": 45.3,
-    "a_win_prob": 45.3,
-    "draw_prob": 18.8,
-    "b_win_prob": 35.9,
-    "is_correct": false
-  },
-  "2025-08-10|Chicago|Bay": {
-    "prediction": "Home Win",
-    "confidence": 56.5,
-    "a_win_prob": 56.5,
-    "draw_prob": 19.1,
-    "b_win_prob": 24.4,
-    "is_correct": false
-  },
-  "2025-08-10|Portland|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 51.6,
-    "a_win_prob": 51.6,
-    "draw_prob": 20.2,
-    "b_win_prob": 28.2,
-    "is_correct": true
-  },
-  "2025-08-09|Gotham|Washington": {
-    "prediction": "Away Win",
-    "confidence": 42.4,
-    "a_win_prob": 36.3,
-    "draw_prob": 21.3,
-    "b_win_prob": 42.4,
-    "is_correct": false
-  },
-  "2025-08-09|Orlando|Louisville": {
-    "prediction": "Away Win",
-    "confidence": 39.9,
-    "a_win_prob": 37.6,
-    "draw_prob": 22.5,
-    "b_win_prob": 39.9,
-    "is_correct": false
-  },
-  "2025-08-10|San Diego|Angel City": {
-    "prediction": "Home Win",
-    "confidence": 43.1,
-    "a_win_prob": 43.1,
-    "draw_prob": 21.4,
-    "b_win_prob": 35.5,
-    "is_correct": false
-  },
-  "2025-08-09|Houston|North Carolina": {
-    "prediction": "Home Win",
-    "confidence": 56.6,
-    "a_win_prob": 56.6,
-    "draw_prob": 19.3,
-    "b_win_prob": 24.1,
-    "is_correct": true
-  },
-  "2025-08-09|Utah|Kansas City": {
-    "prediction": "Away Win",
-    "confidence": 49.5,
-    "a_win_prob": 29.4,
-    "draw_prob": 21.1,
-    "b_win_prob": 49.5,
-    "is_correct": true
-  },
-  "2025-08-03|Washington|Portland": {
-    "prediction": "Home Win",
-    "confidence": 58.6,
-    "a_win_prob": 58.6,
-    "draw_prob": 18.4,
-    "b_win_prob": 23.0,
-    "is_correct": true
-  },
-  "2025-08-03|Orlando|Utah": {
-    "prediction": "Away Win",
-    "confidence": 42.8,
-    "a_win_prob": 35.3,
-    "draw_prob": 21.9,
-    "b_win_prob": 42.8,
-    "is_correct": false
-  },
-  "2025-08-02|North Carolina|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 39.6,
-    "a_win_prob": 39.2,
-    "draw_prob": 21.2,
-    "b_win_prob": 39.6,
-    "is_correct": false
-  },
-  "2025-08-03|Bay|Houston": {
-    "prediction": "Away Win",
-    "confidence": 56.8,
-    "a_win_prob": 24.1,
-    "draw_prob": 19.1,
-    "b_win_prob": 56.8,
     "is_correct": false
   }
 }

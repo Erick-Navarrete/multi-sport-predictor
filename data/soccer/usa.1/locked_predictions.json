@@ -1,77 +1,541 @@
 {
-  "2026-05-23|St. Louis|Austin": {
-    "prediction": "Home Win",
-    "confidence": 56.5,
-    "a_win_prob": 56.5,
-    "draw_prob": 18.9,
-    "b_win_prob": 24.6,
-    "is_correct": true
-  },
-  "2026-05-23|Minnesota|Salt Lake": {
-    "prediction": "Home Win",
-    "confidence": 59.5,
-    "a_win_prob": 59.5,
-    "draw_prob": 18.0,
-    "b_win_prob": 22.5,
+  "2026-02-21|St. Louis|Charlotte": {
+    "prediction": "Away Win",
+    "confidence": 42.4,
+    "a_win_prob": 36.3,
+    "draw_prob": 21.3,
+    "b_win_prob": 42.4,
     "is_correct": false
   },
-  "2026-05-17|Miami|Portland": {
+  "2026-02-21|Cincinnati|Atlanta": {
     "prediction": "Home Win",
-    "confidence": 69.4,
-    "a_win_prob": 69.4,
-    "draw_prob": 12.2,
-    "b_win_prob": 18.4,
+    "confidence": 57.4,
+    "a_win_prob": 57.4,
+    "draw_prob": 18.7,
+    "b_win_prob": 23.9,
     "is_correct": true
   },
-  "2026-05-18|Nashville|LAFC": {
+  "2026-02-22|D.C. United|Philadelphia": {
     "prediction": "Home Win",
-    "confidence": 60.8,
-    "a_win_prob": 60.8,
-    "draw_prob": 12.7,
+    "confidence": 65.8,
+    "a_win_prob": 65.8,
+    "draw_prob": 15.9,
+    "b_win_prob": 18.3,
+    "is_correct": true
+  },
+  "2026-02-22|Orlando|Red Bull NY": {
+    "prediction": "Away Win",
+    "confidence": 51.8,
+    "a_win_prob": 27.6,
+    "draw_prob": 20.6,
+    "b_win_prob": 51.8,
+    "is_correct": true
+  },
+  "2026-02-22|Vancouver|Salt Lake": {
+    "prediction": "Home Win",
+    "confidence": 58.4,
+    "a_win_prob": 58.4,
+    "draw_prob": 18.5,
+    "b_win_prob": 23.1,
+    "is_correct": true
+  },
+  "2026-02-22|Austin|Minnesota": {
+    "prediction": "Home Win",
+    "confidence": 38.6,
+    "a_win_prob": 38.6,
+    "draw_prob": 23.2,
+    "b_win_prob": 38.2,
+    "is_correct": false
+  },
+  "2026-02-22|Dallas|Toronto": {
+    "prediction": "Home Win",
+    "confidence": 59.7,
+    "a_win_prob": 59.7,
+    "draw_prob": 18.2,
+    "b_win_prob": 22.1,
+    "is_correct": true
+  },
+  "2026-02-22|Houston|Chicago": {
+    "prediction": "Home Win",
+    "confidence": 48.5,
+    "a_win_prob": 48.5,
+    "draw_prob": 21.8,
+    "b_win_prob": 29.7,
+    "is_correct": true
+  },
+  "2026-02-22|Nashville|New England": {
+    "prediction": "Home Win",
+    "confidence": 64.7,
+    "a_win_prob": 64.7,
+    "draw_prob": 16.1,
+    "b_win_prob": 19.2,
+    "is_correct": true
+  },
+  "2026-02-22|LAFC|Miami": {
+    "prediction": "Home Win",
+    "confidence": 53.8,
+    "a_win_prob": 53.8,
+    "draw_prob": 19.7,
     "b_win_prob": 26.5,
     "is_correct": true
   },
-  "2026-05-16|CF Montréal|Chicago": {
+  "2026-02-22|Portland|Columbus": {
     "prediction": "Home Win",
-    "confidence": 45.9,
-    "a_win_prob": 45.9,
-    "draw_prob": 21.8,
-    "b_win_prob": 32.3,
-    "is_correct": false
-  },
-  "2026-05-16|Charlotte|Toronto": {
-    "prediction": "Home Win",
-    "confidence": 62.8,
-    "a_win_prob": 62.8,
-    "draw_prob": 17.1,
-    "b_win_prob": 20.1,
+    "confidence": 52.5,
+    "a_win_prob": 52.5,
+    "draw_prob": 20.3,
+    "b_win_prob": 27.2,
     "is_correct": true
   },
-  "2026-05-16|D.C. United|St. Louis": {
+  "2026-02-22|San Diego|CF Montréal": {
+    "prediction": "Home Win",
+    "confidence": 66.5,
+    "a_win_prob": 66.5,
+    "draw_prob": 15.8,
+    "b_win_prob": 17.7,
+    "is_correct": true
+  },
+  "2026-02-22|San Jose|Kansas City": {
+    "prediction": "Home Win",
+    "confidence": 69.4,
+    "a_win_prob": 69.4,
+    "draw_prob": 15.2,
+    "b_win_prob": 15.4,
+    "is_correct": true
+  },
+  "2026-02-23|LA Galaxy|NYCFC": {
     "prediction": "Away Win",
-    "confidence": 53.8,
-    "a_win_prob": 26.8,
-    "draw_prob": 19.4,
-    "b_win_prob": 53.8,
+    "confidence": 42.9,
+    "a_win_prob": 36.5,
+    "draw_prob": 20.6,
+    "b_win_prob": 42.9,
     "is_correct": false
   },
-  "2026-05-16|New England|Minnesota": {
+  "2026-02-23|Seattle|Colorado": {
     "prediction": "Home Win",
-    "confidence": 64.8,
-    "a_win_prob": 64.8,
-    "draw_prob": 16.6,
-    "b_win_prob": 18.6,
+    "confidence": 57.8,
+    "a_win_prob": 57.8,
+    "draw_prob": 18.9,
+    "b_win_prob": 23.3,
     "is_correct": true
   },
-  "2026-05-16|Orlando|Atlanta": {
+  "2026-02-28|Chicago|CF Montréal": {
     "prediction": "Home Win",
-    "confidence": 55.6,
-    "a_win_prob": 55.6,
-    "draw_prob": 19.5,
+    "confidence": 58.9,
+    "a_win_prob": 58.9,
+    "draw_prob": 18.5,
+    "b_win_prob": 22.6,
+    "is_correct": true
+  },
+  "2026-02-28|Red Bull NY|New England": {
+    "prediction": "Home Win",
+    "confidence": 53.5,
+    "a_win_prob": 53.5,
+    "draw_prob": 18.6,
+    "b_win_prob": 27.9,
+    "is_correct": true
+  },
+  "2026-02-28|Colorado|Portland": {
+    "prediction": "Home Win",
+    "confidence": 50.8,
+    "a_win_prob": 50.8,
+    "draw_prob": 21.2,
+    "b_win_prob": 28.0,
+    "is_correct": true
+  },
+  "2026-02-28|Minnesota|Cincinnati": {
+    "prediction": "Home Win",
+    "confidence": 50.8,
+    "a_win_prob": 50.8,
+    "draw_prob": 20.6,
+    "b_win_prob": 28.6,
+    "is_correct": true
+  },
+  "2026-03-01|Austin|D.C. United": {
+    "prediction": "Home Win",
+    "confidence": 41.0,
+    "a_win_prob": 41.0,
+    "draw_prob": 23.6,
+    "b_win_prob": 35.4,
+    "is_correct": true
+  },
+  "2026-03-01|Philadelphia|NYCFC": {
+    "prediction": "Away Win",
+    "confidence": 56.9,
+    "a_win_prob": 24.1,
+    "draw_prob": 19.0,
+    "b_win_prob": 56.9,
+    "is_correct": true
+  },
+  "2026-03-01|Salt Lake|Seattle": {
+    "prediction": "Home Win",
+    "confidence": 38.8,
+    "a_win_prob": 38.8,
+    "draw_prob": 23.7,
+    "b_win_prob": 37.5,
+    "is_correct": true
+  },
+  "2026-03-01|San Jose|Atlanta": {
+    "prediction": "Home Win",
+    "confidence": 70.3,
+    "a_win_prob": 70.3,
+    "draw_prob": 15.1,
+    "b_win_prob": 14.6,
+    "is_correct": true
+  },
+  "2026-03-01|Dallas|Nashville": {
+    "prediction": "Away Win",
+    "confidence": 45.7,
+    "a_win_prob": 32.6,
+    "draw_prob": 21.7,
+    "b_win_prob": 45.7,
+    "is_correct": false
+  },
+  "2026-03-01|Houston|LAFC": {
+    "prediction": "Away Win",
+    "confidence": 47.2,
+    "a_win_prob": 32.2,
+    "draw_prob": 20.6,
+    "b_win_prob": 47.2,
+    "is_correct": true
+  },
+  "2026-03-01|Kansas City|Columbus": {
+    "prediction": "Home Win",
+    "confidence": 46.1,
+    "a_win_prob": 46.1,
+    "draw_prob": 22.4,
+    "b_win_prob": 31.5,
+    "is_correct": false
+  },
+  "2026-03-01|Vancouver|Toronto": {
+    "prediction": "Home Win",
+    "confidence": 68.3,
+    "a_win_prob": 68.3,
+    "draw_prob": 15.7,
+    "b_win_prob": 16.0,
+    "is_correct": true
+  },
+  "2026-03-01|LA Galaxy|Charlotte": {
+    "prediction": "Home Win",
+    "confidence": 43.4,
+    "a_win_prob": 43.4,
+    "draw_prob": 22.6,
+    "b_win_prob": 34.0,
+    "is_correct": true
+  },
+  "2026-03-02|Orlando|Miami": {
+    "prediction": "Away Win",
+    "confidence": 57.1,
+    "a_win_prob": 24.5,
+    "draw_prob": 18.4,
+    "b_win_prob": 57.1,
+    "is_correct": true
+  },
+  "2026-03-02|San Diego|St. Louis": {
+    "prediction": "Home Win",
+    "confidence": 61.2,
+    "a_win_prob": 61.2,
+    "draw_prob": 17.7,
+    "b_win_prob": 21.1,
+    "is_correct": true
+  },
+  "2026-03-07|NYCFC|Orlando": {
+    "prediction": "Home Win",
+    "confidence": 64.7,
+    "a_win_prob": 64.7,
+    "draw_prob": 16.2,
+    "b_win_prob": 19.1,
+    "is_correct": true
+  },
+  "2026-03-07|D.C. United|Miami": {
+    "prediction": "Away Win",
+    "confidence": 43.7,
+    "a_win_prob": 34.8,
+    "draw_prob": 21.5,
+    "b_win_prob": 43.7,
+    "is_correct": true
+  },
+  "2026-03-08|Red Bull NY|CF Montréal": {
+    "prediction": "Home Win",
+    "confidence": 64.2,
+    "a_win_prob": 64.2,
+    "draw_prob": 16.0,
+    "b_win_prob": 19.8,
+    "is_correct": false
+  },
+  "2026-03-08|Cincinnati|Toronto": {
+    "prediction": "Home Win",
+    "confidence": 47.1,
+    "a_win_prob": 47.1,
+    "draw_prob": 22.1,
+    "b_win_prob": 30.8,
+    "is_correct": false
+  },
+  "2026-03-08|Atlanta|Salt Lake": {
+    "prediction": "Away Win",
+    "confidence": 57.3,
+    "a_win_prob": 24.4,
+    "draw_prob": 18.3,
+    "b_win_prob": 57.3,
+    "is_correct": true
+  },
+  "2026-03-08|Charlotte|Austin": {
+    "prediction": "Home Win",
+    "confidence": 47.1,
+    "a_win_prob": 47.1,
+    "draw_prob": 21.9,
+    "b_win_prob": 31.0,
+    "is_correct": true
+  },
+  "2026-03-08|Columbus|Chicago": {
+    "prediction": "Away Win",
+    "confidence": 46.8,
+    "a_win_prob": 32.4,
+    "draw_prob": 20.8,
+    "b_win_prob": 46.8,
+    "is_correct": false
+  },
+  "2026-03-08|Philadelphia|San Jose": {
+    "prediction": "Away Win",
+    "confidence": 61.8,
+    "a_win_prob": 19.5,
+    "draw_prob": 18.7,
+    "b_win_prob": 61.8,
+    "is_correct": true
+  },
+  "2026-03-08|Nashville|Minnesota": {
+    "prediction": "Home Win",
+    "confidence": 62.4,
+    "a_win_prob": 62.4,
+    "draw_prob": 16.9,
+    "b_win_prob": 20.7,
+    "is_correct": true
+  },
+  "2026-03-08|Kansas City|San Diego": {
+    "prediction": "Away Win",
+    "confidence": 52.4,
+    "a_win_prob": 27.0,
+    "draw_prob": 20.6,
+    "b_win_prob": 52.4,
+    "is_correct": true
+  },
+  "2026-03-08|St. Louis|Seattle": {
+    "prediction": "Away Win",
+    "confidence": 55.3,
+    "a_win_prob": 26.0,
+    "draw_prob": 18.7,
+    "b_win_prob": 55.3,
+    "is_correct": true
+  },
+  "2026-03-08|Colorado|LA Galaxy": {
+    "prediction": "Home Win",
+    "confidence": 44.8,
+    "a_win_prob": 44.8,
+    "draw_prob": 23.1,
+    "b_win_prob": 32.1,
+    "is_correct": true
+  },
+  "2026-03-08|LAFC|Dallas": {
+    "prediction": "Home Win",
+    "confidence": 54.7,
+    "a_win_prob": 54.7,
+    "draw_prob": 19.9,
+    "b_win_prob": 25.4,
+    "is_correct": true
+  },
+  "2026-03-08|Portland|Vancouver": {
+    "prediction": "Away Win",
+    "confidence": 58.0,
+    "a_win_prob": 23.5,
+    "draw_prob": 18.5,
+    "b_win_prob": 58.0,
+    "is_correct": true
+  },
+  "2026-03-14|Toronto|Red Bull NY": {
+    "prediction": "Away Win",
+    "confidence": 45.5,
+    "a_win_prob": 32.8,
+    "draw_prob": 21.7,
+    "b_win_prob": 45.5,
+    "is_correct": false
+  },
+  "2026-03-14|Atlanta|Philadelphia": {
+    "prediction": "Home Win",
+    "confidence": 53.4,
+    "a_win_prob": 53.4,
+    "draw_prob": 20.1,
+    "b_win_prob": 26.5,
+    "is_correct": true
+  },
+  "2026-03-14|Columbus|Nashville": {
+    "prediction": "Away Win",
+    "confidence": 59.5,
+    "a_win_prob": 21.9,
+    "draw_prob": 18.6,
+    "b_win_prob": 59.5,
+    "is_correct": true
+  },
+  "2026-03-14|Charlotte|Miami": {
+    "prediction": "Away Win",
+    "confidence": 42.9,
+    "a_win_prob": 35.3,
+    "draw_prob": 21.8,
+    "b_win_prob": 42.9,
+    "is_correct": false
+  },
+  "2026-03-14|NYCFC|Colorado": {
+    "prediction": "Home Win",
+    "confidence": 52.4,
+    "a_win_prob": 52.4,
+    "draw_prob": 20.8,
+    "b_win_prob": 26.8,
+    "is_correct": true
+  },
+  "2026-03-14|Orlando|CF Montréal": {
+    "prediction": "Home Win",
+    "confidence": 42.1,
+    "a_win_prob": 42.1,
+    "draw_prob": 22.5,
+    "b_win_prob": 35.4,
+    "is_correct": true
+  },
+  "2026-03-15|New England|Cincinnati": {
+    "prediction": "Home Win",
+    "confidence": 45.0,
+    "a_win_prob": 45.0,
+    "draw_prob": 20.0,
+    "b_win_prob": 35.0,
+    "is_correct": true
+  },
+  "2026-03-15|Vancouver|Minnesota": {
+    "prediction": "Home Win",
+    "confidence": 64.4,
+    "a_win_prob": 64.4,
+    "draw_prob": 16.2,
+    "b_win_prob": 19.4,
+    "is_correct": true
+  },
+  "2026-03-15|San Jose|Seattle": {
+    "prediction": "Home Win",
+    "confidence": 49.5,
+    "a_win_prob": 49.5,
+    "draw_prob": 21.7,
+    "b_win_prob": 28.8,
+    "is_correct": false
+  },
+  "2026-03-15|Chicago|D.C. United": {
+    "prediction": "Home Win",
+    "confidence": 44.5,
+    "a_win_prob": 44.5,
+    "draw_prob": 21.5,
+    "b_win_prob": 34.0,
+    "is_correct": false
+  },
+  "2026-03-15|Dallas|San Diego": {
+    "prediction": "Away Win",
+    "confidence": 40.9,
+    "a_win_prob": 39.9,
+    "draw_prob": 19.2,
+    "b_win_prob": 40.9,
+    "is_correct": false
+  },
+  "2026-03-15|Houston|Portland": {
+    "prediction": "Home Win",
+    "confidence": 54.6,
+    "a_win_prob": 54.6,
+    "draw_prob": 19.6,
+    "b_win_prob": 25.8,
+    "is_correct": true
+  },
+  "2026-03-15|LA Galaxy|Kansas City": {
+    "prediction": "Home Win",
+    "confidence": 55.9,
+    "a_win_prob": 55.9,
+    "draw_prob": 19.2,
     "b_win_prob": 24.9,
     "is_correct": false
   },
-  "2026-05-16|Philadelphia|Columbus": {
+  "2026-03-15|Salt Lake|Austin": {
+    "prediction": "Home Win",
+    "confidence": 57.3,
+    "a_win_prob": 57.3,
+    "draw_prob": 19.0,
+    "b_win_prob": 23.7,
+    "is_correct": true
+  },
+  "2026-03-15|LAFC|St. Louis": {
+    "prediction": "Home Win",
+    "confidence": 64.7,
+    "a_win_prob": 64.7,
+    "draw_prob": 16.3,
+    "b_win_prob": 19.0,
+    "is_correct": true
+  },
+  "2026-03-21|Toronto|Columbus": {
+    "prediction": "Home Win",
+    "confidence": 58.3,
+    "a_win_prob": 58.3,
+    "draw_prob": 18.5,
+    "b_win_prob": 23.2,
+    "is_correct": true
+  },
+  "2026-03-21|Philadelphia|Chicago": {
+    "prediction": "Away Win",
+    "confidence": 60.1,
+    "a_win_prob": 21.3,
+    "draw_prob": 18.6,
+    "b_win_prob": 60.1,
+    "is_correct": true
+  },
+  "2026-03-21|Nashville|Orlando": {
+    "prediction": "Home Win",
+    "confidence": 68.4,
+    "a_win_prob": 68.4,
+    "draw_prob": 15.8,
+    "b_win_prob": 15.8,
+    "is_correct": true
+  },
+  "2026-03-21|Atlanta|D.C. United": {
+    "prediction": "Away Win",
+    "confidence": 41.1,
+    "a_win_prob": 36.3,
+    "draw_prob": 22.6,
+    "b_win_prob": 41.1,
+    "is_correct": false
+  },
+  "2026-03-21|Charlotte|Red Bull NY": {
+    "prediction": "Home Win",
+    "confidence": 54.6,
+    "a_win_prob": 54.6,
+    "draw_prob": 20.0,
+    "b_win_prob": 25.4,
+    "is_correct": true
+  },
+  "2026-03-22|Cincinnati|CF Montréal": {
+    "prediction": "Home Win",
+    "confidence": 61.8,
+    "a_win_prob": 61.8,
+    "draw_prob": 17.4,
+    "b_win_prob": 20.8,
+    "is_correct": true
+  },
+  "2026-03-22|NYCFC|Miami": {
+    "prediction": "Away Win",
+    "confidence": 59.4,
+    "a_win_prob": 22.0,
+    "draw_prob": 18.6,
+    "b_win_prob": 59.4,
+    "is_correct": true
+  },
+  "2026-03-22|Minnesota|Seattle": {
+    "prediction": "Home Win",
+    "confidence": 41.7,
+    "a_win_prob": 41.7,
+    "draw_prob": 22.7,
+    "b_win_prob": 35.6,
+    "is_correct": false
+  },
+  "2026-03-22|Portland|LA Galaxy": {
     "prediction": "Home Win",
     "confidence": 40.6,
     "a_win_prob": 40.6,
@@ -79,852 +543,52 @@
     "b_win_prob": 35.7,
     "is_correct": false
   },
-  "2026-05-16|Red Bull NY|NYCFC": {
-    "prediction": "Home Win",
-    "confidence": 44.8,
-    "a_win_prob": 44.8,
-    "draw_prob": 22.7,
-    "b_win_prob": 32.5,
+  "2026-03-22|San Diego|Salt Lake": {
+    "prediction": "Away Win",
+    "confidence": 56.6,
+    "a_win_prob": 25.2,
+    "draw_prob": 18.2,
+    "b_win_prob": 56.6,
     "is_correct": false
   },
-  "2026-05-17|Austin|Kansas City": {
-    "prediction": "Away Win",
-    "confidence": 51.7,
-    "a_win_prob": 28.7,
-    "draw_prob": 19.6,
-    "b_win_prob": 51.7,
-    "is_correct": true
-  },
-  "2026-05-17|Houston|Vancouver": {
+  "2026-03-22|Dallas|Houston": {
     "prediction": "Home Win",
-    "confidence": 49.5,
-    "a_win_prob": 49.5,
-    "draw_prob": 21.2,
-    "b_win_prob": 29.3,
-    "is_correct": true
-  },
-  "2026-05-17|Seattle|LA Galaxy": {
-    "prediction": "Home Win",
-    "confidence": 61.9,
-    "a_win_prob": 61.9,
-    "draw_prob": 17.2,
-    "b_win_prob": 20.9,
-    "is_correct": false
-  },
-  "2026-05-17|Salt Lake|Colorado": {
-    "prediction": "Home Win",
-    "confidence": 52.8,
-    "a_win_prob": 52.8,
-    "draw_prob": 20.5,
-    "b_win_prob": 26.7,
-    "is_correct": true
-  },
-  "2026-05-17|San Diego|Cincinnati": {
-    "prediction": "Away Win",
-    "confidence": 53.2,
-    "a_win_prob": 27.5,
-    "draw_prob": 19.3,
-    "b_win_prob": 53.2,
-    "is_correct": false
-  },
-  "2026-05-17|San Jose|Dallas": {
-    "prediction": "Home Win",
-    "confidence": 55.4,
-    "a_win_prob": 55.4,
-    "draw_prob": 19.5,
-    "b_win_prob": 25.1,
-    "is_correct": false
-  },
-  "2026-05-13|Charlotte|NYCFC": {
-    "prediction": "Away Win",
-    "confidence": 55.5,
-    "a_win_prob": 26.4,
-    "draw_prob": 18.1,
-    "b_win_prob": 55.5,
-    "is_correct": true
-  },
-  "2026-05-13|CF Montréal|Portland": {
-    "prediction": "Away Win",
-    "confidence": 42.4,
-    "a_win_prob": 35.3,
-    "draw_prob": 22.3,
-    "b_win_prob": 42.4,
-    "is_correct": false
-  },
-  "2026-05-13|D.C. United|Chicago": {
-    "prediction": "Away Win",
-    "confidence": 45.1,
-    "a_win_prob": 33.8,
-    "draw_prob": 21.1,
-    "b_win_prob": 45.1,
-    "is_correct": true
-  },
-  "2026-05-13|Cincinnati|Miami": {
-    "prediction": "Away Win",
-    "confidence": 57.3,
-    "a_win_prob": 24.6,
-    "draw_prob": 18.1,
-    "b_win_prob": 57.3,
-    "is_correct": true
-  },
-  "2026-05-13|New England|Nashville": {
-    "prediction": "Home Win",
-    "confidence": 40.5,
-    "a_win_prob": 40.5,
-    "draw_prob": 23.4,
-    "b_win_prob": 36.1,
-    "is_correct": false
-  },
-  "2026-05-13|Orlando|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 60.9,
-    "a_win_prob": 60.9,
-    "draw_prob": 17.7,
-    "b_win_prob": 21.4,
-    "is_correct": true
-  },
-  "2026-05-13|Red Bull NY|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 68.9,
-    "a_win_prob": 68.9,
+    "confidence": 66.1,
+    "a_win_prob": 66.1,
     "draw_prob": 15.9,
-    "b_win_prob": 15.2,
+    "b_win_prob": 18.0,
     "is_correct": true
   },
-  "2026-05-14|Dallas|Vancouver": {
+  "2026-03-22|Kansas City|Colorado": {
+    "prediction": "Away Win",
+    "confidence": 49.4,
+    "a_win_prob": 29.6,
+    "draw_prob": 21.0,
+    "b_win_prob": 49.4,
+    "is_correct": true
+  },
+  "2026-03-22|St. Louis|New England": {
+    "prediction": "Away Win",
+    "confidence": 44.6,
+    "a_win_prob": 35.0,
+    "draw_prob": 20.4,
+    "b_win_prob": 44.6,
+    "is_correct": false
+  },
+  "2026-03-22|Austin|LAFC": {
     "prediction": "Home Win",
-    "confidence": 39.7,
-    "a_win_prob": 39.7,
-    "draw_prob": 23.9,
+    "confidence": 41.5,
+    "a_win_prob": 41.5,
+    "draw_prob": 22.1,
     "b_win_prob": 36.4,
     "is_correct": false
   },
-  "2026-05-14|Minnesota|Colorado": {
+  "2026-03-22|Vancouver|San Jose": {
     "prediction": "Away Win",
-    "confidence": 43.8,
-    "a_win_prob": 34.8,
-    "draw_prob": 21.4,
-    "b_win_prob": 43.8,
-    "is_correct": true
-  },
-  "2026-05-14|Kansas City|LA Galaxy": {
-    "prediction": "Away Win",
-    "confidence": 42.7,
-    "a_win_prob": 37.5,
-    "draw_prob": 19.8,
-    "b_win_prob": 42.7,
-    "is_correct": false
-  },
-  "2026-05-14|St. Louis|LAFC": {
-    "prediction": "Home Win",
-    "confidence": 69.8,
-    "a_win_prob": 69.8,
-    "draw_prob": 15.5,
-    "b_win_prob": 14.7,
-    "is_correct": true
-  },
-  "2026-05-14|Salt Lake|Houston": {
-    "prediction": "Away Win",
-    "confidence": 42.8,
-    "a_win_prob": 37.4,
-    "draw_prob": 19.8,
-    "b_win_prob": 42.8,
-    "is_correct": false
-  },
-  "2026-05-14|San Diego|Austin": {
-    "prediction": "Home Win",
-    "confidence": 62.6,
-    "a_win_prob": 62.6,
-    "draw_prob": 17.6,
-    "b_win_prob": 19.8,
-    "is_correct": true
-  },
-  "2026-05-14|Seattle|San Jose": {
-    "prediction": "Home Win",
-    "confidence": 61.6,
-    "a_win_prob": 61.6,
-    "draw_prob": 17.6,
-    "b_win_prob": 20.8,
-    "is_correct": true
-  },
-  "2026-05-10|NYCFC|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 68.7,
-    "a_win_prob": 68.7,
-    "draw_prob": 15.9,
-    "b_win_prob": 15.4,
-    "is_correct": true
-  },
-  "2026-05-10|Minnesota|Austin": {
-    "prediction": "Away Win",
-    "confidence": 38.8,
-    "a_win_prob": 37.9,
-    "draw_prob": 23.3,
-    "b_win_prob": 38.8,
-    "is_correct": false
-  },
-  "2026-05-11|LAFC|Houston": {
-    "prediction": "Away Win",
-    "confidence": 54.1,
-    "a_win_prob": 26.9,
-    "draw_prob": 19.0,
-    "b_win_prob": 54.1,
-    "is_correct": true
-  },
-  "2026-05-09|Toronto|Miami": {
-    "prediction": "Away Win",
-    "confidence": 60.2,
-    "a_win_prob": 21.4,
-    "draw_prob": 18.4,
-    "b_win_prob": 60.2,
-    "is_correct": true
-  },
-  "2026-05-09|Chicago|Red Bull NY": {
-    "prediction": "Away Win",
-    "confidence": 48.5,
-    "a_win_prob": 31.0,
-    "draw_prob": 20.5,
-    "b_win_prob": 48.5,
-    "is_correct": true
-  },
-  "2026-05-09|CF Montréal|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 56.6,
-    "a_win_prob": 56.6,
-    "draw_prob": 19.0,
-    "b_win_prob": 24.4,
-    "is_correct": true
-  },
-  "2026-05-09|Atlanta|LA Galaxy": {
-    "prediction": "Away Win",
-    "confidence": 51.1,
-    "a_win_prob": 29.2,
-    "draw_prob": 19.7,
-    "b_win_prob": 51.1,
-    "is_correct": true
-  },
-  "2026-05-09|Charlotte|Cincinnati": {
-    "prediction": "Home Win",
-    "confidence": 49.2,
-    "a_win_prob": 49.2,
-    "draw_prob": 21.3,
-    "b_win_prob": 29.5,
-    "is_correct": false
-  },
-  "2026-05-09|New England|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 66.5,
-    "a_win_prob": 66.5,
-    "draw_prob": 16.2,
-    "b_win_prob": 17.3,
-    "is_correct": true
-  },
-  "2026-05-10|Dallas|Salt Lake": {
-    "prediction": "Home Win",
-    "confidence": 55.5,
-    "a_win_prob": 55.5,
-    "draw_prob": 19.7,
-    "b_win_prob": 24.8,
-    "is_correct": true
-  },
-  "2026-05-10|Nashville|D.C. United": {
-    "prediction": "Home Win",
-    "confidence": 60.3,
-    "a_win_prob": 60.3,
-    "draw_prob": 17.7,
-    "b_win_prob": 22.0,
-    "is_correct": false
-  },
-  "2026-05-10|Colorado|St. Louis": {
-    "prediction": "Away Win",
-    "confidence": 54.0,
-    "a_win_prob": 26.8,
-    "draw_prob": 19.2,
-    "b_win_prob": 54.0,
-    "is_correct": true
-  },
-  "2026-05-10|Portland|Kansas City": {
-    "prediction": "Home Win",
-    "confidence": 62.5,
-    "a_win_prob": 62.5,
-    "draw_prob": 16.8,
-    "b_win_prob": 20.7,
-    "is_correct": true
-  },
-  "2026-05-10|San Jose|Vancouver": {
-    "prediction": "Away Win",
-    "confidence": 50.6,
-    "a_win_prob": 29.4,
-    "draw_prob": 20.0,
-    "b_win_prob": 50.6,
-    "is_correct": false
-  },
-  "2026-05-10|Seattle|San Diego": {
-    "prediction": "Home Win",
-    "confidence": 43.9,
-    "a_win_prob": 43.9,
-    "draw_prob": 23.1,
-    "b_win_prob": 33.0,
-    "is_correct": false
-  },
-  "2026-05-03|NYCFC|D.C. United": {
-    "prediction": "Away Win",
-    "confidence": 41.4,
-    "a_win_prob": 35.9,
-    "draw_prob": 22.7,
-    "b_win_prob": 41.4,
-    "is_correct": true
-  },
-  "2026-05-03|Austin|St. Louis": {
-    "prediction": "Away Win",
-    "confidence": 44.9,
-    "a_win_prob": 33.5,
-    "draw_prob": 21.6,
-    "b_win_prob": 44.9,
-    "is_correct": false
-  },
-  "2026-05-02|Toronto|San Jose": {
-    "prediction": "Away Win",
-    "confidence": 51.3,
-    "a_win_prob": 28.3,
-    "draw_prob": 20.4,
-    "b_win_prob": 51.3,
-    "is_correct": false
-  },
-  "2026-05-02|Kansas City|Seattle": {
-    "prediction": "Away Win",
-    "confidence": 60.7,
-    "a_win_prob": 20.3,
-    "draw_prob": 19.0,
-    "b_win_prob": 60.7,
-    "is_correct": false
-  },
-  "2026-05-02|Salt Lake|Portland": {
-    "prediction": "Home Win",
-    "confidence": 55.6,
-    "a_win_prob": 55.6,
-    "draw_prob": 19.3,
-    "b_win_prob": 25.1,
-    "is_correct": true
-  },
-  "2026-05-02|Miami|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 68.5,
-    "a_win_prob": 68.5,
-    "draw_prob": 15.8,
-    "b_win_prob": 15.7,
-    "is_correct": false
-  },
-  "2026-05-02|Atlanta|CF Montréal": {
-    "prediction": "Home Win",
-    "confidence": 41.4,
-    "a_win_prob": 41.4,
-    "draw_prob": 23.4,
-    "b_win_prob": 35.2,
-    "is_correct": true
-  },
-  "2026-05-02|Columbus|Minnesota": {
-    "prediction": "Away Win",
-    "confidence": 55.1,
-    "a_win_prob": 26.3,
-    "draw_prob": 18.6,
-    "b_win_prob": 55.1,
-    "is_correct": true
-  },
-  "2026-05-02|New England|Charlotte": {
-    "prediction": "Home Win",
-    "confidence": 49.6,
-    "a_win_prob": 49.6,
-    "draw_prob": 20.4,
-    "b_win_prob": 30.0,
-    "is_correct": true
-  },
-  "2026-05-02|Philadelphia|Nashville": {
-    "prediction": "Away Win",
-    "confidence": 58.5,
-    "a_win_prob": 23.0,
-    "draw_prob": 18.5,
-    "b_win_prob": 58.5,
-    "is_correct": false
-  },
-  "2026-05-02|Red Bull NY|Dallas": {
-    "prediction": "Away Win",
-    "confidence": 53.0,
-    "a_win_prob": 28.1,
-    "draw_prob": 18.9,
-    "b_win_prob": 53.0,
-    "is_correct": true
-  },
-  "2026-05-03|Chicago|Cincinnati": {
-    "prediction": "Home Win",
-    "confidence": 62.6,
-    "a_win_prob": 62.6,
-    "draw_prob": 16.8,
-    "b_win_prob": 20.6,
-    "is_correct": false
-  },
-  "2026-05-03|Houston|Colorado": {
-    "prediction": "Away Win",
-    "confidence": 42.6,
-    "a_win_prob": 38.6,
-    "draw_prob": 18.8,
-    "b_win_prob": 42.6,
-    "is_correct": false
-  },
-  "2026-05-03|San Diego|LAFC": {
-    "prediction": "Away Win",
-    "confidence": 44.9,
-    "a_win_prob": 33.0,
-    "draw_prob": 22.1,
-    "b_win_prob": 44.9,
-    "is_correct": false
-  },
-  "2026-05-03|LA Galaxy|Vancouver": {
-    "prediction": "Away Win",
-    "confidence": 45.3,
-    "a_win_prob": 33.6,
-    "draw_prob": 21.1,
-    "b_win_prob": 45.3,
-    "is_correct": false
-  },
-  "2026-04-26|LA Galaxy|Salt Lake": {
-    "prediction": "Away Win",
-    "confidence": 41.0,
-    "a_win_prob": 36.8,
-    "draw_prob": 22.2,
-    "b_win_prob": 41.0,
-    "is_correct": false
-  },
-  "2026-04-25|Toronto|Atlanta": {
-    "prediction": "Home Win",
-    "confidence": 62.8,
-    "a_win_prob": 62.8,
-    "draw_prob": 17.0,
-    "b_win_prob": 20.2,
-    "is_correct": false
-  },
-  "2026-04-25|CF Montréal|NYCFC": {
-    "prediction": "Home Win",
-    "confidence": 46.4,
-    "a_win_prob": 46.4,
-    "draw_prob": 22.2,
-    "b_win_prob": 31.4,
-    "is_correct": true
-  },
-  "2026-04-25|Minnesota|LAFC": {
-    "prediction": "Home Win",
-    "confidence": 63.5,
-    "a_win_prob": 63.5,
-    "draw_prob": 17.1,
-    "b_win_prob": 19.4,
-    "is_correct": false
-  },
-  "2026-04-25|Columbus|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 51.9,
-    "a_win_prob": 51.9,
-    "draw_prob": 20.5,
-    "b_win_prob": 27.6,
-    "is_correct": true
-  },
-  "2026-04-25|D.C. United|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 52.0,
-    "a_win_prob": 52.0,
-    "draw_prob": 20.3,
-    "b_win_prob": 27.7,
-    "is_correct": true
-  },
-  "2026-04-25|Cincinnati|Red Bull NY": {
-    "prediction": "Home Win",
-    "confidence": 52.6,
-    "a_win_prob": 52.6,
-    "draw_prob": 20.2,
-    "b_win_prob": 27.2,
-    "is_correct": true
-  },
-  "2026-04-25|Miami|New England": {
-    "prediction": "Home Win",
     "confidence": 46.0,
-    "a_win_prob": 46.0,
-    "draw_prob": 22.8,
-    "b_win_prob": 31.2,
-    "is_correct": false
-  },
-  "2026-04-26|Austin|Houston": {
-    "prediction": "Home Win",
-    "confidence": 47.4,
-    "a_win_prob": 47.4,
-    "draw_prob": 21.7,
-    "b_win_prob": 30.9,
-    "is_correct": true
-  },
-  "2026-04-26|Chicago|Kansas City": {
-    "prediction": "Home Win",
-    "confidence": 71.3,
-    "a_win_prob": 71.3,
-    "draw_prob": 14.8,
-    "b_win_prob": 13.9,
-    "is_correct": true
-  },
-  "2026-04-26|Nashville|Charlotte": {
-    "prediction": "Home Win",
-    "confidence": 51.8,
-    "a_win_prob": 51.8,
-    "draw_prob": 20.8,
-    "b_win_prob": 27.4,
-    "is_correct": true
-  },
-  "2026-04-26|St. Louis|San Jose": {
-    "prediction": "Away Win",
-    "confidence": 54.0,
-    "a_win_prob": 27.0,
-    "draw_prob": 19.0,
-    "b_win_prob": 54.0,
-    "is_correct": true
-  },
-  "2026-04-26|San Diego|Portland": {
-    "prediction": "Away Win",
-    "confidence": 48.1,
-    "a_win_prob": 31.1,
-    "draw_prob": 20.8,
-    "b_win_prob": 48.1,
-    "is_correct": true
-  },
-  "2026-04-26|Seattle|Dallas": {
-    "prediction": "Home Win",
-    "confidence": 46.8,
-    "a_win_prob": 46.8,
+    "a_win_prob": 31.9,
     "draw_prob": 22.1,
-    "b_win_prob": 31.1,
-    "is_correct": true
-  },
-  "2026-04-26|Vancouver|Colorado": {
-    "prediction": "Home Win",
-    "confidence": 54.9,
-    "a_win_prob": 54.9,
-    "draw_prob": 20.2,
-    "b_win_prob": 24.9,
-    "is_correct": true
-  },
-  "2026-04-22|NYCFC|Cincinnati": {
-    "prediction": "Away Win",
-    "confidence": 52.9,
-    "a_win_prob": 27.6,
-    "draw_prob": 19.5,
-    "b_win_prob": 52.9,
-    "is_correct": false
-  },
-  "2026-04-22|Orlando|Charlotte": {
-    "prediction": "Away Win",
-    "confidence": 50.7,
-    "a_win_prob": 28.8,
-    "draw_prob": 20.5,
-    "b_win_prob": 50.7,
-    "is_correct": false
-  },
-  "2026-04-22|Red Bull NY|D.C. United": {
-    "prediction": "Home Win",
-    "confidence": 48.2,
-    "a_win_prob": 48.2,
-    "draw_prob": 22.1,
-    "b_win_prob": 29.7,
-    "is_correct": false
-  },
-  "2026-04-22|Toronto|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 64.0,
-    "a_win_prob": 64.0,
-    "draw_prob": 16.1,
-    "b_win_prob": 19.9,
-    "is_correct": false
-  },
-  "2026-04-22|Atlanta|New England": {
-    "prediction": "Away Win",
-    "confidence": 58.8,
-    "a_win_prob": 23.0,
-    "draw_prob": 18.2,
-    "b_win_prob": 58.8,
-    "is_correct": true
-  },
-  "2026-04-23|Dallas|Minnesota": {
-    "prediction": "Home Win",
-    "confidence": 43.8,
-    "a_win_prob": 43.8,
-    "draw_prob": 21.8,
-    "b_win_prob": 34.4,
-    "is_correct": false
-  },
-  "2026-04-23|Houston|San Diego": {
-    "prediction": "Home Win",
-    "confidence": 50.9,
-    "a_win_prob": 50.9,
-    "draw_prob": 20.5,
-    "b_win_prob": 28.6,
-    "is_correct": true
-  },
-  "2026-04-23|Salt Lake|Miami": {
-    "prediction": "Away Win",
-    "confidence": 41.7,
-    "a_win_prob": 35.9,
-    "draw_prob": 22.4,
-    "b_win_prob": 41.7,
-    "is_correct": true
-  },
-  "2026-04-23|Columbus|LA Galaxy": {
-    "prediction": "Away Win",
-    "confidence": 41.2,
-    "a_win_prob": 37.5,
-    "draw_prob": 21.3,
-    "b_win_prob": 41.2,
-    "is_correct": false
-  },
-  "2026-04-23|LAFC|Colorado": {
-    "prediction": "Home Win",
-    "confidence": 40.7,
-    "a_win_prob": 40.7,
-    "draw_prob": 22.4,
-    "b_win_prob": 36.9,
-    "is_correct": false
-  },
-  "2026-04-23|San Jose|Austin": {
-    "prediction": "Home Win",
-    "confidence": 69.4,
-    "a_win_prob": 69.4,
-    "draw_prob": 15.4,
-    "b_win_prob": 15.2,
-    "is_correct": true
-  },
-  "2026-04-19|LAFC|San Jose": {
-    "prediction": "Away Win",
-    "confidence": 58.9,
-    "a_win_prob": 22.7,
-    "draw_prob": 18.4,
-    "b_win_prob": 58.9,
-    "is_correct": true
-  },
-  "2026-04-18|Toronto|Austin": {
-    "prediction": "Home Win",
-    "confidence": 57.7,
-    "a_win_prob": 57.7,
-    "draw_prob": 18.8,
-    "b_win_prob": 23.5,
-    "is_correct": false
-  },
-  "2026-04-18|CF Montréal|Red Bull NY": {
-    "prediction": "Away Win",
-    "confidence": 43.3,
-    "a_win_prob": 34.7,
-    "draw_prob": 22.0,
-    "b_win_prob": 43.3,
-    "is_correct": false
-  },
-  "2026-04-18|Colorado|Miami": {
-    "prediction": "Away Win",
-    "confidence": 50.8,
-    "a_win_prob": 29.5,
-    "draw_prob": 19.7,
-    "b_win_prob": 50.8,
-    "is_correct": true
-  },
-  "2026-04-18|Atlanta|Nashville": {
-    "prediction": "Away Win",
-    "confidence": 59.5,
-    "a_win_prob": 22.1,
-    "draw_prob": 18.4,
-    "b_win_prob": 59.5,
-    "is_correct": true
-  },
-  "2026-04-18|Cincinnati|Chicago": {
-    "prediction": "Away Win",
-    "confidence": 51.0,
-    "a_win_prob": 29.2,
-    "draw_prob": 19.8,
-    "b_win_prob": 51.0,
-    "is_correct": false
-  },
-  "2026-04-18|New England|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 60.8,
-    "a_win_prob": 60.8,
-    "draw_prob": 18.6,
-    "b_win_prob": 20.6,
-    "is_correct": true
-  },
-  "2026-04-18|NYCFC|Charlotte": {
-    "prediction": "Away Win",
-    "confidence": 51.7,
-    "a_win_prob": 27.9,
-    "draw_prob": 20.4,
-    "b_win_prob": 51.7,
-    "is_correct": true
-  },
-  "2026-04-18|Orlando|Houston": {
-    "prediction": "Away Win",
-    "confidence": 38.9,
-    "a_win_prob": 38.7,
-    "draw_prob": 22.4,
-    "b_win_prob": 38.9,
-    "is_correct": true
-  },
-  "2026-04-18|Philadelphia|D.C. United": {
-    "prediction": "Home Win",
-    "confidence": 39.1,
-    "a_win_prob": 39.1,
-    "draw_prob": 21.9,
-    "b_win_prob": 39.0,
-    "is_correct": false
-  },
-  "2026-04-19|Dallas|LA Galaxy": {
-    "prediction": "Home Win",
-    "confidence": 59.4,
-    "a_win_prob": 59.4,
-    "draw_prob": 18.1,
-    "b_win_prob": 22.5,
-    "is_correct": false
-  },
-  "2026-04-19|Minnesota|Portland": {
-    "prediction": "Home Win",
-    "confidence": 62.3,
-    "a_win_prob": 62.3,
-    "draw_prob": 16.8,
-    "b_win_prob": 20.9,
-    "is_correct": true
-  },
-  "2026-04-19|Salt Lake|San Diego": {
-    "prediction": "Home Win",
-    "confidence": 66.5,
-    "a_win_prob": 66.5,
-    "draw_prob": 15.9,
-    "b_win_prob": 17.6,
-    "is_correct": true
-  },
-  "2026-04-19|Seattle|St. Louis": {
-    "prediction": "Home Win",
-    "confidence": 58.5,
-    "a_win_prob": 58.5,
-    "draw_prob": 18.7,
-    "b_win_prob": 22.8,
-    "is_correct": true
-  },
-  "2026-04-18|Vancouver|Kansas City": {
-    "prediction": "Home Win",
-    "confidence": 69.1,
-    "a_win_prob": 69.1,
-    "draw_prob": 15.7,
-    "b_win_prob": 15.2,
-    "is_correct": true
-  },
-  "2026-04-12|Columbus|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 53.1,
-    "a_win_prob": 53.1,
-    "draw_prob": 20.6,
-    "b_win_prob": 26.3,
-    "is_correct": false
-  },
-  "2026-04-11|Toronto|Cincinnati": {
-    "prediction": "Home Win",
-    "confidence": 48.8,
-    "a_win_prob": 48.8,
-    "draw_prob": 20.2,
-    "b_win_prob": 31.0,
-    "is_correct": false
-  },
-  "2026-04-11|Austin|LA Galaxy": {
-    "prediction": "Away Win",
-    "confidence": 41.7,
-    "a_win_prob": 36.6,
-    "draw_prob": 21.7,
-    "b_win_prob": 41.7,
-    "is_correct": true
-  },
-  "2026-04-11|CF Montréal|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 44.1,
-    "a_win_prob": 44.1,
-    "draw_prob": 21.0,
-    "b_win_prob": 34.9,
-    "is_correct": false
-  },
-  "2026-04-11|Portland|LAFC": {
-    "prediction": "Home Win",
-    "confidence": 46.8,
-    "a_win_prob": 46.8,
-    "draw_prob": 21.1,
-    "b_win_prob": 32.1,
-    "is_correct": true
-  },
-  "2026-04-11|Charlotte|Nashville": {
-    "prediction": "Away Win",
-    "confidence": 42.9,
-    "a_win_prob": 35.7,
-    "draw_prob": 21.4,
-    "b_win_prob": 42.9,
-    "is_correct": true
-  },
-  "2026-04-11|Miami|Red Bull NY": {
-    "prediction": "Home Win",
-    "confidence": 63.8,
-    "a_win_prob": 63.8,
-    "draw_prob": 17.1,
-    "b_win_prob": 19.1,
-    "is_correct": false
-  },
-  "2026-04-11|New England|D.C. United": {
-    "prediction": "Home Win",
-    "confidence": 64.4,
-    "a_win_prob": 64.4,
-    "draw_prob": 17.0,
-    "b_win_prob": 18.6,
-    "is_correct": true
-  },
-  "2026-04-11|Vancouver|NYCFC": {
-    "prediction": "Home Win",
-    "confidence": 67.5,
-    "a_win_prob": 67.5,
-    "draw_prob": 15.9,
-    "b_win_prob": 16.6,
-    "is_correct": true
-  },
-  "2026-04-12|Chicago|Atlanta": {
-    "prediction": "Home Win",
-    "confidence": 70.0,
-    "a_win_prob": 70.0,
-    "draw_prob": 15.3,
-    "b_win_prob": 14.7,
-    "is_correct": true
-  },
-  "2026-04-12|Dallas|St. Louis": {
-    "prediction": "Home Win",
-    "confidence": 56.3,
-    "a_win_prob": 56.3,
-    "draw_prob": 19.1,
-    "b_win_prob": 24.6,
-    "is_correct": false
-  },
-  "2026-04-12|Kansas City|San Jose": {
-    "prediction": "Away Win",
-    "confidence": 62.6,
-    "a_win_prob": 19.1,
-    "draw_prob": 18.3,
-    "b_win_prob": 62.6,
-    "is_correct": true
-  },
-  "2026-04-12|Colorado|Houston": {
-    "prediction": "Home Win",
-    "confidence": 52.9,
-    "a_win_prob": 52.9,
-    "draw_prob": 18.8,
-    "b_win_prob": 28.3,
-    "is_correct": true
-  },
-  "2026-04-12|San Diego|Minnesota": {
-    "prediction": "Away Win",
-    "confidence": 58.6,
-    "a_win_prob": 22.6,
-    "draw_prob": 18.8,
-    "b_win_prob": 58.6,
+    "b_win_prob": 46.0,
     "is_correct": true
   },
   "2026-04-04|Toronto|Colorado": {
@@ -1047,1487 +711,15 @@
     "b_win_prob": 22.6,
     "is_correct": true
   },
-  "2026-03-22|Cincinnati|CF Montréal": {
-    "prediction": "Home Win",
-    "confidence": 61.8,
-    "a_win_prob": 61.8,
-    "draw_prob": 17.4,
-    "b_win_prob": 20.8,
-    "is_correct": true
-  },
-  "2026-03-22|NYCFC|Miami": {
-    "prediction": "Away Win",
-    "confidence": 59.4,
-    "a_win_prob": 22.0,
-    "draw_prob": 18.6,
-    "b_win_prob": 59.4,
-    "is_correct": true
-  },
-  "2026-03-22|Minnesota|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 41.7,
-    "a_win_prob": 41.7,
-    "draw_prob": 22.7,
-    "b_win_prob": 35.6,
-    "is_correct": false
-  },
-  "2026-03-22|Portland|LA Galaxy": {
-    "prediction": "Home Win",
-    "confidence": 40.6,
-    "a_win_prob": 40.6,
-    "draw_prob": 23.7,
-    "b_win_prob": 35.7,
-    "is_correct": false
-  },
-  "2026-03-22|San Diego|Salt Lake": {
-    "prediction": "Away Win",
-    "confidence": 56.6,
-    "a_win_prob": 25.2,
-    "draw_prob": 18.2,
-    "b_win_prob": 56.6,
-    "is_correct": false
-  },
-  "2026-03-21|Toronto|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 58.3,
-    "a_win_prob": 58.3,
-    "draw_prob": 18.5,
-    "b_win_prob": 23.2,
-    "is_correct": true
-  },
-  "2026-03-21|Philadelphia|Chicago": {
-    "prediction": "Away Win",
-    "confidence": 60.1,
-    "a_win_prob": 21.3,
-    "draw_prob": 18.6,
-    "b_win_prob": 60.1,
-    "is_correct": true
-  },
-  "2026-03-21|Nashville|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 68.4,
-    "a_win_prob": 68.4,
-    "draw_prob": 15.8,
-    "b_win_prob": 15.8,
-    "is_correct": true
-  },
-  "2026-03-21|Atlanta|D.C. United": {
-    "prediction": "Away Win",
-    "confidence": 41.1,
-    "a_win_prob": 36.3,
-    "draw_prob": 22.6,
-    "b_win_prob": 41.1,
-    "is_correct": false
-  },
-  "2026-03-21|Charlotte|Red Bull NY": {
-    "prediction": "Home Win",
-    "confidence": 54.6,
-    "a_win_prob": 54.6,
-    "draw_prob": 20.0,
-    "b_win_prob": 25.4,
-    "is_correct": true
-  },
-  "2026-03-22|Dallas|Houston": {
-    "prediction": "Home Win",
-    "confidence": 66.1,
-    "a_win_prob": 66.1,
-    "draw_prob": 15.9,
-    "b_win_prob": 18.0,
-    "is_correct": true
-  },
-  "2026-03-22|Kansas City|Colorado": {
-    "prediction": "Away Win",
-    "confidence": 49.4,
-    "a_win_prob": 29.6,
-    "draw_prob": 21.0,
-    "b_win_prob": 49.4,
-    "is_correct": true
-  },
-  "2026-03-22|St. Louis|New England": {
-    "prediction": "Away Win",
-    "confidence": 44.6,
-    "a_win_prob": 35.0,
-    "draw_prob": 20.4,
-    "b_win_prob": 44.6,
-    "is_correct": false
-  },
-  "2026-03-22|Austin|LAFC": {
-    "prediction": "Home Win",
-    "confidence": 41.5,
-    "a_win_prob": 41.5,
-    "draw_prob": 22.1,
-    "b_win_prob": 36.4,
-    "is_correct": false
-  },
-  "2026-03-22|Vancouver|San Jose": {
-    "prediction": "Away Win",
-    "confidence": 46.0,
-    "a_win_prob": 31.9,
-    "draw_prob": 22.1,
-    "b_win_prob": 46.0,
-    "is_correct": true
-  },
-  "2026-03-15|New England|Cincinnati": {
-    "prediction": "Home Win",
-    "confidence": 45.0,
-    "a_win_prob": 45.0,
-    "draw_prob": 20.0,
-    "b_win_prob": 35.0,
-    "is_correct": true
-  },
-  "2026-03-15|Vancouver|Minnesota": {
-    "prediction": "Home Win",
-    "confidence": 64.4,
-    "a_win_prob": 64.4,
-    "draw_prob": 16.2,
-    "b_win_prob": 19.4,
-    "is_correct": true
-  },
-  "2026-03-15|San Jose|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 49.5,
-    "a_win_prob": 49.5,
-    "draw_prob": 21.7,
-    "b_win_prob": 28.8,
-    "is_correct": false
-  },
-  "2026-03-14|Toronto|Red Bull NY": {
-    "prediction": "Away Win",
-    "confidence": 45.5,
-    "a_win_prob": 32.8,
-    "draw_prob": 21.7,
-    "b_win_prob": 45.5,
-    "is_correct": false
-  },
-  "2026-03-14|Atlanta|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 53.4,
-    "a_win_prob": 53.4,
-    "draw_prob": 20.1,
-    "b_win_prob": 26.5,
-    "is_correct": true
-  },
-  "2026-03-14|Columbus|Nashville": {
-    "prediction": "Away Win",
-    "confidence": 59.5,
-    "a_win_prob": 21.9,
-    "draw_prob": 18.6,
-    "b_win_prob": 59.5,
-    "is_correct": true
-  },
-  "2026-03-14|Charlotte|Miami": {
-    "prediction": "Away Win",
-    "confidence": 42.9,
-    "a_win_prob": 35.3,
-    "draw_prob": 21.8,
-    "b_win_prob": 42.9,
-    "is_correct": false
-  },
-  "2026-03-14|NYCFC|Colorado": {
-    "prediction": "Home Win",
-    "confidence": 52.4,
-    "a_win_prob": 52.4,
-    "draw_prob": 20.8,
-    "b_win_prob": 26.8,
-    "is_correct": true
-  },
-  "2026-03-14|Orlando|CF Montréal": {
-    "prediction": "Home Win",
-    "confidence": 42.1,
-    "a_win_prob": 42.1,
-    "draw_prob": 22.5,
-    "b_win_prob": 35.4,
-    "is_correct": true
-  },
-  "2026-03-15|Chicago|D.C. United": {
-    "prediction": "Home Win",
-    "confidence": 44.5,
-    "a_win_prob": 44.5,
-    "draw_prob": 21.5,
-    "b_win_prob": 34.0,
-    "is_correct": false
-  },
-  "2026-03-15|Dallas|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 40.9,
-    "a_win_prob": 39.9,
-    "draw_prob": 19.2,
-    "b_win_prob": 40.9,
-    "is_correct": false
-  },
-  "2026-03-15|Houston|Portland": {
-    "prediction": "Home Win",
-    "confidence": 54.6,
-    "a_win_prob": 54.6,
-    "draw_prob": 19.6,
-    "b_win_prob": 25.8,
-    "is_correct": true
-  },
-  "2026-03-15|LA Galaxy|Kansas City": {
-    "prediction": "Home Win",
-    "confidence": 55.9,
-    "a_win_prob": 55.9,
-    "draw_prob": 19.2,
-    "b_win_prob": 24.9,
-    "is_correct": false
-  },
-  "2026-03-15|Salt Lake|Austin": {
-    "prediction": "Home Win",
-    "confidence": 57.3,
-    "a_win_prob": 57.3,
-    "draw_prob": 19.0,
-    "b_win_prob": 23.7,
-    "is_correct": true
-  },
-  "2026-03-15|LAFC|St. Louis": {
-    "prediction": "Home Win",
-    "confidence": 64.7,
-    "a_win_prob": 64.7,
-    "draw_prob": 16.3,
-    "b_win_prob": 19.0,
-    "is_correct": true
-  },
-  "2026-03-08|Red Bull NY|CF Montréal": {
-    "prediction": "Home Win",
-    "confidence": 64.2,
-    "a_win_prob": 64.2,
-    "draw_prob": 16.0,
-    "b_win_prob": 19.8,
-    "is_correct": false
-  },
-  "2026-03-08|Cincinnati|Toronto": {
-    "prediction": "Home Win",
-    "confidence": 47.1,
-    "a_win_prob": 47.1,
-    "draw_prob": 22.1,
-    "b_win_prob": 30.8,
-    "is_correct": false
-  },
-  "2026-03-07|NYCFC|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 64.7,
-    "a_win_prob": 64.7,
-    "draw_prob": 16.2,
-    "b_win_prob": 19.1,
-    "is_correct": true
-  },
-  "2026-03-07|D.C. United|Miami": {
-    "prediction": "Away Win",
-    "confidence": 43.7,
-    "a_win_prob": 34.8,
-    "draw_prob": 21.5,
-    "b_win_prob": 43.7,
-    "is_correct": true
-  },
-  "2026-03-08|Atlanta|Salt Lake": {
-    "prediction": "Away Win",
-    "confidence": 57.3,
-    "a_win_prob": 24.4,
-    "draw_prob": 18.3,
-    "b_win_prob": 57.3,
-    "is_correct": true
-  },
-  "2026-03-08|Charlotte|Austin": {
-    "prediction": "Home Win",
-    "confidence": 47.1,
-    "a_win_prob": 47.1,
-    "draw_prob": 21.9,
-    "b_win_prob": 31.0,
-    "is_correct": true
-  },
-  "2026-03-08|Columbus|Chicago": {
-    "prediction": "Away Win",
-    "confidence": 46.8,
-    "a_win_prob": 32.4,
-    "draw_prob": 20.8,
-    "b_win_prob": 46.8,
-    "is_correct": false
-  },
-  "2026-03-08|Philadelphia|San Jose": {
-    "prediction": "Away Win",
-    "confidence": 61.8,
-    "a_win_prob": 19.5,
-    "draw_prob": 18.7,
-    "b_win_prob": 61.8,
-    "is_correct": true
-  },
-  "2026-03-08|Nashville|Minnesota": {
-    "prediction": "Home Win",
-    "confidence": 62.4,
-    "a_win_prob": 62.4,
-    "draw_prob": 16.9,
-    "b_win_prob": 20.7,
-    "is_correct": true
-  },
-  "2026-03-08|Kansas City|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 52.4,
-    "a_win_prob": 27.0,
-    "draw_prob": 20.6,
-    "b_win_prob": 52.4,
-    "is_correct": true
-  },
-  "2026-03-08|St. Louis|Seattle": {
-    "prediction": "Away Win",
-    "confidence": 55.3,
-    "a_win_prob": 26.0,
-    "draw_prob": 18.7,
-    "b_win_prob": 55.3,
-    "is_correct": true
-  },
-  "2026-03-08|Colorado|LA Galaxy": {
-    "prediction": "Home Win",
-    "confidence": 44.8,
-    "a_win_prob": 44.8,
-    "draw_prob": 23.1,
-    "b_win_prob": 32.1,
-    "is_correct": true
-  },
-  "2026-03-08|LAFC|Dallas": {
-    "prediction": "Home Win",
-    "confidence": 54.7,
-    "a_win_prob": 54.7,
-    "draw_prob": 19.9,
-    "b_win_prob": 25.4,
-    "is_correct": true
-  },
-  "2026-03-08|Portland|Vancouver": {
-    "prediction": "Away Win",
-    "confidence": 58.0,
-    "a_win_prob": 23.5,
-    "draw_prob": 18.5,
-    "b_win_prob": 58.0,
-    "is_correct": true
-  },
-  "2026-03-01|Austin|D.C. United": {
-    "prediction": "Home Win",
-    "confidence": 41.0,
-    "a_win_prob": 41.0,
-    "draw_prob": 23.6,
-    "b_win_prob": 35.4,
-    "is_correct": true
-  },
-  "2026-03-01|Philadelphia|NYCFC": {
-    "prediction": "Away Win",
-    "confidence": 56.9,
-    "a_win_prob": 24.1,
-    "draw_prob": 19.0,
-    "b_win_prob": 56.9,
-    "is_correct": true
-  },
-  "2026-03-02|Orlando|Miami": {
-    "prediction": "Away Win",
-    "confidence": 57.1,
-    "a_win_prob": 24.5,
-    "draw_prob": 18.4,
-    "b_win_prob": 57.1,
-    "is_correct": true
-  },
-  "2026-03-02|San Diego|St. Louis": {
-    "prediction": "Home Win",
-    "confidence": 61.2,
-    "a_win_prob": 61.2,
-    "draw_prob": 17.7,
-    "b_win_prob": 21.1,
-    "is_correct": true
-  },
-  "2026-02-28|Chicago|CF Montréal": {
-    "prediction": "Home Win",
-    "confidence": 58.9,
-    "a_win_prob": 58.9,
-    "draw_prob": 18.5,
-    "b_win_prob": 22.6,
-    "is_correct": true
-  },
-  "2026-02-28|Red Bull NY|New England": {
-    "prediction": "Home Win",
-    "confidence": 53.5,
-    "a_win_prob": 53.5,
-    "draw_prob": 18.6,
-    "b_win_prob": 27.9,
-    "is_correct": true
-  },
-  "2026-02-28|Colorado|Portland": {
-    "prediction": "Home Win",
-    "confidence": 50.8,
-    "a_win_prob": 50.8,
-    "draw_prob": 21.2,
-    "b_win_prob": 28.0,
-    "is_correct": true
-  },
-  "2026-02-28|Minnesota|Cincinnati": {
-    "prediction": "Home Win",
-    "confidence": 50.8,
-    "a_win_prob": 50.8,
-    "draw_prob": 20.6,
-    "b_win_prob": 28.6,
-    "is_correct": true
-  },
-  "2026-03-01|Salt Lake|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 38.8,
-    "a_win_prob": 38.8,
-    "draw_prob": 23.7,
-    "b_win_prob": 37.5,
-    "is_correct": true
-  },
-  "2026-03-01|San Jose|Atlanta": {
-    "prediction": "Home Win",
-    "confidence": 70.3,
-    "a_win_prob": 70.3,
-    "draw_prob": 15.1,
-    "b_win_prob": 14.6,
-    "is_correct": true
-  },
-  "2026-03-01|Dallas|Nashville": {
-    "prediction": "Away Win",
-    "confidence": 45.7,
-    "a_win_prob": 32.6,
-    "draw_prob": 21.7,
-    "b_win_prob": 45.7,
-    "is_correct": false
-  },
-  "2026-03-01|Houston|LAFC": {
-    "prediction": "Away Win",
-    "confidence": 47.2,
-    "a_win_prob": 32.2,
-    "draw_prob": 20.6,
-    "b_win_prob": 47.2,
-    "is_correct": true
-  },
-  "2026-03-01|Kansas City|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 46.1,
-    "a_win_prob": 46.1,
-    "draw_prob": 22.4,
-    "b_win_prob": 31.5,
-    "is_correct": false
-  },
-  "2026-03-01|Vancouver|Toronto": {
-    "prediction": "Home Win",
-    "confidence": 68.3,
-    "a_win_prob": 68.3,
-    "draw_prob": 15.7,
-    "b_win_prob": 16.0,
-    "is_correct": true
-  },
-  "2026-03-01|LA Galaxy|Charlotte": {
-    "prediction": "Home Win",
-    "confidence": 43.4,
-    "a_win_prob": 43.4,
-    "draw_prob": 22.6,
-    "b_win_prob": 34.0,
-    "is_correct": true
-  },
-  "2026-02-23|LA Galaxy|NYCFC": {
-    "prediction": "Away Win",
-    "confidence": 42.9,
-    "a_win_prob": 36.5,
-    "draw_prob": 20.6,
-    "b_win_prob": 42.9,
-    "is_correct": false
-  },
-  "2026-02-23|Seattle|Colorado": {
-    "prediction": "Home Win",
-    "confidence": 57.8,
-    "a_win_prob": 57.8,
-    "draw_prob": 18.9,
-    "b_win_prob": 23.3,
-    "is_correct": true
-  },
-  "2026-02-21|St. Louis|Charlotte": {
-    "prediction": "Away Win",
-    "confidence": 42.4,
-    "a_win_prob": 36.3,
-    "draw_prob": 21.3,
-    "b_win_prob": 42.4,
-    "is_correct": false
-  },
-  "2026-02-21|Cincinnati|Atlanta": {
-    "prediction": "Home Win",
-    "confidence": 57.4,
-    "a_win_prob": 57.4,
-    "draw_prob": 18.7,
-    "b_win_prob": 23.9,
-    "is_correct": true
-  },
-  "2026-02-22|D.C. United|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 65.8,
-    "a_win_prob": 65.8,
-    "draw_prob": 15.9,
-    "b_win_prob": 18.3,
-    "is_correct": true
-  },
-  "2026-02-22|Orlando|Red Bull NY": {
-    "prediction": "Away Win",
-    "confidence": 51.8,
-    "a_win_prob": 27.6,
-    "draw_prob": 20.6,
-    "b_win_prob": 51.8,
-    "is_correct": true
-  },
-  "2026-02-22|Vancouver|Salt Lake": {
-    "prediction": "Home Win",
-    "confidence": 58.4,
-    "a_win_prob": 58.4,
-    "draw_prob": 18.5,
-    "b_win_prob": 23.1,
-    "is_correct": true
-  },
-  "2026-02-22|Austin|Minnesota": {
-    "prediction": "Home Win",
-    "confidence": 38.6,
-    "a_win_prob": 38.6,
-    "draw_prob": 23.2,
-    "b_win_prob": 38.2,
-    "is_correct": false
-  },
-  "2026-02-22|Dallas|Toronto": {
-    "prediction": "Home Win",
-    "confidence": 59.7,
-    "a_win_prob": 59.7,
-    "draw_prob": 18.2,
-    "b_win_prob": 22.1,
-    "is_correct": true
-  },
-  "2026-02-22|Houston|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 48.5,
-    "a_win_prob": 48.5,
-    "draw_prob": 21.8,
-    "b_win_prob": 29.7,
-    "is_correct": true
-  },
-  "2026-02-22|Nashville|New England": {
-    "prediction": "Home Win",
-    "confidence": 64.7,
-    "a_win_prob": 64.7,
-    "draw_prob": 16.1,
-    "b_win_prob": 19.2,
-    "is_correct": true
-  },
-  "2026-02-22|LAFC|Miami": {
-    "prediction": "Home Win",
-    "confidence": 53.8,
-    "a_win_prob": 53.8,
-    "draw_prob": 19.7,
-    "b_win_prob": 26.5,
-    "is_correct": true
-  },
-  "2026-02-22|Portland|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 52.5,
-    "a_win_prob": 52.5,
-    "draw_prob": 20.3,
-    "b_win_prob": 27.2,
-    "is_correct": true
-  },
-  "2026-02-22|San Diego|CF Montréal": {
-    "prediction": "Home Win",
-    "confidence": 66.5,
-    "a_win_prob": 66.5,
-    "draw_prob": 15.8,
-    "b_win_prob": 17.7,
-    "is_correct": true
-  },
-  "2026-02-22|San Jose|Kansas City": {
-    "prediction": "Home Win",
-    "confidence": 69.4,
-    "a_win_prob": 69.4,
-    "draw_prob": 15.2,
-    "b_win_prob": 15.4,
-    "is_correct": true
-  },
-  "2025-12-06|Miami|Vancouver": {
-    "prediction": "Home Win",
-    "confidence": 41.4,
-    "a_win_prob": 41.4,
-    "draw_prob": 22.1,
-    "b_win_prob": 36.5,
-    "is_correct": true
-  },
-  "2025-11-29|Miami|NYCFC": {
-    "prediction": "Away Win",
-    "confidence": 41.5,
-    "a_win_prob": 40.2,
-    "draw_prob": 18.3,
-    "b_win_prob": 41.5,
-    "is_correct": false
-  },
-  "2025-11-30|San Diego|Vancouver": {
-    "prediction": "Home Win",
-    "confidence": 50.9,
-    "a_win_prob": 50.9,
-    "draw_prob": 18.8,
-    "b_win_prob": 30.3,
-    "is_correct": false
-  },
-  "2025-11-25|San Diego|Minnesota": {
-    "prediction": "Home Win",
-    "confidence": 54.7,
-    "a_win_prob": 54.7,
-    "draw_prob": 19.8,
-    "b_win_prob": 25.5,
-    "is_correct": true
-  },
-  "2025-11-23|Cincinnati|Miami": {
-    "prediction": "Away Win",
-    "confidence": 45.4,
-    "a_win_prob": 34.1,
-    "draw_prob": 20.5,
-    "b_win_prob": 45.4,
-    "is_correct": true
-  },
-  "2025-11-24|Philadelphia|NYCFC": {
-    "prediction": "Away Win",
-    "confidence": 50.3,
-    "a_win_prob": 30.2,
-    "draw_prob": 19.5,
-    "b_win_prob": 50.3,
-    "is_correct": true
-  },
-  "2025-11-23|Vancouver|LAFC": {
-    "prediction": "Home Win",
-    "confidence": 43.0,
-    "a_win_prob": 43.0,
-    "draw_prob": 22.2,
-    "b_win_prob": 34.8,
-    "is_correct": true
-  },
-  "2025-11-10|San Diego|Portland": {
-    "prediction": "Home Win",
-    "confidence": 67.2,
-    "a_win_prob": 67.2,
-    "draw_prob": 15.4,
-    "b_win_prob": 17.4,
-    "is_correct": true
-  },
-  "2025-11-08|LAFC|Austin": {
-    "prediction": "Home Win",
-    "confidence": 56.1,
-    "a_win_prob": 56.1,
-    "draw_prob": 19.3,
-    "b_win_prob": 24.6,
-    "is_correct": false
-  },
-  "2025-11-08|Philadelphia|Chicago": {
-    "prediction": "Away Win",
-    "confidence": 42.1,
-    "a_win_prob": 36.4,
-    "draw_prob": 21.5,
-    "b_win_prob": 42.1,
-    "is_correct": false
-  },
-  "2025-11-08|Minnesota|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 38.8,
-    "a_win_prob": 38.8,
-    "draw_prob": 22.5,
-    "b_win_prob": 38.7,
-    "is_correct": true
-  },
-  "2025-11-08|Cincinnati|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 47.3,
-    "a_win_prob": 47.3,
-    "draw_prob": 20.5,
-    "b_win_prob": 32.2,
-    "is_correct": true
-  },
-  "2025-11-09|Miami|Nashville": {
-    "prediction": "Home Win",
-    "confidence": 59.0,
-    "a_win_prob": 59.0,
-    "draw_prob": 18.2,
-    "b_win_prob": 22.8,
-    "is_correct": true
-  },
-  "2025-11-07|Vancouver|Dallas": {
-    "prediction": "Home Win",
-    "confidence": 41.1,
-    "a_win_prob": 41.1,
-    "draw_prob": 21.0,
-    "b_win_prob": 37.9,
-    "is_correct": false
-  },
-  "2025-11-08|Charlotte|NYCFC": {
-    "prediction": "Home Win",
-    "confidence": 50.3,
-    "a_win_prob": 50.3,
-    "draw_prob": 21.5,
-    "b_win_prob": 28.2,
-    "is_correct": false
-  },
-  "2025-11-04|Seattle|Minnesota": {
-    "prediction": "Home Win",
-    "confidence": 49.5,
-    "a_win_prob": 49.5,
-    "draw_prob": 20.9,
-    "b_win_prob": 29.6,
-    "is_correct": true
-  },
-  "2025-11-02|Columbus|Cincinnati": {
-    "prediction": "Home Win",
-    "confidence": 41.6,
-    "a_win_prob": 41.6,
-    "draw_prob": 21.6,
-    "b_win_prob": 36.8,
-    "is_correct": true
-  },
-  "2025-11-03|Austin|LAFC": {
-    "prediction": "Away Win",
-    "confidence": 46.1,
-    "a_win_prob": 32.8,
-    "draw_prob": 21.1,
-    "b_win_prob": 46.1,
-    "is_correct": true
-  },
-  "2025-11-01|NYCFC|Charlotte": {
-    "prediction": "Away Win",
-    "confidence": 40.0,
-    "a_win_prob": 38.5,
-    "draw_prob": 21.5,
-    "b_win_prob": 40.0,
-    "is_correct": true
-  },
-  "2025-11-01|Chicago|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 52.5,
-    "a_win_prob": 52.5,
-    "draw_prob": 20.3,
-    "b_win_prob": 27.2,
-    "is_correct": false
-  },
-  "2025-11-01|Nashville|Miami": {
-    "prediction": "Away Win",
-    "confidence": 47.6,
-    "a_win_prob": 31.3,
-    "draw_prob": 21.1,
-    "b_win_prob": 47.6,
-    "is_correct": false
-  },
-  "2025-11-02|Dallas|Vancouver": {
-    "prediction": "Home Win",
-    "confidence": 48.1,
-    "a_win_prob": 48.1,
-    "draw_prob": 21.5,
-    "b_win_prob": 30.4,
-    "is_correct": false
-  },
-  "2025-11-02|Portland|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 55.2,
-    "a_win_prob": 25.2,
-    "draw_prob": 19.6,
-    "b_win_prob": 55.2,
-    "is_correct": false
-  },
-  "2025-10-30|LAFC|Austin": {
-    "prediction": "Home Win",
-    "confidence": 56.1,
-    "a_win_prob": 56.1,
-    "draw_prob": 19.3,
-    "b_win_prob": 24.6,
-    "is_correct": true
-  },
-  "2025-10-28|Charlotte|NYCFC": {
-    "prediction": "Home Win",
-    "confidence": 50.3,
-    "a_win_prob": 50.3,
-    "draw_prob": 21.5,
-    "b_win_prob": 28.2,
-    "is_correct": false
-  },
-  "2025-10-27|Cincinnati|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 47.3,
-    "a_win_prob": 47.3,
-    "draw_prob": 20.5,
-    "b_win_prob": 32.2,
-    "is_correct": true
-  },
-  "2025-10-28|Minnesota|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 38.8,
-    "a_win_prob": 38.8,
-    "draw_prob": 22.5,
-    "b_win_prob": 38.7,
-    "is_correct": true
-  },
-  "2025-10-26|Philadelphia|Chicago": {
-    "prediction": "Away Win",
-    "confidence": 42.1,
-    "a_win_prob": 36.4,
-    "draw_prob": 21.5,
-    "b_win_prob": 42.1,
-    "is_correct": false
-  },
-  "2025-10-26|Vancouver|Dallas": {
-    "prediction": "Home Win",
-    "confidence": 41.1,
-    "a_win_prob": 41.1,
-    "draw_prob": 21.0,
-    "b_win_prob": 37.9,
-    "is_correct": true
-  },
-  "2025-10-27|San Diego|Portland": {
-    "prediction": "Home Win",
-    "confidence": 67.2,
-    "a_win_prob": 67.2,
-    "draw_prob": 15.4,
-    "b_win_prob": 17.4,
-    "is_correct": true
-  },
-  "2025-10-25|Miami|Nashville": {
-    "prediction": "Home Win",
-    "confidence": 59.0,
-    "a_win_prob": 59.0,
-    "draw_prob": 18.2,
-    "b_win_prob": 22.8,
-    "is_correct": true
-  },
-  "2025-10-23|Chicago|Orlando": {
-    "prediction": "Home Win",
-    "confidence": 44.7,
-    "a_win_prob": 44.7,
-    "draw_prob": 19.8,
-    "b_win_prob": 35.5,
-    "is_correct": true
-  },
-  "2025-10-23|Portland|Salt Lake": {
-    "prediction": "Home Win",
-    "confidence": 43.9,
-    "a_win_prob": 43.9,
-    "draw_prob": 22.0,
-    "b_win_prob": 34.1,
-    "is_correct": true
-  },
-  "2025-10-18|Atlanta|D.C. United": {
-    "prediction": "Home Win",
-    "confidence": 40.0,
-    "a_win_prob": 40.0,
-    "draw_prob": 22.8,
-    "b_win_prob": 37.2,
-    "is_correct": false
-  },
-  "2025-10-18|Charlotte|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 64.9,
-    "a_win_prob": 64.9,
-    "draw_prob": 16.1,
-    "b_win_prob": 19.0,
-    "is_correct": true
-  },
-  "2025-10-18|Columbus|Red Bull NY": {
-    "prediction": "Away Win",
-    "confidence": 45.2,
-    "a_win_prob": 33.2,
-    "draw_prob": 21.6,
-    "b_win_prob": 45.2,
-    "is_correct": false
-  },
-  "2025-10-18|Cincinnati|CF Montréal": {
-    "prediction": "Home Win",
-    "confidence": 43.0,
-    "a_win_prob": 43.0,
-    "draw_prob": 19.2,
-    "b_win_prob": 37.8,
-    "is_correct": true
-  },
-  "2025-10-18|Nashville|Miami": {
-    "prediction": "Away Win",
-    "confidence": 47.6,
-    "a_win_prob": 31.3,
-    "draw_prob": 21.1,
-    "b_win_prob": 47.6,
-    "is_correct": true
-  },
-  "2025-10-18|New England|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 40.4,
-    "a_win_prob": 40.4,
-    "draw_prob": 23.9,
-    "b_win_prob": 35.7,
-    "is_correct": false
-  },
-  "2025-10-18|NYCFC|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 47.7,
-    "a_win_prob": 47.7,
-    "draw_prob": 21.3,
+  "2026-04-11|Toronto|Cincinnati": {
+    "prediction": "Home Win",
+    "confidence": 48.8,
+    "a_win_prob": 48.8,
+    "draw_prob": 20.2,
     "b_win_prob": 31.0,
     "is_correct": false
   },
-  "2025-10-18|Toronto|Orlando": {
-    "prediction": "Away Win",
-    "confidence": 40.4,
-    "a_win_prob": 38.8,
-    "draw_prob": 20.8,
-    "b_win_prob": 40.4,
-    "is_correct": false
-  },
-  "2025-10-19|Colorado|LAFC": {
-    "prediction": "Away Win",
-    "confidence": 39.7,
-    "a_win_prob": 39.3,
-    "draw_prob": 21.0,
-    "b_win_prob": 39.7,
-    "is_correct": false
-  },
-  "2025-10-19|LA Galaxy|Minnesota": {
-    "prediction": "Away Win",
-    "confidence": 44.2,
-    "a_win_prob": 34.2,
-    "draw_prob": 21.6,
-    "b_win_prob": 44.2,
-    "is_correct": false
-  },
-  "2025-10-19|Portland|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 55.2,
-    "a_win_prob": 25.2,
-    "draw_prob": 19.6,
-    "b_win_prob": 55.2,
-    "is_correct": true
-  },
-  "2025-10-19|San Jose|Austin": {
-    "prediction": "Home Win",
-    "confidence": 52.2,
-    "a_win_prob": 52.2,
-    "draw_prob": 20.5,
-    "b_win_prob": 27.3,
-    "is_correct": true
-  },
-  "2025-10-19|Kansas City|Houston": {
-    "prediction": "Away Win",
-    "confidence": 53.6,
-    "a_win_prob": 27.0,
-    "draw_prob": 19.4,
-    "b_win_prob": 53.6,
-    "is_correct": false
-  },
-  "2025-10-19|St. Louis|Salt Lake": {
-    "prediction": "Home Win",
-    "confidence": 53.1,
-    "a_win_prob": 53.1,
-    "draw_prob": 20.5,
-    "b_win_prob": 26.4,
-    "is_correct": false
-  },
-  "2025-10-19|Vancouver|Dallas": {
-    "prediction": "Home Win",
-    "confidence": 41.1,
-    "a_win_prob": 41.1,
-    "draw_prob": 21.0,
-    "b_win_prob": 37.9,
-    "is_correct": false
-  },
-  "2025-10-12|Austin|LAFC": {
-    "prediction": "Away Win",
-    "confidence": 46.1,
-    "a_win_prob": 32.8,
-    "draw_prob": 21.1,
-    "b_win_prob": 46.1,
-    "is_correct": false
-  },
-  "2025-10-11|Miami|Atlanta": {
-    "prediction": "Home Win",
-    "confidence": 54.2,
-    "a_win_prob": 54.2,
-    "draw_prob": 20.4,
-    "b_win_prob": 25.4,
-    "is_correct": true
-  },
-  "2025-10-11|Orlando|Vancouver": {
-    "prediction": "Home Win",
-    "confidence": 43.6,
-    "a_win_prob": 43.6,
-    "draw_prob": 18.9,
-    "b_win_prob": 37.5,
-    "is_correct": false
-  },
-  "2025-10-12|Seattle|Salt Lake": {
-    "prediction": "Home Win",
-    "confidence": 65.1,
-    "a_win_prob": 65.1,
-    "draw_prob": 15.9,
-    "b_win_prob": 19.0,
-    "is_correct": true
-  },
-  "2025-10-12|LA Galaxy|Dallas": {
-    "prediction": "Away Win",
-    "confidence": 50.9,
-    "a_win_prob": 28.7,
-    "draw_prob": 20.4,
-    "b_win_prob": 50.9,
-    "is_correct": false
-  },
-  "2025-10-09|LAFC|Toronto": {
-    "prediction": "Home Win",
-    "confidence": 55.3,
-    "a_win_prob": 55.3,
-    "draw_prob": 19.5,
-    "b_win_prob": 25.2,
-    "is_correct": true
-  },
-  "2025-10-05|Vancouver|San Jose": {
-    "prediction": "Home Win",
-    "confidence": 46.3,
-    "a_win_prob": 46.3,
-    "draw_prob": 22.0,
-    "b_win_prob": 31.7,
-    "is_correct": true
-  },
-  "2025-10-06|LAFC|Atlanta": {
-    "prediction": "Home Win",
-    "confidence": 60.9,
-    "a_win_prob": 60.9,
-    "draw_prob": 18.3,
-    "b_win_prob": 20.8,
-    "is_correct": true
-  },
-  "2025-10-04|CF Montréal|Nashville": {
-    "prediction": "Home Win",
-    "confidence": 50.3,
-    "a_win_prob": 50.3,
-    "draw_prob": 17.5,
-    "b_win_prob": 32.2,
-    "is_correct": false
-  },
-  "2025-10-04|D.C. United|Charlotte": {
-    "prediction": "Away Win",
-    "confidence": 53.3,
-    "a_win_prob": 26.8,
-    "draw_prob": 19.9,
-    "b_win_prob": 53.3,
-    "is_correct": true
-  },
-  "2025-10-04|Dallas|LA Galaxy": {
-    "prediction": "Home Win",
-    "confidence": 63.1,
-    "a_win_prob": 63.1,
-    "draw_prob": 16.5,
-    "b_win_prob": 20.4,
-    "is_correct": true
-  },
-  "2025-10-04|Miami|New England": {
-    "prediction": "Home Win",
-    "confidence": 47.9,
-    "a_win_prob": 47.9,
-    "draw_prob": 19.9,
-    "b_win_prob": 32.2,
-    "is_correct": true
-  },
-  "2025-10-04|Orlando|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 57.4,
-    "a_win_prob": 57.4,
-    "draw_prob": 18.9,
-    "b_win_prob": 23.7,
-    "is_correct": false
-  },
-  "2025-10-04|Philadelphia|NYCFC": {
-    "prediction": "Away Win",
-    "confidence": 50.3,
-    "a_win_prob": 30.2,
-    "draw_prob": 19.5,
-    "b_win_prob": 50.3,
-    "is_correct": false
-  },
-  "2025-10-04|Red Bull NY|Cincinnati": {
-    "prediction": "Home Win",
-    "confidence": 52.7,
-    "a_win_prob": 52.7,
-    "draw_prob": 20.4,
-    "b_win_prob": 26.9,
-    "is_correct": false
-  },
-  "2025-10-05|Austin|St. Louis": {
-    "prediction": "Home Win",
-    "confidence": 45.2,
-    "a_win_prob": 45.2,
-    "draw_prob": 22.2,
-    "b_win_prob": 32.6,
-    "is_correct": false
-  },
-  "2025-10-05|Chicago|Toronto": {
-    "prediction": "Home Win",
-    "confidence": 51.1,
-    "a_win_prob": 51.1,
-    "draw_prob": 20.4,
-    "b_win_prob": 28.5,
-    "is_correct": false
-  },
-  "2025-10-05|Houston|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 47.3,
-    "a_win_prob": 31.1,
-    "draw_prob": 21.6,
-    "b_win_prob": 47.3,
-    "is_correct": true
-  },
-  "2025-10-05|Minnesota|Kansas City": {
-    "prediction": "Home Win",
-    "confidence": 67.1,
-    "a_win_prob": 67.1,
-    "draw_prob": 15.7,
-    "b_win_prob": 17.2,
-    "is_correct": true
-  },
-  "2025-10-05|Salt Lake|Colorado": {
-    "prediction": "Away Win",
-    "confidence": 46.5,
-    "a_win_prob": 34.4,
-    "draw_prob": 19.1,
-    "b_win_prob": 46.5,
-    "is_correct": false
-  },
-  "2025-10-05|Seattle|Portland": {
-    "prediction": "Home Win",
-    "confidence": 64.6,
-    "a_win_prob": 64.6,
-    "draw_prob": 16.9,
-    "b_win_prob": 18.5,
-    "is_correct": true
-  },
-  "2025-09-30|Miami|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 45.6,
-    "a_win_prob": 45.6,
-    "draw_prob": 20.0,
-    "b_win_prob": 34.4,
-    "is_correct": false
-  },
-  "2025-09-28|Cincinnati|Orlando": {
-    "prediction": "Away Win",
-    "confidence": 43.5,
-    "a_win_prob": 37.8,
-    "draw_prob": 18.7,
-    "b_win_prob": 43.5,
-    "is_correct": false
-  },
-  "2025-09-27|Toronto|Miami": {
-    "prediction": "Away Win",
-    "confidence": 40.9,
-    "a_win_prob": 38.5,
-    "draw_prob": 20.6,
-    "b_win_prob": 40.9,
-    "is_correct": false
-  },
-  "2025-09-27|Charlotte|CF Montréal": {
-    "prediction": "Home Win",
-    "confidence": 65.0,
-    "a_win_prob": 65.0,
-    "draw_prob": 16.2,
-    "b_win_prob": 18.8,
-    "is_correct": false
-  },
-  "2025-09-27|D.C. United|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 41.2,
-    "a_win_prob": 41.2,
-    "draw_prob": 22.2,
-    "b_win_prob": 36.6,
-    "is_correct": false
-  },
-  "2025-09-27|New England|Atlanta": {
-    "prediction": "Home Win",
-    "confidence": 55.6,
-    "a_win_prob": 55.6,
-    "draw_prob": 19.7,
-    "b_win_prob": 24.7,
-    "is_correct": true
-  },
-  "2025-09-27|Red Bull NY|NYCFC": {
-    "prediction": "Away Win",
-    "confidence": 43.3,
-    "a_win_prob": 35.2,
-    "draw_prob": 21.5,
-    "b_win_prob": 43.3,
-    "is_correct": true
-  },
-  "2025-09-28|Chicago|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 57.1,
-    "a_win_prob": 57.1,
-    "draw_prob": 19.2,
-    "b_win_prob": 23.7,
-    "is_correct": true
-  },
-  "2025-09-28|Nashville|Houston": {
-    "prediction": "Away Win",
-    "confidence": 41.3,
-    "a_win_prob": 38.2,
-    "draw_prob": 20.5,
-    "b_win_prob": 41.3,
-    "is_correct": false
-  },
-  "2025-09-28|St. Louis|LAFC": {
-    "prediction": "Away Win",
-    "confidence": 46.7,
-    "a_win_prob": 31.8,
-    "draw_prob": 21.5,
-    "b_win_prob": 46.7,
-    "is_correct": true
-  },
-  "2025-09-28|Colorado|Minnesota": {
-    "prediction": "Home Win",
-    "confidence": 43.5,
-    "a_win_prob": 43.5,
-    "draw_prob": 22.4,
-    "b_win_prob": 34.1,
-    "is_correct": false
-  },
-  "2025-09-28|Salt Lake|Austin": {
-    "prediction": "Away Win",
-    "confidence": 43.2,
-    "a_win_prob": 37.6,
-    "draw_prob": 19.2,
-    "b_win_prob": 43.2,
-    "is_correct": false
-  },
-  "2025-09-28|LA Galaxy|Kansas City": {
-    "prediction": "Home Win",
-    "confidence": 58.1,
-    "a_win_prob": 58.1,
-    "draw_prob": 18.9,
-    "b_win_prob": 23.0,
-    "is_correct": true
-  },
-  "2025-09-28|Portland|Dallas": {
-    "prediction": "Away Win",
-    "confidence": 56.4,
-    "a_win_prob": 25.2,
-    "draw_prob": 18.4,
-    "b_win_prob": 56.4,
-    "is_correct": false
-  },
-  "2025-09-28|San Diego|San Jose": {
-    "prediction": "Home Win",
-    "confidence": 52.4,
-    "a_win_prob": 52.4,
-    "draw_prob": 20.3,
-    "b_win_prob": 27.3,
-    "is_correct": false
-  },
-  "2025-09-28|Seattle|Vancouver": {
-    "prediction": "Home Win",
-    "confidence": 45.1,
-    "a_win_prob": 45.1,
-    "draw_prob": 23.0,
-    "b_win_prob": 31.9,
-    "is_correct": false
-  },
-  "2025-09-24|NYCFC|Miami": {
-    "prediction": "Home Win",
-    "confidence": 51.2,
-    "a_win_prob": 51.2,
-    "draw_prob": 18.9,
-    "b_win_prob": 29.9,
-    "is_correct": false
-  },
-  "2025-09-25|Vancouver|Portland": {
-    "prediction": "Home Win",
-    "confidence": 62.6,
-    "a_win_prob": 62.6,
-    "draw_prob": 17.8,
-    "b_win_prob": 19.6,
-    "is_correct": false
-  },
-  "2025-09-21|Austin|Seattle": {
-    "prediction": "Away Win",
-    "confidence": 46.3,
-    "a_win_prob": 33.1,
-    "draw_prob": 20.6,
-    "b_win_prob": 46.3,
-    "is_correct": false
-  },
-  "2025-09-22|LAFC|Salt Lake": {
-    "prediction": "Home Win",
-    "confidence": 65.5,
-    "a_win_prob": 65.5,
-    "draw_prob": 15.5,
-    "b_win_prob": 19.0,
-    "is_correct": true
-  },
-  "2025-09-20|NYCFC|Charlotte": {
-    "prediction": "Away Win",
-    "confidence": 40.0,
-    "a_win_prob": 38.5,
-    "draw_prob": 21.5,
-    "b_win_prob": 40.0,
-    "is_correct": false
-  },
-  "2025-09-20|Philadelphia|New England": {
-    "prediction": "Away Win",
-    "confidence": 39.0,
-    "a_win_prob": 38.9,
-    "draw_prob": 22.1,
-    "b_win_prob": 39.0,
-    "is_correct": false
-  },
-  "2025-09-20|Atlanta|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 56.4,
-    "a_win_prob": 25.1,
-    "draw_prob": 18.5,
-    "b_win_prob": 56.4,
-    "is_correct": false
-  },
-  "2025-09-20|CF Montréal|Red Bull NY": {
-    "prediction": "Away Win",
-    "confidence": 39.5,
-    "a_win_prob": 37.4,
-    "draw_prob": 23.1,
-    "b_win_prob": 39.5,
-    "is_correct": true
-  },
-  "2025-09-20|Columbus|Toronto": {
-    "prediction": "Away Win",
-    "confidence": 40.1,
-    "a_win_prob": 37.3,
-    "draw_prob": 22.6,
-    "b_win_prob": 40.1,
-    "is_correct": false
-  },
-  "2025-09-20|Miami|D.C. United": {
-    "prediction": "Home Win",
-    "confidence": 53.6,
-    "a_win_prob": 53.6,
-    "draw_prob": 20.3,
-    "b_win_prob": 26.1,
-    "is_correct": true
-  },
-  "2025-09-20|Orlando|Nashville": {
-    "prediction": "Home Win",
-    "confidence": 54.9,
-    "a_win_prob": 54.9,
-    "draw_prob": 16.8,
-    "b_win_prob": 28.3,
-    "is_correct": true
-  },
-  "2025-09-21|Dallas|Colorado": {
-    "prediction": "Home Win",
-    "confidence": 51.8,
-    "a_win_prob": 51.8,
-    "draw_prob": 20.6,
-    "b_win_prob": 27.6,
-    "is_correct": true
-  },
-  "2025-09-21|Houston|Portland": {
-    "prediction": "Home Win",
-    "confidence": 57.1,
-    "a_win_prob": 57.1,
-    "draw_prob": 18.8,
-    "b_win_prob": 24.1,
-    "is_correct": true
-  },
-  "2025-09-21|Minnesota|Chicago": {
-    "prediction": "Home Win",
-    "confidence": 43.1,
-    "a_win_prob": 43.1,
-    "draw_prob": 23.6,
-    "b_win_prob": 33.3,
-    "is_correct": false
-  },
-  "2025-09-21|Kansas City|Vancouver": {
-    "prediction": "Away Win",
-    "confidence": 57.9,
-    "a_win_prob": 23.2,
-    "draw_prob": 18.9,
-    "b_win_prob": 57.9,
-    "is_correct": true
-  },
-  "2025-09-21|LA Galaxy|Cincinnati": {
-    "prediction": "Home Win",
-    "confidence": 42.3,
-    "a_win_prob": 42.3,
-    "draw_prob": 23.1,
-    "b_win_prob": 34.6,
-    "is_correct": false
-  },
-  "2025-09-21|San Jose|St. Louis": {
-    "prediction": "Home Win",
-    "confidence": 55.0,
-    "a_win_prob": 55.0,
-    "draw_prob": 19.4,
-    "b_win_prob": 25.6,
-    "is_correct": false
-  },
-  "2025-09-17|NYCFC|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 63.9,
-    "a_win_prob": 63.9,
-    "draw_prob": 17.0,
-    "b_win_prob": 19.1,
-    "is_correct": true
-  },
-  "2025-09-18|Salt Lake|LAFC": {
-    "prediction": "Away Win",
-    "confidence": 53.0,
-    "a_win_prob": 26.9,
-    "draw_prob": 20.1,
-    "b_win_prob": 53.0,
-    "is_correct": true
-  },
-  "2025-09-16|Miami|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 40.6,
-    "a_win_prob": 40.6,
-    "draw_prob": 21.2,
-    "b_win_prob": 38.2,
-    "is_correct": true
-  },
-  "2025-09-13|Atlanta|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 41.3,
-    "a_win_prob": 41.3,
-    "draw_prob": 24.1,
-    "b_win_prob": 34.6,
-    "is_correct": false
-  },
-  "2025-09-13|CF Montréal|St. Louis": {
-    "prediction": "Home Win",
-    "confidence": 45.8,
-    "a_win_prob": 45.8,
-    "draw_prob": 20.5,
-    "b_win_prob": 33.7,
-    "is_correct": false
-  },
-  "2025-09-13|Charlotte|Miami": {
-    "prediction": "Home Win",
-    "confidence": 54.3,
-    "a_win_prob": 54.3,
-    "draw_prob": 17.1,
-    "b_win_prob": 28.6,
-    "is_correct": true
-  },
-  "2025-09-13|D.C. United|Orlando": {
-    "prediction": "Away Win",
-    "confidence": 44.1,
-    "a_win_prob": 35.1,
-    "draw_prob": 20.8,
-    "b_win_prob": 44.1,
-    "is_correct": false
-  },
-  "2025-09-13|Cincinnati|Nashville": {
-    "prediction": "Home Win",
-    "confidence": 47.0,
-    "a_win_prob": 47.0,
-    "draw_prob": 22.0,
-    "b_win_prob": 31.0,
-    "is_correct": true
-  },
-  "2025-09-13|New England|Toronto": {
-    "prediction": "Home Win",
-    "confidence": 47.8,
-    "a_win_prob": 47.8,
-    "draw_prob": 21.6,
-    "b_win_prob": 30.6,
-    "is_correct": false
-  },
-  "2025-09-14|Chicago|NYCFC": {
+  "2026-04-11|Austin|LA Galaxy": {
     "prediction": "Away Win",
     "confidence": 41.7,
     "a_win_prob": 36.6,
@@ -2535,540 +727,1020 @@
     "b_win_prob": 41.7,
     "is_correct": true
   },
-  "2025-09-14|Dallas|Austin": {
+  "2026-04-11|CF Montréal|Philadelphia": {
     "prediction": "Home Win",
-    "confidence": 58.9,
-    "a_win_prob": 58.9,
-    "draw_prob": 18.6,
-    "b_win_prob": 22.5,
-    "is_correct": true
-  },
-  "2025-09-14|San Jose|LAFC": {
-    "prediction": "Home Win",
-    "confidence": 40.1,
-    "a_win_prob": 40.1,
-    "draw_prob": 23.4,
-    "b_win_prob": 36.5,
-    "is_correct": false
-  },
-  "2025-09-14|Seattle|LA Galaxy": {
-    "prediction": "Home Win",
-    "confidence": 61.1,
-    "a_win_prob": 61.1,
-    "draw_prob": 17.6,
-    "b_win_prob": 21.3,
-    "is_correct": false
-  },
-  "2025-09-14|Colorado|Houston": {
-    "prediction": "Home Win",
-    "confidence": 48.9,
-    "a_win_prob": 48.9,
-    "draw_prob": 21.5,
-    "b_win_prob": 29.6,
-    "is_correct": true
-  },
-  "2025-09-14|Salt Lake|Kansas City": {
-    "prediction": "Home Win",
-    "confidence": 51.7,
-    "a_win_prob": 51.7,
-    "draw_prob": 20.6,
-    "b_win_prob": 27.7,
-    "is_correct": true
-  },
-  "2025-09-14|Vancouver|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 52.6,
-    "a_win_prob": 52.6,
-    "draw_prob": 20.8,
-    "b_win_prob": 26.6,
-    "is_correct": true
-  },
-  "2025-09-14|Portland|Red Bull NY": {
-    "prediction": "Away Win",
-    "confidence": 47.8,
-    "a_win_prob": 31.2,
+    "confidence": 44.1,
+    "a_win_prob": 44.1,
     "draw_prob": 21.0,
-    "b_win_prob": 47.8,
+    "b_win_prob": 34.9,
     "is_correct": false
   },
-  "2025-09-14|San Diego|Minnesota": {
+  "2026-04-11|Portland|LAFC": {
     "prediction": "Home Win",
-    "confidence": 54.7,
-    "a_win_prob": 54.7,
-    "draw_prob": 19.8,
-    "b_win_prob": 25.5,
-    "is_correct": false
+    "confidence": 46.8,
+    "a_win_prob": 46.8,
+    "draw_prob": 21.1,
+    "b_win_prob": 32.1,
+    "is_correct": true
   },
-  "2025-09-07|Kansas City|Austin": {
+  "2026-04-11|Charlotte|Nashville": {
     "prediction": "Away Win",
-    "confidence": 51.1,
-    "a_win_prob": 28.6,
-    "draw_prob": 20.3,
-    "b_win_prob": 51.1,
-    "is_correct": true
-  },
-  "2025-09-07|Chicago|New England": {
-    "prediction": "Home Win",
-    "confidence": 47.0,
-    "a_win_prob": 47.0,
-    "draw_prob": 22.0,
-    "b_win_prob": 31.0,
-    "is_correct": true
-  },
-  "2025-09-07|Houston|LA Galaxy": {
-    "prediction": "Home Win",
-    "confidence": 50.2,
-    "a_win_prob": 50.2,
+    "confidence": 42.9,
+    "a_win_prob": 35.7,
     "draw_prob": 21.4,
-    "b_win_prob": 28.4,
-    "is_correct": false
-  },
-  "2025-09-07|St. Louis|Dallas": {
-    "prediction": "Away Win",
-    "confidence": 48.7,
-    "a_win_prob": 30.6,
-    "draw_prob": 20.7,
-    "b_win_prob": 48.7,
-    "is_correct": false
-  },
-  "2025-09-01|LAFC|San Diego": {
-    "prediction": "Home Win",
-    "confidence": 40.6,
-    "a_win_prob": 40.6,
-    "draw_prob": 20.0,
-    "b_win_prob": 39.4,
-    "is_correct": false
-  },
-  "2025-08-30|Cincinnati|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 43.1,
-    "a_win_prob": 43.1,
-    "draw_prob": 20.1,
-    "b_win_prob": 36.8,
-    "is_correct": false
-  },
-  "2025-08-30|New England|Charlotte": {
-    "prediction": "Away Win",
-    "confidence": 48.2,
-    "a_win_prob": 31.2,
-    "draw_prob": 20.6,
-    "b_win_prob": 48.2,
+    "b_win_prob": 42.9,
     "is_correct": true
   },
-  "2025-08-30|NYCFC|D.C. United": {
+  "2026-04-11|Miami|Red Bull NY": {
     "prediction": "Home Win",
-    "confidence": 63.0,
-    "a_win_prob": 63.0,
-    "draw_prob": 16.8,
-    "b_win_prob": 20.2,
-    "is_correct": false
-  },
-  "2025-08-30|Red Bull NY|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 56.8,
-    "a_win_prob": 56.8,
-    "draw_prob": 19.0,
-    "b_win_prob": 24.2,
-    "is_correct": false
-  },
-  "2025-08-30|Toronto|CF Montréal": {
-    "prediction": "Home Win",
-    "confidence": 45.8,
-    "a_win_prob": 45.8,
-    "draw_prob": 21.0,
-    "b_win_prob": 33.2,
-    "is_correct": false
-  },
-  "2025-08-31|Austin|San Jose": {
-    "prediction": "Away Win",
-    "confidence": 42.7,
-    "a_win_prob": 36.1,
-    "draw_prob": 21.2,
-    "b_win_prob": 42.7,
-    "is_correct": false
-  },
-  "2025-08-31|Minnesota|Portland": {
-    "prediction": "Home Win",
-    "confidence": 61.8,
-    "a_win_prob": 61.8,
+    "confidence": 63.8,
+    "a_win_prob": 63.8,
     "draw_prob": 17.1,
-    "b_win_prob": 21.1,
+    "b_win_prob": 19.1,
     "is_correct": false
   },
-  "2025-08-31|Nashville|Atlanta": {
+  "2026-04-11|New England|D.C. United": {
     "prediction": "Home Win",
-    "confidence": 44.8,
-    "a_win_prob": 44.8,
-    "draw_prob": 19.8,
-    "b_win_prob": 35.4,
-    "is_correct": false
-  },
-  "2025-08-31|Kansas City|Colorado": {
-    "prediction": "Away Win",
-    "confidence": 54.6,
-    "a_win_prob": 25.6,
-    "draw_prob": 19.8,
-    "b_win_prob": 54.6,
-    "is_correct": false
-  },
-  "2025-08-31|St. Louis|Houston": {
-    "prediction": "Home Win",
-    "confidence": 41.1,
-    "a_win_prob": 41.1,
-    "draw_prob": 22.3,
-    "b_win_prob": 36.6,
-    "is_correct": false
-  },
-  "2025-08-24|Atlanta|Toronto": {
-    "prediction": "Away Win",
-    "confidence": 42.3,
-    "a_win_prob": 35.9,
-    "draw_prob": 21.8,
-    "b_win_prob": 42.3,
-    "is_correct": false
-  },
-  "2025-08-24|Charlotte|Red Bull NY": {
-    "prediction": "Home Win",
-    "confidence": 60.3,
-    "a_win_prob": 60.3,
-    "draw_prob": 17.6,
-    "b_win_prob": 22.1,
+    "confidence": 64.4,
+    "a_win_prob": 64.4,
+    "draw_prob": 17.0,
+    "b_win_prob": 18.6,
     "is_correct": true
   },
-  "2025-08-25|Seattle|Kansas City": {
+  "2026-04-11|Vancouver|NYCFC": {
     "prediction": "Home Win",
-    "confidence": 68.7,
-    "a_win_prob": 68.7,
-    "draw_prob": 15.5,
-    "b_win_prob": 15.8,
+    "confidence": 67.5,
+    "a_win_prob": 67.5,
+    "draw_prob": 15.9,
+    "b_win_prob": 16.6,
     "is_correct": true
   },
-  "2025-08-23|CF Montréal|Austin": {
-    "prediction": "Home Win",
-    "confidence": 43.6,
-    "a_win_prob": 43.6,
-    "draw_prob": 23.1,
-    "b_win_prob": 33.3,
-    "is_correct": true
-  },
-  "2025-08-23|Columbus|New England": {
-    "prediction": "Away Win",
-    "confidence": 44.5,
-    "a_win_prob": 34.8,
-    "draw_prob": 20.7,
-    "b_win_prob": 44.5,
-    "is_correct": true
-  },
-  "2025-08-23|D.C. United|Miami": {
-    "prediction": "Away Win",
-    "confidence": 44.8,
-    "a_win_prob": 34.0,
-    "draw_prob": 21.2,
-    "b_win_prob": 44.8,
-    "is_correct": false
-  },
-  "2025-08-23|Cincinnati|NYCFC": {
-    "prediction": "Away Win",
-    "confidence": 49.4,
-    "a_win_prob": 30.3,
-    "draw_prob": 20.3,
-    "b_win_prob": 49.4,
-    "is_correct": true
-  },
-  "2025-08-23|Philadelphia|Chicago": {
-    "prediction": "Away Win",
-    "confidence": 42.1,
-    "a_win_prob": 36.4,
-    "draw_prob": 21.5,
-    "b_win_prob": 42.1,
-    "is_correct": false
-  },
-  "2025-08-24|Dallas|LAFC": {
-    "prediction": "Home Win",
-    "confidence": 46.4,
-    "a_win_prob": 46.4,
-    "draw_prob": 22.7,
-    "b_win_prob": 30.9,
-    "is_correct": false
-  },
-  "2025-08-24|Houston|San Jose": {
-    "prediction": "Away Win",
-    "confidence": 40.6,
-    "a_win_prob": 37.3,
-    "draw_prob": 22.1,
-    "b_win_prob": 40.6,
-    "is_correct": true
-  },
-  "2025-08-24|Nashville|Orlando": {
-    "prediction": "Away Win",
-    "confidence": 44.4,
-    "a_win_prob": 37.4,
-    "draw_prob": 18.2,
-    "b_win_prob": 44.4,
-    "is_correct": false
-  },
-  "2025-08-24|Salt Lake|Minnesota": {
-    "prediction": "Away Win",
-    "confidence": 47.9,
-    "a_win_prob": 31.6,
-    "draw_prob": 20.5,
-    "b_win_prob": 47.9,
-    "is_correct": true
-  },
-  "2025-08-24|Vancouver|St. Louis": {
-    "prediction": "Home Win",
-    "confidence": 56.2,
-    "a_win_prob": 56.2,
-    "draw_prob": 19.5,
-    "b_win_prob": 24.3,
-    "is_correct": true
-  },
-  "2025-08-24|LA Galaxy|Colorado": {
-    "prediction": "Away Win",
-    "confidence": 43.7,
-    "a_win_prob": 36.6,
-    "draw_prob": 19.7,
-    "b_win_prob": 43.7,
-    "is_correct": false
-  },
-  "2025-08-24|San Diego|Portland": {
-    "prediction": "Home Win",
-    "confidence": 67.2,
-    "a_win_prob": 67.2,
-    "draw_prob": 15.4,
-    "b_win_prob": 17.4,
-    "is_correct": false
-  },
-  "2025-08-17|NYCFC|Nashville": {
-    "prediction": "Home Win",
-    "confidence": 60.6,
-    "a_win_prob": 60.6,
-    "draw_prob": 17.9,
-    "b_win_prob": 21.5,
-    "is_correct": true
-  },
-  "2025-08-17|San Jose|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 42.1,
-    "a_win_prob": 37.7,
-    "draw_prob": 20.2,
-    "b_win_prob": 42.1,
-    "is_correct": true
-  },
-  "2025-08-18|Vancouver|Houston": {
-    "prediction": "Home Win",
-    "confidence": 52.7,
-    "a_win_prob": 52.7,
-    "draw_prob": 20.5,
-    "b_win_prob": 26.8,
-    "is_correct": false
-  },
-  "2025-08-16|CF Montréal|D.C. United": {
-    "prediction": "Home Win",
-    "confidence": 47.5,
-    "a_win_prob": 47.5,
-    "draw_prob": 22.2,
-    "b_win_prob": 30.3,
-    "is_correct": false
-  },
-  "2025-08-16|Charlotte|Salt Lake": {
-    "prediction": "Home Win",
-    "confidence": 63.9,
-    "a_win_prob": 63.9,
-    "draw_prob": 16.8,
-    "b_win_prob": 19.3,
-    "is_correct": true
-  },
-  "2025-08-16|Miami|LA Galaxy": {
-    "prediction": "Home Win",
-    "confidence": 56.5,
-    "a_win_prob": 56.5,
-    "draw_prob": 19.3,
-    "b_win_prob": 24.2,
-    "is_correct": true
-  },
-  "2025-08-16|New England|LAFC": {
-    "prediction": "Away Win",
-    "confidence": 40.7,
-    "a_win_prob": 36.2,
-    "draw_prob": 23.1,
-    "b_win_prob": 40.7,
-    "is_correct": true
-  },
-  "2025-08-16|Red Bull NY|Philadelphia": {
-    "prediction": "Home Win",
-    "confidence": 51.7,
-    "a_win_prob": 51.7,
-    "draw_prob": 20.8,
-    "b_win_prob": 27.5,
-    "is_correct": true
-  },
-  "2025-08-16|Toronto|Columbus": {
-    "prediction": "Home Win",
-    "confidence": 51.5,
-    "a_win_prob": 51.5,
-    "draw_prob": 20.5,
-    "b_win_prob": 28.0,
-    "is_correct": false
-  },
-  "2025-08-17|Austin|Dallas": {
-    "prediction": "Away Win",
-    "confidence": 48.9,
-    "a_win_prob": 30.9,
-    "draw_prob": 20.2,
-    "b_win_prob": 48.9,
-    "is_correct": false
-  },
-  "2025-08-17|Minnesota|Seattle": {
-    "prediction": "Home Win",
-    "confidence": 38.8,
-    "a_win_prob": 38.8,
-    "draw_prob": 22.5,
-    "b_win_prob": 38.7,
-    "is_correct": true
-  },
-  "2025-08-17|Colorado|Atlanta": {
-    "prediction": "Home Win",
-    "confidence": 59.1,
-    "a_win_prob": 59.1,
-    "draw_prob": 18.1,
-    "b_win_prob": 22.8,
-    "is_correct": true
-  },
-  "2025-08-17|Chicago|St. Louis": {
-    "prediction": "Home Win",
-    "confidence": 53.3,
-    "a_win_prob": 53.3,
-    "draw_prob": 20.3,
-    "b_win_prob": 26.4,
-    "is_correct": true
-  },
-  "2025-08-17|Portland|Cincinnati": {
-    "prediction": "Away Win",
-    "confidence": 40.7,
-    "a_win_prob": 36.5,
-    "draw_prob": 22.8,
-    "b_win_prob": 40.7,
-    "is_correct": true
-  },
-  "2025-08-17|Orlando|Kansas City": {
-    "prediction": "Home Win",
-    "confidence": 66.4,
-    "a_win_prob": 66.4,
-    "draw_prob": 15.4,
-    "b_win_prob": 18.2,
-    "is_correct": true
-  },
-  "2025-08-10|Cincinnati|Charlotte": {
-    "prediction": "Away Win",
-    "confidence": 50.1,
-    "a_win_prob": 28.7,
-    "draw_prob": 21.2,
-    "b_win_prob": 50.1,
-    "is_correct": true
-  },
-  "2025-08-10|Minnesota|Colorado": {
-    "prediction": "Home Win",
-    "confidence": 45.0,
-    "a_win_prob": 45.0,
-    "draw_prob": 21.3,
-    "b_win_prob": 33.7,
-    "is_correct": false
-  },
-  "2025-08-10|Red Bull NY|Salt Lake": {
-    "prediction": "Home Win",
-    "confidence": 57.0,
-    "a_win_prob": 57.0,
-    "draw_prob": 18.5,
-    "b_win_prob": 24.5,
-    "is_correct": true
-  },
-  "2025-08-11|Orlando|Miami": {
-    "prediction": "Home Win",
-    "confidence": 46.0,
-    "a_win_prob": 46.0,
-    "draw_prob": 18.2,
-    "b_win_prob": 35.8,
-    "is_correct": true
-  },
-  "2025-08-11|LA Galaxy|Seattle": {
-    "prediction": "Away Win",
-    "confidence": 49.9,
-    "a_win_prob": 29.8,
-    "draw_prob": 20.3,
-    "b_win_prob": 49.9,
-    "is_correct": true
-  },
-  "2025-08-09|CF Montréal|Atlanta": {
-    "prediction": "Home Win",
-    "confidence": 52.1,
-    "a_win_prob": 52.1,
-    "draw_prob": 20.6,
-    "b_win_prob": 27.3,
-    "is_correct": false
-  },
-  "2025-08-09|New England|D.C. United": {
+  "2026-04-12|Columbus|Orlando": {
     "prediction": "Home Win",
     "confidence": 53.1,
     "a_win_prob": 53.1,
-    "draw_prob": 20.0,
-    "b_win_prob": 26.9,
+    "draw_prob": 20.6,
+    "b_win_prob": 26.3,
+    "is_correct": false
+  },
+  "2026-04-12|Chicago|Atlanta": {
+    "prediction": "Home Win",
+    "confidence": 70.0,
+    "a_win_prob": 70.0,
+    "draw_prob": 15.3,
+    "b_win_prob": 14.7,
     "is_correct": true
   },
-  "2025-08-09|Philadelphia|Toronto": {
+  "2026-04-12|Dallas|St. Louis": {
+    "prediction": "Home Win",
+    "confidence": 56.3,
+    "a_win_prob": 56.3,
+    "draw_prob": 19.1,
+    "b_win_prob": 24.6,
+    "is_correct": false
+  },
+  "2026-04-12|Kansas City|San Jose": {
+    "prediction": "Away Win",
+    "confidence": 62.6,
+    "a_win_prob": 19.1,
+    "draw_prob": 18.3,
+    "b_win_prob": 62.6,
+    "is_correct": true
+  },
+  "2026-04-12|Colorado|Houston": {
+    "prediction": "Home Win",
+    "confidence": 52.9,
+    "a_win_prob": 52.9,
+    "draw_prob": 18.8,
+    "b_win_prob": 28.3,
+    "is_correct": true
+  },
+  "2026-04-12|San Diego|Minnesota": {
+    "prediction": "Away Win",
+    "confidence": 58.6,
+    "a_win_prob": 22.6,
+    "draw_prob": 18.8,
+    "b_win_prob": 58.6,
+    "is_correct": true
+  },
+  "2026-04-18|Toronto|Austin": {
+    "prediction": "Home Win",
+    "confidence": 57.7,
+    "a_win_prob": 57.7,
+    "draw_prob": 18.8,
+    "b_win_prob": 23.5,
+    "is_correct": false
+  },
+  "2026-04-18|CF Montréal|Red Bull NY": {
+    "prediction": "Away Win",
+    "confidence": 43.3,
+    "a_win_prob": 34.7,
+    "draw_prob": 22.0,
+    "b_win_prob": 43.3,
+    "is_correct": false
+  },
+  "2026-04-18|Colorado|Miami": {
+    "prediction": "Away Win",
+    "confidence": 50.8,
+    "a_win_prob": 29.5,
+    "draw_prob": 19.7,
+    "b_win_prob": 50.8,
+    "is_correct": true
+  },
+  "2026-04-18|Atlanta|Nashville": {
+    "prediction": "Away Win",
+    "confidence": 59.5,
+    "a_win_prob": 22.1,
+    "draw_prob": 18.4,
+    "b_win_prob": 59.5,
+    "is_correct": true
+  },
+  "2026-04-18|Cincinnati|Chicago": {
+    "prediction": "Away Win",
+    "confidence": 51.0,
+    "a_win_prob": 29.2,
+    "draw_prob": 19.8,
+    "b_win_prob": 51.0,
+    "is_correct": false
+  },
+  "2026-04-18|New England|Columbus": {
+    "prediction": "Home Win",
+    "confidence": 60.8,
+    "a_win_prob": 60.8,
+    "draw_prob": 18.6,
+    "b_win_prob": 20.6,
+    "is_correct": true
+  },
+  "2026-04-18|NYCFC|Charlotte": {
+    "prediction": "Away Win",
+    "confidence": 51.7,
+    "a_win_prob": 27.9,
+    "draw_prob": 20.4,
+    "b_win_prob": 51.7,
+    "is_correct": true
+  },
+  "2026-04-18|Orlando|Houston": {
+    "prediction": "Away Win",
+    "confidence": 38.9,
+    "a_win_prob": 38.7,
+    "draw_prob": 22.4,
+    "b_win_prob": 38.9,
+    "is_correct": true
+  },
+  "2026-04-18|Philadelphia|D.C. United": {
+    "prediction": "Home Win",
+    "confidence": 39.1,
+    "a_win_prob": 39.1,
+    "draw_prob": 21.9,
+    "b_win_prob": 39.0,
+    "is_correct": false
+  },
+  "2026-04-18|Vancouver|Kansas City": {
+    "prediction": "Home Win",
+    "confidence": 69.1,
+    "a_win_prob": 69.1,
+    "draw_prob": 15.7,
+    "b_win_prob": 15.2,
+    "is_correct": true
+  },
+  "2026-04-19|Dallas|LA Galaxy": {
+    "prediction": "Home Win",
+    "confidence": 59.4,
+    "a_win_prob": 59.4,
+    "draw_prob": 18.1,
+    "b_win_prob": 22.5,
+    "is_correct": false
+  },
+  "2026-04-19|Minnesota|Portland": {
+    "prediction": "Home Win",
+    "confidence": 62.3,
+    "a_win_prob": 62.3,
+    "draw_prob": 16.8,
+    "b_win_prob": 20.9,
+    "is_correct": true
+  },
+  "2026-04-19|Salt Lake|San Diego": {
+    "prediction": "Home Win",
+    "confidence": 66.5,
+    "a_win_prob": 66.5,
+    "draw_prob": 15.9,
+    "b_win_prob": 17.6,
+    "is_correct": true
+  },
+  "2026-04-19|Seattle|St. Louis": {
+    "prediction": "Home Win",
+    "confidence": 58.5,
+    "a_win_prob": 58.5,
+    "draw_prob": 18.7,
+    "b_win_prob": 22.8,
+    "is_correct": true
+  },
+  "2026-04-19|LAFC|San Jose": {
+    "prediction": "Away Win",
+    "confidence": 58.9,
+    "a_win_prob": 22.7,
+    "draw_prob": 18.4,
+    "b_win_prob": 58.9,
+    "is_correct": true
+  },
+  "2026-04-22|NYCFC|Cincinnati": {
+    "prediction": "Away Win",
+    "confidence": 52.9,
+    "a_win_prob": 27.6,
+    "draw_prob": 19.5,
+    "b_win_prob": 52.9,
+    "is_correct": false
+  },
+  "2026-04-22|Orlando|Charlotte": {
+    "prediction": "Away Win",
+    "confidence": 50.7,
+    "a_win_prob": 28.8,
+    "draw_prob": 20.5,
+    "b_win_prob": 50.7,
+    "is_correct": false
+  },
+  "2026-04-22|Red Bull NY|D.C. United": {
+    "prediction": "Home Win",
+    "confidence": 48.2,
+    "a_win_prob": 48.2,
+    "draw_prob": 22.1,
+    "b_win_prob": 29.7,
+    "is_correct": false
+  },
+  "2026-04-22|Toronto|Philadelphia": {
+    "prediction": "Home Win",
+    "confidence": 64.0,
+    "a_win_prob": 64.0,
+    "draw_prob": 16.1,
+    "b_win_prob": 19.9,
+    "is_correct": false
+  },
+  "2026-04-22|Atlanta|New England": {
+    "prediction": "Away Win",
+    "confidence": 58.8,
+    "a_win_prob": 23.0,
+    "draw_prob": 18.2,
+    "b_win_prob": 58.8,
+    "is_correct": true
+  },
+  "2026-04-23|Dallas|Minnesota": {
+    "prediction": "Home Win",
+    "confidence": 43.8,
+    "a_win_prob": 43.8,
+    "draw_prob": 21.8,
+    "b_win_prob": 34.4,
+    "is_correct": false
+  },
+  "2026-04-23|Houston|San Diego": {
+    "prediction": "Home Win",
+    "confidence": 50.9,
+    "a_win_prob": 50.9,
+    "draw_prob": 20.5,
+    "b_win_prob": 28.6,
+    "is_correct": true
+  },
+  "2026-04-23|Salt Lake|Miami": {
+    "prediction": "Away Win",
+    "confidence": 41.7,
+    "a_win_prob": 35.9,
+    "draw_prob": 22.4,
+    "b_win_prob": 41.7,
+    "is_correct": true
+  },
+  "2026-04-23|Columbus|LA Galaxy": {
+    "prediction": "Away Win",
+    "confidence": 41.2,
+    "a_win_prob": 37.5,
+    "draw_prob": 21.3,
+    "b_win_prob": 41.2,
+    "is_correct": false
+  },
+  "2026-04-23|LAFC|Colorado": {
+    "prediction": "Home Win",
+    "confidence": 40.7,
+    "a_win_prob": 40.7,
+    "draw_prob": 22.4,
+    "b_win_prob": 36.9,
+    "is_correct": false
+  },
+  "2026-04-23|San Jose|Austin": {
+    "prediction": "Home Win",
+    "confidence": 69.4,
+    "a_win_prob": 69.4,
+    "draw_prob": 15.4,
+    "b_win_prob": 15.2,
+    "is_correct": true
+  },
+  "2026-04-25|Toronto|Atlanta": {
+    "prediction": "Home Win",
+    "confidence": 62.8,
+    "a_win_prob": 62.8,
+    "draw_prob": 17.0,
+    "b_win_prob": 20.2,
+    "is_correct": false
+  },
+  "2026-04-25|CF Montréal|NYCFC": {
+    "prediction": "Home Win",
+    "confidence": 46.4,
+    "a_win_prob": 46.4,
+    "draw_prob": 22.2,
+    "b_win_prob": 31.4,
+    "is_correct": true
+  },
+  "2026-04-25|Minnesota|LAFC": {
+    "prediction": "Home Win",
+    "confidence": 63.5,
+    "a_win_prob": 63.5,
+    "draw_prob": 17.1,
+    "b_win_prob": 19.4,
+    "is_correct": false
+  },
+  "2026-04-25|Columbus|Philadelphia": {
+    "prediction": "Home Win",
+    "confidence": 51.9,
+    "a_win_prob": 51.9,
+    "draw_prob": 20.5,
+    "b_win_prob": 27.6,
+    "is_correct": true
+  },
+  "2026-04-25|D.C. United|Orlando": {
+    "prediction": "Home Win",
+    "confidence": 52.0,
+    "a_win_prob": 52.0,
+    "draw_prob": 20.3,
+    "b_win_prob": 27.7,
+    "is_correct": true
+  },
+  "2026-04-25|Cincinnati|Red Bull NY": {
+    "prediction": "Home Win",
+    "confidence": 52.6,
+    "a_win_prob": 52.6,
+    "draw_prob": 20.2,
+    "b_win_prob": 27.2,
+    "is_correct": true
+  },
+  "2026-04-25|Miami|New England": {
+    "prediction": "Home Win",
+    "confidence": 46.0,
+    "a_win_prob": 46.0,
+    "draw_prob": 22.8,
+    "b_win_prob": 31.2,
+    "is_correct": false
+  },
+  "2026-04-26|LA Galaxy|Salt Lake": {
+    "prediction": "Away Win",
+    "confidence": 41.0,
+    "a_win_prob": 36.8,
+    "draw_prob": 22.2,
+    "b_win_prob": 41.0,
+    "is_correct": false
+  },
+  "2026-04-26|Austin|Houston": {
+    "prediction": "Home Win",
+    "confidence": 47.4,
+    "a_win_prob": 47.4,
+    "draw_prob": 21.7,
+    "b_win_prob": 30.9,
+    "is_correct": true
+  },
+  "2026-04-26|Chicago|Kansas City": {
+    "prediction": "Home Win",
+    "confidence": 71.3,
+    "a_win_prob": 71.3,
+    "draw_prob": 14.8,
+    "b_win_prob": 13.9,
+    "is_correct": true
+  },
+  "2026-04-26|Nashville|Charlotte": {
+    "prediction": "Home Win",
+    "confidence": 51.8,
+    "a_win_prob": 51.8,
+    "draw_prob": 20.8,
+    "b_win_prob": 27.4,
+    "is_correct": true
+  },
+  "2026-04-26|St. Louis|San Jose": {
+    "prediction": "Away Win",
+    "confidence": 54.0,
+    "a_win_prob": 27.0,
+    "draw_prob": 19.0,
+    "b_win_prob": 54.0,
+    "is_correct": true
+  },
+  "2026-04-26|San Diego|Portland": {
+    "prediction": "Away Win",
+    "confidence": 48.1,
+    "a_win_prob": 31.1,
+    "draw_prob": 20.8,
+    "b_win_prob": 48.1,
+    "is_correct": true
+  },
+  "2026-04-26|Seattle|Dallas": {
+    "prediction": "Home Win",
+    "confidence": 46.8,
+    "a_win_prob": 46.8,
+    "draw_prob": 22.1,
+    "b_win_prob": 31.1,
+    "is_correct": true
+  },
+  "2026-04-26|Vancouver|Colorado": {
+    "prediction": "Home Win",
+    "confidence": 54.9,
+    "a_win_prob": 54.9,
+    "draw_prob": 20.2,
+    "b_win_prob": 24.9,
+    "is_correct": true
+  },
+  "2026-05-02|Toronto|San Jose": {
+    "prediction": "Away Win",
+    "confidence": 51.3,
+    "a_win_prob": 28.3,
+    "draw_prob": 20.4,
+    "b_win_prob": 51.3,
+    "is_correct": false
+  },
+  "2026-05-02|Kansas City|Seattle": {
+    "prediction": "Away Win",
+    "confidence": 60.7,
+    "a_win_prob": 20.3,
+    "draw_prob": 19.0,
+    "b_win_prob": 60.7,
+    "is_correct": false
+  },
+  "2026-05-02|Salt Lake|Portland": {
+    "prediction": "Home Win",
+    "confidence": 55.6,
+    "a_win_prob": 55.6,
+    "draw_prob": 19.3,
+    "b_win_prob": 25.1,
+    "is_correct": true
+  },
+  "2026-05-02|Miami|Orlando": {
+    "prediction": "Home Win",
+    "confidence": 68.5,
+    "a_win_prob": 68.5,
+    "draw_prob": 15.8,
+    "b_win_prob": 15.7,
+    "is_correct": false
+  },
+  "2026-05-02|Atlanta|CF Montréal": {
     "prediction": "Home Win",
     "confidence": 41.4,
     "a_win_prob": 41.4,
-    "draw_prob": 23.9,
-    "b_win_prob": 34.7,
-    "is_correct": false
-  },
-  "2025-08-10|Austin|Houston": {
-    "prediction": "Home Win",
-    "confidence": 41.7,
-    "a_win_prob": 41.7,
-    "draw_prob": 23.3,
-    "b_win_prob": 35.0,
-    "is_correct": false
-  },
-  "2025-08-10|Chicago|LAFC": {
-    "prediction": "Home Win",
-    "confidence": 38.7,
-    "a_win_prob": 38.7,
-    "draw_prob": 23.7,
-    "b_win_prob": 37.6,
-    "is_correct": false
-  },
-  "2025-08-10|Dallas|Portland": {
-    "prediction": "Home Win",
-    "confidence": 66.7,
-    "a_win_prob": 66.7,
-    "draw_prob": 15.8,
-    "b_win_prob": 17.5,
-    "is_correct": true
-  },
-  "2025-08-10|St. Louis|Nashville": {
-    "prediction": "Home Win",
-    "confidence": 48.6,
-    "a_win_prob": 48.6,
-    "draw_prob": 21.9,
-    "b_win_prob": 29.5,
-    "is_correct": true
-  },
-  "2025-08-10|Kansas City|San Diego": {
-    "prediction": "Away Win",
-    "confidence": 60.0,
-    "a_win_prob": 21.2,
-    "draw_prob": 18.8,
-    "b_win_prob": 60.0,
-    "is_correct": true
-  },
-  "2025-08-10|San Jose|Vancouver": {
-    "prediction": "Home Win",
-    "confidence": 41.3,
-    "a_win_prob": 41.3,
     "draw_prob": 23.4,
-    "b_win_prob": 35.3,
+    "b_win_prob": 35.2,
+    "is_correct": true
+  },
+  "2026-05-02|Columbus|Minnesota": {
+    "prediction": "Away Win",
+    "confidence": 55.1,
+    "a_win_prob": 26.3,
+    "draw_prob": 18.6,
+    "b_win_prob": 55.1,
+    "is_correct": true
+  },
+  "2026-05-02|New England|Charlotte": {
+    "prediction": "Home Win",
+    "confidence": 49.6,
+    "a_win_prob": 49.6,
+    "draw_prob": 20.4,
+    "b_win_prob": 30.0,
+    "is_correct": true
+  },
+  "2026-05-02|Philadelphia|Nashville": {
+    "prediction": "Away Win",
+    "confidence": 58.5,
+    "a_win_prob": 23.0,
+    "draw_prob": 18.5,
+    "b_win_prob": 58.5,
+    "is_correct": false
+  },
+  "2026-05-02|Red Bull NY|Dallas": {
+    "prediction": "Away Win",
+    "confidence": 53.0,
+    "a_win_prob": 28.1,
+    "draw_prob": 18.9,
+    "b_win_prob": 53.0,
+    "is_correct": true
+  },
+  "2026-05-03|NYCFC|D.C. United": {
+    "prediction": "Away Win",
+    "confidence": 41.4,
+    "a_win_prob": 35.9,
+    "draw_prob": 22.7,
+    "b_win_prob": 41.4,
+    "is_correct": true
+  },
+  "2026-05-03|Austin|St. Louis": {
+    "prediction": "Away Win",
+    "confidence": 44.9,
+    "a_win_prob": 33.5,
+    "draw_prob": 21.6,
+    "b_win_prob": 44.9,
+    "is_correct": false
+  },
+  "2026-05-03|Chicago|Cincinnati": {
+    "prediction": "Home Win",
+    "confidence": 62.6,
+    "a_win_prob": 62.6,
+    "draw_prob": 16.8,
+    "b_win_prob": 20.6,
+    "is_correct": false
+  },
+  "2026-05-03|Houston|Colorado": {
+    "prediction": "Away Win",
+    "confidence": 42.6,
+    "a_win_prob": 38.6,
+    "draw_prob": 18.8,
+    "b_win_prob": 42.6,
+    "is_correct": false
+  },
+  "2026-05-03|San Diego|LAFC": {
+    "prediction": "Away Win",
+    "confidence": 44.9,
+    "a_win_prob": 33.0,
+    "draw_prob": 22.1,
+    "b_win_prob": 44.9,
+    "is_correct": false
+  },
+  "2026-05-03|LA Galaxy|Vancouver": {
+    "prediction": "Away Win",
+    "confidence": 45.3,
+    "a_win_prob": 33.6,
+    "draw_prob": 21.1,
+    "b_win_prob": 45.3,
+    "is_correct": false
+  },
+  "2026-05-09|Toronto|Miami": {
+    "prediction": "Away Win",
+    "confidence": 60.2,
+    "a_win_prob": 21.4,
+    "draw_prob": 18.4,
+    "b_win_prob": 60.2,
+    "is_correct": true
+  },
+  "2026-05-09|Chicago|Red Bull NY": {
+    "prediction": "Away Win",
+    "confidence": 48.5,
+    "a_win_prob": 31.0,
+    "draw_prob": 20.5,
+    "b_win_prob": 48.5,
+    "is_correct": true
+  },
+  "2026-05-09|CF Montréal|Orlando": {
+    "prediction": "Home Win",
+    "confidence": 56.6,
+    "a_win_prob": 56.6,
+    "draw_prob": 19.0,
+    "b_win_prob": 24.4,
+    "is_correct": true
+  },
+  "2026-05-09|Atlanta|LA Galaxy": {
+    "prediction": "Away Win",
+    "confidence": 51.1,
+    "a_win_prob": 29.2,
+    "draw_prob": 19.7,
+    "b_win_prob": 51.1,
+    "is_correct": true
+  },
+  "2026-05-09|Charlotte|Cincinnati": {
+    "prediction": "Home Win",
+    "confidence": 49.2,
+    "a_win_prob": 49.2,
+    "draw_prob": 21.3,
+    "b_win_prob": 29.5,
+    "is_correct": false
+  },
+  "2026-05-09|New England|Philadelphia": {
+    "prediction": "Home Win",
+    "confidence": 66.5,
+    "a_win_prob": 66.5,
+    "draw_prob": 16.2,
+    "b_win_prob": 17.3,
+    "is_correct": true
+  },
+  "2026-05-10|NYCFC|Columbus": {
+    "prediction": "Home Win",
+    "confidence": 68.7,
+    "a_win_prob": 68.7,
+    "draw_prob": 15.9,
+    "b_win_prob": 15.4,
+    "is_correct": true
+  },
+  "2026-05-10|Minnesota|Austin": {
+    "prediction": "Away Win",
+    "confidence": 38.8,
+    "a_win_prob": 37.9,
+    "draw_prob": 23.3,
+    "b_win_prob": 38.8,
+    "is_correct": false
+  },
+  "2026-05-10|Dallas|Salt Lake": {
+    "prediction": "Home Win",
+    "confidence": 55.5,
+    "a_win_prob": 55.5,
+    "draw_prob": 19.7,
+    "b_win_prob": 24.8,
+    "is_correct": true
+  },
+  "2026-05-10|Nashville|D.C. United": {
+    "prediction": "Home Win",
+    "confidence": 60.3,
+    "a_win_prob": 60.3,
+    "draw_prob": 17.7,
+    "b_win_prob": 22.0,
+    "is_correct": false
+  },
+  "2026-05-10|Colorado|St. Louis": {
+    "prediction": "Away Win",
+    "confidence": 54.0,
+    "a_win_prob": 26.8,
+    "draw_prob": 19.2,
+    "b_win_prob": 54.0,
+    "is_correct": true
+  },
+  "2026-05-10|Portland|Kansas City": {
+    "prediction": "Home Win",
+    "confidence": 62.5,
+    "a_win_prob": 62.5,
+    "draw_prob": 16.8,
+    "b_win_prob": 20.7,
+    "is_correct": true
+  },
+  "2026-05-10|San Jose|Vancouver": {
+    "prediction": "Away Win",
+    "confidence": 50.6,
+    "a_win_prob": 29.4,
+    "draw_prob": 20.0,
+    "b_win_prob": 50.6,
+    "is_correct": false
+  },
+  "2026-05-10|Seattle|San Diego": {
+    "prediction": "Home Win",
+    "confidence": 43.9,
+    "a_win_prob": 43.9,
+    "draw_prob": 23.1,
+    "b_win_prob": 33.0,
+    "is_correct": false
+  },
+  "2026-05-11|LAFC|Houston": {
+    "prediction": "Away Win",
+    "confidence": 54.1,
+    "a_win_prob": 26.9,
+    "draw_prob": 19.0,
+    "b_win_prob": 54.1,
+    "is_correct": true
+  },
+  "2026-05-13|Charlotte|NYCFC": {
+    "prediction": "Away Win",
+    "confidence": 55.5,
+    "a_win_prob": 26.4,
+    "draw_prob": 18.1,
+    "b_win_prob": 55.5,
+    "is_correct": true
+  },
+  "2026-05-13|CF Montréal|Portland": {
+    "prediction": "Away Win",
+    "confidence": 42.4,
+    "a_win_prob": 35.3,
+    "draw_prob": 22.3,
+    "b_win_prob": 42.4,
+    "is_correct": false
+  },
+  "2026-05-13|D.C. United|Chicago": {
+    "prediction": "Away Win",
+    "confidence": 45.1,
+    "a_win_prob": 33.8,
+    "draw_prob": 21.1,
+    "b_win_prob": 45.1,
+    "is_correct": true
+  },
+  "2026-05-13|Cincinnati|Miami": {
+    "prediction": "Away Win",
+    "confidence": 57.3,
+    "a_win_prob": 24.6,
+    "draw_prob": 18.1,
+    "b_win_prob": 57.3,
+    "is_correct": true
+  },
+  "2026-05-13|New England|Nashville": {
+    "prediction": "Home Win",
+    "confidence": 40.5,
+    "a_win_prob": 40.5,
+    "draw_prob": 23.4,
+    "b_win_prob": 36.1,
+    "is_correct": false
+  },
+  "2026-05-13|Orlando|Philadelphia": {
+    "prediction": "Home Win",
+    "confidence": 60.9,
+    "a_win_prob": 60.9,
+    "draw_prob": 17.7,
+    "b_win_prob": 21.4,
+    "is_correct": true
+  },
+  "2026-05-13|Red Bull NY|Columbus": {
+    "prediction": "Home Win",
+    "confidence": 68.9,
+    "a_win_prob": 68.9,
+    "draw_prob": 15.9,
+    "b_win_prob": 15.2,
+    "is_correct": true
+  },
+  "2026-05-14|Dallas|Vancouver": {
+    "prediction": "Home Win",
+    "confidence": 39.7,
+    "a_win_prob": 39.7,
+    "draw_prob": 23.9,
+    "b_win_prob": 36.4,
+    "is_correct": false
+  },
+  "2026-05-14|Minnesota|Colorado": {
+    "prediction": "Away Win",
+    "confidence": 43.8,
+    "a_win_prob": 34.8,
+    "draw_prob": 21.4,
+    "b_win_prob": 43.8,
+    "is_correct": true
+  },
+  "2026-05-14|Kansas City|LA Galaxy": {
+    "prediction": "Away Win",
+    "confidence": 42.7,
+    "a_win_prob": 37.5,
+    "draw_prob": 19.8,
+    "b_win_prob": 42.7,
+    "is_correct": false
+  },
+  "2026-05-14|St. Louis|LAFC": {
+    "prediction": "Home Win",
+    "confidence": 69.8,
+    "a_win_prob": 69.8,
+    "draw_prob": 15.5,
+    "b_win_prob": 14.7,
+    "is_correct": true
+  },
+  "2026-05-14|Salt Lake|Houston": {
+    "prediction": "Away Win",
+    "confidence": 42.8,
+    "a_win_prob": 37.4,
+    "draw_prob": 19.8,
+    "b_win_prob": 42.8,
+    "is_correct": false
+  },
+  "2026-05-14|San Diego|Austin": {
+    "prediction": "Home Win",
+    "confidence": 62.6,
+    "a_win_prob": 62.6,
+    "draw_prob": 17.6,
+    "b_win_prob": 19.8,
+    "is_correct": true
+  },
+  "2026-05-14|Seattle|San Jose": {
+    "prediction": "Home Win",
+    "confidence": 61.6,
+    "a_win_prob": 61.6,
+    "draw_prob": 17.6,
+    "b_win_prob": 20.8,
+    "is_correct": true
+  },
+  "2026-05-16|CF Montréal|Chicago": {
+    "prediction": "Home Win",
+    "confidence": 45.9,
+    "a_win_prob": 45.9,
+    "draw_prob": 21.8,
+    "b_win_prob": 32.3,
+    "is_correct": false
+  },
+  "2026-05-16|Charlotte|Toronto": {
+    "prediction": "Home Win",
+    "confidence": 62.8,
+    "a_win_prob": 62.8,
+    "draw_prob": 17.1,
+    "b_win_prob": 20.1,
+    "is_correct": true
+  },
+  "2026-05-16|D.C. United|St. Louis": {
+    "prediction": "Away Win",
+    "confidence": 53.8,
+    "a_win_prob": 26.8,
+    "draw_prob": 19.4,
+    "b_win_prob": 53.8,
+    "is_correct": false
+  },
+  "2026-05-16|New England|Minnesota": {
+    "prediction": "Home Win",
+    "confidence": 64.8,
+    "a_win_prob": 64.8,
+    "draw_prob": 16.6,
+    "b_win_prob": 18.6,
+    "is_correct": true
+  },
+  "2026-05-16|Orlando|Atlanta": {
+    "prediction": "Home Win",
+    "confidence": 55.6,
+    "a_win_prob": 55.6,
+    "draw_prob": 19.5,
+    "b_win_prob": 24.9,
+    "is_correct": false
+  },
+  "2026-05-16|Philadelphia|Columbus": {
+    "prediction": "Home Win",
+    "confidence": 40.6,
+    "a_win_prob": 40.6,
+    "draw_prob": 23.7,
+    "b_win_prob": 35.7,
+    "is_correct": false
+  },
+  "2026-05-16|Red Bull NY|NYCFC": {
+    "prediction": "Home Win",
+    "confidence": 44.8,
+    "a_win_prob": 44.8,
+    "draw_prob": 22.7,
+    "b_win_prob": 32.5,
+    "is_correct": false
+  },
+  "2026-05-17|Austin|Kansas City": {
+    "prediction": "Away Win",
+    "confidence": 51.7,
+    "a_win_prob": 28.7,
+    "draw_prob": 19.6,
+    "b_win_prob": 51.7,
+    "is_correct": true
+  },
+  "2026-05-17|Houston|Vancouver": {
+    "prediction": "Home Win",
+    "confidence": 49.5,
+    "a_win_prob": 49.5,
+    "draw_prob": 21.2,
+    "b_win_prob": 29.3,
+    "is_correct": true
+  },
+  "2026-05-17|Seattle|LA Galaxy": {
+    "prediction": "Home Win",
+    "confidence": 61.9,
+    "a_win_prob": 61.9,
+    "draw_prob": 17.2,
+    "b_win_prob": 20.9,
+    "is_correct": false
+  },
+  "2026-05-17|Salt Lake|Colorado": {
+    "prediction": "Home Win",
+    "confidence": 52.8,
+    "a_win_prob": 52.8,
+    "draw_prob": 20.5,
+    "b_win_prob": 26.7,
+    "is_correct": true
+  },
+  "2026-05-17|San Diego|Cincinnati": {
+    "prediction": "Away Win",
+    "confidence": 53.2,
+    "a_win_prob": 27.5,
+    "draw_prob": 19.3,
+    "b_win_prob": 53.2,
+    "is_correct": false
+  },
+  "2026-05-17|San Jose|Dallas": {
+    "prediction": "Home Win",
+    "confidence": 55.4,
+    "a_win_prob": 55.4,
+    "draw_prob": 19.5,
+    "b_win_prob": 25.1,
+    "is_correct": false
+  },
+  "2026-05-17|Miami|Portland": {
+    "prediction": "Home Win",
+    "confidence": 69.4,
+    "a_win_prob": 69.4,
+    "draw_prob": 12.2,
+    "b_win_prob": 18.4,
+    "is_correct": true
+  },
+  "2026-05-18|Nashville|LAFC": {
+    "prediction": "Home Win",
+    "confidence": 60.8,
+    "a_win_prob": 60.8,
+    "draw_prob": 12.7,
+    "b_win_prob": 26.5,
+    "is_correct": true
+  },
+  "2026-05-23|St. Louis|Austin": {
+    "prediction": "Home Win",
+    "confidence": 56.5,
+    "a_win_prob": 56.5,
+    "draw_prob": 18.9,
+    "b_win_prob": 24.6,
+    "is_correct": true
+  },
+  "2026-05-23|Minnesota|Salt Lake": {
+    "prediction": "Home Win",
+    "confidence": 59.5,
+    "a_win_prob": 59.5,
+    "draw_prob": 18.0,
+    "b_win_prob": 22.5,
+    "is_correct": false
+  },
+  "2026-05-23|Charlotte|New England": {
+    "prediction": "Home Win",
+    "confidence": 62.1,
+    "a_win_prob": 62.1,
+    "draw_prob": 12.5,
+    "b_win_prob": 25.4,
+    "is_correct": true
+  },
+  "2026-05-23|D.C. United|CF Montréal": {
+    "prediction": "Home Win",
+    "confidence": 48.1,
+    "a_win_prob": 48.1,
+    "draw_prob": 14.7,
+    "b_win_prob": 37.2,
+    "is_correct": false
+  },
+  "2026-05-23|Cincinnati|Orlando": {
+    "prediction": "Home Win",
+    "confidence": 47.5,
+    "a_win_prob": 47.5,
+    "draw_prob": 13.1,
+    "b_win_prob": 39.4,
+    "is_correct": true
+  },
+  "2026-05-24|Chicago|Toronto": {
+    "prediction": "Home Win",
+    "confidence": 59.4,
+    "a_win_prob": 59.4,
+    "draw_prob": 14.3,
+    "b_win_prob": 26.3,
+    "is_correct": true
+  },
+  "2026-05-24|Nashville|NYCFC": {
+    "prediction": "Home Win",
+    "confidence": 42.8,
+    "a_win_prob": 42.8,
+    "draw_prob": 14.4,
+    "b_win_prob": 42.8,
+    "is_correct": true
+  },
+  "2026-05-24|Kansas City|Red Bull NY": {
+    "prediction": "Away Win",
+    "confidence": 55.7,
+    "a_win_prob": 30.5,
+    "draw_prob": 13.8,
+    "b_win_prob": 55.7,
+    "is_correct": true
+  },
+  "2026-05-24|Colorado|Dallas": {
+    "prediction": "Home Win",
+    "confidence": 42.8,
+    "a_win_prob": 42.8,
+    "draw_prob": 14.9,
+    "b_win_prob": 42.3,
+    "is_correct": false
+  },
+  "2026-05-24|Portland|San Jose": {
+    "prediction": "Away Win",
+    "confidence": 51.6,
+    "a_win_prob": 34.9,
+    "draw_prob": 13.5,
+    "b_win_prob": 51.6,
+    "is_correct": true
+  },
+  "2026-05-24|San Diego|Vancouver": {
+    "prediction": "Home Win",
+    "confidence": 46.7,
+    "a_win_prob": 46.7,
+    "draw_prob": 13.2,
+    "b_win_prob": 40.1,
+    "is_correct": false
+  },
+  "2026-05-24|LA Galaxy|Houston": {
+    "prediction": "Home Win",
+    "confidence": 44.3,
+    "a_win_prob": 44.3,
+    "draw_prob": 15.5,
+    "b_win_prob": 40.2,
+    "is_correct": false
+  },
+  "2026-05-24|Columbus|Atlanta": {
+    "prediction": "Home Win",
+    "confidence": 55.7,
+    "a_win_prob": 55.7,
+    "draw_prob": 15.6,
+    "b_win_prob": 28.7,
+    "is_correct": true
+  },
+  "2026-05-24|Miami|Philadelphia": {
+    "prediction": "Home Win",
+    "confidence": 58.8,
+    "a_win_prob": 58.8,
+    "draw_prob": 14.3,
+    "b_win_prob": 26.9,
+    "is_correct": true
+  },
+  "2026-05-25|LAFC|Seattle": {
+    "prediction": "Home Win",
+    "confidence": 50.2,
+    "a_win_prob": 50.2,
+    "draw_prob": 16.3,
+    "b_win_prob": 33.5,
     "is_correct": true
   }
 }

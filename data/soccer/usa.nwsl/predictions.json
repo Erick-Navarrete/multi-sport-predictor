@@ -1,682 +1,522 @@
 [
   {
     "id": 1,
-    "date": "2026-05-24 00:45",
-    "time": "00:45",
-    "entity_a": "Houston",
-    "entity_b": "Angel City",
-    "venue": "Shell Energy Stadium",
-    "a_win_prob": 47.2,
-    "draw_prob": 14.4,
-    "b_win_prob": 38.4,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 47.2,
-    "confidence_level": "Low",
-    "elo_a": 1527,
-    "elo_b": 1500.8858423808638,
-    "elo_diff": 26,
-    "colley_a": 1487,
-    "colley_b": 1413,
-    "form_a": 73.3,
-    "form_b": 63.3,
-    "odds_available": true,
-    "odds_source": "espn_embedded",
-    "sources": {
-      "elo": {
-        "a": 49.9,
-        "d": 20.5,
-        "b": 29.6
-      },
-      "colley": {
-        "a": 56.8,
-        "d": 17.7,
-        "b": 25.5
-      },
-      "form": {
-        "a": 49.3,
-        "d": 23.0,
-        "b": 27.7
-      },
-      "odds": {
-        "a": 38.0,
-        "d": 0.0,
-        "b": 62.0
-      }
-    },
-    "weights_used": {
-      "elo": 0.35,
-      "colley": 0.15,
-      "form": 0.2,
-      "odds": 0.3
-    },
-    "day_of_week": "Sunday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5,
-    "espn_odds": {
-      "home_ml": "+235",
-      "away_ml": "+105",
-      "spread": "LA +105",
-      "over_under": 2.5
-    }
-  },
-  {
-    "id": 2,
-    "date": "2026-05-24 17:00",
-    "time": "17:00",
-    "entity_a": "Kansas City",
-    "entity_b": "Portland",
-    "venue": "CPKC Stadium",
-    "a_win_prob": 66.9,
-    "draw_prob": 11.2,
-    "b_win_prob": 21.9,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 66.9,
-    "confidence_level": "Medium",
-    "elo_a": 1550.7302488,
-    "elo_b": 1494.352848,
-    "elo_diff": 56,
-    "colley_a": 1800,
-    "colley_b": 1682,
-    "form_a": 86.7,
-    "form_b": 36.7,
-    "odds_available": true,
-    "odds_source": "espn_embedded",
-    "sources": {
-      "elo": {
-        "a": 54.3,
-        "d": 18.7,
-        "b": 27.0
-      },
-      "colley": {
-        "a": 63.0,
-        "d": 15.0,
-        "b": 22.0
-      },
-      "form": {
-        "a": 83.3,
-        "d": 12.0,
-        "b": 4.7
-      },
-      "odds": {
-        "a": 72.5,
-        "d": 0.0,
-        "b": 27.5
-      }
-    },
-    "weights_used": {
-      "elo": 0.35,
-      "colley": 0.15,
-      "form": 0.2,
-      "odds": 0.3
-    },
-    "day_of_week": "Sunday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5,
-    "espn_odds": {
-      "home_ml": "-150",
-      "away_ml": "+340",
-      "spread": "KC -150",
-      "over_under": 2.5
-    }
-  },
-  {
-    "id": 3,
-    "date": "2026-05-24 21:00",
-    "time": "21:00",
-    "entity_a": "Bay",
-    "entity_b": "Chicago",
-    "venue": "PayPal Park",
-    "a_win_prob": 32.8,
-    "draw_prob": 23.0,
-    "b_win_prob": 44.2,
-    "prediction": "Away Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 44.2,
-    "confidence_level": "Low",
-    "elo_a": 1452,
-    "elo_b": 1491.0121991242368,
-    "elo_diff": -39,
-    "colley_a": 1200,
-    "colley_b": 1278,
-    "form_a": 30.0,
-    "form_b": 53.3,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 40.6,
-        "d": 24.4,
-        "b": 35.0
-      },
-      "colley": {
-        "a": 36.0,
-        "d": 25.2,
-        "b": 38.8
-      },
-      "form": {
-        "a": 16.8,
-        "d": 19.0,
-        "b": 64.2
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5,
-      "colley": 0.2142857142857143,
-      "form": 0.28571428571428575,
-      "odds": 0.0
-    },
-    "day_of_week": "Sunday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 4,
-    "date": "2026-05-24 23:00",
-    "time": "23:00",
-    "entity_a": "San Diego",
-    "entity_b": "Orlando",
-    "venue": "Snapdragon Stadium",
-    "a_win_prob": 51.8,
-    "draw_prob": 20.6,
-    "b_win_prob": 27.6,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 51.8,
-    "confidence_level": "Medium",
-    "elo_a": 1486.28,
-    "elo_b": 1478.8712,
-    "elo_diff": 7,
-    "colley_a": 1519,
-    "colley_b": 1417,
-    "form_a": 53.3,
-    "form_b": 40.0,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 47.2,
-        "d": 21.7,
-        "b": 31.1
-      },
-      "colley": {
-        "a": 60.8,
-        "d": 16.0,
-        "b": 23.2
-      },
-      "form": {
-        "a": 53.2,
-        "d": 22.0,
-        "b": 24.8
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5,
-      "colley": 0.2142857142857143,
-      "form": 0.28571428571428575,
-      "odds": 0.0
-    },
-    "day_of_week": "Sunday",
-    "week_number": 21,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 5,
     "date": "2026-05-29 23:00",
     "time": "23:00",
     "entity_a": "Orlando",
     "entity_b": "Bay",
     "venue": "Inter&Co Stadium",
-    "a_win_prob": 54.8,
-    "draw_prob": 19.4,
-    "b_win_prob": 25.8,
+    "a_win_prob": 59.1,
+    "draw_prob": 14.1,
+    "b_win_prob": 26.8,
     "prediction": "Home Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 54.8,
+    "confidence": 59.1,
     "confidence_level": "Medium",
-    "elo_a": 1478.8712,
-    "elo_b": 1452,
-    "elo_diff": 27,
-    "colley_a": 1417,
-    "colley_b": 1200,
-    "form_a": 40.0,
-    "form_b": 30.0,
-    "odds_available": false,
-    "odds_source": null,
+    "elo_a": 1501,
+    "elo_b": 1469.62,
+    "elo_diff": 31,
+    "colley_a": 1397,
+    "colley_b": 1388,
+    "form_a": 46.7,
+    "form_b": 23.3,
+    "odds_available": true,
+    "odds_source": "espn_embedded",
     "sources": {
       "elo": {
-        "a": 50.0,
-        "d": 20.5,
-        "b": 29.5
+        "a": 50.7,
+        "d": 20.2,
+        "b": 29.1
       },
       "colley": {
-        "a": 73.5,
-        "d": 12.0,
-        "b": 14.5
+        "a": 47.4,
+        "d": 21.6,
+        "b": 31.0
       },
       "form": {
-        "a": 49.3,
-        "d": 23.0,
-        "b": 27.7
+        "a": 64.3,
+        "d": 19.0,
+        "b": 16.7
       },
-      "odds": null
+      "odds": {
+        "a": 71.3,
+        "d": 0.0,
+        "b": 28.7
+      }
     },
     "weights_used": {
-      "elo": 0.5,
-      "colley": 0.2142857142857143,
-      "form": 0.28571428571428575,
-      "odds": 0.0
+      "elo": 0.35,
+      "colley": 0.15,
+      "form": 0.2,
+      "odds": 0.3
     },
     "day_of_week": "Friday",
     "week_number": 22,
     "year": 2026,
-    "month": 5
+    "month": 5,
+    "espn_odds": {
+      "home_ml": "-145",
+      "away_ml": "+320",
+      "spread": "ORL -145",
+      "over_under": 2.5
+    }
   },
   {
-    "id": 6,
+    "id": 2,
     "date": "2026-05-30 00:00",
     "time": "00:00",
     "entity_a": "Louisville",
     "entity_b": "Denver",
     "venue": "Lynn Family Stadium",
-    "a_win_prob": 46.5,
-    "draw_prob": 22.7,
-    "b_win_prob": 30.8,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 46.5,
-    "confidence_level": "Low",
-    "elo_a": 1504.3406276662338,
-    "elo_b": 1499.7238243317481,
-    "elo_diff": 5,
-    "colley_a": 1412,
-    "colley_b": 1478,
-    "form_a": 56.7,
-    "form_b": 43.3,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 46.8,
-        "d": 21.8,
-        "b": 31.4
-      },
-      "colley": {
-        "a": 36.9,
-        "d": 25.9,
-        "b": 37.2
-      },
-      "form": {
-        "a": 53.3,
-        "d": 22.0,
-        "b": 24.7
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5,
-      "colley": 0.2142857142857143,
-      "form": 0.28571428571428575,
-      "odds": 0.0
-    },
-    "day_of_week": "Saturday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 7,
-    "date": "2026-05-30 17:30",
-    "time": "17:30",
-    "entity_a": "Kansas City",
-    "entity_b": "Boston",
-    "venue": "CPKC Stadium",
-    "a_win_prob": 70.6,
-    "draw_prob": 15.3,
-    "b_win_prob": 14.1,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 70.6,
-    "confidence_level": "High",
-    "elo_a": 1550.7302488,
-    "elo_b": 1492.9711635375777,
-    "elo_diff": 58,
-    "colley_a": 1800,
-    "colley_b": 1221,
-    "form_a": 86.7,
-    "form_b": 0.0,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 54.5,
-        "d": 18.6,
-        "b": 26.9
-      },
-      "colley": {
-        "a": 85.9,
-        "d": 12.0,
-        "b": 2.1
-      },
-      "form": {
-        "a": 87.4,
-        "d": 12.0,
-        "b": 0.6
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5,
-      "colley": 0.2142857142857143,
-      "form": 0.28571428571428575,
-      "odds": 0.0
-    },
-    "day_of_week": "Saturday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 8,
-    "date": "2026-05-30 20:00",
-    "time": "20:00",
-    "entity_a": "Portland",
-    "entity_b": "Utah",
-    "venue": "Providence Park",
-    "a_win_prob": 40.5,
-    "draw_prob": 23.9,
-    "b_win_prob": 35.6,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 40.5,
-    "confidence_level": "Low",
-    "elo_a": 1494.352848,
-    "elo_b": 1508.6435999999999,
-    "elo_diff": -14,
-    "colley_a": 1682,
-    "colley_b": 1720,
-    "form_a": 36.7,
-    "form_b": 40.0,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 44.1,
-        "d": 23.0,
-        "b": 32.9
-      },
-      "colley": {
-        "a": 40.7,
-        "d": 24.4,
-        "b": 34.9
-      },
-      "form": {
-        "a": 33.9,
-        "d": 25.0,
-        "b": 41.1
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5,
-      "colley": 0.2142857142857143,
-      "form": 0.28571428571428575,
-      "odds": 0.0
-    },
-    "day_of_week": "Saturday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 9,
-    "date": "2026-05-30 22:30",
-    "time": "22:30",
-    "entity_a": "Washington",
-    "entity_b": "Seattle",
-    "venue": "Audi Field",
-    "a_win_prob": 64.9,
-    "draw_prob": 16.0,
-    "b_win_prob": 19.1,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 64.9,
-    "confidence_level": "Medium",
-    "elo_a": 1529.176952,
-    "elo_b": 1486.6600358059175,
-    "elo_diff": 43,
-    "colley_a": 1729,
-    "colley_b": 1508,
-    "form_a": 73.3,
-    "form_b": 30.0,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 52.3,
-        "d": 19.5,
-        "b": 28.2
-      },
-      "colley": {
-        "a": 73.8,
-        "d": 12.0,
-        "b": 14.2
-      },
-      "form": {
-        "a": 80.4,
-        "d": 13.0,
-        "b": 6.6
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5,
-      "colley": 0.2142857142857143,
-      "form": 0.28571428571428575,
-      "odds": 0.0
-    },
-    "day_of_week": "Saturday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 10,
-    "date": "2026-05-31 17:00",
-    "time": "17:00",
-    "entity_a": "Chicago",
-    "entity_b": "San Diego",
-    "venue": "Northwestern Medicine Field at Martin Stadium",
-    "a_win_prob": 38.8,
-    "draw_prob": 21.6,
-    "b_win_prob": 39.6,
+    "a_win_prob": 34.0,
+    "draw_prob": 14.4,
+    "b_win_prob": 51.6,
     "prediction": "Away Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 39.6,
-    "confidence_level": "Low",
-    "elo_a": 1491.0121991242368,
-    "elo_b": 1486.28,
-    "elo_diff": 5,
-    "colley_a": 1278,
-    "colley_b": 1519,
-    "form_a": 53.3,
-    "form_b": 53.3,
-    "odds_available": false,
-    "odds_source": null,
+    "confidence": 51.6,
+    "confidence_level": "Medium",
+    "elo_a": 1467.2238319080323,
+    "elo_b": 1500.0,
+    "elo_diff": -33,
+    "colley_a": 1209,
+    "colley_b": 1444,
+    "form_a": 20.0,
+    "form_b": 46.7,
+    "odds_available": true,
+    "odds_source": "espn_embedded",
     "sources": {
       "elo": {
-        "a": 46.8,
-        "d": 21.8,
-        "b": 31.4
+        "a": 41.5,
+        "d": 24.1,
+        "b": 34.4
       },
       "colley": {
-        "a": 22.5,
-        "d": 15.4,
-        "b": 62.1
+        "a": 23.0,
+        "d": 15.8,
+        "b": 61.2
       },
       "form": {
-        "a": 37.0,
-        "d": 26.0,
-        "b": 37.0
+        "a": 14.5,
+        "d": 18.0,
+        "b": 67.5
       },
-      "odds": null
+      "odds": {
+        "a": 43.6,
+        "d": 0.0,
+        "b": 56.4
+      }
     },
     "weights_used": {
-      "elo": 0.5,
-      "colley": 0.2142857142857143,
-      "form": 0.28571428571428575,
-      "odds": 0.0
+      "elo": 0.35,
+      "colley": 0.15,
+      "form": 0.2,
+      "odds": 0.3
     },
-    "day_of_week": "Sunday",
+    "day_of_week": "Saturday",
     "week_number": 22,
     "year": 2026,
-    "month": 5
+    "month": 5,
+    "espn_odds": {
+      "home_ml": "+185",
+      "away_ml": "+120",
+      "spread": "DEN +120",
+      "over_under": 2.5
+    }
   },
   {
-    "id": 11,
-    "date": "2026-05-31 19:00",
-    "time": "19:00",
-    "entity_a": "Gotham",
-    "entity_b": "Houston",
-    "venue": "Red Bull Arena",
-    "a_win_prob": 42.4,
-    "draw_prob": 19.3,
-    "b_win_prob": 38.3,
+    "id": 3,
+    "date": "2026-05-30 17:30",
+    "time": "17:30",
+    "entity_a": "Kansas City",
+    "entity_b": "Boston",
+    "venue": "CPKC Stadium",
+    "a_win_prob": 65.9,
+    "draw_prob": 12.4,
+    "b_win_prob": 21.7,
     "prediction": "Home Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 42.4,
-    "confidence_level": "Low",
-    "elo_a": 1510.2091562709816,
-    "elo_b": 1527,
-    "elo_diff": -17,
-    "colley_a": 1744,
-    "colley_b": 1487,
-    "form_a": 46.7,
-    "form_b": 73.3,
-    "odds_available": false,
-    "odds_source": null,
+    "confidence": 65.9,
+    "confidence_level": "Medium",
+    "elo_a": 1517.2872000000002,
+    "elo_b": 1481.5526368000003,
+    "elo_diff": 36,
+    "colley_a": 1606,
+    "colley_b": 1234,
+    "form_a": 73.3,
+    "form_b": 46.7,
+    "odds_available": true,
+    "odds_source": "espn_embedded",
     "sources": {
       "elo": {
-        "a": 43.8,
-        "d": 23.1,
-        "b": 33.1
+        "a": 51.3,
+        "d": 20.0,
+        "b": 28.7
       },
       "colley": {
-        "a": 76.1,
+        "a": 81.4,
         "d": 12.0,
-        "b": 11.9
+        "b": 6.6
+      },
+      "form": {
+        "a": 67.4,
+        "d": 18.0,
+        "b": 14.6
+      },
+      "odds": {
+        "a": 74.3,
+        "d": 0.0,
+        "b": 25.7
+      }
+    },
+    "weights_used": {
+      "elo": 0.35,
+      "colley": 0.15,
+      "form": 0.2,
+      "odds": 0.3
+    },
+    "day_of_week": "Saturday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5,
+    "espn_odds": {
+      "home_ml": "-170",
+      "away_ml": "+360",
+      "spread": "KC -170",
+      "over_under": 2.5
+    }
+  },
+  {
+    "id": 4,
+    "date": "2026-05-30 20:00",
+    "time": "20:00",
+    "entity_a": "Portland",
+    "entity_b": "Utah",
+    "venue": "Providence Park",
+    "a_win_prob": 38.2,
+    "draw_prob": 14.5,
+    "b_win_prob": 47.3,
+    "prediction": "Away Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 47.3,
+    "confidence_level": "Low",
+    "elo_a": 1512.4852,
+    "elo_b": 1547.9078022304,
+    "elo_diff": -35,
+    "colley_a": 1761,
+    "colley_b": 1800,
+    "form_a": 43.3,
+    "form_b": 90.0,
+    "odds_available": true,
+    "odds_source": "espn_embedded",
+    "sources": {
+      "elo": {
+        "a": 41.1,
+        "d": 24.2,
+        "b": 34.7
+      },
+      "colley": {
+        "a": 40.6,
+        "d": 24.4,
+        "b": 35.0
+      },
+      "form": {
+        "a": 5.6,
+        "d": 12.0,
+        "b": 82.4
+      },
+      "odds": {
+        "a": 55.3,
+        "d": 0.0,
+        "b": 44.7
+      }
+    },
+    "weights_used": {
+      "elo": 0.35,
+      "colley": 0.15,
+      "form": 0.2,
+      "odds": 0.3
+    },
+    "day_of_week": "Saturday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5,
+    "espn_odds": {
+      "home_ml": "+130",
+      "away_ml": "+185",
+      "spread": "POR +130",
+      "over_under": 2.5
+    }
+  },
+  {
+    "id": 5,
+    "date": "2026-05-30 22:30",
+    "time": "22:30",
+    "entity_a": "Washington",
+    "entity_b": "Seattle",
+    "venue": "Audi Field",
+    "a_win_prob": 65.8,
+    "draw_prob": 12.5,
+    "b_win_prob": 21.7,
+    "prediction": "Home Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 65.8,
+    "confidence_level": "Medium",
+    "elo_a": 1525.1113494899434,
+    "elo_b": 1493.54342288,
+    "elo_diff": 32,
+    "colley_a": 1726,
+    "colley_b": 1520,
+    "form_a": 66.7,
+    "form_b": 40.0,
+    "odds_available": true,
+    "odds_source": "espn_embedded",
+    "sources": {
+      "elo": {
+        "a": 50.7,
+        "d": 20.2,
+        "b": 29.1
+      },
+      "colley": {
+        "a": 72.7,
+        "d": 12.0,
+        "b": 15.3
+      },
+      "form": {
+        "a": 67.5,
+        "d": 18.0,
+        "b": 14.5
+      },
+      "odds": {
+        "a": 78.7,
+        "d": 0.0,
+        "b": 21.3
+      }
+    },
+    "weights_used": {
+      "elo": 0.35,
+      "colley": 0.15,
+      "form": 0.2,
+      "odds": 0.3
+    },
+    "day_of_week": "Saturday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5,
+    "espn_odds": {
+      "home_ml": "-205",
+      "away_ml": "+450",
+      "spread": "WAS -205",
+      "over_under": 2.5
+    }
+  },
+  {
+    "id": 6,
+    "date": "2026-05-31 17:00",
+    "time": "17:00",
+    "entity_a": "Chicago",
+    "entity_b": "San Diego",
+    "venue": "Northwestern Medicine Field at Martin Stadium",
+    "a_win_prob": 26.1,
+    "draw_prob": 14.5,
+    "b_win_prob": 59.4,
+    "prediction": "Away Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 59.4,
+    "confidence_level": "Medium",
+    "elo_a": 1478.44,
+    "elo_b": 1505,
+    "elo_diff": -27,
+    "colley_a": 1200,
+    "colley_b": 1696,
+    "form_a": 33.3,
+    "form_b": 46.7,
+    "odds_available": true,
+    "odds_source": "espn_embedded",
+    "sources": {
+      "elo": {
+        "a": 42.4,
+        "d": 23.7,
+        "b": 33.9
+      },
+      "colley": {
+        "a": 6.8,
+        "d": 12.0,
+        "b": 81.2
+      },
+      "form": {
+        "a": 24.7,
+        "d": 22.0,
+        "b": 53.3
+      },
+      "odds": {
+        "a": 17.6,
+        "d": 0.0,
+        "b": 82.4
+      }
+    },
+    "weights_used": {
+      "elo": 0.35,
+      "colley": 0.15,
+      "form": 0.2,
+      "odds": 0.3
+    },
+    "day_of_week": "Sunday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5,
+    "espn_odds": {
+      "home_ml": "+550",
+      "away_ml": "-260",
+      "spread": "SD -260",
+      "over_under": 2.5
+    }
+  },
+  {
+    "id": 7,
+    "date": "2026-05-31 19:00",
+    "time": "19:00",
+    "entity_a": "Gotham",
+    "entity_b": "Houston",
+    "venue": "Red Bull Arena",
+    "a_win_prob": 70.2,
+    "draw_prob": 11.5,
+    "b_win_prob": 18.3,
+    "prediction": "Home Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 70.2,
+    "confidence_level": "High",
+    "elo_a": 1523.3629001857216,
+    "elo_b": 1483.0585439999998,
+    "elo_diff": 40,
+    "colley_a": 1617,
+    "colley_b": 1442,
+    "form_a": 86.7,
+    "form_b": 46.7,
+    "odds_available": true,
+    "odds_source": "espn_embedded",
+    "sources": {
+      "elo": {
+        "a": 52.0,
+        "d": 19.7,
+        "b": 28.3
+      },
+      "colley": {
+        "a": 70.3,
+        "d": 12.0,
+        "b": 17.7
+      },
+      "form": {
+        "a": 78.2,
+        "d": 14.0,
+        "b": 7.8
+      },
+      "odds": {
+        "a": 86.1,
+        "d": 0.0,
+        "b": 13.9
+      }
+    },
+    "weights_used": {
+      "elo": 0.35,
+      "colley": 0.15,
+      "form": 0.2,
+      "odds": 0.3
+    },
+    "day_of_week": "Sunday",
+    "week_number": 22,
+    "year": 2026,
+    "month": 5,
+    "espn_odds": {
+      "home_ml": "-340",
+      "away_ml": "+700",
+      "spread": "GFC -340",
+      "over_under": 2.5
+    }
+  },
+  {
+    "id": 8,
+    "date": "2026-05-31 23:00",
+    "time": "23:00",
+    "entity_a": "Angel City",
+    "entity_b": "North Carolina",
+    "venue": "BMO Stadium",
+    "a_win_prob": 37.3,
+    "draw_prob": 15.6,
+    "b_win_prob": 47.1,
+    "prediction": "Away Win",
+    "actual_result": "Not Played",
+    "score_a": null,
+    "score_b": null,
+    "is_correct": null,
+    "confidence": 47.1,
+    "confidence_level": "Low",
+    "elo_a": 1480.234968,
+    "elo_b": 1512.4017933320958,
+    "elo_diff": -32,
+    "colley_a": 1467,
+    "colley_b": 1496,
+    "form_a": 36.7,
+    "form_b": 63.3,
+    "odds_available": true,
+    "odds_source": "espn_embedded",
+    "sources": {
+      "elo": {
+        "a": 41.6,
+        "d": 24.0,
+        "b": 34.4
+      },
+      "colley": {
+        "a": 42.0,
+        "d": 23.8,
+        "b": 34.2
       },
       "form": {
         "a": 14.6,
         "d": 18.0,
         "b": 67.4
       },
-      "odds": null
+      "odds": {
+        "a": 45.1,
+        "d": 0.0,
+        "b": 54.9
+      }
     },
     "weights_used": {
-      "elo": 0.5,
-      "colley": 0.2142857142857143,
-      "form": 0.28571428571428575,
-      "odds": 0.0
+      "elo": 0.35,
+      "colley": 0.15,
+      "form": 0.2,
+      "odds": 0.3
     },
     "day_of_week": "Sunday",
     "week_number": 22,
     "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 12,
-    "date": "2026-05-31 23:00",
-    "time": "23:00",
-    "entity_a": "Angel City",
-    "entity_b": "North Carolina",
-    "venue": "BMO Stadium",
-    "a_win_prob": 51.1,
-    "draw_prob": 20.2,
-    "b_win_prob": 28.7,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 51.1,
-    "confidence_level": "Medium",
-    "elo_a": 1500.8858423808638,
-    "elo_b": 1486.28,
-    "elo_diff": 15,
-    "colley_a": 1413,
-    "colley_b": 1541,
-    "form_a": 63.3,
-    "form_b": 33.3,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 48.3,
-        "d": 21.2,
-        "b": 30.5
-      },
-      "colley": {
-        "a": 31.9,
-        "d": 22.2,
-        "b": 45.9
-      },
-      "form": {
-        "a": 70.5,
-        "d": 17.0,
-        "b": 12.5
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5,
-      "colley": 0.2142857142857143,
-      "form": 0.28571428571428575,
-      "odds": 0.0
-    },
-    "day_of_week": "Sunday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
+    "month": 5,
+    "espn_odds": {
+      "home_ml": "+180",
+      "away_ml": "+130",
+      "spread": "NC +130",
+      "over_under": 2.5
+    }
   }
 ]

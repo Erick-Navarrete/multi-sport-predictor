@@ -1,50 +1,50 @@
 [
   {
     "id": 1,
-    "date": "2026-05-25 00:00",
+    "date": "2026-05-30 00:00",
     "time": "00:00",
-    "entity_a": "Golden Knights",
-    "entity_b": "Avalanche",
-    "venue": "T-Mobile Arena",
-    "a_win_prob": 51.8,
+    "entity_a": "Hurricanes",
+    "entity_b": "Canadiens",
+    "venue": "Lenovo Center",
+    "a_win_prob": 73.6,
     "draw_prob": 0.0,
-    "b_win_prob": 48.2,
+    "b_win_prob": 26.4,
     "prediction": "Home Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 51.8,
-    "confidence_level": "Medium",
-    "elo_a": 1526.46,
-    "elo_b": 1515.3137344064723,
-    "elo_diff": 11,
-    "colley_a": 1800,
-    "colley_b": 1643,
-    "form_a": 66.7,
-    "form_b": 86.7,
+    "confidence": 73.6,
+    "confidence_level": "High",
+    "elo_a": 1521,
+    "elo_b": 1479,
+    "elo_diff": 42,
+    "colley_a": 1673,
+    "colley_b": 1385,
+    "form_a": 90.0,
+    "form_b": 20.0,
     "odds_available": true,
     "odds_source": "espn_embedded",
     "sources": {
       "elo": {
-        "a": 59.4,
+        "a": 63.6,
         "d": 0.0,
-        "b": 40.6
+        "b": 36.4
       },
       "colley": {
-        "a": 77.2,
+        "a": 87.8,
         "d": 0.0,
-        "b": 22.8
+        "b": 12.2
       },
       "form": {
-        "a": 24.0,
+        "a": 98.3,
         "d": 0.0,
-        "b": 76.0
+        "b": 1.7
       },
       "odds": {
-        "a": 42.8,
+        "a": 67.5,
         "d": 0.0,
-        "b": 57.2
+        "b": 32.5
       }
     },
     "weights_used": {
@@ -53,58 +53,58 @@
       "form": 0.15,
       "odds": 0.3
     },
-    "day_of_week": "Monday",
+    "day_of_week": "Saturday",
     "week_number": 22,
     "year": 2026,
     "month": 5,
     "espn_odds": {
-      "home_ml": "+124",
-      "away_ml": "-148",
-      "spread": "COL -148",
+      "home_ml": "-238",
+      "away_ml": "+195",
+      "spread": "CAR -238",
       "over_under": 5.5
     }
   },
   {
     "id": 2,
-    "date": "2026-05-26 00:00",
-    "time": "00:00",
+    "date": "2026-05-31 04:00",
+    "time": "04:00",
     "entity_a": "Canadiens",
     "entity_b": "Hurricanes",
     "venue": "Bell Centre",
-    "a_win_prob": 46.9,
+    "a_win_prob": 34.5,
     "draw_prob": 0.0,
-    "b_win_prob": 53.1,
+    "b_win_prob": 65.5,
     "prediction": "Away Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 53.1,
+    "confidence": 65.5,
     "confidence_level": "Medium",
-    "elo_a": 1511.5248,
-    "elo_b": 1526.2137031072,
-    "elo_diff": -15,
-    "colley_a": 1675,
-    "colley_b": 1654,
-    "form_a": 60.0,
-    "form_b": 100.0,
+    "elo_a": 1479,
+    "elo_b": 1521,
+    "elo_diff": -42,
+    "colley_a": 1385,
+    "colley_b": 1673,
+    "form_a": 20.0,
+    "form_b": 90.0,
     "odds_available": false,
     "odds_source": null,
     "sources": {
       "elo": {
-        "a": 55.8,
+        "a": 51.9,
         "d": 0.0,
-        "b": 44.2
+        "b": 48.1
       },
       "colley": {
-        "a": 60.8,
+        "a": 20.7,
         "d": 0.0,
-        "b": 39.2
+        "b": 79.3
       },
       "form": {
-        "a": 9.1,
+        "a": 1.7,
         "d": 0.0,
-        "b": 90.9
+        "b": 98.3
       },
       "odds": null
     },
@@ -114,437 +114,52 @@
       "form": 0.21428571428571425,
       "odds": 0.0
     },
-    "day_of_week": "Tuesday",
+    "day_of_week": "Sunday",
     "week_number": 22,
     "year": 2026,
     "month": 5
   },
   {
     "id": 3,
-    "date": "2026-05-27 01:00",
-    "time": "01:00",
-    "entity_a": "Golden Knights",
-    "entity_b": "Avalanche",
-    "venue": "T-Mobile Arena",
-    "a_win_prob": 55.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 44.4,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 55.6,
-    "confidence_level": "Medium",
-    "elo_a": 1526.46,
-    "elo_b": 1515.3137344064723,
-    "elo_diff": 11,
-    "colley_a": 1800,
-    "colley_b": 1643,
-    "form_a": 66.7,
-    "form_b": 86.7,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 59.4,
-        "d": 0.0,
-        "b": 40.6
-      },
-      "colley": {
-        "a": 77.2,
-        "d": 0.0,
-        "b": 22.8
-      },
-      "form": {
-        "a": 24.0,
-        "d": 0.0,
-        "b": 76.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Wednesday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 4,
-    "date": "2026-05-28 00:00",
-    "time": "00:00",
-    "entity_a": "Canadiens",
-    "entity_b": "Hurricanes",
-    "venue": "Bell Centre",
-    "a_win_prob": 46.9,
-    "draw_prob": 0.0,
-    "b_win_prob": 53.1,
-    "prediction": "Away Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 53.1,
-    "confidence_level": "Medium",
-    "elo_a": 1511.5248,
-    "elo_b": 1526.2137031072,
-    "elo_diff": -15,
-    "colley_a": 1675,
-    "colley_b": 1654,
-    "form_a": 60.0,
-    "form_b": 100.0,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 55.8,
-        "d": 0.0,
-        "b": 44.2
-      },
-      "colley": {
-        "a": 60.8,
-        "d": 0.0,
-        "b": 39.2
-      },
-      "form": {
-        "a": 9.1,
-        "d": 0.0,
-        "b": 90.9
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Thursday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 5,
-    "date": "2026-05-29 00:00",
-    "time": "00:00",
-    "entity_a": "Avalanche",
-    "entity_b": "Golden Knights",
-    "venue": "Ball Arena",
-    "a_win_prob": 56.1,
-    "draw_prob": 0.0,
-    "b_win_prob": 43.9,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 56.1,
-    "confidence_level": "Medium",
-    "elo_a": 1515.3137344064723,
-    "elo_b": 1526.46,
-    "elo_diff": -11,
-    "colley_a": 1643,
-    "colley_b": 1800,
-    "form_a": 86.7,
-    "form_b": 66.7,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 56.3,
-        "d": 0.0,
-        "b": 43.7
-      },
-      "colley": {
-        "a": 35.7,
-        "d": 0.0,
-        "b": 64.3
-      },
-      "form": {
-        "a": 76.0,
-        "d": 0.0,
-        "b": 24.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Friday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 6,
-    "date": "2026-05-30 00:00",
-    "time": "00:00",
-    "entity_a": "Hurricanes",
-    "entity_b": "Canadiens",
-    "venue": "Lenovo Center",
-    "a_win_prob": 65.5,
-    "draw_prob": 0.0,
-    "b_win_prob": 34.5,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 65.5,
-    "confidence_level": "Medium",
-    "elo_a": 1526.2137031072,
-    "elo_b": 1511.5248,
-    "elo_diff": 15,
-    "colley_a": 1654,
-    "colley_b": 1675,
-    "form_a": 100.0,
-    "form_b": 60.0,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 59.9,
-        "d": 0.0,
-        "b": 40.1
-      },
-      "colley": {
-        "a": 54.9,
-        "d": 0.0,
-        "b": 45.1
-      },
-      "form": {
-        "a": 90.9,
-        "d": 0.0,
-        "b": 9.1
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Saturday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 7,
-    "date": "2026-05-31 00:00",
-    "time": "00:00",
-    "entity_a": "Golden Knights",
-    "entity_b": "Avalanche",
-    "venue": "T-Mobile Arena",
-    "a_win_prob": 55.6,
-    "draw_prob": 0.0,
-    "b_win_prob": 44.4,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 55.6,
-    "confidence_level": "Medium",
-    "elo_a": 1526.46,
-    "elo_b": 1515.3137344064723,
-    "elo_diff": 11,
-    "colley_a": 1800,
-    "colley_b": 1643,
-    "form_a": 66.7,
-    "form_b": 86.7,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 59.4,
-        "d": 0.0,
-        "b": 40.6
-      },
-      "colley": {
-        "a": 77.2,
-        "d": 0.0,
-        "b": 22.8
-      },
-      "form": {
-        "a": 24.0,
-        "d": 0.0,
-        "b": 76.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Sunday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 8,
-    "date": "2026-05-31 04:00",
-    "time": "04:00",
-    "entity_a": "Canadiens",
-    "entity_b": "Hurricanes",
-    "venue": "Bell Centre",
-    "a_win_prob": 46.9,
-    "draw_prob": 0.0,
-    "b_win_prob": 53.1,
-    "prediction": "Away Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 53.1,
-    "confidence_level": "Medium",
-    "elo_a": 1511.5248,
-    "elo_b": 1526.2137031072,
-    "elo_diff": -15,
-    "colley_a": 1675,
-    "colley_b": 1654,
-    "form_a": 60.0,
-    "form_b": 100.0,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 55.8,
-        "d": 0.0,
-        "b": 44.2
-      },
-      "colley": {
-        "a": 60.8,
-        "d": 0.0,
-        "b": 39.2
-      },
-      "form": {
-        "a": 9.1,
-        "d": 0.0,
-        "b": 90.9
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Sunday",
-    "week_number": 22,
-    "year": 2026,
-    "month": 5
-  },
-  {
-    "id": 9,
-    "date": "2026-06-02 00:00",
-    "time": "00:00",
-    "entity_a": "Avalanche",
-    "entity_b": "Golden Knights",
-    "venue": "Ball Arena",
-    "a_win_prob": 56.1,
-    "draw_prob": 0.0,
-    "b_win_prob": 43.9,
-    "prediction": "Home Win",
-    "actual_result": "Not Played",
-    "score_a": null,
-    "score_b": null,
-    "is_correct": null,
-    "confidence": 56.1,
-    "confidence_level": "Medium",
-    "elo_a": 1515.3137344064723,
-    "elo_b": 1526.46,
-    "elo_diff": -11,
-    "colley_a": 1643,
-    "colley_b": 1800,
-    "form_a": 86.7,
-    "form_b": 66.7,
-    "odds_available": false,
-    "odds_source": null,
-    "sources": {
-      "elo": {
-        "a": 56.3,
-        "d": 0.0,
-        "b": 43.7
-      },
-      "colley": {
-        "a": 35.7,
-        "d": 0.0,
-        "b": 64.3
-      },
-      "form": {
-        "a": 76.0,
-        "d": 0.0,
-        "b": 24.0
-      },
-      "odds": null
-    },
-    "weights_used": {
-      "elo": 0.5714285714285714,
-      "colley": 0.21428571428571425,
-      "form": 0.21428571428571425,
-      "odds": 0.0
-    },
-    "day_of_week": "Tuesday",
-    "week_number": 23,
-    "year": 2026,
-    "month": 6
-  },
-  {
-    "id": 10,
     "date": "2026-06-03 00:00",
     "time": "00:00",
     "entity_a": "Hurricanes",
     "entity_b": "Canadiens",
     "venue": "Lenovo Center",
-    "a_win_prob": 65.5,
+    "a_win_prob": 76.2,
     "draw_prob": 0.0,
-    "b_win_prob": 34.5,
+    "b_win_prob": 23.8,
     "prediction": "Home Win",
     "actual_result": "Not Played",
     "score_a": null,
     "score_b": null,
     "is_correct": null,
-    "confidence": 65.5,
-    "confidence_level": "Medium",
-    "elo_a": 1526.2137031072,
-    "elo_b": 1511.5248,
-    "elo_diff": 15,
-    "colley_a": 1654,
-    "colley_b": 1675,
-    "form_a": 100.0,
-    "form_b": 60.0,
+    "confidence": 76.2,
+    "confidence_level": "High",
+    "elo_a": 1521,
+    "elo_b": 1479,
+    "elo_diff": 42,
+    "colley_a": 1673,
+    "colley_b": 1385,
+    "form_a": 90.0,
+    "form_b": 20.0,
     "odds_available": false,
     "odds_source": null,
     "sources": {
       "elo": {
-        "a": 59.9,
+        "a": 63.6,
         "d": 0.0,
-        "b": 40.1
+        "b": 36.4
       },
       "colley": {
-        "a": 54.9,
+        "a": 87.8,
         "d": 0.0,
-        "b": 45.1
+        "b": 12.2
       },
       "form": {
-        "a": 90.9,
+        "a": 98.3,
         "d": 0.0,
-        "b": 9.1
+        "b": 1.7
       },
       "odds": null
     },
